@@ -1,0 +1,98 @@
+{
+  "skill": "kotlin",
+  "label": "Kotlin",
+  "count": 15,
+  "updated_at": "2026-05-22T14:12:50.335284+00:00",
+  "jobs": [
+    {
+      "title": "Senior Backend Engineer Solana Mobile",
+      "link": "https://web3.career/senior-backend-engineer-solana-mobile-solanalabs/149602",
+      "company_name": "Solana Labs",
+      "description": "backend engineer mobile senior aws"
+    },
+    {
+      "title": "Android Engineer",
+      "link": "https://web3.career/android-engineer-bluecubeservices/103709",
+      "company_name": "Bluecubeservices",
+      "description": "android mobile engineer bitcoin crypto"
+    },
+    {
+      "title": "Senior Software Engineer Web Full Stack",
+      "link": "https://web3.career/senior-software-engineer-web-full-stack-bitmex/92818",
+      "company_name": "Bitmex",
+      "description": "engineer full stack senior dev bitcoin"
+    },
+    {
+      "title": "Senior Software Engineer NewMarkets Japan",
+      "link": "https://web3.career/senior-software-engineer-newmarkets-japan-alpaca/149542",
+      "company_name": "Alpaca",
+      "description": "japan engineer senior dev crypto"
+    },
+    {
+      "title": "Business Engineer Trading",
+      "link": "https://web3.career/business-engineer-trading-okx/149319",
+      "company_name": "OKX",
+      "description": "engineer blockchain crypto defi kotlin"
+    },
+    {
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-swift/149302",
+      "company_name": "Swift",
+      "description": "dev blockchain aws docker ethereum"
+    },
+    {
+      "title": "Crypto Security Engineer",
+      "link": "https://web3.career/crypto-security-engineer-blockchain/149233",
+      "company_name": "Blockchain",
+      "description": "engineer security aws blockchain crypto"
+    },
+    {
+      "title": "Business Engineer Trading",
+      "link": "https://web3.career/business-engineer-trading-okx/149183",
+      "company_name": "Okx",
+      "description": "engineer blockchain crypto defi kotlin"
+    },
+    {
+      "title": "Business Engineer",
+      "link": "https://web3.career/business-engineer-okx/149182",
+      "company_name": "Okx",
+      "description": "engineer blockchain crypto defi kotlin"
+    },
+    {
+      "title": "Software Engineer Dev Tools",
+      "link": "https://web3.career/software-engineer-dev-tools-polymarket/149091",
+      "company_name": "Polymarket",
+      "description": "dev engineer blockchain javascript kotlin"
+    },
+    {
+      "title": "Software Developer in Test SDET Engineering · R3 Mumbai · Hybrid",
+      "link": "https://web3.career/software-developer-in-test-sdet-engineering-r3-mumbai-hybrid-r3/148980",
+      "company_name": "R3",
+      "description": "quality assurance dev defi docker java"
+    },
+    {
+      "title": "Principal AI Engineer",
+      "link": "https://web3.career/principal-ai-engineer-figure/58227",
+      "company_name": "Figure",
+      "description": "ai dev executive aws blockchain"
+    },
+    {
+      "title": "Senior React Native Engineer",
+      "link": "https://web3.career/senior-react-native-engineer-blockchain/148912",
+      "company_name": "Blockchain",
+      "description": "engineer react native mobile javascript react"
+    },
+    {
+      "title": "MidLevel React Native Engineer",
+      "link": "https://web3.career/mid-level-react-native-engineer-blockchain/148911",
+      "company_name": "Blockchain",
+      "description": "engineer react native mobile javascript react"
+    },
+    {
+      "title": "Principal Mobile Engineer Platm MetaMask",
+      "link": "https://web3.career/principal-mobile-engineer-platform-metamask-consensys/148842",
+      "company_name": "Consensys",
+      "description": "engineer mobile executive remote blockchain"
+    }
+  ]
+}

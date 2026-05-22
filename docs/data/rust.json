@@ -1,0 +1,98 @@
+{
+  "skill": "rust",
+  "label": "Rust",
+  "count": 15,
+  "updated_at": "2026-05-22T14:12:40.037115+00:00",
+  "jobs": [
+    {
+      "title": "Staff Solutions Architect",
+      "link": "https://web3.career/staff-solutions-architect-layerzerolabs/149690",
+      "company_name": "LayerZero Labs",
+      "description": "architecture blockchain defi rust solidity"
+    },
+    {
+      "title": "Rust Developer — EVM Systems Trading Infrastructure",
+      "link": "https://web3.career/rust-developer-evm-systems-trading-infrastructure-1010-trading/143407",
+      "company_name": "1010 trading",
+      "description": "evm ethereum infrastructure dev rust"
+    },
+    {
+      "title": "Senior Staff Engineer Liquidity Platm Trading Service",
+      "link": "https://web3.career/senior-staff-engineer-liquidity-platform-trading-service-okx/149673",
+      "company_name": "Okx",
+      "description": "engineer sales non tech senior blockchain"
+    },
+    {
+      "title": "Tech Lead Engineer Contract LATAM",
+      "link": "https://web3.career/tech-lead-engineer-contract-latam-nexus/149668",
+      "company_name": "Nexus",
+      "description": "engineer lead tech lead blockchain crypto"
+    },
+    {
+      "title": "Infrastructure Engineer Contract – LATAM",
+      "link": "https://web3.career/infrastructure-engineer-contract-latam-nexus/149667",
+      "company_name": "Nexus",
+      "description": "infrastructure engineer aws blockchain docker"
+    },
+    {
+      "title": "QA Automation Engineer Pro",
+      "link": "https://web3.career/qa-automation-engineer-pro-kraken/149662",
+      "company_name": "Kraken",
+      "description": "engineer quality assurance blockchain crypto rust"
+    },
+    {
+      "title": "Senior Software Engineer Core Trading",
+      "link": "https://web3.career/senior-software-engineer-core-trading-alpaca/149637",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev aws crypto"
+    },
+    {
+      "title": "Senior BackEnd Engineer Trading Platm",
+      "link": "https://web3.career/senior-back-end-engineer-trading-platform-blockchain/98044",
+      "company_name": "Blockchain",
+      "description": "backend engineer senior blockchain rust"
+    },
+    {
+      "title": "CTO Security Lead — CoFounder",
+      "link": "https://web3.career/cto-security-lead-co-founder-byte/149622",
+      "company_name": "BYTE",
+      "description": "co founder cto executive lead security"
+    },
+    {
+      "title": "Senior Backend Engineer Solana Mobile",
+      "link": "https://web3.career/senior-backend-engineer-solana-mobile-solanalabs/149602",
+      "company_name": "Solana Labs",
+      "description": "backend engineer mobile senior aws"
+    },
+    {
+      "title": "Staff Site Reliability Engineer",
+      "link": "https://web3.career/staff-site-reliability-engineer-zscaler/106117",
+      "company_name": "Zscaler",
+      "description": "engineer reliability aws golang java"
+    },
+    {
+      "title": "Principal Site Reliability Engineer",
+      "link": "https://web3.career/principal-site-reliability-engineer-zscaler/99847",
+      "company_name": "Zscaler",
+      "description": "engineer executive reliability aws golang"
+    },
+    {
+      "title": "Quant Developer Rust Liquidity Platm Delta One Systematic Trading",
+      "link": "https://web3.career/quant-developer-rust-liquidity-platform-delta-one-systematic-trading-okx/145502",
+      "company_name": "Okx",
+      "description": "dev sales non tech rust aws"
+    },
+    {
+      "title": "Crypto Production Engineer",
+      "link": "https://web3.career/crypto-production-engineer-jumpcrypto/89562",
+      "company_name": "Jumpcrypto",
+      "description": "engineer blockchain crypto defi ethereum"
+    },
+    {
+      "title": "Quantitative Developer",
+      "link": "https://web3.career/quantitative-developer-gsrmarkets/105350",
+      "company_name": "Gsrmarkets",
+      "description": "quantitative quantitative developer dev crypto rust"
+    }
+  ]
+}

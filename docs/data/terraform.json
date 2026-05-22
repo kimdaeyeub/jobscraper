@@ -1,0 +1,98 @@
+{
+  "skill": "terraform",
+  "label": "Terraform",
+  "count": 15,
+  "updated_at": "2026-05-22T14:13:44.885815+00:00",
+  "jobs": [
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-bitfit-labs-pte-ltd/149139",
+      "company_name": "BITFIT LABS PTE LTD",
+      "description": "devops engineer senior aws bitcoin"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-figment/55120",
+      "company_name": "Figment",
+      "description": "devops dev senior blockchain kubernetes"
+    },
+    {
+      "title": "DevOps Engineer",
+      "link": "https://web3.career/devops-engineer-figment/432",
+      "company_name": "Figment",
+      "description": "devops dev crypto kubernetes remote"
+    },
+    {
+      "title": "Ares: Senior+ Fullstack Engineer BackendLeaning",
+      "link": "https://web3.career/ares-senior-fullstack-engineer-backend-leaning-ares/107266",
+      "company_name": "Ares",
+      "description": "backend engineer full stack senior crypto"
+    },
+    {
+      "title": "Senior Staff Devops Engineer Terram Security Solutions",
+      "link": "https://web3.career/senior-staff-devops-engineer-terraform-security-solutions-zscaler/104117",
+      "company_name": "Zscaler",
+      "description": "terraform devops engineer security senior"
+    },
+    {
+      "title": "Senior Devops Engineer Terram Security Solutions",
+      "link": "https://web3.career/senior-devops-engineer-terraform-security-solutions-zscaler/104116",
+      "company_name": "Zscaler",
+      "description": "terraform devops engineer security senior"
+    },
+    {
+      "title": "Principal Software Engineer Platm",
+      "link": "https://web3.career/principal-software-engineer-platform-brighthire-search-partners/97799",
+      "company_name": "BrightHire Search Partners",
+      "description": "engineer executive dev api aws"
+    },
+    {
+      "title": "Blockchain Data Engineer",
+      "link": "https://web3.career/blockchain-data-engineer-nethermind/32077",
+      "company_name": "Nethermind",
+      "description": "data science dev blockchain scala java"
+    },
+    {
+      "title": "Blockchain Infrastructure Engineer AEST time zone",
+      "link": "https://web3.career/blockchain-infrastructure-engineer-aest-time-zone-twinstake-uk-limited/92473",
+      "company_name": "Twinstake UK Limited",
+      "description": "infrastructure engineer blockchain aws crypto"
+    },
+    {
+      "title": "DevOps Engineer",
+      "link": "https://web3.career/devops-engineer-number-group/90119",
+      "company_name": "NUMBER GROUP",
+      "description": "devops engineer aws ci cd docker"
+    },
+    {
+      "title": "Senior Devops EngineerStakeway",
+      "link": "https://web3.career/senior-devops-engineer-stakeway-gateway-fm/85556",
+      "company_name": "Gateway.FM",
+      "description": "devops engineer senior agile blockchain"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-monad/59724",
+      "company_name": "Monad",
+      "description": "devops dev senior blockchain crypto"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-figure/56908",
+      "company_name": "Figure",
+      "description": "devops dev senior blockchain golang"
+    },
+    {
+      "title": "Platm Engineer Kubernetes Terram",
+      "link": "https://web3.career/platform-engineer-kubernetes-terraform-rhino-fi/67042",
+      "company_name": "Rhino.fi",
+      "description": "terraform engineer kubernetes blockchain defi"
+    },
+    {
+      "title": "DevOps Site Reliability Engineer",
+      "link": "https://web3.career/devops-site-reliability-engineer-gelato/66091",
+      "company_name": "Gelato",
+      "description": "engineer devops reliability aws ci cd"
+    }
+  ]
+}

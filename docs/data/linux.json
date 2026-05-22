@@ -1,0 +1,110 @@
+{
+  "skill": "linux",
+  "label": "Linux",
+  "count": 17,
+  "updated_at": "2026-05-22T14:14:08.510296+00:00",
+  "jobs": [
+    {
+      "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
+      "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Django Software-Entwickler:in (m/w/d)",
+      "description": "Hey! Wir sind die Sourcecast GmbH, ein Softwarehaus mit dem Anspruch, erstklassige Software-Lösungen umzusetzen. Unsere Vision? Fortschrittliche, skalierbare Softwarelösungen, die wirklich etwas bewegen. Momentan liegt unser Fokus auf Digitalisierung im Bereich Gesundheitswesen, Legal Tech und Künstliche Intelligenz. Dafür suchen wir Dich: eine:n Django Entwickler:in mit Leidenschaft für Code und Lust auf ein kleines, freundliches Team,...",
+      "link": "https://berlinstartupjobs.com/engineering/django-software-entwicklerin-m-w-d-sourcecast/",
+      "company_name": "Sourcecast"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-bitfit-labs-pte-ltd/149139",
+      "company_name": "BITFIT LABS PTE LTD",
+      "description": "devops engineer senior aws bitcoin"
+    },
+    {
+      "title": "Head of Security Engineering",
+      "link": "https://web3.career/head-of-security-engineering-zenith/148901",
+      "company_name": "Zenith",
+      "description": "executive security blockchain golang infrastructure"
+    },
+    {
+      "title": "Senior Site Reliability Engineer Linux Network troubleshooting Scripting",
+      "link": "https://web3.career/senior-site-reliability-engineer-linux-network-troubleshooting-scripting-zscaler/141718",
+      "company_name": "Zscaler",
+      "description": "engineer linux reliability senior aws"
+    },
+    {
+      "title": "Site Reliability Engineering Lead",
+      "link": "https://web3.career/site-reliability-engineering-lead-zenith/141038",
+      "company_name": "Zenith",
+      "description": "lead reliability api aws backend"
+    },
+    {
+      "title": "HFT Network Engineer",
+      "link": "https://web3.career/hft-network-engineer-gravity-team/140119",
+      "company_name": "Gravity Team",
+      "description": "engineer api crypto infrastructure linux"
+    },
+    {
+      "title": "Staff Site Reliability Engineer Staff Site Reliability Engineer Linux Network troubleshooting Scripting",
+      "link": "https://web3.career/staff-site-reliability-engineer-staff-site-reliability-engineer-linux-network-troubleshooting-scripting-zscaler/139562",
+      "company_name": "Zscaler",
+      "description": "engineer linux reliability aws golang"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138575",
+      "company_name": "Tether",
+      "description": "remote lead linux tech lead bitcoin"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138574",
+      "company_name": "Tether",
+      "description": "remote lead linux tech lead bitcoin"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138573",
+      "company_name": "Tether",
+      "description": "remote lead linux tech lead bitcoin"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138572",
+      "company_name": "Tether",
+      "description": "remote lead linux tech lead bitcoin"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138571",
+      "company_name": "Tether",
+      "description": "remote lead linux tech lead bitcoin"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138570",
+      "company_name": "Tether",
+      "description": "remote lead linux tech lead bitcoin"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138569",
+      "company_name": "Tether",
+      "description": "remote lead linux tech lead bitcoin"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138568",
+      "company_name": "Tether",
+      "description": "remote lead linux tech lead bitcoin"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138567",
+      "company_name": "Tether",
+      "description": "remote lead linux tech lead bitcoin"
+    }
+  ]
+}

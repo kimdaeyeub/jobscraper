@@ -1,0 +1,122 @@
+{
+  "skill": "data-science",
+  "label": "Data Science",
+  "count": 19,
+  "updated_at": "2026-05-22T14:13:52.454535+00:00",
+  "jobs": [
+    {
+      "title": "Senior Backend Developer – Go & Kubernetes",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
+      "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Senior Data Scientist – Python, ML & Signal-Processing",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Data Scientist bei uns trainierst Du Machine-Learning-Modelle auf Basis von realen Maschinen- und Sensordaten – weltweit, vom mittelständischen Fertiger bis zum DAX-Konzern. Anomalieerkennung, Predictive Maintenance und Qualitätsüberwachung in Echtzeit. Die Daten sind echt, die Maschinen stehen in laufenden Produktionen, und Deine...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-data-scientist-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "link": "https://web3.career/senior-data-engineer-okx/147863",
+      "company_name": "Okx",
+      "description": "data science engineer senior blockchain crypto"
+    },
+    {
+      "title": "Data Analyst",
+      "link": "https://web3.career/data-analyst-layerzerolabs/73710",
+      "company_name": "Layerzerolabs",
+      "description": "analyst data science blockchain crypto dapp"
+    },
+    {
+      "title": "Data Engineer",
+      "link": "https://web3.career/data-engineer-launchpadtechnologiesinc/73687",
+      "company_name": "Launchpadtechnologiesinc",
+      "description": "data science engineer"
+    },
+    {
+      "title": "FALL Data Scientist Intern PhD",
+      "link": "https://web3.career/fall-data-scientist-intern-phd-integra/95747",
+      "company_name": "Integra",
+      "description": "scientist data science intern entry level remote"
+    },
+    {
+      "title": "Data Scientist Senior Data Analyst",
+      "link": "https://web3.career/data-scientist-senior-data-analyst-integra/107194",
+      "company_name": "Integra",
+      "description": "scientist analyst data science senior crypto"
+    },
+    {
+      "title": "Data Analyst Associate Data Scientist",
+      "link": "https://web3.career/data-analyst-associate-data-scientist-integra/107193",
+      "company_name": "Integra",
+      "description": "scientist analyst data science remote"
+    },
+    {
+      "title": "Data Analyst Marketing",
+      "link": "https://web3.career/data-analyst-marketing-bluecubeservices/140151",
+      "company_name": "Bluecubeservices",
+      "description": "analyst data science marketing non tech blockchain"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "link": "https://web3.career/senior-data-analyst-solanafoundation/149499",
+      "company_name": "Solana Foundation",
+      "description": "analyst data science senior blockchain crypto"
+    },
+    {
+      "title": "Senior Data Analyst Servicing",
+      "link": "https://web3.career/senior-data-analyst-servicing-figure/149437",
+      "company_name": "Figure",
+      "description": "analyst data science senior blockchain remote"
+    },
+    {
+      "title": "Senior Staff Engineer Liquidity Platm Private Data Engineer",
+      "link": "https://web3.career/senior-staff-engineer-liquidity-platform-private-data-engineer-okx/149384",
+      "company_name": "Okx",
+      "description": "data science engineer sales non tech senior"
+    },
+    {
+      "title": "Staff Data Scientist Risk",
+      "link": "https://web3.career/staff-data-scientist-risk-shakepay/149352",
+      "company_name": "Shakepay",
+      "description": "scientist data science bitcoin crypto remote"
+    },
+    {
+      "title": "Senior Data Scientist Risk",
+      "link": "https://web3.career/senior-data-scientist-risk-shakepay/149351",
+      "company_name": "Shakepay",
+      "description": "scientist data science senior bitcoin crypto"
+    },
+    {
+      "title": "Business Intelligence Data Scientist",
+      "link": "https://web3.career/business-intelligence-data-scientist-binance/149264",
+      "company_name": "Binance",
+      "description": "scientist data science blockchain java"
+    },
+    {
+      "title": "Data Analyst Risk",
+      "link": "https://web3.career/data-analyst-risk-binance/149263",
+      "company_name": "Binance",
+      "description": "analyst data science blockchain"
+    },
+    {
+      "title": "Data Engineer",
+      "link": "https://web3.career/data-engineer-hibachi/148310",
+      "company_name": "Hibachi",
+      "description": "data science engineer remote aws"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "skill": "ruby",
+  "label": "Ruby",
+  "count": 16,
+  "updated_at": "2026-05-22T14:12:45.073707+00:00",
+  "jobs": [
+    {
+      "title": "Senior Full-Stack Ruby on Rails Developer",
+      "description": "About GAIA GAIA is an AI-powered legal operating system that revolutionizes how companies manage legal processes. We help fast-growing startups and mid-sized businesses fully digitize their legal workflows — from automated contract drafting, review, and data extraction to cap table management, ESOPs, shareholder resolutions, compliance checks, and financing simulations. By leveraging advanced AI, we make...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-full-stack-ruby-on-rails-developer-gaia/",
+      "company_name": "GAIA"
+    },
+    {
+      "title": "Enterprise Solutions Engineer",
+      "link": "https://web3.career/enterprise-solutions-engineer-sfox/112027",
+      "company_name": "Sfox",
+      "description": "engineer blockchain crypto java javascript"
+    },
+    {
+      "title": "Software Engineer Midlevel L2 GeckoTerminal",
+      "link": "https://web3.career/software-engineer-mid-level-l2-geckoterminal-coingecko/148450",
+      "company_name": "CoinGecko",
+      "description": "layer 2 engineer dev blockchain crypto"
+    },
+    {
+      "title": "Senior Threat Researcher Threatlabz",
+      "link": "https://web3.career/senior-threat-researcher-threatlabz-zscaler/148438",
+      "company_name": "Zscaler",
+      "description": "research senior ruby remote"
+    },
+    {
+      "title": "Software Engineer Web L1",
+      "link": "https://web3.career/software-engineer-web-l1-coingecko/147914",
+      "company_name": "CoinGecko",
+      "description": "engineer dev blockchain crypto defi"
+    },
+    {
+      "title": "Fullstack Engineer Spain",
+      "link": "https://web3.career/full-stack-engineer-spain-crossmint/147253",
+      "company_name": "Crossmint",
+      "description": "spain engineer full stack blockchain crypto"
+    },
+    {
+      "title": "Software Engineer II",
+      "link": "https://web3.career/software-engineer-ii-tastylive/141144",
+      "company_name": "Tastylive",
+      "description": "engineer dev java javascript ruby"
+    },
+    {
+      "title": "Software Engineer Backend Platm FinHub Transfers",
+      "link": "https://web3.career/software-engineer-backend-platform-finhub-transfers-coinbase/145792",
+      "company_name": "Coinbase",
+      "description": "backend engineer dev remote bitcoin"
+    },
+    {
+      "title": "Software Engineer Full Stack EAA Compliance",
+      "link": "https://web3.career/software-engineer-full-stack-eaa-compliance-coinbase/145305",
+      "company_name": "Coinbase",
+      "description": "compliance non tech engineer full stack dev"
+    },
+    {
+      "title": "Backend Engineer Wallets 100% Remote",
+      "link": "https://web3.career/backend-engineer-wallets-100-remote-tether/145107",
+      "company_name": "Tether",
+      "description": "remote backend engineer bitcoin blockchain"
+    },
+    {
+      "title": "Software Engineer Intern",
+      "link": "https://web3.career/software-engineer-intern-lensa/144949",
+      "company_name": "Lensa",
+      "description": "engineer intern entry level dev aws"
+    },
+    {
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-net2source-n2s/144337",
+      "company_name": "Net2Source (N2S)",
+      "description": "dev blockchain angular java javascript"
+    },
+    {
+      "title": "Senior Software Engineer Backend Institutional Markets Exchange",
+      "link": "https://web3.career/senior-software-engineer-backend-institutional-markets-exchange-coinbase/143125",
+      "company_name": "Coinbase",
+      "description": "backend engineer senior dev remote"
+    },
+    {
+      "title": "Director Site and Infrastructure",
+      "link": "https://web3.career/director-site-and-infrastructure-genies/142951",
+      "company_name": "Genies",
+      "description": "infrastructure executive aws gaming golang"
+    },
+    {
+      "title": "🤖Fullstack Engineer Spain",
+      "link": "https://web3.career/full-stack-engineer-spain-crossmint/142814",
+      "company_name": "Crossmint",
+      "description": "spain engineer full stack blockchain crypto"
+    },
+    {
+      "title": "Fullstack Engineer Wallets Minting US",
+      "link": "https://web3.career/full-stack-engineer-wallets-minting-us-crossmint/142713",
+      "company_name": "Crossmint",
+      "description": "engineer full stack blockchain crypto java"
+    }
+  ]
+}

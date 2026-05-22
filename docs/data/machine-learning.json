@@ -1,0 +1,110 @@
+{
+  "skill": "machine-learning",
+  "label": "Machine Learning",
+  "count": 17,
+  "updated_at": "2026-05-22T14:13:49.820126+00:00",
+  "jobs": [
+    {
+      "title": "Senior Data Scientist – Python, ML & Signal-Processing",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Data Scientist bei uns trainierst Du Machine-Learning-Modelle auf Basis von realen Maschinen- und Sensordaten – weltweit, vom mittelständischen Fertiger bis zum DAX-Konzern. Anomalieerkennung, Predictive Maintenance und Qualitätsüberwachung in Echtzeit. Die Daten sind echt, die Maschinen stehen in laufenden Produktionen, und Deine...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-data-scientist-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Werkstudent (Electronics and Machine Learning; Biotech)",
+      "description": "Hiring a Werkstudent*in in Berlin. You will work on a biomodulation project that involves establishing a fast feedback loop to image and modulate vasculature and training RL models on this data. The scope of the project is understanding how to reverse vascular degeneration in humans; with a focus on reversing cognitive decline and neurodegeneration. Tl;dr...",
+      "link": "https://berlinstartupjobs.com/internships/werkstudent-electronics-and-machine-learning-biotech-cerebralab/",
+      "company_name": "Cerebralab"
+    },
+    {
+      "title": "Product Manager ML Decision Systems Demand Side Platm",
+      "link": "https://web3.career/product-manager-ml-decision-systems-demand-side-platform-inmobi/149671",
+      "company_name": "Inmobi",
+      "description": "machine learning ai product manager non tech remote"
+    },
+    {
+      "title": "AI ML Engineer",
+      "link": "https://web3.career/ai-ml-engineer-improbable/149558",
+      "company_name": "Improbable",
+      "description": "ai engineer machine learning aws docker"
+    },
+    {
+      "title": "Machine Learning Researcher",
+      "link": "https://web3.career/machine-learning-researcher-kronosresearch/100438",
+      "company_name": "Kronosresearch",
+      "description": "research machine learning ai pytorch remote"
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "link": "https://web3.career/senior-machine-learning-engineer-spexi/149181",
+      "company_name": "Spexi",
+      "description": "engineer machine learning ai senior aws"
+    },
+    {
+      "title": "Software Engineer I AI and ML",
+      "link": "https://web3.career/software-engineer-i-ai-and-ml-zinnia/148938",
+      "company_name": "Zinnia",
+      "description": "ai engineer machine learning dev aws"
+    },
+    {
+      "title": "Principal Machine Learning Engineer",
+      "link": "https://web3.career/principal-machine-learning-engineer-zscaler/104113",
+      "company_name": "Zscaler",
+      "description": "engineer machine learning ai executive aws"
+    },
+    {
+      "title": "Machine Learning Engineer Intern 100% Remote",
+      "link": "https://web3.career/machine-learning-engineer-intern-100-remote-tetheroperationslimited/148379",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer intern entry level machine learning"
+    },
+    {
+      "title": "Machine Learning Engineer Intern 100% Remote Worldwide",
+      "link": "https://web3.career/machine-learning-engineer-intern-100-remote-worldwide-tetheroperationslimited/148272",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer intern entry level machine learning"
+    },
+    {
+      "title": "Senior Product Manager ML Decision Systems Demand Side Platm",
+      "link": "https://web3.career/senior-product-manager-ml-decision-systems-demand-side-platform-inmobi/148227",
+      "company_name": "Inmobi",
+      "description": "machine learning ai product manager non tech senior"
+    },
+    {
+      "title": "Machine Learning Engineer 100% remote Worldwide",
+      "link": "https://web3.career/machine-learning-engineer-100-remote-worldwide-tetheroperationslimited/147140",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer machine learning ai bitcoin"
+    },
+    {
+      "title": "Machine Learning Engineer 100% remote Worldwide",
+      "link": "https://web3.career/machine-learning-engineer-100-remote-worldwide-tether/147013",
+      "company_name": "Tether",
+      "description": "remote engineer machine learning ai bitcoin"
+    },
+    {
+      "title": "Statistical Machine Learning Researcher",
+      "link": "https://web3.career/statistical-machine-learning-researcher-divine/146145",
+      "company_name": "Divine",
+      "description": "research machine learning ai blockchain defi"
+    },
+    {
+      "title": "Principal Machine Learning Engineer",
+      "link": "https://web3.career/principal-machine-learning-engineer-coinbase/145560",
+      "company_name": "Coinbase",
+      "description": "engineer machine learning ai executive remote"
+    },
+    {
+      "title": "Machine Learning Engineer LLM and Blockchain",
+      "link": "https://web3.career/machine-learning-engineer-llm-and-blockchain-blockchainunmasked/145062",
+      "company_name": "Blockchain Unmasked",
+      "description": "engineer machine learning ai blockchain aws"
+    },
+    {
+      "title": "Sr. Staff AI ML Engineer",
+      "link": "https://web3.career/sr-staff-ai-ml-engineer-kraken/143919",
+      "company_name": "Kraken",
+      "description": "ai engineer machine learning senior blockchain"
+    }
+  ]
+}

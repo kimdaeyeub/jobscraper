@@ -1,0 +1,98 @@
+{
+  "skill": "vue",
+  "label": "Vue",
+  "count": 15,
+  "updated_at": "2026-05-22T14:12:55.344827+00:00",
+  "jobs": [
+    {
+      "title": "Engineering Director Frontend Business Lead",
+      "link": "https://web3.career/engineering-director-frontend-business-lead-okx/147552",
+      "company_name": "Okx",
+      "description": "executive front end lead blockchain crypto"
+    },
+    {
+      "title": "Engineering Director Frontend",
+      "link": "https://web3.career/engineering-director-frontend-okx/147551",
+      "company_name": "Okx",
+      "description": "executive front end blockchain crypto react"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "link": "https://web3.career/staff-software-engineer-shakepay/65680",
+      "company_name": "Shakepay",
+      "description": "engineer dev crypto docker node"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "link": "https://web3.career/senior-software-engineer-shakepay/60639",
+      "company_name": "Shakepay",
+      "description": "dev senior docker node react"
+    },
+    {
+      "title": "Design Engineer",
+      "link": "https://web3.career/design-engineer-shakepay/148780",
+      "company_name": "Shakepay",
+      "description": "design non tech engineer bitcoin node"
+    },
+    {
+      "title": "Full Stack Engineer",
+      "link": "https://web3.career/full-stack-engineer-binance/148646",
+      "company_name": "Binance",
+      "description": "engineer full stack blockchain crypto java"
+    },
+    {
+      "title": "Software Engineer Intern Software Development",
+      "link": "https://web3.career/software-engineer-intern-software-development-zscaler/148636",
+      "company_name": "Zscaler",
+      "description": "engineer intern entry level dev aws"
+    },
+    {
+      "title": "Frontend Business Lead",
+      "link": "https://web3.career/frontend-business-lead-okx/148630",
+      "company_name": "Okx",
+      "description": "front end lead crypto react vue"
+    },
+    {
+      "title": "Frontend Senior Manager",
+      "link": "https://web3.career/frontend-senior-manager-coins/148480",
+      "company_name": "Coins.ph",
+      "description": "front end senior blockchain crypto docker"
+    },
+    {
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/148405",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain angular ethereum"
+    },
+    {
+      "title": "Senior Frontend Leader Business Infra",
+      "link": "https://web3.career/senior-front-end-leader-business-infra-okx/148334",
+      "company_name": "Okx",
+      "description": "front end lead senior blockchain crypto"
+    },
+    {
+      "title": "Frontend Infra Engineering Director",
+      "link": "https://web3.career/frontend-infra-engineering-director-okx/148233",
+      "company_name": "Okx",
+      "description": "executive front end blockchain crypto node"
+    },
+    {
+      "title": "Frontend Business Engineering Director",
+      "link": "https://web3.career/frontend-business-engineering-director-okx/148232",
+      "company_name": "Okx",
+      "description": "executive front end crypto react vue"
+    },
+    {
+      "title": "Binance Accelerator Program Frontend Engineer .COM",
+      "link": "https://web3.career/binance-accelerator-program-frontend-engineer-com-binance/148163",
+      "company_name": "Binance",
+      "description": "engineer front end angular blockchain react"
+    },
+    {
+      "title": "Senior Fullstack Engineer NodeJs Typescript",
+      "link": "https://web3.career/senior-fullstack-engineer-nodejs-typescript-binance/148061",
+      "company_name": "Binance",
+      "description": "typescript engineer full stack javascript node"
+    }
+  ]
+}

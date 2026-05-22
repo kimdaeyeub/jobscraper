@@ -1,0 +1,98 @@
+{
+  "skill": "aws",
+  "label": "AWS",
+  "count": 15,
+  "updated_at": "2026-05-22T14:13:37.053030+00:00",
+  "jobs": [
+    {
+      "title": "Sales Engineer",
+      "link": "https://web3.career/sales-engineer-oplabspbc/149685",
+      "company_name": "OP Labs PBC",
+      "description": "sales engineer engineer sales non tech aws"
+    },
+    {
+      "title": "Manager Technical Success",
+      "link": "https://web3.career/manager-technical-success-zscaler/141714",
+      "company_name": "Zscaler",
+      "description": "aws remote"
+    },
+    {
+      "title": "Director of Engineering API Management and CIAM",
+      "link": "https://web3.career/director-of-engineering-api-management-and-ciam-zinnia/149677",
+      "company_name": "Zinnia",
+      "description": "api executive angular aws java"
+    },
+    {
+      "title": "SDE III Backend",
+      "link": "https://web3.career/sde-iii-backend-inmobi/149670",
+      "company_name": "Inmobi",
+      "description": "backend aws java kubernetes remote"
+    },
+    {
+      "title": "Infrastructure Engineer Contract – LATAM",
+      "link": "https://web3.career/infrastructure-engineer-contract-latam-nexus/149667",
+      "company_name": "Nexus",
+      "description": "infrastructure engineer aws blockchain docker"
+    },
+    {
+      "title": "Applied AI Engineer",
+      "link": "https://web3.career/applied-ai-engineer-cryptio/149649",
+      "company_name": "Cryptio",
+      "description": "ai engineer aws crypto docker"
+    },
+    {
+      "title": "Software Engineer Java OpsHub",
+      "link": "https://web3.career/software-engineer-java-opshub-bitpanda/149243",
+      "company_name": "Bitpanda",
+      "description": "engineer java dev aws crypto"
+    },
+    {
+      "title": "Software Engineer Java Digital Asset Systems",
+      "link": "https://web3.career/software-engineer-java-digital-asset-systems-bitpanda/149242",
+      "company_name": "Bitpanda",
+      "description": "engineer java dev aws crypto"
+    },
+    {
+      "title": "Staff Security Engineer Product Security",
+      "link": "https://web3.career/staff-security-engineer-product-security-chainalysis/149646",
+      "company_name": "Chainalysis",
+      "description": "engineer security aws blockchain crypto"
+    },
+    {
+      "title": "Senior Backend Engineer Exchange Systems",
+      "link": "https://web3.career/senior-backend-engineer-exchange-systems-polymarket/149644",
+      "company_name": "Polymarket",
+      "description": "backend engineer senior aws blockchain"
+    },
+    {
+      "title": "Senior Software Engineer Core Trading",
+      "link": "https://web3.career/senior-software-engineer-core-trading-alpaca/149637",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev aws crypto"
+    },
+    {
+      "title": "Infrastructure Engineer DataOps Team",
+      "link": "https://web3.career/infrastructure-engineer-dataops-team-bitgo/149635",
+      "company_name": "Bitgo",
+      "description": "infrastructure dataops engineer aws bitcoin"
+    },
+    {
+      "title": "Head of Security Risk",
+      "link": "https://web3.career/head-of-security-risk-m0/149618",
+      "company_name": "M0",
+      "description": "executive security aws blockchain crypto"
+    },
+    {
+      "title": "Digital Marketing Analytics Intern",
+      "link": "https://web3.career/digital-marketing-analytics-intern-impossiblecloud/149604",
+      "company_name": "Impossible Cloud",
+      "description": "digital marketing stats intern entry level marketing"
+    },
+    {
+      "title": "Senior Backend Engineer Solana Mobile",
+      "link": "https://web3.career/senior-backend-engineer-solana-mobile-solanalabs/149602",
+      "company_name": "Solana Labs",
+      "description": "backend engineer mobile senior aws"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "skill": "typescript",
+  "label": "TypeScript",
+  "count": 22,
+  "updated_at": "2026-05-22T14:12:31.513634+00:00",
+  "jobs": [
+    {
+      "title": "Senior Backend Developer – Go & Kubernetes",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Full Stack Developer",
+      "description": "Located in the vibrant heart of Berlin, Pandata provides advanced data solutions to empower companies with data and technological innovation. Our corporate clients trust us with strategy, solution design and implementation. We follow a holistic approach, covering the entire data stream from sourcing to processing and insight generation, using cutting-edge tools as well as custom...",
+      "link": "https://berlinstartupjobs.com/engineering/full-stack-developer-pandata-gmbh/",
+      "company_name": "Pandata"
+    },
+    {
+      "title": "Senior Fullstack Developer with Product Mindset",
+      "description": "We’re looking for a Developer with 6+ years of experience building complex products. Projects range from small to large across the whole stack (Java, TypeScript, React, CSS). This is a “remote-first hybrid position” based in Berlin: You can work remotely a lot, but should be based in Berlin or nearby. It’s a full-time position,  after...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-with-product-mindset-small-improvements/",
+      "company_name": "Small Improvements"
+    },
+    {
+      "title": "Senior Fullstack Engineer",
+      "description": "About Climatiq If you’re looking for a role that has an impact on the world, and not just a balance sheet, Climatiq is the place for you. We’re a fast-growing startup embedding carbon intelligence into business decisions worldwide. Our platform—combining the world’s leading emissions database with sophisticated AI and calculation tools—helps thousands of sustainability teams...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-engineer-climatiq/",
+      "company_name": "Climatiq"
+    },
+    {
+      "title": "Senior Product Engineer",
+      "description": "TL;DR Kombo (YC S22) is building a unified API that saves engineering teams, on average, hundreds of hours by needing to integrate only one API instead of 50+. We’re looking for a product-minded full-stack engineer to potentially own one of our existing or new product verticals and to build features for our rapidly growing customer base....",
+      "link": "https://berlinstartupjobs.com/engineering/senior-product-engineer-kombo/",
+      "company_name": "Kombo"
+    },
+    {
+      "title": "Backend Engineer",
+      "description": "Company Description EquiMatch simplifies mergers and acquisitions (M&A) origination using AI-driven research and personalized outreach. We use AI to create a qualified target list for buyers and M&A advisors, eliminating the need for in-house analysts with no upfront costs – you only pay for successful deals. For sellers, we adopt a respectful, personalized approach aligned...",
+      "link": "https://berlinstartupjobs.com/engineering/backend-engineer-equimatch-gmbh/",
+      "company_name": "EquiMatch"
+    },
+    {
+      "title": "Staff Solutions Architect",
+      "link": "https://web3.career/staff-solutions-architect-layerzerolabs/149690",
+      "company_name": "LayerZero Labs",
+      "description": "architecture blockchain defi rust solidity"
+    },
+    {
+      "title": "Full Stack Blockchain Engineer",
+      "link": "https://web3.career/full-stack-blockchain-engineer-fireblocks/149687",
+      "company_name": "Fireblocks",
+      "description": "engineer full stack blockchain defi typescript"
+    },
+    {
+      "title": "Senior Staff Frontend Engineer Assets",
+      "link": "https://web3.career/senior-staff-frontend-engineer-assets-okx/149674",
+      "company_name": "Okx",
+      "description": "engineer front end senior blockchain crypto"
+    },
+    {
+      "title": "Tech Lead Engineer Contract LATAM",
+      "link": "https://web3.career/tech-lead-engineer-contract-latam-nexus/149668",
+      "company_name": "Nexus",
+      "description": "engineer lead tech lead blockchain crypto"
+    },
+    {
+      "title": "Applied AI Engineer",
+      "link": "https://web3.career/applied-ai-engineer-cryptio/149649",
+      "company_name": "Cryptio",
+      "description": "ai engineer aws crypto docker"
+    },
+    {
+      "title": "Senior Software Engineer React Broker Web Platm",
+      "link": "https://web3.career/senior-software-engineer-react-broker-web-platform-bitpanda/149241",
+      "company_name": "Bitpanda",
+      "description": "engineer javascript react senior dev"
+    },
+    {
+      "title": "Staff Security Engineer Product Security",
+      "link": "https://web3.career/staff-security-engineer-product-security-chainalysis/149646",
+      "company_name": "Chainalysis",
+      "description": "engineer security aws blockchain crypto"
+    },
+    {
+      "title": "Senior QA Automation Engineer Financial Apps",
+      "link": "https://web3.career/senior-qa-automation-engineer-financial-apps-fireblocks/149632",
+      "company_name": "Fireblocks",
+      "description": "engineer finance non tech quality assurance senior"
+    },
+    {
+      "title": "Senior Backend Engineer Finapps Access",
+      "link": "https://web3.career/senior-backend-engineer-finapps-access-fireblocks/149631",
+      "company_name": "Fireblocks",
+      "description": "backend engineer senior blockchain crypto"
+    },
+    {
+      "title": "CTO Security Lead — CoFounder",
+      "link": "https://web3.career/cto-security-lead-co-founder-byte/149622",
+      "company_name": "BYTE",
+      "description": "co founder cto executive lead security"
+    },
+    {
+      "title": "Senior Backend Engineer Solana Mobile",
+      "link": "https://web3.career/senior-backend-engineer-solana-mobile-solanalabs/149602",
+      "company_name": "Solana Labs",
+      "description": "backend engineer mobile senior aws"
+    },
+    {
+      "title": "Senior Fullstack Engineer NYC",
+      "link": "https://web3.career/senior-full-stack-engineer-nyc-crossmint/149601",
+      "company_name": "Crossmint",
+      "description": "engineer full stack senior blockchain crypto"
+    },
+    {
+      "title": "Custody Financial Operations Specialist",
+      "link": "https://web3.career/custody-financial-operations-specialist-bullish/149594",
+      "company_name": "Bullish",
+      "description": "finance non tech operations blockchain defi"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/103010",
+      "company_name": "Bcbgroup",
+      "description": "engineer full stack senior angular bitcoin"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
+      "company_name": "Bcbgroup",
+      "description": "engineer full stack senior angular crypto"
+    }
+  ]
+}

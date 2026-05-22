@@ -1,0 +1,122 @@
+{
+  "skill": "kubernetes",
+  "label": "Kubernetes",
+  "count": 19,
+  "updated_at": "2026-05-22T14:13:41.970944+00:00",
+  "jobs": [
+    {
+      "title": "Senior Backend Developer – Go & Kubernetes",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
+      "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Senior Data Scientist – Python, ML & Signal-Processing",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Data Scientist bei uns trainierst Du Machine-Learning-Modelle auf Basis von realen Maschinen- und Sensordaten – weltweit, vom mittelständischen Fertiger bis zum DAX-Konzern. Anomalieerkennung, Predictive Maintenance und Qualitätsüberwachung in Echtzeit. Die Daten sind echt, die Maschinen stehen in laufenden Produktionen, und Deine...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-data-scientist-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "SDE III Backend",
+      "link": "https://web3.career/sde-iii-backend-inmobi/149670",
+      "company_name": "Inmobi",
+      "description": "backend aws java kubernetes remote"
+    },
+    {
+      "title": "Infrastructure Engineer Contract – LATAM",
+      "link": "https://web3.career/infrastructure-engineer-contract-latam-nexus/149667",
+      "company_name": "Nexus",
+      "description": "infrastructure engineer aws blockchain docker"
+    },
+    {
+      "title": "Software Engineer Java OpsHub",
+      "link": "https://web3.career/software-engineer-java-opshub-bitpanda/149243",
+      "company_name": "Bitpanda",
+      "description": "engineer java dev aws crypto"
+    },
+    {
+      "title": "Software Engineer Java Digital Asset Systems",
+      "link": "https://web3.career/software-engineer-java-digital-asset-systems-bitpanda/149242",
+      "company_name": "Bitpanda",
+      "description": "engineer java dev aws crypto"
+    },
+    {
+      "title": "Staff Security Engineer Product Security",
+      "link": "https://web3.career/staff-security-engineer-product-security-chainalysis/149646",
+      "company_name": "Chainalysis",
+      "description": "engineer security aws blockchain crypto"
+    },
+    {
+      "title": "Senior Backend Engineer Exchange Systems",
+      "link": "https://web3.career/senior-backend-engineer-exchange-systems-polymarket/149644",
+      "company_name": "Polymarket",
+      "description": "backend engineer senior aws blockchain"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "link": "https://web3.career/site-reliability-engineer-alpaca/149638",
+      "company_name": "Alpaca",
+      "description": "engineer reliability crypto kubernetes remote"
+    },
+    {
+      "title": "Senior Software Engineer Core Trading",
+      "link": "https://web3.career/senior-software-engineer-core-trading-alpaca/149637",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev aws crypto"
+    },
+    {
+      "title": "Infrastructure Engineer DataOps Team",
+      "link": "https://web3.career/infrastructure-engineer-dataops-team-bitgo/149635",
+      "company_name": "Bitgo",
+      "description": "infrastructure dataops engineer aws bitcoin"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/103010",
+      "company_name": "Bcbgroup",
+      "description": "engineer full stack senior angular bitcoin"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
+      "company_name": "Bcbgroup",
+      "description": "engineer full stack senior angular crypto"
+    },
+    {
+      "title": "Crypto Production Engineer",
+      "link": "https://web3.career/crypto-production-engineer-jumpcrypto/89562",
+      "company_name": "Jumpcrypto",
+      "description": "engineer blockchain crypto defi ethereum"
+    },
+    {
+      "title": "AI ML Engineer",
+      "link": "https://web3.career/ai-ml-engineer-improbable/149558",
+      "company_name": "Improbable",
+      "description": "ai engineer machine learning aws docker"
+    },
+    {
+      "title": "Graduate DevSecOps Engineer",
+      "link": "https://web3.career/graduate-devsecops-engineer-elwoodtechnologies/149557",
+      "company_name": "Elwoodtechnologies",
+      "description": "engineer intern entry level aws crypto"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-copperco/96368",
+      "company_name": "Copperco",
+      "description": "devops engineer senior aws blockchain"
+    }
+  ]
+}

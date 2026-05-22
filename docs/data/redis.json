@@ -1,0 +1,80 @@
+{
+  "skill": "redis",
+  "label": "Redis",
+  "count": 12,
+  "updated_at": "2026-05-22T14:13:34.518963+00:00",
+  "jobs": [
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-bitfit-labs-pte-ltd/149139",
+      "company_name": "BITFIT LABS PTE LTD",
+      "description": "devops engineer senior aws bitcoin"
+    },
+    {
+      "title": "Senior Fullstack Engineer FE Focus",
+      "link": "https://web3.career/senior-fullstack-engineer-fe-focus-rugsdotfun/108371",
+      "company_name": "RugsDotFun",
+      "description": "engineer full stack senior backend crypto"
+    },
+    {
+      "title": "Ares: Senior+ Fullstack Engineer BackendLeaning",
+      "link": "https://web3.career/ares-senior-fullstack-engineer-backend-leaning-ares/107266",
+      "company_name": "Ares",
+      "description": "backend engineer full stack senior crypto"
+    },
+    {
+      "title": "Staff SRE Defi Scalability Lead",
+      "link": "https://web3.career/staff-sre-defi-scalability-lead-abc-labs/103527",
+      "company_name": "ABC Labs",
+      "description": "lead senior api blockchain crypto"
+    },
+    {
+      "title": "Senior DevOps Engineer Redis Kafka",
+      "link": "https://web3.career/senior-devops-engineer-redis-kafka-binance/100025",
+      "company_name": "Binance",
+      "description": "devops engineer redis senior aws"
+    },
+    {
+      "title": "Junior Backend Engineer",
+      "link": "https://web3.career/junior-backend-engineer-sideshift-ai/78172",
+      "company_name": "SideShift.ai",
+      "description": "backend engineer junior entry level crypto"
+    },
+    {
+      "title": "Senior Fullstack Engineer",
+      "link": "https://web3.career/senior-fullstack-engineer-absinthe-labs/74472",
+      "company_name": "Absinthe Labs",
+      "description": "engineer full stack senior aws blockchain"
+    },
+    {
+      "title": "Junior Backend Engineer",
+      "link": "https://web3.career/junior-backend-engineer-sideshift-ai/70059",
+      "company_name": "SideShift.ai",
+      "description": "backend engineer junior entry level blockchain"
+    },
+    {
+      "title": "Binance Accelerator Program DevOps Engineer Redis",
+      "link": "https://web3.career/binance-accelerator-program-devops-engineer-redis-binance/69551",
+      "company_name": "Binance",
+      "description": "devops engineer redis blockchain crypto"
+    },
+    {
+      "title": "Senior Backend Engineer",
+      "link": "https://web3.career/senior-backend-engineer-li-fi/58678",
+      "company_name": "LI.FI",
+      "description": "backend dev senior aws mongo"
+    },
+    {
+      "title": "Software Engineer Backend Sept. 2023",
+      "link": "https://web3.career/software-engineer-backend-sept-2023-paragonsdao/55826",
+      "company_name": "ParagonsDAO",
+      "description": "backend dev api aws big data"
+    },
+    {
+      "title": "Junior Backend Engineer",
+      "link": "https://web3.career/junior-backend-engineer-sideshift-ai/32002",
+      "company_name": "SideShift.ai",
+      "description": "backend dev junior entry level remote"
+    }
+  ]
+}

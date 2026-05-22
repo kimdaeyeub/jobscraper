@@ -1,0 +1,74 @@
+{
+  "skill": "git",
+  "label": "Git",
+  "count": 11,
+  "updated_at": "2026-05-22T14:14:10.992373+00:00",
+  "jobs": [
+    {
+      "title": "Django Software-Entwickler:in (m/w/d)",
+      "description": "Hey! Wir sind die Sourcecast GmbH, ein Softwarehaus mit dem Anspruch, erstklassige Software-Lösungen umzusetzen. Unsere Vision? Fortschrittliche, skalierbare Softwarelösungen, die wirklich etwas bewegen. Momentan liegt unser Fokus auf Digitalisierung im Bereich Gesundheitswesen, Legal Tech und Künstliche Intelligenz. Dafür suchen wir Dich: eine:n Django Entwickler:in mit Leidenschaft für Code und Lust auf ein kleines, freundliches Team,...",
+      "link": "https://berlinstartupjobs.com/engineering/django-software-entwicklerin-m-w-d-sourcecast/",
+      "company_name": "Sourcecast"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-bitfit-labs-pte-ltd/149139",
+      "company_name": "BITFIT LABS PTE LTD",
+      "description": "devops engineer senior aws bitcoin"
+    },
+    {
+      "title": "⚡ FullStack Developer TypeScript Nest.js React – FullTime",
+      "link": "https://web3.career/full-stack-developer-typescript-nest-js-react-full-time-seimus/110043",
+      "company_name": "Seimus",
+      "description": "nestjs javascript node backend dev"
+    },
+    {
+      "title": "Senior Smart Contract Engineer",
+      "link": "https://web3.career/senior-smart-contract-engineer-wildcat/108465",
+      "company_name": "wildcat",
+      "description": "engineer senior ethereum agile crypto"
+    },
+    {
+      "title": "Web3 Full Stack Developer",
+      "link": "https://web3.career/web3-full-stack-developer-wildcat/101516",
+      "company_name": "wildcat",
+      "description": "dev full stack agile backend blockchain"
+    },
+    {
+      "title": "Founding Engineer Remote",
+      "link": "https://web3.career/founding-engineer-remote-rocksolid-network/86824",
+      "company_name": "RockSolid Network",
+      "description": "founding engineer engineer founding member remote backend"
+    },
+    {
+      "title": "Senior Blockchain Client Developer",
+      "link": "https://web3.career/senior-blockchain-client-developer-gateway-fm/85549",
+      "company_name": "Gateway.FM",
+      "description": "dev senior blockchain crypto cryptography"
+    },
+    {
+      "title": "Frontend Engineer",
+      "link": "https://web3.career/frontend-engineer-mux-protocol/70761",
+      "company_name": "MUX Protocol",
+      "description": "engineer front end angular blockchain defi"
+    },
+    {
+      "title": "Junior FrontEnd Developer",
+      "link": "https://web3.career/junior-front-end-developer-number-group/64701",
+      "company_name": "Number Group",
+      "description": "dev front end junior entry level css"
+    },
+    {
+      "title": "Senior Frontend Developer",
+      "link": "https://web3.career/senior-frontend-developer-frax-finance/56292",
+      "company_name": "Frax Finance",
+      "description": "dev front end senior blockchain crypto"
+    },
+    {
+      "title": "Frontend Developer",
+      "link": "https://web3.career/frontend-developer-iyield/56114",
+      "company_name": "iYield",
+      "description": "dev front end api aws crypto"
+    }
+  ]
+}

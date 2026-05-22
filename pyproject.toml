@@ -1,0 +1,11 @@
+[project]
+name = "jobscraper"
+version = "0.1.0"
+description = "Search startup and remote jobs by skill across multiple job boards"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests>=2.34.2",
+    "beautifulsoup4>=4.14.3",
+    "flask>=3.1.3",
+]
