@@ -2,13 +2,19 @@
   "skill": "ruby",
   "label": "Ruby",
   "count": 16,
-  "updated_at": "2026-05-22T14:12:45.073707+00:00",
+  "updated_at": "2026-05-25T07:47:49.338909+00:00",
   "jobs": [
     {
       "title": "Senior Full-Stack Ruby on Rails Developer",
       "description": "About GAIA GAIA is an AI-powered legal operating system that revolutionizes how companies manage legal processes. We help fast-growing startups and mid-sized businesses fully digitize their legal workflows — from automated contract drafting, review, and data extraction to cap table management, ESOPs, shareholder resolutions, compliance checks, and financing simulations. By leveraging advanced AI, we make...",
       "link": "https://berlinstartupjobs.com/engineering/senior-full-stack-ruby-on-rails-developer-gaia/",
       "company_name": "GAIA"
+    },
+    {
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain ethereum ethereumjs"
     },
     {
       "title": "Enterprise Solutions Engineer",
@@ -93,12 +99,6 @@
       "link": "https://web3.career/full-stack-engineer-spain-crossmint/142814",
       "company_name": "Crossmint",
       "description": "spain engineer full stack blockchain crypto"
-    },
-    {
-      "title": "Fullstack Engineer Wallets Minting US",
-      "link": "https://web3.career/full-stack-engineer-wallets-minting-us-crossmint/142713",
-      "company_name": "Crossmint",
-      "description": "engineer full stack blockchain crypto java"
     }
   ]
 }

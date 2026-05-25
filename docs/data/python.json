@@ -1,8 +1,8 @@
 {
   "skill": "python",
   "label": "Python",
-  "count": 28,
-  "updated_at": "2026-05-22T14:12:25.850416+00:00",
+  "count": 24,
+  "updated_at": "2026-05-25T07:47:33.165296+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -57,30 +57,6 @@
       "description": "We are a fast-growing venture-backed cybersecurity startup. Join us in developing the next generation of secure AI and cloud software, explore cutting-edge technologies like confidential computing, and grow in and alongside a world-class team Our product Privatemode AI is our secure alternative to ChatGPT. It enables AI workflows with sensitive data by keeping all data...",
       "link": "https://berlinstartupjobs.com/engineering/senior-software-engineer-secure-ai-infrastructure-edgeless-systems/",
       "company_name": "Edgeless Systems"
-    },
-    {
-      "title": "Get Matched With Top Remote Dev Jobs",
-      "description": "Connect with vetted remote engineering jobs from top global companies.",
-      "link": "https://weworkremotely.com/listing_ads/8/click?pk=01c91c3699b478f30cf555224fb1f74a2f437d66f4d5b0711f80376a787d898b&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjo4LCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiODg3YjFhMTZlNDU0NTI1NjE0NTJhNGE5ZWVlNmM3OWUxZjI3NzU3MzhmYThjNGFhZGUzMjJjZmZmZDc2YTk3YiIsInBhZ2Vfa2V5IjoiMDFjOTFjMzY5OWI0NzhmMzBjZjU1NTIyNGZiMWY3NGEyZjQzN2Q2NmY0ZDViMDcxMWY4MDM3NmE3ODdkODk4YiIsIm5vbmNlIjoiNmJjNDc5YjQ0MzkyMTgxZWNhOGU5ZmNlMjBiYzI3YWQifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMjoyNC40ODJaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--f8446ea8627c76094bfbcf25a0dd03cff727e4ae&target=profile",
-      "company_name": "Proxify.io"
-    },
-    {
-      "title": "Replace All Your Work Tools",
-      "description": "All your tasks, docs, chat, and AI in one place.",
-      "link": "https://weworkremotely.com/listing_ads/6/click?pk=01c91c3699b478f30cf555224fb1f74a2f437d66f4d5b0711f80376a787d898b&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjo2LCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiODg3YjFhMTZlNDU0NTI1NjE0NTJhNGE5ZWVlNmM3OWUxZjI3NzU3MzhmYThjNGFhZGUzMjJjZmZmZDc2YTk3YiIsInBhZ2Vfa2V5IjoiMDFjOTFjMzY5OWI0NzhmMzBjZjU1NTIyNGZiMWY3NGEyZjQzN2Q2NmY0ZDViMDcxMWY4MDM3NmE3ODdkODk4YiIsIm5vbmNlIjoiZjM1YmJmMjMwYmM5NTQ5YWY4YTY3ZmM0NTU1YzRiYWYifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMjoyNC40ODVaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--386f1432113b4900b1e43669ef3d142310846302&target=profile",
-      "company_name": "ClickUp"
-    },
-    {
-      "title": "Find leads. Close more. Grow faster.",
-      "description": "Find prospects, automate outreach, and book more meetings.",
-      "link": "https://weworkremotely.com/listing_ads/7/click?pk=01c91c3699b478f30cf555224fb1f74a2f437d66f4d5b0711f80376a787d898b&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjo3LCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiODg3YjFhMTZlNDU0NTI1NjE0NTJhNGE5ZWVlNmM3OWUxZjI3NzU3MzhmYThjNGFhZGUzMjJjZmZmZDc2YTk3YiIsInBhZ2Vfa2V5IjoiMDFjOTFjMzY5OWI0NzhmMzBjZjU1NTIyNGZiMWY3NGEyZjQzN2Q2NmY0ZDViMDcxMWY4MDM3NmE3ODdkODk4YiIsIm5vbmNlIjoiNGNkMjQxNTgzMjA4YTJhNzg2ZDdhZWY4YWQxZmUxNzkifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMjoyNC40ODdaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--413217b88133f2082713507c3faa7de9a9930409&target=profile",
-      "company_name": "Apollo.io"
-    },
-    {
-      "title": "AI Software Engineering Bootcamp",
-      "description": "Stay relevant. Learn AI skills on your schedule with 1:1 support & get a job, or your money back.",
-      "link": "https://weworkremotely.com/listing_ads/1/click?pk=01c91c3699b478f30cf555224fb1f74a2f437d66f4d5b0711f80376a787d898b&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxLCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiODg3YjFhMTZlNDU0NTI1NjE0NTJhNGE5ZWVlNmM3OWUxZjI3NzU3MzhmYThjNGFhZGUzMjJjZmZmZDc2YTk3YiIsInBhZ2Vfa2V5IjoiMDFjOTFjMzY5OWI0NzhmMzBjZjU1NTIyNGZiMWY3NGEyZjQzN2Q2NmY0ZDViMDcxMWY4MDM3NmE3ODdkODk4YiIsIm5vbmNlIjoiZjg2ZjYxM2NiMzVjZTdlMzFkNmY1OGI3NGE1ZmRlYzcifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMjoyNC40ODlaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--b5d33b38eb9f4353ae474a5a7b98923d20b0e577&target=profile",
-      "company_name": "Metana"
     },
     {
       "title": "Software Engineer Python Asset Pricing Hedging",

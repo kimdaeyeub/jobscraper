@@ -2,8 +2,14 @@
   "skill": "vue",
   "label": "Vue",
   "count": 15,
-  "updated_at": "2026-05-22T14:12:55.344827+00:00",
+  "updated_at": "2026-05-25T07:47:57.869025+00:00",
   "jobs": [
+    {
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain ethereum ethereumjs"
+    },
     {
       "title": "Engineering Director Frontend Business Lead",
       "link": "https://web3.career/engineering-director-frontend-business-lead-okx/147552",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/binance-accelerator-program-frontend-engineer-com-binance/148163",
       "company_name": "Binance",
       "description": "engineer front end angular blockchain react"
-    },
-    {
-      "title": "Senior Fullstack Engineer NodeJs Typescript",
-      "link": "https://web3.career/senior-fullstack-engineer-nodejs-typescript-binance/148061",
-      "company_name": "Binance",
-      "description": "typescript engineer full stack javascript node"
     }
   ]
 }

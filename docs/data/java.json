@@ -1,8 +1,8 @@
 {
   "skill": "java",
   "label": "Java",
-  "count": 20,
-  "updated_at": "2026-05-22T14:12:34.171571+00:00",
+  "count": 16,
+  "updated_at": "2026-05-25T07:47:34.853949+00:00",
   "jobs": [
     {
       "title": "Senior Fullstack Developer with Product Mindset",
@@ -11,28 +11,22 @@
       "company_name": "Small Improvements"
     },
     {
-      "title": "Get Matched With Top Remote Dev Jobs",
-      "description": "Connect with vetted remote engineering jobs from top global companies.",
-      "link": "https://weworkremotely.com/listing_ads/8/click?pk=1fa633670d191fe1c998669f721a345a48f461249291f97e703f0446c1cd7f71&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjo4LCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiZTI0YThiODNmOTg5NjVmZTE0Zjc2NTE2ODVmZGFmYTI5NzVkYjRmMTg3YTRlOWE5NmFlMWY4ZWIyZjkzYWMwMiIsInBhZ2Vfa2V5IjoiMWZhNjMzNjcwZDE5MWZlMWM5OTg2NjlmNzIxYTM0NWE0OGY0NjEyNDkyOTFmOTdlNzAzZjA0NDZjMWNkN2Y3MSIsIm5vbmNlIjoiM2Y2Yjg0YWJlMjg0MDBlZmZiYzlhYjkyZDQ3OWFmZDAifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMjozMi42NTNaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--f06f2c6aab4578afc7c0aadc211626ad61a446fd&target=profile",
-      "company_name": "Proxify.io"
+      "title": "Software Engineer Stablecoin",
+      "link": "https://web3.career/software-engineer-stablecoin-edkey/149733",
+      "company_name": "edkey",
+      "description": "engineer dev aws blockchain crypto"
     },
     {
-      "title": "Replace All Your Work Tools",
-      "description": "All your tasks, docs, chat, and AI in one place.",
-      "link": "https://weworkremotely.com/listing_ads/6/click?pk=1fa633670d191fe1c998669f721a345a48f461249291f97e703f0446c1cd7f71&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjo2LCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiZTI0YThiODNmOTg5NjVmZTE0Zjc2NTE2ODVmZGFmYTI5NzVkYjRmMTg3YTRlOWE5NmFlMWY4ZWIyZjkzYWMwMiIsInBhZ2Vfa2V5IjoiMWZhNjMzNjcwZDE5MWZlMWM5OTg2NjlmNzIxYTM0NWE0OGY0NjEyNDkyOTFmOTdlNzAzZjA0NDZjMWNkN2Y3MSIsIm5vbmNlIjoiODgzZWZiYjVhNjYxMWUyMzY3NTAzMDVhN2MwMzQ2MDgifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMjozMi42NTVaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--b7dfc208504ce445636f78d9f28b9fa8ba142b5a&target=profile",
-      "company_name": "ClickUp"
+      "title": "Backend Engineer Payment Java",
+      "link": "https://web3.career/backend-engineer-payment-java-binance/149728",
+      "company_name": "Binance",
+      "description": "backend engineer java blockchain crypto"
     },
     {
-      "title": "Find leads. Close more. Grow faster.",
-      "description": "Find prospects, automate outreach, and book more meetings.",
-      "link": "https://weworkremotely.com/listing_ads/7/click?pk=1fa633670d191fe1c998669f721a345a48f461249291f97e703f0446c1cd7f71&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjo3LCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiZTI0YThiODNmOTg5NjVmZTE0Zjc2NTE2ODVmZGFmYTI5NzVkYjRmMTg3YTRlOWE5NmFlMWY4ZWIyZjkzYWMwMiIsInBhZ2Vfa2V5IjoiMWZhNjMzNjcwZDE5MWZlMWM5OTg2NjlmNzIxYTM0NWE0OGY0NjEyNDkyOTFmOTdlNzAzZjA0NDZjMWNkN2Y3MSIsIm5vbmNlIjoiYzAwNDFmNjg3NWNkYjY0YThkYTllYTE4MGRhOWY0MDYifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMjozMi42NTdaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--d1c45d02a634e4d5fb9122864259ce63da9c89da&target=profile",
-      "company_name": "Apollo.io"
-    },
-    {
-      "title": "AI Software Engineering Bootcamp",
-      "description": "Stay relevant. Learn AI skills on your schedule with 1:1 support & get a job, or your money back.",
-      "link": "https://weworkremotely.com/listing_ads/1/click?pk=1fa633670d191fe1c998669f721a345a48f461249291f97e703f0446c1cd7f71&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxLCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiZTI0YThiODNmOTg5NjVmZTE0Zjc2NTE2ODVmZGFmYTI5NzVkYjRmMTg3YTRlOWE5NmFlMWY4ZWIyZjkzYWMwMiIsInBhZ2Vfa2V5IjoiMWZhNjMzNjcwZDE5MWZlMWM5OTg2NjlmNzIxYTM0NWE0OGY0NjEyNDkyOTFmOTdlNzAzZjA0NDZjMWNkN2Y3MSIsIm5vbmNlIjoiZDFlMjdlOWUwOWFlNGRkYWZkNTVkZGVmYzhlMjQyZDEifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMjozMi42NTlaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--96008a1a7f4d3ae0122a70a64592db965625db00&target=profile",
-      "company_name": "Metana"
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain ethereum ethereumjs"
     },
     {
       "title": "Director of Engineering API Management and CIAM",
@@ -105,24 +99,6 @@
       "link": "https://web3.career/principal-staff-engineer-compliance-okx/149565",
       "company_name": "Okx",
       "description": "compliance non tech engineer executive blockchain"
-    },
-    {
-      "title": "Android Engineer",
-      "link": "https://web3.career/android-engineer-bluecubeservices/103709",
-      "company_name": "Bluecubeservices",
-      "description": "android mobile engineer bitcoin crypto"
-    },
-    {
-      "title": "Senior Software Engineer Java",
-      "link": "https://web3.career/senior-software-engineer-java-bitpanda/58574",
-      "company_name": "Bitpanda",
-      "description": "dev java senior aws php"
-    },
-    {
-      "title": "Senior Solutions Architect Banking and Capital Markets",
-      "link": "https://web3.career/senior-solutions-architect-banking-and-capital-markets-chainlinklabs/149552",
-      "company_name": "Chainlink Labs",
-      "description": "architecture finance non tech senior aws"
     }
   ]
 }

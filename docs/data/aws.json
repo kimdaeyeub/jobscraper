@@ -2,8 +2,38 @@
   "skill": "aws",
   "label": "AWS",
   "count": 15,
-  "updated_at": "2026-05-22T14:13:37.053030+00:00",
+  "updated_at": "2026-05-25T07:48:40.462233+00:00",
   "jobs": [
+    {
+      "title": "Software Engineer Stablecoin",
+      "link": "https://web3.career/software-engineer-stablecoin-edkey/149733",
+      "company_name": "edkey",
+      "description": "engineer dev aws blockchain crypto"
+    },
+    {
+      "title": "Product Manager Instanode",
+      "link": "https://web3.career/product-manager-instanode-partnerverse/149730",
+      "company_name": "Partnerverse",
+      "description": "product manager non tech aws blockchain ethereum"
+    },
+    {
+      "title": "Senior Full Stack Engineer Checkout",
+      "link": "https://web3.career/senior-full-stack-engineer-checkout-li-fi/149725",
+      "company_name": "LI.FI",
+      "description": "engineer full stack senior aws crypto"
+    },
+    {
+      "title": "Applied AI Engineer",
+      "link": "https://web3.career/applied-ai-engineer-li-fi/149724",
+      "company_name": "LI.FI",
+      "description": "ai engineer aws crypto defi"
+    },
+    {
+      "title": "Go to Market Engineer",
+      "link": "https://web3.career/go-to-market-engineer-impossiblecloud/149706",
+      "company_name": "Impossible Cloud",
+      "description": "gtm engineer golang aws"
+    },
     {
       "title": "Sales Engineer",
       "link": "https://web3.career/sales-engineer-oplabspbc/149685",
@@ -63,36 +93,6 @@
       "link": "https://web3.career/senior-backend-engineer-exchange-systems-polymarket/149644",
       "company_name": "Polymarket",
       "description": "backend engineer senior aws blockchain"
-    },
-    {
-      "title": "Senior Software Engineer Core Trading",
-      "link": "https://web3.career/senior-software-engineer-core-trading-alpaca/149637",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev aws crypto"
-    },
-    {
-      "title": "Infrastructure Engineer DataOps Team",
-      "link": "https://web3.career/infrastructure-engineer-dataops-team-bitgo/149635",
-      "company_name": "Bitgo",
-      "description": "infrastructure dataops engineer aws bitcoin"
-    },
-    {
-      "title": "Head of Security Risk",
-      "link": "https://web3.career/head-of-security-risk-m0/149618",
-      "company_name": "M0",
-      "description": "executive security aws blockchain crypto"
-    },
-    {
-      "title": "Digital Marketing Analytics Intern",
-      "link": "https://web3.career/digital-marketing-analytics-intern-impossiblecloud/149604",
-      "company_name": "Impossible Cloud",
-      "description": "digital marketing stats intern entry level marketing"
-    },
-    {
-      "title": "Senior Backend Engineer Solana Mobile",
-      "link": "https://web3.career/senior-backend-engineer-solana-mobile-solanalabs/149602",
-      "company_name": "Solana Labs",
-      "description": "backend engineer mobile senior aws"
     }
   ]
 }

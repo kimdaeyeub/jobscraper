@@ -1,32 +1,14 @@
 {
   "skill": "angular",
   "label": "Angular",
-  "count": 19,
-  "updated_at": "2026-05-22T14:12:57.798949+00:00",
+  "count": 15,
+  "updated_at": "2026-05-25T07:48:01.686659+00:00",
   "jobs": [
     {
-      "title": "Get Matched With Top Remote Dev Jobs",
-      "description": "Connect with vetted remote engineering jobs from top global companies.",
-      "link": "https://weworkremotely.com/listing_ads/8/click?pk=f60f2ff9302877503c5018ec3e2ce2ae271b9bb61c795a6685bd4bab43f48687&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjo4LCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiN2EzNjIzZTg2MjBkOTk4OTU2ZDA5ZmE1OThkNjhkZDYyMGRhODk4Yzg3NDJjOTBiNTBhMzhkNDliZDRiOGY4OSIsInBhZ2Vfa2V5IjoiZjYwZjJmZjkzMDI4Nzc1MDNjNTAxOGVjM2UyY2UyYWUyNzFiOWJiNjFjNzk1YTY2ODViZDRiYWI0M2Y0ODY4NyIsIm5vbmNlIjoiYmQ3NTcxZmExMTBmOWQyYjdmYjE1OWNjZWM1ZWM3YzgifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMjo1Ni41MzFaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--ec0ff6600ee656815bf8686e73456b09aac09eef&target=profile",
-      "company_name": "Proxify.io"
-    },
-    {
-      "title": "Replace All Your Work Tools",
-      "description": "All your tasks, docs, chat, and AI in one place.",
-      "link": "https://weworkremotely.com/listing_ads/6/click?pk=f60f2ff9302877503c5018ec3e2ce2ae271b9bb61c795a6685bd4bab43f48687&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjo2LCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiN2EzNjIzZTg2MjBkOTk4OTU2ZDA5ZmE1OThkNjhkZDYyMGRhODk4Yzg3NDJjOTBiNTBhMzhkNDliZDRiOGY4OSIsInBhZ2Vfa2V5IjoiZjYwZjJmZjkzMDI4Nzc1MDNjNTAxOGVjM2UyY2UyYWUyNzFiOWJiNjFjNzk1YTY2ODViZDRiYWI0M2Y0ODY4NyIsIm5vbmNlIjoiMWVjZDNkYmQzMGM1NDMxZWMxODBhMTNlMDJlM2ZkNTMifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMjo1Ni41MzNaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--dafc68156ef1680b47c6a397997ab424d350be3e&target=profile",
-      "company_name": "ClickUp"
-    },
-    {
-      "title": "Find leads. Close more. Grow faster.",
-      "description": "Find prospects, automate outreach, and book more meetings.",
-      "link": "https://weworkremotely.com/listing_ads/7/click?pk=f60f2ff9302877503c5018ec3e2ce2ae271b9bb61c795a6685bd4bab43f48687&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjo3LCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiN2EzNjIzZTg2MjBkOTk4OTU2ZDA5ZmE1OThkNjhkZDYyMGRhODk4Yzg3NDJjOTBiNTBhMzhkNDliZDRiOGY4OSIsInBhZ2Vfa2V5IjoiZjYwZjJmZjkzMDI4Nzc1MDNjNTAxOGVjM2UyY2UyYWUyNzFiOWJiNjFjNzk1YTY2ODViZDRiYWI0M2Y0ODY4NyIsIm5vbmNlIjoiOTY5YmZlOTE0ZmI2OTlkNGRmMzJlZDI2Y2YyMzgwNzYifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMjo1Ni41MzRaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--38fb0d63170e7b0220502d07f7b215679e1bd096&target=profile",
-      "company_name": "Apollo.io"
-    },
-    {
-      "title": "AI Software Engineering Bootcamp",
-      "description": "Stay relevant. Learn AI skills on your schedule with 1:1 support & get a job, or your money back.",
-      "link": "https://weworkremotely.com/listing_ads/1/click?pk=f60f2ff9302877503c5018ec3e2ce2ae271b9bb61c795a6685bd4bab43f48687&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxLCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiN2EzNjIzZTg2MjBkOTk4OTU2ZDA5ZmE1OThkNjhkZDYyMGRhODk4Yzg3NDJjOTBiNTBhMzhkNDliZDRiOGY4OSIsInBhZ2Vfa2V5IjoiZjYwZjJmZjkzMDI4Nzc1MDNjNTAxOGVjM2UyY2UyYWUyNzFiOWJiNjFjNzk1YTY2ODViZDRiYWI0M2Y0ODY4NyIsIm5vbmNlIjoiODM5YzA1YmNhMjMyZWVhZWNjNDY5Y2E5YmI5OWNlZmMifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMjo1Ni41MzZaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--c9fba7dde2eb1bc7ec71a142ec9d4e3def91ec82&target=profile",
-      "company_name": "Metana"
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain ethereum ethereumjs"
     },
     {
       "title": "Director of Engineering API Management and CIAM",
@@ -111,12 +93,6 @@
       "link": "https://web3.career/software-engineer-iii-associate-tech-lead-zinnia/94300",
       "company_name": "Zinnia",
       "description": "engineer lead dev tech lead angular"
-    },
-    {
-      "title": "Senior Technical Product Manager Cosmic 100% remote Worldwide",
-      "link": "https://web3.career/senior-technical-product-manager-cosmic-100-remote-worldwide-tetheroperationslimited/147087",
-      "company_name": "Tether Operations Limited",
-      "description": "remote product manager non tech senior angular"
     }
   ]
 }

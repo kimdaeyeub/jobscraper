@@ -2,8 +2,20 @@
   "skill": "rust",
   "label": "Rust",
   "count": 15,
-  "updated_at": "2026-05-22T14:12:40.037115+00:00",
+  "updated_at": "2026-05-25T07:47:42.454918+00:00",
   "jobs": [
+    {
+      "title": "Software Engineer Stablecoin",
+      "link": "https://web3.career/software-engineer-stablecoin-edkey/149733",
+      "company_name": "edkey",
+      "description": "engineer dev aws blockchain crypto"
+    },
+    {
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain ethereum ethereumjs"
+    },
     {
       "title": "Staff Solutions Architect",
       "link": "https://web3.career/staff-solutions-architect-layerzerolabs/149690",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/quant-developer-rust-liquidity-platform-delta-one-systematic-trading-okx/145502",
       "company_name": "Okx",
       "description": "dev sales non tech rust aws"
-    },
-    {
-      "title": "Crypto Production Engineer",
-      "link": "https://web3.career/crypto-production-engineer-jumpcrypto/89562",
-      "company_name": "Jumpcrypto",
-      "description": "engineer blockchain crypto defi ethereum"
-    },
-    {
-      "title": "Quantitative Developer",
-      "link": "https://web3.career/quantitative-developer-gsrmarkets/105350",
-      "company_name": "Gsrmarkets",
-      "description": "quantitative quantitative developer dev crypto rust"
     }
   ]
 }

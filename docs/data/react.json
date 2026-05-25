@@ -1,8 +1,8 @@
 {
   "skill": "react",
   "label": "React",
-  "count": 21,
-  "updated_at": "2026-05-22T14:12:52.854119+00:00",
+  "count": 17,
+  "updated_at": "2026-05-25T07:47:54.130522+00:00",
   "jobs": [
     {
       "title": "Senior Product Engineer",
@@ -17,28 +17,16 @@
       "company_name": "Small Improvements"
     },
     {
-      "title": "Get Matched With Top Remote Dev Jobs",
-      "description": "Connect with vetted remote engineering jobs from top global companies.",
-      "link": "https://weworkremotely.com/listing_ads/8/click?pk=2bd7ad465c46a7cd992810f68f3f3d206cab8b01f521df5f1f287cdcc69dffcf&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjo4LCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiZjQ4NWFlNDcwMzQ4NjZhYTNhMTQwYzg1MTliMTI2YzMzZGMzNmE1MTc0YmM4ODc3YjMxOWZlZGMzOWQ0MDM5NSIsInBhZ2Vfa2V5IjoiMmJkN2FkNDY1YzQ2YTdjZDk5MjgxMGY2OGYzZjNkMjA2Y2FiOGIwMWY1MjFkZjVmMWYyODdjZGNjNjlkZmZjZiIsIm5vbmNlIjoiZDI3ZjQyMzI3ZDc1ZWJlNTJlZGNmMGEyNWViYzQyNzkifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMjo1MS40NThaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--b015ae1f98f5746a35460ddd5c778b035183216b&target=profile",
-      "company_name": "Proxify.io"
+      "title": "Senior Full Stack Engineer Checkout",
+      "link": "https://web3.career/senior-full-stack-engineer-checkout-li-fi/149725",
+      "company_name": "LI.FI",
+      "description": "engineer full stack senior aws crypto"
     },
     {
-      "title": "Replace All Your Work Tools",
-      "description": "All your tasks, docs, chat, and AI in one place.",
-      "link": "https://weworkremotely.com/listing_ads/6/click?pk=2bd7ad465c46a7cd992810f68f3f3d206cab8b01f521df5f1f287cdcc69dffcf&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjo2LCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiZjQ4NWFlNDcwMzQ4NjZhYTNhMTQwYzg1MTliMTI2YzMzZGMzNmE1MTc0YmM4ODc3YjMxOWZlZGMzOWQ0MDM5NSIsInBhZ2Vfa2V5IjoiMmJkN2FkNDY1YzQ2YTdjZDk5MjgxMGY2OGYzZjNkMjA2Y2FiOGIwMWY1MjFkZjVmMWYyODdjZGNjNjlkZmZjZiIsIm5vbmNlIjoiZWUxYjEyZGJmMTRkYmM1YzZmNzFlYWUwYjNkYmIyMTIifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMjo1MS40NjBaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--a4258ce3914c265cfb6694edaf0762a01850ad82&target=profile",
-      "company_name": "ClickUp"
-    },
-    {
-      "title": "Find leads. Close more. Grow faster.",
-      "description": "Find prospects, automate outreach, and book more meetings.",
-      "link": "https://weworkremotely.com/listing_ads/7/click?pk=2bd7ad465c46a7cd992810f68f3f3d206cab8b01f521df5f1f287cdcc69dffcf&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjo3LCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiZjQ4NWFlNDcwMzQ4NjZhYTNhMTQwYzg1MTliMTI2YzMzZGMzNmE1MTc0YmM4ODc3YjMxOWZlZGMzOWQ0MDM5NSIsInBhZ2Vfa2V5IjoiMmJkN2FkNDY1YzQ2YTdjZDk5MjgxMGY2OGYzZjNkMjA2Y2FiOGIwMWY1MjFkZjVmMWYyODdjZGNjNjlkZmZjZiIsIm5vbmNlIjoiMzgxNGU4NDc0YWJjMTZjNmFkYTM1MmRmZTMzZGRiYTcifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMjo1MS40NjJaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--9ec4b29eb2ae6e7d4b104df3d82fb0f8d3e533e8&target=profile",
-      "company_name": "Apollo.io"
-    },
-    {
-      "title": "AI Software Engineering Bootcamp",
-      "description": "Stay relevant. Learn AI skills on your schedule with 1:1 support & get a job, or your money back.",
-      "link": "https://weworkremotely.com/listing_ads/1/click?pk=2bd7ad465c46a7cd992810f68f3f3d206cab8b01f521df5f1f287cdcc69dffcf&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxLCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiZjQ4NWFlNDcwMzQ4NjZhYTNhMTQwYzg1MTliMTI2YzMzZGMzNmE1MTc0YmM4ODc3YjMxOWZlZGMzOWQ0MDM5NSIsInBhZ2Vfa2V5IjoiMmJkN2FkNDY1YzQ2YTdjZDk5MjgxMGY2OGYzZjNkMjA2Y2FiOGIwMWY1MjFkZjVmMWYyODdjZGNjNjlkZmZjZiIsIm5vbmNlIjoiZmQxYjQxY2QyZTQ3OTZlOTlmOGI2MWEyOTljMmY2YmYifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMjo1MS40NjRaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--c62b152f3433b77a2ff87958c8551f0ed651246f&target=profile",
-      "company_name": "Metana"
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain ethereum ethereumjs"
     },
     {
       "title": "Director of Engineering API Management and CIAM",
@@ -117,18 +105,6 @@
       "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
       "company_name": "Bitpanda",
       "description": "c c plus plus javascript angular engineer"
-    },
-    {
-      "title": "Senior Software Engineer Web Full Stack",
-      "link": "https://web3.career/senior-software-engineer-web-full-stack-bitmex/92818",
-      "company_name": "Bitmex",
-      "description": "engineer full stack senior dev bitcoin"
-    },
-    {
-      "title": "Growth Engineer Data Systems",
-      "link": "https://web3.career/growth-engineer-data-systems-bitmex/146102",
-      "company_name": "Bitmex",
-      "description": "growth engineer crypto discord javascript"
     }
   ]
 }

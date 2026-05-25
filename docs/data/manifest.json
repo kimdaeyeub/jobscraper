@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-22T14:12:22.412911+00:00",
+  "updated_at": "2026-05-25T07:47:32.261452+00:00",
   "skills": [
     {
       "id": "python",
       "label": "Python",
-      "count": 28
+      "count": 24
     },
     {
       "id": "javascript",
@@ -19,7 +19,7 @@
     {
       "id": "java",
       "label": "Java",
-      "count": 20
+      "count": 16
     },
     {
       "id": "go",
@@ -34,7 +34,7 @@
     {
       "id": "php",
       "label": "PHP",
-      "count": 20
+      "count": 16
     },
     {
       "id": "ruby",
@@ -54,7 +54,7 @@
     {
       "id": "react",
       "label": "React",
-      "count": 21
+      "count": 17
     },
     {
       "id": "vue",
@@ -64,7 +64,7 @@
     {
       "id": "angular",
       "label": "Angular",
-      "count": 19
+      "count": 15
     },
     {
       "id": "node",
@@ -99,7 +99,7 @@
     {
       "id": "rails",
       "label": "Rails",
-      "count": 5
+      "count": 1
     },
     {
       "id": "sql",
@@ -144,7 +144,7 @@
     {
       "id": "devops",
       "label": "DevOps",
-      "count": 21
+      "count": 17
     },
     {
       "id": "machine-learning",
@@ -159,12 +159,12 @@
     {
       "id": "android",
       "label": "Android",
-      "count": 20
+      "count": 16
     },
     {
       "id": "ios",
       "label": "iOS",
-      "count": 16
+      "count": 15
     },
     {
       "id": "flutter",

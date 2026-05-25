@@ -1,8 +1,8 @@
 {
   "skill": "devops",
   "label": "DevOps",
-  "count": 21,
-  "updated_at": "2026-05-22T14:13:47.410540+00:00",
+  "count": 17,
+  "updated_at": "2026-05-25T07:48:48.676188+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
@@ -15,30 +15,6 @@
       "description": "Help us decarbonize the cement and concrete industry. alcemy was founded to reduce the massive CO2 footprint of the cement and concrete industry. Concrete is humanity\\’s second most used material by volume and its production is responsible for around 8% of global CO2 emissions. We are changing this! We leverage machine learning to provide smart production control software...",
       "link": "https://berlinstartupjobs.com/engineering/senior-infrastructure-engineer-f-m-d-alcemy/",
       "company_name": "alcemy"
-    },
-    {
-      "title": "Get Matched With Top Remote Dev Jobs",
-      "description": "Connect with vetted remote engineering jobs from top global companies.",
-      "link": "https://weworkremotely.com/listing_ads/8/click?pk=4cb7baab2f863b41742869fc4c90ff90e1b35bf8bd487ea34377bd910a1fcdef&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjo4LCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiMzU2OTYwNDU3YjdlNTJhZDI4YzQ5MGE0MzFjYzliMmQ0Y2RhYzMxZDRlYmQ4OGI3OGJkNmE2MzA1MGU1MTUyYiIsInBhZ2Vfa2V5IjoiNGNiN2JhYWIyZjg2M2I0MTc0Mjg2OWZjNGM5MGZmOTBlMWIzNWJmOGJkNDg3ZWEzNDM3N2JkOTEwYTFmY2RlZiIsIm5vbmNlIjoiNzUwZjc5ZDhkMGIxOTA5MmQ4NWRmZWViZDE5NDUwYzAifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMzo0Ni4wNDZaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--dc6db51516ae5ca7237ca7fd756cc4a3a2a558ed&target=profile",
-      "company_name": "Proxify.io"
-    },
-    {
-      "title": "Replace All Your Work Tools",
-      "description": "All your tasks, docs, chat, and AI in one place.",
-      "link": "https://weworkremotely.com/listing_ads/6/click?pk=4cb7baab2f863b41742869fc4c90ff90e1b35bf8bd487ea34377bd910a1fcdef&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjo2LCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiMzU2OTYwNDU3YjdlNTJhZDI4YzQ5MGE0MzFjYzliMmQ0Y2RhYzMxZDRlYmQ4OGI3OGJkNmE2MzA1MGU1MTUyYiIsInBhZ2Vfa2V5IjoiNGNiN2JhYWIyZjg2M2I0MTc0Mjg2OWZjNGM5MGZmOTBlMWIzNWJmOGJkNDg3ZWEzNDM3N2JkOTEwYTFmY2RlZiIsIm5vbmNlIjoiMGExMWRkODA4ZWJlNzY0NGUxOTQwOGI0YWUxZWY3MDAifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMzo0Ni4wNDlaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--e98de73a0b210cee55be3f4f1dbe240a051597d1&target=profile",
-      "company_name": "ClickUp"
-    },
-    {
-      "title": "Find leads. Close more. Grow faster.",
-      "description": "Find prospects, automate outreach, and book more meetings.",
-      "link": "https://weworkremotely.com/listing_ads/7/click?pk=4cb7baab2f863b41742869fc4c90ff90e1b35bf8bd487ea34377bd910a1fcdef&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjo3LCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiMzU2OTYwNDU3YjdlNTJhZDI4YzQ5MGE0MzFjYzliMmQ0Y2RhYzMxZDRlYmQ4OGI3OGJkNmE2MzA1MGU1MTUyYiIsInBhZ2Vfa2V5IjoiNGNiN2JhYWIyZjg2M2I0MTc0Mjg2OWZjNGM5MGZmOTBlMWIzNWJmOGJkNDg3ZWEzNDM3N2JkOTEwYTFmY2RlZiIsIm5vbmNlIjoiYmRhNzAwZGM0NDE2YTRiNWMzY2M3ZjA5OTY1NDExYjUifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMzo0Ni4wNTNaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--8656d6aaa77858da8694b7f1fc2a496e2f38b5a2&target=profile",
-      "company_name": "Apollo.io"
-    },
-    {
-      "title": "AI Software Engineering Bootcamp",
-      "description": "Stay relevant. Learn AI skills on your schedule with 1:1 support & get a job, or your money back.",
-      "link": "https://weworkremotely.com/listing_ads/1/click?pk=4cb7baab2f863b41742869fc4c90ff90e1b35bf8bd487ea34377bd910a1fcdef&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxLCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiMzU2OTYwNDU3YjdlNTJhZDI4YzQ5MGE0MzFjYzliMmQ0Y2RhYzMxZDRlYmQ4OGI3OGJkNmE2MzA1MGU1MTUyYiIsInBhZ2Vfa2V5IjoiNGNiN2JhYWIyZjg2M2I0MTc0Mjg2OWZjNGM5MGZmOTBlMWIzNWJmOGJkNDg3ZWEzNDM3N2JkOTEwYTFmY2RlZiIsIm5vbmNlIjoiMjMzNTQ0MzU4ZjNkNzU2MDcwMTRiZmI2YmFkZTgyNTYifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMzo0Ni4wNTdaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--73b5272eb4c584161653be99db589a016f0c455b&target=profile",
-      "company_name": "Metana"
     },
     {
       "title": "Senior DevOps Engineer",

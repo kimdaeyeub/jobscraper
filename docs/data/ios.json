@@ -1,15 +1,9 @@
 {
   "skill": "ios",
   "label": "iOS",
-  "count": 16,
-  "updated_at": "2026-05-22T14:13:57.778766+00:00",
+  "count": 15,
+  "updated_at": "2026-05-25T07:48:57.447594+00:00",
   "jobs": [
-    {
-      "title": "Get Matched With Top Remote Dev Jobs",
-      "description": "Connect with vetted remote engineering jobs from top global companies.",
-      "link": "https://weworkremotely.com/listing_ads/8/click?pk=febdc70092ebdc7f4e828557c45bcd90b27b39f11acb16c6cf69b180f7417998&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjo4LCJldmVudCI6ImNsaWNrIiwidGFyZ2V0IjoicHJvZmlsZSIsInRyYWNrZXJfZGlnZXN0IjoiZmZlOGRhY2QyNGQ2Mjg4NjA1MDMyOTM1MzJiMGM3MjYwOWIxYTA0YzlmMzgzNWM3NDVjOGZkYjUxNmUzZTYzMiIsInBhZ2Vfa2V5IjoiZmViZGM3MDA5MmViZGM3ZjRlODI4NTU3YzQ1YmNkOTBiMjdiMzlmMTFhY2IxNmM2Y2Y2OWIxODBmNzQxNzk5OCIsIm5vbmNlIjoiMzAxZDY2YWJkZjU2OTRhODU1M2UyODY3ODhiOWY0ZjEifSwiZXhwIjoiMjAyNi0wNS0yM1QwMjoxMzo1Ni41MzdaIiwicHVyIjoibGlzdGluZ19hZF90cmFja2luZzpjbGljayJ9fQ%3D%3D--b81c93b6d772c34da993c12c08cab1280d1f9200&target=profile",
-      "company_name": "Proxify.io"
-    },
     {
       "title": "iOS Engineer",
       "link": "https://web3.career/ios-engineer-bluecubeservices/103710",

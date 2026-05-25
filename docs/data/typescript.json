@@ -2,7 +2,7 @@
   "skill": "typescript",
   "label": "TypeScript",
   "count": 22,
-  "updated_at": "2026-05-22T14:12:31.513634+00:00",
+  "updated_at": "2026-05-25T07:47:34.315786+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -45,6 +45,24 @@
       "description": "Company Description EquiMatch simplifies mergers and acquisitions (M&A) origination using AI-driven research and personalized outreach. We use AI to create a qualified target list for buyers and M&A advisors, eliminating the need for in-house analysts with no upfront costs – you only pay for successful deals. For sellers, we adopt a respectful, personalized approach aligned...",
       "link": "https://berlinstartupjobs.com/engineering/backend-engineer-equimatch-gmbh/",
       "company_name": "EquiMatch"
+    },
+    {
+      "title": "Senior Full Stack Engineer Checkout",
+      "link": "https://web3.career/senior-full-stack-engineer-checkout-li-fi/149725",
+      "company_name": "LI.FI",
+      "description": "engineer full stack senior aws crypto"
+    },
+    {
+      "title": "Applied AI Engineer",
+      "link": "https://web3.career/applied-ai-engineer-li-fi/149724",
+      "company_name": "LI.FI",
+      "description": "ai engineer aws crypto defi"
+    },
+    {
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain ethereum ethereumjs"
     },
     {
       "title": "Staff Solutions Architect",
@@ -117,24 +135,6 @@
       "link": "https://web3.career/senior-full-stack-engineer-nyc-crossmint/149601",
       "company_name": "Crossmint",
       "description": "engineer full stack senior blockchain crypto"
-    },
-    {
-      "title": "Custody Financial Operations Specialist",
-      "link": "https://web3.career/custody-financial-operations-specialist-bullish/149594",
-      "company_name": "Bullish",
-      "description": "finance non tech operations blockchain defi"
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/103010",
-      "company_name": "Bcbgroup",
-      "description": "engineer full stack senior angular bitcoin"
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
-      "company_name": "Bcbgroup",
-      "description": "engineer full stack senior angular crypto"
     }
   ]
 }

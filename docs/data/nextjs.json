@@ -2,8 +2,14 @@
   "skill": "nextjs",
   "label": "Next.js",
   "count": 15,
-  "updated_at": "2026-05-22T14:13:04.596685+00:00",
+  "updated_at": "2026-05-25T07:48:05.806155+00:00",
   "jobs": [
+    {
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain ethereum ethereumjs"
+    },
     {
       "title": "Tech Lead Engineer Contract LATAM",
       "link": "https://web3.career/tech-lead-engineer-contract-latam-nexus/149668",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/senior-blockchain-developer-lemon-io/148405",
       "company_name": "Lemon.io",
       "description": "dev senior blockchain angular ethereum"
-    },
-    {
-      "title": "QA Engineer Web Frontend",
-      "link": "https://web3.career/qa-engineer-web-frontend-ondofinance/148161",
-      "company_name": "Ondo Finance",
-      "description": "engineer front end quality assurance aws blockchain"
     }
   ]
 }
