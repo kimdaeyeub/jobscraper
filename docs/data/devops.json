@@ -2,7 +2,7 @@
   "skill": "devops",
   "label": "DevOps",
   "count": 17,
-  "updated_at": "2026-05-25T07:48:48.676188+00:00",
+  "updated_at": "2026-06-01T08:02:48.140651+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
@@ -15,6 +15,42 @@
       "description": "Help us decarbonize the cement and concrete industry. alcemy was founded to reduce the massive CO2 footprint of the cement and concrete industry. Concrete is humanity\\’s second most used material by volume and its production is responsible for around 8% of global CO2 emissions. We are changing this! We leverage machine learning to provide smart production control software...",
       "link": "https://berlinstartupjobs.com/engineering/senior-infrastructure-engineer-f-m-d-alcemy/",
       "company_name": "alcemy"
+    },
+    {
+      "title": "Senior DevOps Engineer Exchange Trading Platms United Kingdom",
+      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-united-kingdom-crypto-com/149821",
+      "company_name": "Crypto.com",
+      "description": "devops engineer senior aws crypto"
+    },
+    {
+      "title": "Senior DevOps Engineer Exchange Trading Platms Taiwan",
+      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-taiwan-crypto-com/149820",
+      "company_name": "Crypto.com",
+      "description": "devops engineer senior aws crypto"
+    },
+    {
+      "title": "Senior DevOps Engineer Exchange Trading Platms Singapore",
+      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-singapore-crypto-com/149819",
+      "company_name": "Crypto.com",
+      "description": "devops engineer senior aws crypto"
+    },
+    {
+      "title": "Senior DevOps Engineer Exchange Trading Platms Poland",
+      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-poland-crypto-com/149818",
+      "company_name": "Crypto.com",
+      "description": "devops engineer senior aws crypto"
+    },
+    {
+      "title": "Senior DevOps Engineer Exchange Trading Platms Hong Kong",
+      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-hong-kong-crypto-com/149817",
+      "company_name": "Crypto.com",
+      "description": "devops engineer senior aws crypto"
+    },
+    {
+      "title": "DevOps Engineer Blockchain Digital Assets",
+      "link": "https://web3.career/devops-engineer-blockchain-digital-assets-n3xt/149787",
+      "company_name": "N3XT",
+      "description": "devops finance non tech engineer blockchain"
     },
     {
       "title": "Senior DevOps Engineer",
@@ -69,42 +105,6 @@
       "link": "https://web3.career/senior-devops-site-reliability-engineer-limitbreak/148951",
       "company_name": "Limit Break",
       "description": "devops engineer reliability senior aws"
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-monadfoundation/148934",
-      "company_name": "Monad Foundation",
-      "description": "devops engineer senior aws blockchain"
-    },
-    {
-      "title": "DevOps Team Lead Core Foundation",
-      "link": "https://web3.career/devops-team-lead-core-foundation-alpaca/148790",
-      "company_name": "Alpaca",
-      "description": "devops lead crypto kubernetes remote"
-    },
-    {
-      "title": "2026 Summer Internship DevOps Engineer",
-      "link": "https://web3.career/2026-summer-internship-devops-engineer-dvtrading/148001",
-      "company_name": "Dvtrading",
-      "description": "devops engineer intern entry level aws"
-    },
-    {
-      "title": "DevOps Engineer Canada Wide Remote",
-      "link": "https://web3.career/devops-engineer-canada-wide-remote-newton/147964",
-      "company_name": "Newton",
-      "description": "remote devops engineer aws crypto"
-    },
-    {
-      "title": "DevOps Engineer Blockchain",
-      "link": "https://web3.career/devops-engineer-blockchain-binance/147661",
-      "company_name": "Binance",
-      "description": "devops engineer blockchain aws bitcoin"
-    },
-    {
-      "title": "DevOps Engineer Contractor",
-      "link": "https://web3.career/devops-engineer-contractor-coinmarketcap/147446",
-      "company_name": "Coin Market Cap Ltd",
-      "description": "contractor devops engineer aws docker"
     }
   ]
 }

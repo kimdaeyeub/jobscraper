@@ -2,7 +2,7 @@
   "skill": "javascript",
   "label": "JavaScript",
   "count": 17,
-  "updated_at": "2026-05-25T07:47:33.782538+00:00",
+  "updated_at": "2026-06-01T08:01:33.066611+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -17,10 +17,10 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
-      "company_name": "Lemon.io",
-      "description": "dev senior blockchain ethereum ethereumjs"
+      "title": "QA Automation Engineer 100% remote Worldwide UTC+7 +9",
+      "link": "https://web3.career/qa-automation-engineer-100-remote-worldwide-utc-7-9-bitfinex/149834",
+      "company_name": "Bitfinex",
+      "description": "remote engineer quality assurance bitcoin crypto"
     },
     {
       "title": "Senior Software Engineer React Broker Web Platm",
@@ -29,28 +29,34 @@
       "description": "engineer javascript react senior dev"
     },
     {
-      "title": "Staff Security Engineer Product Security",
-      "link": "https://web3.career/staff-security-engineer-product-security-chainalysis/149646",
-      "company_name": "Chainalysis",
-      "description": "engineer security aws blockchain crypto"
+      "title": "Senior Technical Product Manager Wallets 100% Remote",
+      "link": "https://web3.career/senior-technical-product-manager-wallets-100-remote-tetheroperationslimited/149801",
+      "company_name": "Tether Operations Limited",
+      "description": "remote product manager non tech senior bitcoin"
     },
     {
-      "title": "Senior IT Support Engineer UK Hybrid",
-      "link": "https://web3.career/senior-it-support-engineer-uk-hybrid-brave/149636",
-      "company_name": "Brave",
-      "description": "engineer senior customer support crypto javascript"
+      "title": "Senior Staff iOS Developer",
+      "link": "https://web3.career/senior-staff-ios-developer-okx/149777",
+      "company_name": "Okx",
+      "description": "dev ios mobile senior blockchain"
     },
     {
-      "title": "Legal Operations Lead",
-      "link": "https://web3.career/legal-operations-lead-solanafoundation/149564",
-      "company_name": "Solana Foundation",
-      "description": "lead legal operations remote blockchain"
+      "title": "FullStack Engineer",
+      "link": "https://web3.career/full-stack-engineer-launchpadtechnologiesinc/149776",
+      "company_name": "Launchpadtechnologiesinc",
+      "description": "engineer full stack javascript nextjs node"
     },
     {
       "title": "Senior Software Engineer",
       "link": "https://web3.career/senior-software-engineer-groma/59987",
       "company_name": "Groma",
       "description": "dev senior blockchain ethereum javascript"
+    },
+    {
+      "title": "Staff React Native Engineer Pro",
+      "link": "https://web3.career/staff-react-native-engineer-pro-kraken/149769",
+      "company_name": "Kraken",
+      "description": "engineer react native mobile javascript react"
     },
     {
       "title": "FrontEnd Engineer",
@@ -75,12 +81,6 @@
       "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
       "company_name": "Blockchain",
       "description": "engineer front end blockchain crypto javascript"
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-aurosglobal/149538",
-      "company_name": "Aurosglobal",
-      "description": "devops engineer senior aws blockchain"
     },
     {
       "title": "Sr. Ad Sales Director Search",

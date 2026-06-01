@@ -2,20 +2,8 @@
   "skill": "angular",
   "label": "Angular",
   "count": 15,
-  "updated_at": "2026-05-25T07:48:01.686659+00:00",
+  "updated_at": "2026-06-01T08:02:03.432515+00:00",
   "jobs": [
-    {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
-      "company_name": "Lemon.io",
-      "description": "dev senior blockchain ethereum ethereumjs"
-    },
-    {
-      "title": "Director of Engineering API Management and CIAM",
-      "link": "https://web3.career/director-of-engineering-api-management-and-ciam-zinnia/149677",
-      "company_name": "Zinnia",
-      "description": "api executive angular aws java"
-    },
     {
       "title": "Senior Full Stack Engineer",
       "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/103010",
@@ -39,6 +27,18 @@
       "link": "https://web3.career/java-backend-developer-localcoin/78924",
       "company_name": "Localcoin",
       "description": "backend dev java angular aws"
+    },
+    {
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain ethereum ethereumjs"
+    },
+    {
+      "title": "Director of Engineering API Management and CIAM",
+      "link": "https://web3.career/director-of-engineering-api-management-and-ciam-zinnia/149677",
+      "company_name": "Zinnia",
+      "description": "api executive angular aws java"
     },
     {
       "title": "Software Engineering Internship Aarhus Office",

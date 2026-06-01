@@ -2,14 +2,8 @@
   "skill": "vue",
   "label": "Vue",
   "count": 15,
-  "updated_at": "2026-05-25T07:47:57.869025+00:00",
+  "updated_at": "2026-06-01T08:01:59.946213+00:00",
   "jobs": [
-    {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
-      "company_name": "Lemon.io",
-      "description": "dev senior blockchain ethereum ethereumjs"
-    },
     {
       "title": "Engineering Director Frontend Business Lead",
       "link": "https://web3.career/engineering-director-frontend-business-lead-okx/147552",
@@ -21,6 +15,12 @@
       "link": "https://web3.career/engineering-director-frontend-okx/147551",
       "company_name": "Okx",
       "description": "executive front end blockchain crypto react"
+    },
+    {
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain ethereum ethereumjs"
     },
     {
       "title": "Staff Software Engineer",

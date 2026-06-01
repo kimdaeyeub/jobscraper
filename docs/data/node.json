@@ -2,13 +2,79 @@
   "skill": "node",
   "label": "Node.js",
   "count": 16,
-  "updated_at": "2026-05-25T07:48:02.270028+00:00",
+  "updated_at": "2026-06-01T08:02:03.830962+00:00",
   "jobs": [
     {
       "title": "Senior Product Engineer",
       "description": "TL;DR Kombo (YC S22) is building a unified API that saves engineering teams, on average, hundreds of hours by needing to integrate only one API instead of 50+. We’re looking for a product-minded full-stack engineer to potentially own one of our existing or new product verticals and to build features for our rapidly growing customer base....",
       "link": "https://berlinstartupjobs.com/engineering/senior-product-engineer-kombo/",
       "company_name": "Kombo"
+    },
+    {
+      "title": "Machine Learning Systems Engineer",
+      "link": "https://web3.career/machine-learning-systems-engineer-tetheroperationslimited/149835",
+      "company_name": "Tether Operations Limited",
+      "description": "engineer machine learning ai aws bitcoin"
+    },
+    {
+      "title": "Staff Software Engineer future opportunities",
+      "link": "https://web3.career/staff-software-engineer-future-opportunities-shakepay/149826",
+      "company_name": "Shakepay",
+      "description": "engineer dev bitcoin crypto node"
+    },
+    {
+      "title": "Senior Software Engineer future opportunities",
+      "link": "https://web3.career/senior-software-engineer-future-opportunities-shakepay/149825",
+      "company_name": "Shakepay",
+      "description": "engineer senior dev bitcoin crypto"
+    },
+    {
+      "title": "DevOps Engineer Blockchain Digital Assets",
+      "link": "https://web3.career/devops-engineer-blockchain-digital-assets-n3xt/149787",
+      "company_name": "N3XT",
+      "description": "devops finance non tech engineer blockchain"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/103010",
+      "company_name": "Bcbgroup",
+      "description": "engineer full stack senior angular bitcoin"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
+      "company_name": "Bcbgroup",
+      "description": "engineer full stack senior angular crypto"
+    },
+    {
+      "title": "FullStack Engineer",
+      "link": "https://web3.career/full-stack-engineer-launchpadtechnologiesinc/149776",
+      "company_name": "Launchpadtechnologiesinc",
+      "description": "engineer full stack javascript nextjs node"
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "link": "https://web3.career/senior-site-reliability-engineer-bloxstaking/148505",
+      "company_name": "Bloxstaking",
+      "description": "engineer reliability senior blockchain ethereum"
+    },
+    {
+      "title": "Account Executive Crypto Native",
+      "link": "https://web3.career/account-executive-crypto-native-blockdaemon/149763",
+      "company_name": "Blockdaemon",
+      "description": "account manager sales non tech executive blockchain"
+    },
+    {
+      "title": "Growth Engineer Data Systems",
+      "link": "https://web3.career/growth-engineer-data-systems-bitmex/146102",
+      "company_name": "Bitmex",
+      "description": "growth engineer crypto discord javascript"
+    },
+    {
+      "title": "Senior Software Engineer Post Trade",
+      "link": "https://web3.career/senior-software-engineer-post-trade-bitgo/145962",
+      "company_name": "Bitgo",
+      "description": "engineer senior dev bitcoin blockchain"
     },
     {
       "title": "Software Engineer Stablecoin",
@@ -33,72 +99,6 @@
       "link": "https://web3.career/senior-software-architect-100-remote-worldwide-tetheroperationslimited/149708",
       "company_name": "Tether Operations Limited",
       "description": "remote architecture senior dev bitcoin"
-    },
-    {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
-      "company_name": "Lemon.io",
-      "description": "dev senior blockchain ethereum ethereumjs"
-    },
-    {
-      "title": "Director of Engineering API Management and CIAM",
-      "link": "https://web3.career/director-of-engineering-api-management-and-ciam-zinnia/149677",
-      "company_name": "Zinnia",
-      "description": "api executive angular aws java"
-    },
-    {
-      "title": "Applied AI Engineer",
-      "link": "https://web3.career/applied-ai-engineer-cryptio/149649",
-      "company_name": "Cryptio",
-      "description": "ai engineer aws crypto docker"
-    },
-    {
-      "title": "Senior Backend Engineer Finapps Access",
-      "link": "https://web3.career/senior-backend-engineer-finapps-access-fireblocks/149631",
-      "company_name": "Fireblocks",
-      "description": "backend engineer senior blockchain crypto"
-    },
-    {
-      "title": "Senior Backend Engineer Solana Mobile",
-      "link": "https://web3.career/senior-backend-engineer-solana-mobile-solanalabs/149602",
-      "company_name": "Solana Labs",
-      "description": "backend engineer mobile senior aws"
-    },
-    {
-      "title": "AI Research Engineer Agentic Posttraining 100% Remote Worldwide",
-      "link": "https://web3.career/ai-research-engineer-agentic-post-training-100-remote-worldwide-tetheroperationslimited/149571",
-      "company_name": "Tether Operations Limited",
-      "description": "remote research ai engineer education"
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/103010",
-      "company_name": "Bcbgroup",
-      "description": "engineer full stack senior angular bitcoin"
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
-      "company_name": "Bcbgroup",
-      "description": "engineer full stack senior angular crypto"
-    },
-    {
-      "title": "Senior AI Engineer",
-      "link": "https://web3.career/senior-ai-engineer-zinnia/149569",
-      "company_name": "Zinnia",
-      "description": "ai engineer senior node typescript"
-    },
-    {
-      "title": "Senior Site Reliability Engineer",
-      "link": "https://web3.career/senior-site-reliability-engineer-bloxstaking/148505",
-      "company_name": "Bloxstaking",
-      "description": "engineer reliability senior blockchain ethereum"
-    },
-    {
-      "title": "Growth Engineer Data Systems",
-      "link": "https://web3.career/growth-engineer-data-systems-bitmex/146102",
-      "company_name": "Bitmex",
-      "description": "growth engineer crypto discord javascript"
     }
   ]
 }

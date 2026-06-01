@@ -2,7 +2,7 @@
   "skill": "kubernetes",
   "label": "Kubernetes",
   "count": 19,
-  "updated_at": "2026-05-25T07:48:44.646288+00:00",
+  "updated_at": "2026-06-01T08:02:41.012387+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -29,34 +29,10 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Software Engineer Stablecoin",
-      "link": "https://web3.career/software-engineer-stablecoin-edkey/149733",
-      "company_name": "edkey",
-      "description": "engineer dev aws blockchain crypto"
-    },
-    {
-      "title": "Senior Full Stack Engineer Checkout",
-      "link": "https://web3.career/senior-full-stack-engineer-checkout-li-fi/149725",
-      "company_name": "LI.FI",
-      "description": "engineer full stack senior aws crypto"
-    },
-    {
-      "title": "Applied AI Engineer",
-      "link": "https://web3.career/applied-ai-engineer-li-fi/149724",
-      "company_name": "LI.FI",
-      "description": "ai engineer aws crypto defi"
-    },
-    {
-      "title": "SDE III Backend",
-      "link": "https://web3.career/sde-iii-backend-inmobi/149670",
-      "company_name": "Inmobi",
-      "description": "backend aws java kubernetes remote"
-    },
-    {
-      "title": "Infrastructure Engineer Contract – LATAM",
-      "link": "https://web3.career/infrastructure-engineer-contract-latam-nexus/149667",
-      "company_name": "Nexus",
-      "description": "infrastructure engineer aws blockchain docker"
+      "title": "Senior Platm Engineer",
+      "link": "https://web3.career/senior-platform-engineer-trojantrading/149854",
+      "company_name": "Trojan Trading",
+      "description": "engineer senior aws crypto defi"
     },
     {
       "title": "Software Engineer Java OpsHub",
@@ -65,40 +41,58 @@
       "description": "engineer java dev aws crypto"
     },
     {
+      "title": "Software Engineer Java Identity Platm",
+      "link": "https://web3.career/software-engineer-java-identity-platform-bitpanda/149831",
+      "company_name": "Bitpanda",
+      "description": "engineer java dev crypto kubernetes"
+    },
+    {
       "title": "Software Engineer Java Digital Asset Systems",
       "link": "https://web3.career/software-engineer-java-digital-asset-systems-bitpanda/149242",
       "company_name": "Bitpanda",
       "description": "engineer java dev aws crypto"
     },
     {
-      "title": "Staff Security Engineer Product Security",
-      "link": "https://web3.career/staff-security-engineer-product-security-chainalysis/149646",
-      "company_name": "Chainalysis",
-      "description": "engineer security aws blockchain crypto"
+      "title": "Senior DevOps Engineer Exchange Trading Platms United Kingdom",
+      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-united-kingdom-crypto-com/149821",
+      "company_name": "Crypto.com",
+      "description": "devops engineer senior aws crypto"
     },
     {
-      "title": "Senior Backend Engineer Exchange Systems",
-      "link": "https://web3.career/senior-backend-engineer-exchange-systems-polymarket/149644",
-      "company_name": "Polymarket",
-      "description": "backend engineer senior aws blockchain"
+      "title": "Senior DevOps Engineer Exchange Trading Platms Taiwan",
+      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-taiwan-crypto-com/149820",
+      "company_name": "Crypto.com",
+      "description": "devops engineer senior aws crypto"
     },
     {
-      "title": "Site Reliability Engineer",
-      "link": "https://web3.career/site-reliability-engineer-alpaca/149638",
-      "company_name": "Alpaca",
-      "description": "engineer reliability crypto kubernetes remote"
+      "title": "Senior DevOps Engineer Exchange Trading Platms Singapore",
+      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-singapore-crypto-com/149819",
+      "company_name": "Crypto.com",
+      "description": "devops engineer senior aws crypto"
     },
     {
-      "title": "Senior Software Engineer Core Trading",
-      "link": "https://web3.career/senior-software-engineer-core-trading-alpaca/149637",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev aws crypto"
+      "title": "Senior DevOps Engineer Exchange Trading Platms Poland",
+      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-poland-crypto-com/149818",
+      "company_name": "Crypto.com",
+      "description": "devops engineer senior aws crypto"
     },
     {
-      "title": "Infrastructure Engineer DataOps Team",
-      "link": "https://web3.career/infrastructure-engineer-dataops-team-bitgo/149635",
-      "company_name": "Bitgo",
-      "description": "infrastructure dataops engineer aws bitcoin"
+      "title": "Senior DevOps Engineer Exchange Trading Platms Hong Kong",
+      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-hong-kong-crypto-com/149817",
+      "company_name": "Crypto.com",
+      "description": "devops engineer senior aws crypto"
+    },
+    {
+      "title": "Senior Backend Engineer Rust",
+      "link": "https://web3.career/senior-backend-engineer-rust-cow-dao/149797",
+      "company_name": "CoW DAO",
+      "description": "backend engineer rust senior remote"
+    },
+    {
+      "title": "DevOps Engineer Blockchain Digital Assets",
+      "link": "https://web3.career/devops-engineer-blockchain-digital-assets-n3xt/149787",
+      "company_name": "N3XT",
+      "description": "devops finance non tech engineer blockchain"
     },
     {
       "title": "Senior Full Stack Engineer",
@@ -111,6 +105,12 @@
       "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
       "company_name": "Bcbgroup",
       "description": "engineer full stack senior angular crypto"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "link": "https://web3.career/senior-data-engineer-zinnia/109189",
+      "company_name": "Zinnia",
+      "description": "data science engineer senior kubernetes remote"
     },
     {
       "title": "Crypto Production Engineer",

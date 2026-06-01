@@ -2,61 +2,19 @@
   "skill": "rust",
   "label": "Rust",
   "count": 15,
-  "updated_at": "2026-05-25T07:47:42.454918+00:00",
+  "updated_at": "2026-06-01T08:01:44.892629+00:00",
   "jobs": [
     {
-      "title": "Software Engineer Stablecoin",
-      "link": "https://web3.career/software-engineer-stablecoin-edkey/149733",
-      "company_name": "edkey",
-      "description": "engineer dev aws blockchain crypto"
+      "title": "Staff Permance Engineer Trading Infrastructure",
+      "link": "https://web3.career/staff-performance-engineer-trading-infrastructure-helius/149853",
+      "company_name": "Helius",
+      "description": "infrastructure engineer crypto defi rust"
     },
     {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
-      "company_name": "Lemon.io",
-      "description": "dev senior blockchain ethereum ethereumjs"
-    },
-    {
-      "title": "Staff Solutions Architect",
-      "link": "https://web3.career/staff-solutions-architect-layerzerolabs/149690",
-      "company_name": "LayerZero Labs",
-      "description": "architecture blockchain defi rust solidity"
-    },
-    {
-      "title": "Rust Developer — EVM Systems Trading Infrastructure",
-      "link": "https://web3.career/rust-developer-evm-systems-trading-infrastructure-1010-trading/143407",
-      "company_name": "1010 trading",
-      "description": "evm ethereum infrastructure dev rust"
-    },
-    {
-      "title": "Senior Staff Engineer Liquidity Platm Trading Service",
-      "link": "https://web3.career/senior-staff-engineer-liquidity-platform-trading-service-okx/149673",
-      "company_name": "Okx",
-      "description": "engineer sales non tech senior blockchain"
-    },
-    {
-      "title": "Tech Lead Engineer Contract LATAM",
-      "link": "https://web3.career/tech-lead-engineer-contract-latam-nexus/149668",
-      "company_name": "Nexus",
-      "description": "engineer lead tech lead blockchain crypto"
-    },
-    {
-      "title": "Infrastructure Engineer Contract – LATAM",
-      "link": "https://web3.career/infrastructure-engineer-contract-latam-nexus/149667",
-      "company_name": "Nexus",
-      "description": "infrastructure engineer aws blockchain docker"
-    },
-    {
-      "title": "QA Automation Engineer Pro",
-      "link": "https://web3.career/qa-automation-engineer-pro-kraken/149662",
-      "company_name": "Kraken",
-      "description": "engineer quality assurance blockchain crypto rust"
-    },
-    {
-      "title": "Senior Software Engineer Core Trading",
-      "link": "https://web3.career/senior-software-engineer-core-trading-alpaca/149637",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev aws crypto"
+      "title": "Founding Crypto Liquidity Trader Market Making",
+      "link": "https://web3.career/founding-crypto-liquidity-trader-market-making-volcanoexchange/149849",
+      "company_name": "Volcano Exchange",
+      "description": "founding member sales non tech trader crypto"
     },
     {
       "title": "Senior BackEnd Engineer Trading Platm",
@@ -65,16 +23,22 @@
       "description": "backend engineer senior blockchain rust"
     },
     {
-      "title": "CTO Security Lead — CoFounder",
-      "link": "https://web3.career/cto-security-lead-co-founder-byte/149622",
-      "company_name": "BYTE",
-      "description": "co founder cto executive lead security"
+      "title": "Senior Backend Engineer Rust",
+      "link": "https://web3.career/senior-backend-engineer-rust-cow-dao/149797",
+      "company_name": "CoW DAO",
+      "description": "backend engineer rust senior remote"
     },
     {
-      "title": "Senior Backend Engineer Solana Mobile",
-      "link": "https://web3.career/senior-backend-engineer-solana-mobile-solanalabs/149602",
-      "company_name": "Solana Labs",
-      "description": "backend engineer mobile senior aws"
+      "title": "DevOps Engineer Blockchain Digital Assets",
+      "link": "https://web3.career/devops-engineer-blockchain-digital-assets-n3xt/149787",
+      "company_name": "N3XT",
+      "description": "devops finance non tech engineer blockchain"
+    },
+    {
+      "title": "Issuance Engineering Lead",
+      "link": "https://web3.career/issuance-engineering-lead-m0/149785",
+      "company_name": "M0",
+      "description": "lead blockchain defi rust solana"
     },
     {
       "title": "Staff Site Reliability Engineer",
@@ -93,6 +57,42 @@
       "link": "https://web3.career/quant-developer-rust-liquidity-platform-delta-one-systematic-trading-okx/145502",
       "company_name": "Okx",
       "description": "dev sales non tech rust aws"
+    },
+    {
+      "title": "Crypto Production Engineer",
+      "link": "https://web3.career/crypto-production-engineer-jumpcrypto/89562",
+      "company_name": "Jumpcrypto",
+      "description": "engineer blockchain crypto defi ethereum"
+    },
+    {
+      "title": "Quantitative Developer",
+      "link": "https://web3.career/quantitative-developer-gsrmarkets/105350",
+      "company_name": "Gsrmarkets",
+      "description": "quantitative quantitative developer dev crypto rust"
+    },
+    {
+      "title": "Systematic Options Researcher Trader Market Making",
+      "link": "https://web3.career/systematic-options-researcher-trader-market-making-gsrmarkets/147062",
+      "company_name": "Gsrmarkets",
+      "description": "research trader crypto rust remote"
+    },
+    {
+      "title": "Senior Software Engineer C++ Trading Technologies",
+      "link": "https://web3.career/senior-software-engineer-c-trading-technologies-kraken/149768",
+      "company_name": "Kraken",
+      "description": "c c plus plus engineer senior dev"
+    },
+    {
+      "title": "Senior Software Engineer Prime",
+      "link": "https://web3.career/senior-software-engineer-prime-alpaca/149756",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev aws crypto"
+    },
+    {
+      "title": "Senior Software Engineer Market Data",
+      "link": "https://web3.career/senior-software-engineer-market-data-alpaca/99655",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev crypto kubernetes"
     }
   ]
 }

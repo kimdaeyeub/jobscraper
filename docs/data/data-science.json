@@ -2,7 +2,7 @@
   "skill": "data-science",
   "label": "Data Science",
   "count": 19,
-  "updated_at": "2026-05-25T07:48:53.487111+00:00",
+  "updated_at": "2026-06-01T08:02:52.545197+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -29,10 +29,22 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Data Analyst",
-      "link": "https://web3.career/data-analyst-chain-catcher/149607",
-      "company_name": "Chain Catcher",
-      "description": "analyst data science blockchain crypto defi"
+      "title": "Senior Data Analyst",
+      "link": "https://web3.career/senior-data-analyst-certik/149808",
+      "company_name": "CertiK",
+      "description": "analyst data science senior aws blockchain"
+    },
+    {
+      "title": "Data Engineer",
+      "link": "https://web3.career/data-engineer-confirmo/149781",
+      "company_name": "Confirmo",
+      "description": "data science engineer aws blockchain crypto"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "link": "https://web3.career/senior-data-engineer-zinnia/109189",
+      "company_name": "Zinnia",
+      "description": "data science engineer senior kubernetes remote"
     },
     {
       "title": "Senior Data Engineer",
@@ -77,6 +89,12 @@
       "description": "analyst data science marketing non tech blockchain"
     },
     {
+      "title": "Data Analyst",
+      "link": "https://web3.career/data-analyst-chain-catcher/149607",
+      "company_name": "Chain Catcher",
+      "description": "analyst data science blockchain crypto defi"
+    },
+    {
       "title": "Senior Data Analyst",
       "link": "https://web3.career/senior-data-analyst-solanafoundation/149499",
       "company_name": "Solana Foundation",
@@ -99,24 +117,6 @@
       "link": "https://web3.career/staff-data-scientist-risk-shakepay/149352",
       "company_name": "Shakepay",
       "description": "scientist data science bitcoin crypto remote"
-    },
-    {
-      "title": "Senior Data Scientist Risk",
-      "link": "https://web3.career/senior-data-scientist-risk-shakepay/149351",
-      "company_name": "Shakepay",
-      "description": "scientist data science senior bitcoin crypto"
-    },
-    {
-      "title": "Business Intelligence Data Scientist",
-      "link": "https://web3.career/business-intelligence-data-scientist-binance/149264",
-      "company_name": "Binance",
-      "description": "scientist data science blockchain java"
-    },
-    {
-      "title": "Data Analyst Risk",
-      "link": "https://web3.career/data-analyst-risk-binance/149263",
-      "company_name": "Binance",
-      "description": "analyst data science blockchain"
     }
   ]
 }

@@ -2,73 +2,25 @@
   "skill": "aws",
   "label": "AWS",
   "count": 15,
-  "updated_at": "2026-05-25T07:48:40.462233+00:00",
+  "updated_at": "2026-06-01T08:02:40.077925+00:00",
   "jobs": [
     {
-      "title": "Software Engineer Stablecoin",
-      "link": "https://web3.career/software-engineer-stablecoin-edkey/149733",
-      "company_name": "edkey",
-      "description": "engineer dev aws blockchain crypto"
+      "title": "Senior Platm Engineer",
+      "link": "https://web3.career/senior-platform-engineer-trojantrading/149854",
+      "company_name": "Trojan Trading",
+      "description": "engineer senior aws crypto defi"
     },
     {
-      "title": "Product Manager Instanode",
-      "link": "https://web3.career/product-manager-instanode-partnerverse/149730",
-      "company_name": "Partnerverse",
-      "description": "product manager non tech aws blockchain ethereum"
+      "title": "Machine Learning Systems Engineer",
+      "link": "https://web3.career/machine-learning-systems-engineer-tetheroperationslimited/149835",
+      "company_name": "Tether Operations Limited",
+      "description": "engineer machine learning ai aws bitcoin"
     },
     {
-      "title": "Senior Full Stack Engineer Checkout",
-      "link": "https://web3.career/senior-full-stack-engineer-checkout-li-fi/149725",
-      "company_name": "LI.FI",
-      "description": "engineer full stack senior aws crypto"
-    },
-    {
-      "title": "Applied AI Engineer",
-      "link": "https://web3.career/applied-ai-engineer-li-fi/149724",
-      "company_name": "LI.FI",
-      "description": "ai engineer aws crypto defi"
-    },
-    {
-      "title": "Go to Market Engineer",
-      "link": "https://web3.career/go-to-market-engineer-impossiblecloud/149706",
-      "company_name": "Impossible Cloud",
-      "description": "gtm engineer golang aws"
-    },
-    {
-      "title": "Sales Engineer",
-      "link": "https://web3.career/sales-engineer-oplabspbc/149685",
-      "company_name": "OP Labs PBC",
-      "description": "sales engineer engineer sales non tech aws"
-    },
-    {
-      "title": "Manager Technical Success",
-      "link": "https://web3.career/manager-technical-success-zscaler/141714",
-      "company_name": "Zscaler",
-      "description": "aws remote"
-    },
-    {
-      "title": "Director of Engineering API Management and CIAM",
-      "link": "https://web3.career/director-of-engineering-api-management-and-ciam-zinnia/149677",
-      "company_name": "Zinnia",
-      "description": "api executive angular aws java"
-    },
-    {
-      "title": "SDE III Backend",
-      "link": "https://web3.career/sde-iii-backend-inmobi/149670",
-      "company_name": "Inmobi",
-      "description": "backend aws java kubernetes remote"
-    },
-    {
-      "title": "Infrastructure Engineer Contract – LATAM",
-      "link": "https://web3.career/infrastructure-engineer-contract-latam-nexus/149667",
-      "company_name": "Nexus",
-      "description": "infrastructure engineer aws blockchain docker"
-    },
-    {
-      "title": "Applied AI Engineer",
-      "link": "https://web3.career/applied-ai-engineer-cryptio/149649",
-      "company_name": "Cryptio",
-      "description": "ai engineer aws crypto docker"
+      "title": "Senior Infrastructure Engineer",
+      "link": "https://web3.career/senior-infrastructure-engineer-copperco/149832",
+      "company_name": "Copperco",
+      "description": "infrastructure engineer senior aws blockchain"
     },
     {
       "title": "Software Engineer Java OpsHub",
@@ -83,16 +35,64 @@
       "description": "engineer java dev aws crypto"
     },
     {
-      "title": "Staff Security Engineer Product Security",
-      "link": "https://web3.career/staff-security-engineer-product-security-chainalysis/149646",
-      "company_name": "Chainalysis",
-      "description": "engineer security aws blockchain crypto"
+      "title": "Senior DevOps Engineer Exchange Trading Platms United Kingdom",
+      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-united-kingdom-crypto-com/149821",
+      "company_name": "Crypto.com",
+      "description": "devops engineer senior aws crypto"
     },
     {
-      "title": "Senior Backend Engineer Exchange Systems",
-      "link": "https://web3.career/senior-backend-engineer-exchange-systems-polymarket/149644",
-      "company_name": "Polymarket",
-      "description": "backend engineer senior aws blockchain"
+      "title": "Senior DevOps Engineer Exchange Trading Platms Taiwan",
+      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-taiwan-crypto-com/149820",
+      "company_name": "Crypto.com",
+      "description": "devops engineer senior aws crypto"
+    },
+    {
+      "title": "Senior DevOps Engineer Exchange Trading Platms Singapore",
+      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-singapore-crypto-com/149819",
+      "company_name": "Crypto.com",
+      "description": "devops engineer senior aws crypto"
+    },
+    {
+      "title": "Senior DevOps Engineer Exchange Trading Platms Poland",
+      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-poland-crypto-com/149818",
+      "company_name": "Crypto.com",
+      "description": "devops engineer senior aws crypto"
+    },
+    {
+      "title": "Senior DevOps Engineer Exchange Trading Platms Hong Kong",
+      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-hong-kong-crypto-com/149817",
+      "company_name": "Crypto.com",
+      "description": "devops engineer senior aws crypto"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "link": "https://web3.career/senior-data-analyst-certik/149808",
+      "company_name": "CertiK",
+      "description": "analyst data science senior aws blockchain"
+    },
+    {
+      "title": "Senior Backend Engineer Rust",
+      "link": "https://web3.career/senior-backend-engineer-rust-cow-dao/149797",
+      "company_name": "CoW DAO",
+      "description": "backend engineer rust senior remote"
+    },
+    {
+      "title": "Data Engineer",
+      "link": "https://web3.career/data-engineer-confirmo/149781",
+      "company_name": "Confirmo",
+      "description": "data science engineer aws blockchain crypto"
+    },
+    {
+      "title": "Staff Site Reliability Engineer",
+      "link": "https://web3.career/staff-site-reliability-engineer-zscaler/106117",
+      "company_name": "Zscaler",
+      "description": "engineer reliability aws golang java"
+    },
+    {
+      "title": "Principal Site Reliability Engineer",
+      "link": "https://web3.career/principal-site-reliability-engineer-zscaler/99847",
+      "company_name": "Zscaler",
+      "description": "engineer executive reliability aws golang"
     }
   ]
 }

@@ -1,26 +1,20 @@
 {
   "skill": "php",
   "label": "PHP",
-  "count": 16,
-  "updated_at": "2026-05-25T07:47:45.971453+00:00",
+  "count": 15,
+  "updated_at": "2026-06-01T08:01:48.461653+00:00",
   "jobs": [
     {
-      "title": "Working Student (f/m/x) – Backend",
-      "description": "About us zamics is a venture of Z LAB, the corporate incubator of the Zeppelin Group. Our goal is to connect the entire construction site! With our app and web application for equipment management, combined with our transponders, we are bringing analogue processes into the digital future. Our users benefit from a transparent overview of...",
-      "link": "https://berlinstartupjobs.com/engineering/working-student-f-m-x-backend-zeppelin-lab-gmbh-zamics/",
-      "company_name": "zamics"
+      "title": "Senior Software Engineer Java",
+      "link": "https://web3.career/senior-software-engineer-java-bitpanda/58574",
+      "company_name": "Bitpanda",
+      "description": "dev java senior aws php"
     },
     {
       "title": "Senior Blockchain Developer",
       "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
       "company_name": "Lemon.io",
       "description": "dev senior blockchain ethereum ethereumjs"
-    },
-    {
-      "title": "Senior Software Engineer Java",
-      "link": "https://web3.career/senior-software-engineer-java-bitpanda/58574",
-      "company_name": "Bitpanda",
-      "description": "dev java senior aws php"
     },
     {
       "title": "Senior Blockchain Developer",

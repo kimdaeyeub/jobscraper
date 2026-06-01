@@ -2,7 +2,7 @@
   "skill": "java",
   "label": "Java",
   "count": 16,
-  "updated_at": "2026-05-25T07:47:34.853949+00:00",
+  "updated_at": "2026-06-01T08:01:37.963232+00:00",
   "jobs": [
     {
       "title": "Senior Fullstack Developer with Product Mindset",
@@ -11,46 +11,16 @@
       "company_name": "Small Improvements"
     },
     {
-      "title": "Software Engineer Stablecoin",
-      "link": "https://web3.career/software-engineer-stablecoin-edkey/149733",
-      "company_name": "edkey",
-      "description": "engineer dev aws blockchain crypto"
+      "title": "Senior Quality Assurance Automation Engineer",
+      "link": "https://web3.career/senior-quality-assurance-automation-engineer-crypto-com/149907",
+      "company_name": "Crypto.com",
+      "description": "quality assurance engineer senior crypto java"
     },
     {
-      "title": "Backend Engineer Payment Java",
-      "link": "https://web3.career/backend-engineer-payment-java-binance/149728",
-      "company_name": "Binance",
-      "description": "backend engineer java blockchain crypto"
-    },
-    {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
-      "company_name": "Lemon.io",
-      "description": "dev senior blockchain ethereum ethereumjs"
-    },
-    {
-      "title": "Director of Engineering API Management and CIAM",
-      "link": "https://web3.career/director-of-engineering-api-management-and-ciam-zinnia/149677",
-      "company_name": "Zinnia",
-      "description": "api executive angular aws java"
-    },
-    {
-      "title": "Senior Staff Engineer Liquidity Platm Trading Service",
-      "link": "https://web3.career/senior-staff-engineer-liquidity-platform-trading-service-okx/149673",
-      "company_name": "Okx",
-      "description": "engineer sales non tech senior blockchain"
-    },
-    {
-      "title": "Senior Staff Engineer Liquidity Platm Strategy Service",
-      "link": "https://web3.career/senior-staff-engineer-liquidity-platform-strategy-service-okx/149672",
-      "company_name": "Okx",
-      "description": "strategy non tech engineer sales senior"
-    },
-    {
-      "title": "SDE III Backend",
-      "link": "https://web3.career/sde-iii-backend-inmobi/149670",
-      "company_name": "Inmobi",
-      "description": "backend aws java kubernetes remote"
+      "title": "Software Engineer Fraud",
+      "link": "https://web3.career/software-engineer-fraud-bluecubeservices/141161",
+      "company_name": "Bluecubeservices",
+      "description": "engineer security dev blockchain crypto"
     },
     {
       "title": "Software Engineer Java OpsHub",
@@ -59,22 +29,16 @@
       "description": "engineer java dev aws crypto"
     },
     {
+      "title": "Software Engineer Java Identity Platm",
+      "link": "https://web3.career/software-engineer-java-identity-platform-bitpanda/149831",
+      "company_name": "Bitpanda",
+      "description": "engineer java dev crypto kubernetes"
+    },
+    {
       "title": "Software Engineer Java Digital Asset Systems",
       "link": "https://web3.career/software-engineer-java-digital-asset-systems-bitpanda/149242",
       "company_name": "Bitpanda",
       "description": "engineer java dev aws crypto"
-    },
-    {
-      "title": "Staff Security Engineer Product Security",
-      "link": "https://web3.career/staff-security-engineer-product-security-chainalysis/149646",
-      "company_name": "Chainalysis",
-      "description": "engineer security aws blockchain crypto"
-    },
-    {
-      "title": "Senior Software Engineer Core Trading",
-      "link": "https://web3.career/senior-software-engineer-core-trading-alpaca/149637",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev aws crypto"
     },
     {
       "title": "Senior Full Stack Engineer",
@@ -95,10 +59,46 @@
       "description": "engineer executive reliability aws golang"
     },
     {
+      "title": "Senior Staff iOS Developer",
+      "link": "https://web3.career/senior-staff-ios-developer-okx/149777",
+      "company_name": "Okx",
+      "description": "dev ios mobile senior blockchain"
+    },
+    {
       "title": "Principal Staff Engineer Compliance",
       "link": "https://web3.career/principal-staff-engineer-compliance-okx/149565",
       "company_name": "Okx",
       "description": "compliance non tech engineer executive blockchain"
+    },
+    {
+      "title": "Android Engineer",
+      "link": "https://web3.career/android-engineer-bluecubeservices/103709",
+      "company_name": "Bluecubeservices",
+      "description": "android mobile engineer bitcoin crypto"
+    },
+    {
+      "title": "Software Engineers KYC Eligibility",
+      "link": "https://web3.career/software-engineers-kyc-eligibility-bluecubeservices/139456",
+      "company_name": "Bluecubeservices",
+      "description": "kyc non tech dev blockchain java"
+    },
+    {
+      "title": "Senior Software Engineer Java",
+      "link": "https://web3.career/senior-software-engineer-java-bitpanda/58574",
+      "company_name": "Bitpanda",
+      "description": "dev java senior aws php"
+    },
+    {
+      "title": "Senior Software Engineer Web Full Stack",
+      "link": "https://web3.career/senior-software-engineer-web-full-stack-bitmex/92818",
+      "company_name": "Bitmex",
+      "description": "engineer full stack senior dev bitcoin"
+    },
+    {
+      "title": "Senior Trading Technology Engineer LowLatency",
+      "link": "https://web3.career/senior-trading-technology-engineer-low-latency-bitmex/92753",
+      "company_name": "Bitmex",
+      "description": "engineer senior crypto discord docker"
     }
   ]
 }

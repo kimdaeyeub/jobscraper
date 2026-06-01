@@ -2,13 +2,25 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-05-25T07:47:53.495852+00:00",
+  "updated_at": "2026-06-01T08:01:56.081212+00:00",
   "jobs": [
     {
-      "title": "Senior Backend Engineer Solana Mobile",
-      "link": "https://web3.career/senior-backend-engineer-solana-mobile-solanalabs/149602",
-      "company_name": "Solana Labs",
-      "description": "backend engineer mobile senior aws"
+      "title": "Software Engineer Fraud",
+      "link": "https://web3.career/software-engineer-fraud-bluecubeservices/141161",
+      "company_name": "Bluecubeservices",
+      "description": "engineer security dev blockchain crypto"
+    },
+    {
+      "title": "Senior Staff iOS Developer",
+      "link": "https://web3.career/senior-staff-ios-developer-okx/149777",
+      "company_name": "Okx",
+      "description": "dev ios mobile senior blockchain"
+    },
+    {
+      "title": "Staff React Native Engineer Pro",
+      "link": "https://web3.career/staff-react-native-engineer-pro-kraken/149769",
+      "company_name": "Kraken",
+      "description": "engineer react native mobile javascript react"
     },
     {
       "title": "Android Engineer",
@@ -17,10 +29,22 @@
       "description": "android mobile engineer bitcoin crypto"
     },
     {
+      "title": "Software Engineers KYC Eligibility",
+      "link": "https://web3.career/software-engineers-kyc-eligibility-bluecubeservices/139456",
+      "company_name": "Bluecubeservices",
+      "description": "kyc non tech dev blockchain java"
+    },
+    {
       "title": "Senior Software Engineer Web Full Stack",
       "link": "https://web3.career/senior-software-engineer-web-full-stack-bitmex/92818",
       "company_name": "Bitmex",
       "description": "engineer full stack senior dev bitcoin"
+    },
+    {
+      "title": "Senior Backend Engineer Solana Mobile",
+      "link": "https://web3.career/senior-backend-engineer-solana-mobile-solanalabs/149602",
+      "company_name": "Solana Labs",
+      "description": "backend engineer mobile senior aws"
     },
     {
       "title": "Senior Software Engineer NewMarkets Japan",
@@ -69,30 +93,6 @@
       "link": "https://web3.career/software-developer-in-test-sdet-engineering-r3-mumbai-hybrid-r3/148980",
       "company_name": "R3",
       "description": "quality assurance dev defi docker java"
-    },
-    {
-      "title": "Principal AI Engineer",
-      "link": "https://web3.career/principal-ai-engineer-figure/58227",
-      "company_name": "Figure",
-      "description": "ai dev executive aws blockchain"
-    },
-    {
-      "title": "Senior React Native Engineer",
-      "link": "https://web3.career/senior-react-native-engineer-blockchain/148912",
-      "company_name": "Blockchain",
-      "description": "engineer react native mobile javascript react"
-    },
-    {
-      "title": "MidLevel React Native Engineer",
-      "link": "https://web3.career/mid-level-react-native-engineer-blockchain/148911",
-      "company_name": "Blockchain",
-      "description": "engineer react native mobile javascript react"
-    },
-    {
-      "title": "Principal Mobile Engineer Platm MetaMask",
-      "link": "https://web3.career/principal-mobile-engineer-platform-metamask-consensys/148842",
-      "company_name": "Consensys",
-      "description": "engineer mobile executive remote blockchain"
     }
   ]
 }
