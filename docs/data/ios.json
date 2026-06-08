@@ -2,14 +2,8 @@
   "skill": "ios",
   "label": "iOS",
   "count": 15,
-  "updated_at": "2026-06-01T08:02:59.619650+00:00",
+  "updated_at": "2026-06-08T07:58:19.940343+00:00",
   "jobs": [
-    {
-      "title": "Senior Staff iOS Developer",
-      "link": "https://web3.career/senior-staff-ios-developer-okx/149777",
-      "company_name": "Okx",
-      "description": "dev ios mobile senior blockchain"
-    },
     {
       "title": "iOS Engineer",
       "link": "https://web3.career/ios-engineer-bluecubeservices/103710",
@@ -27,6 +21,12 @@
       "link": "https://web3.career/ios-engineer-blockchain/105339",
       "company_name": "Blockchain",
       "description": "engineer ios mobile bitcoin blockchain"
+    },
+    {
+      "title": "Senior Staff iOS Developer",
+      "link": "https://web3.career/senior-staff-ios-developer-okx/149777",
+      "company_name": "Okx",
+      "description": "dev ios mobile senior blockchain"
     },
     {
       "title": "Senior Software Engineer iOS B2C",

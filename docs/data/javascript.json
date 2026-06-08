@@ -2,14 +2,8 @@
   "skill": "javascript",
   "label": "JavaScript",
   "count": 17,
-  "updated_at": "2026-06-01T08:01:33.066611+00:00",
+  "updated_at": "2026-06-08T07:57:19.289911+00:00",
   "jobs": [
-    {
-      "title": "Senior Backend Developer – Go & Kubernetes",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
-      "company_name": "DATATRONiQ"
-    },
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
@@ -17,34 +11,40 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "QA Automation Engineer 100% remote Worldwide UTC+7 +9",
-      "link": "https://web3.career/qa-automation-engineer-100-remote-worldwide-utc-7-9-bitfinex/149834",
-      "company_name": "Bitfinex",
-      "description": "remote engineer quality assurance bitcoin crypto"
+      "title": "Senior Backend Developer – Go & Kubernetes",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
+      "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Software Engineer React Broker Web Platm",
-      "link": "https://web3.career/senior-software-engineer-react-broker-web-platform-bitpanda/149241",
-      "company_name": "Bitpanda",
-      "description": "engineer javascript react senior dev"
+      "title": "Copy of Full Stack Engineer Blockchain",
+      "link": "https://web3.career/copy-of-full-stack-engineer-blockchain-fireblocks/150174",
+      "company_name": "Fireblocks",
+      "description": "engineer full stack blockchain docker javascript"
     },
     {
-      "title": "Senior Technical Product Manager Wallets 100% Remote",
-      "link": "https://web3.career/senior-technical-product-manager-wallets-100-remote-tetheroperationslimited/149801",
+      "title": "Principal Software Engineer React + Node Remote EU or USA",
+      "link": "https://web3.career/principal-software-engineer-react-node-remote-eu-or-usa-pubgeniusinc/150071",
+      "company_name": "Pubgenius Inc.",
+      "description": "remote engineer javascript node executive"
+    },
+    {
+      "title": "Senior Technical Product Manager Wallets 100% Remote Worldwide",
+      "link": "https://web3.career/senior-technical-product-manager-wallets-100-remote-worldwide-tetheroperationslimited/150053",
       "company_name": "Tether Operations Limited",
       "description": "remote product manager non tech senior bitcoin"
     },
     {
-      "title": "Senior Staff iOS Developer",
-      "link": "https://web3.career/senior-staff-ios-developer-okx/149777",
-      "company_name": "Okx",
-      "description": "dev ios mobile senior blockchain"
+      "title": "Senior QA Engineer 100% Remote Worldwide",
+      "link": "https://web3.career/senior-qa-engineer-100-remote-worldwide-tetheroperationslimited/150051",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer quality assurance senior aws"
     },
     {
-      "title": "FullStack Engineer",
-      "link": "https://web3.career/full-stack-engineer-launchpadtechnologiesinc/149776",
-      "company_name": "Launchpadtechnologiesinc",
-      "description": "engineer full stack javascript nextjs node"
+      "title": "Senior QA Engineer 100% Remote",
+      "link": "https://web3.career/senior-qa-engineer-100-remote-tetheroperationslimited/150050",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer quality assurance senior aws"
     },
     {
       "title": "Senior Software Engineer",
@@ -53,10 +53,16 @@
       "description": "dev senior blockchain ethereum javascript"
     },
     {
-      "title": "Staff React Native Engineer Pro",
-      "link": "https://web3.career/staff-react-native-engineer-pro-kraken/149769",
+      "title": "Software Engineer II Frontend Pro",
+      "link": "https://web3.career/software-engineer-ii-frontend-pro-kraken/150024",
       "company_name": "Kraken",
-      "description": "engineer react native mobile javascript react"
+      "description": "engineer front end dev blockchain crypto"
+    },
+    {
+      "title": "Software Engineer Frontend Payments",
+      "link": "https://web3.career/software-engineer-frontend-payments-kraken/150023",
+      "company_name": "Kraken",
+      "description": "engineer front end dev blockchain crypto"
     },
     {
       "title": "FrontEnd Engineer",
@@ -65,46 +71,40 @@
       "description": "engineer front end crypto javascript react"
     },
     {
+      "title": "People Systems AI Operations Engineer",
+      "link": "https://web3.career/people-systems-ai-operations-engineer-chainlinklabs/150012",
+      "company_name": "Chainlink Labs",
+      "description": "hr non tech recruiter ai engineer"
+    },
+    {
       "title": "Senior Software Engineer Angular B2C Web Platm",
       "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
       "company_name": "Bitpanda",
       "description": "c c plus plus javascript angular engineer"
     },
     {
-      "title": "Growth Engineer Data Systems",
-      "link": "https://web3.career/growth-engineer-data-systems-bitmex/146102",
-      "company_name": "Bitmex",
-      "description": "growth engineer crypto discord javascript"
+      "title": "Senior Software Engineer React Broker Web Platm",
+      "link": "https://web3.career/senior-software-engineer-react-broker-web-platform-bitpanda/149241",
+      "company_name": "Bitpanda",
+      "description": "engineer javascript react senior dev"
     },
     {
-      "title": "FrontEnd Engineer Institutional",
-      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
-      "company_name": "Blockchain",
-      "description": "engineer front end blockchain crypto javascript"
+      "title": "Forward Deployed Product Engineer",
+      "link": "https://web3.career/forward-deployed-product-engineer-polymarket/150000",
+      "company_name": "Polymarket",
+      "description": "engineer javascript typescript"
     },
     {
-      "title": "Sr. Ad Sales Director Search",
-      "link": "https://web3.career/sr-ad-sales-director-search-brave/99364",
-      "company_name": "Brave",
-      "description": "executive sales non tech senior javascript"
+      "title": "Customer Solutions Engineer",
+      "link": "https://web3.career/customer-solutions-engineer-polymarket/149999",
+      "company_name": "Polymarket",
+      "description": "engineer javascript typescript"
     },
     {
-      "title": "Client Success Manager",
-      "link": "https://web3.career/client-success-manager-brave/145965",
-      "company_name": "Brave",
-      "description": "sales non tech crypto javascript remote"
-    },
-    {
-      "title": "Quality Assurance Engineer",
-      "link": "https://web3.career/quality-assurance-engineer-brave/46151",
-      "company_name": "Brave",
-      "description": "dev quality assurance javascript crypto remote"
-    },
-    {
-      "title": "Software Engineer Frontend and Mobile",
-      "link": "https://web3.career/software-engineer-frontend-and-mobile-bitgo/148771",
-      "company_name": "Bitgo",
-      "description": "engineer front end mobile dev bitcoin"
+      "title": "Advanced Customer Product Engineer",
+      "link": "https://web3.career/advanced-customer-product-engineer-polymarket/149998",
+      "company_name": "Polymarket",
+      "description": "engineer javascript typescript"
     }
   ]
 }

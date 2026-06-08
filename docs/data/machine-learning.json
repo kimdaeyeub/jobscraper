@@ -1,8 +1,8 @@
 {
   "skill": "machine-learning",
   "label": "Machine Learning",
-  "count": 17,
-  "updated_at": "2026-06-01T08:02:48.603779+00:00",
+  "count": 16,
+  "updated_at": "2026-06-08T07:58:18.482718+00:00",
   "jobs": [
     {
       "title": "Senior Data Scientist – Python, ML & Signal-Processing",
@@ -11,22 +11,16 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Werkstudent (Electronics and Machine Learning; Biotech)",
-      "description": "Hiring a Werkstudent*in in Berlin. You will work on a biomodulation project that involves establishing a fast feedback loop to image and modulate vasculature and training RL models on this data. The scope of the project is understanding how to reverse vascular degeneration in humans; with a focus on reversing cognitive decline and neurodegeneration. Tl;dr...",
-      "link": "https://berlinstartupjobs.com/internships/werkstudent-electronics-and-machine-learning-biotech-cerebralab/",
-      "company_name": "Cerebralab"
+      "title": "Machine Learning Researcher",
+      "link": "https://web3.career/machine-learning-researcher-kronosresearch/100438",
+      "company_name": "Kronosresearch",
+      "description": "research machine learning ai pytorch remote"
     },
     {
       "title": "Machine Learning Systems Engineer",
       "link": "https://web3.career/machine-learning-systems-engineer-tetheroperationslimited/149835",
       "company_name": "Tether Operations Limited",
       "description": "engineer machine learning ai aws bitcoin"
-    },
-    {
-      "title": "Machine Learning Researcher",
-      "link": "https://web3.career/machine-learning-researcher-kronosresearch/100438",
-      "company_name": "Kronosresearch",
-      "description": "research machine learning ai pytorch remote"
     },
     {
       "title": "Product Manager ML Decision Systems Demand Side Platm",

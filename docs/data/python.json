@@ -1,13 +1,13 @@
 {
   "skill": "python",
   "label": "Python",
-  "count": 24,
-  "updated_at": "2026-06-01T08:01:29.300582+00:00",
+  "count": 21,
+  "updated_at": "2026-06-08T07:57:18.757753+00:00",
   "jobs": [
     {
-      "title": "Senior Backend Developer – Go & Kubernetes",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
+      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
       "company_name": "DATATRONiQ"
     },
     {
@@ -17,9 +17,9 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
+      "title": "Senior Backend Developer – Go & Kubernetes",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
       "company_name": "DATATRONiQ"
     },
     {
@@ -41,22 +41,10 @@
       "company_name": "AIDAR"
     },
     {
-      "title": "IT Developer",
-      "description": "We are a Berlin company with international employees working on decentral collaborative AI services in real estate. We change how people live and work, by making buildings think and act adaptive to occupant needs. It is not another App. We save highest possible energy and run AI in compliance with GDPR. We look for developers...",
-      "link": "https://berlinstartupjobs.com/engineering/it-developer-greenautarky-gmbh/",
-      "company_name": "GreenAutarky"
-    },
-    {
-      "title": "Backend Engineer",
-      "description": "Company Description EquiMatch simplifies mergers and acquisitions (M&A) origination using AI-driven research and personalized outreach. We use AI to create a qualified target list for buyers and M&A advisors, eliminating the need for in-house analysts with no upfront costs – you only pay for successful deals. For sellers, we adopt a respectful, personalized approach aligned...",
-      "link": "https://berlinstartupjobs.com/engineering/backend-engineer-equimatch-gmbh/",
-      "company_name": "EquiMatch"
-    },
-    {
-      "title": "Senior Software Engineer – Secure AI Infrastructure",
-      "description": "We are a fast-growing venture-backed cybersecurity startup. Join us in developing the next generation of secure AI and cloud software, explore cutting-edge technologies like confidential computing, and grow in and alongside a world-class team Our product Privatemode AI is our secure alternative to ChatGPT. It enables AI workflows with sensitive data by keeping all data...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-software-engineer-secure-ai-infrastructure-edgeless-systems/",
-      "company_name": "Edgeless Systems"
+      "title": "Software Engineer Rust Python Asset Pricing Hedging",
+      "link": "https://web3.career/software-engineer-rust-python-asset-pricing-hedging-bitpanda/150010",
+      "company_name": "Bitpanda",
+      "description": "engineer python rust dev aws"
     },
     {
       "title": "Software Engineer Python Asset Pricing Hedging",
@@ -141,12 +129,6 @@
       "link": "https://web3.career/senior-software-engineer-trading-infrastructure-team-gravity-team/144924",
       "company_name": "Gravity Team",
       "description": "infrastructure engineer senior dev api"
-    },
-    {
-      "title": "Principal Software Engineer Backend Python Golang",
-      "link": "https://web3.career/principal-software-engineer-backend-python-golang-zscaler/143950",
-      "company_name": "Zscaler",
-      "description": "backend engineer golang executive python"
     }
   ]
 }

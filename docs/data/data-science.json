@@ -2,18 +2,12 @@
   "skill": "data-science",
   "label": "Data Science",
   "count": 19,
-  "updated_at": "2026-06-01T08:02:52.545197+00:00",
+  "updated_at": "2026-06-08T07:58:18.891681+00:00",
   "jobs": [
     {
-      "title": "Senior Backend Developer – Go & Kubernetes",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
-      "company_name": "DATATRONiQ"
-    },
-    {
-      "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
-      "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
+      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
       "company_name": "DATATRONiQ"
     },
     {
@@ -23,22 +17,28 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
+      "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
+      "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Data Analyst",
-      "link": "https://web3.career/senior-data-analyst-certik/149808",
-      "company_name": "CertiK",
-      "description": "analyst data science senior aws blockchain"
+      "title": "Senior Backend Developer – Go & Kubernetes",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Data Analyst",
+      "link": "https://web3.career/data-analyst-sbi-investment/150140",
+      "company_name": "SBI Investment",
+      "description": "analyst data science big data crypto cryptography"
     },
     {
       "title": "Data Engineer",
-      "link": "https://web3.career/data-engineer-confirmo/149781",
-      "company_name": "Confirmo",
-      "description": "data science engineer aws blockchain crypto"
+      "link": "https://web3.career/data-engineer-bcbgroup/140602",
+      "company_name": "Bcbgroup",
+      "description": "data science engineer crypto typescript remote"
     },
     {
       "title": "Senior Data Engineer",
@@ -89,6 +89,18 @@
       "description": "analyst data science marketing non tech blockchain"
     },
     {
+      "title": "Senior Data Analyst",
+      "link": "https://web3.career/senior-data-analyst-certik/149808",
+      "company_name": "CertiK",
+      "description": "analyst data science senior aws blockchain"
+    },
+    {
+      "title": "Data Engineer",
+      "link": "https://web3.career/data-engineer-confirmo/149781",
+      "company_name": "Confirmo",
+      "description": "data science engineer aws blockchain crypto"
+    },
+    {
       "title": "Data Analyst",
       "link": "https://web3.career/data-analyst-chain-catcher/149607",
       "company_name": "Chain Catcher",
@@ -105,18 +117,6 @@
       "link": "https://web3.career/senior-data-analyst-servicing-figure/149437",
       "company_name": "Figure",
       "description": "analyst data science senior blockchain remote"
-    },
-    {
-      "title": "Senior Staff Engineer Liquidity Platm Private Data Engineer",
-      "link": "https://web3.career/senior-staff-engineer-liquidity-platform-private-data-engineer-okx/149384",
-      "company_name": "Okx",
-      "description": "data science engineer sales non tech senior"
-    },
-    {
-      "title": "Staff Data Scientist Risk",
-      "link": "https://web3.career/staff-data-scientist-risk-shakepay/149352",
-      "company_name": "Shakepay",
-      "description": "scientist data science bitcoin crypto remote"
     }
   ]
 }

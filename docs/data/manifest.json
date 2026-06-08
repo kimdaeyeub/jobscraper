@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-01T08:01:28.192704+00:00",
+  "updated_at": "2026-06-08T07:57:17.882091+00:00",
   "skills": [
     {
       "id": "python",
       "label": "Python",
-      "count": 24
+      "count": 21
     },
     {
       "id": "javascript",
@@ -14,7 +14,7 @@
     {
       "id": "typescript",
       "label": "TypeScript",
-      "count": 22
+      "count": 21
     },
     {
       "id": "java",
@@ -149,7 +149,7 @@
     {
       "id": "machine-learning",
       "label": "Machine Learning",
-      "count": 17
+      "count": 16
     },
     {
       "id": "data-science",

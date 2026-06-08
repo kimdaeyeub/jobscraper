@@ -2,13 +2,31 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-06-01T08:01:56.081212+00:00",
+  "updated_at": "2026-06-08T07:57:34.366796+00:00",
   "jobs": [
+    {
+      "title": "Android Engineer",
+      "link": "https://web3.career/android-engineer-bluecubeservices/103709",
+      "company_name": "Bluecubeservices",
+      "description": "android mobile engineer bitcoin crypto"
+    },
+    {
+      "title": "Software Engineer Lending Savings Contractors",
+      "link": "https://web3.career/software-engineer-lending-savings-contractors-bluecubeservices/150014",
+      "company_name": "Bluecubeservices",
+      "description": "engineer dev blockchain crypto java"
+    },
     {
       "title": "Software Engineer Fraud",
       "link": "https://web3.career/software-engineer-fraud-bluecubeservices/141161",
       "company_name": "Bluecubeservices",
       "description": "engineer security dev blockchain crypto"
+    },
+    {
+      "title": "Senior Software Engineer Web Full Stack",
+      "link": "https://web3.career/senior-software-engineer-web-full-stack-bitmex/92818",
+      "company_name": "Bitmex",
+      "description": "engineer full stack senior dev bitcoin"
     },
     {
       "title": "Senior Staff iOS Developer",
@@ -23,22 +41,10 @@
       "description": "engineer react native mobile javascript react"
     },
     {
-      "title": "Android Engineer",
-      "link": "https://web3.career/android-engineer-bluecubeservices/103709",
-      "company_name": "Bluecubeservices",
-      "description": "android mobile engineer bitcoin crypto"
-    },
-    {
       "title": "Software Engineers KYC Eligibility",
       "link": "https://web3.career/software-engineers-kyc-eligibility-bluecubeservices/139456",
       "company_name": "Bluecubeservices",
       "description": "kyc non tech dev blockchain java"
-    },
-    {
-      "title": "Senior Software Engineer Web Full Stack",
-      "link": "https://web3.career/senior-software-engineer-web-full-stack-bitmex/92818",
-      "company_name": "Bitmex",
-      "description": "engineer full stack senior dev bitcoin"
     },
     {
       "title": "Senior Backend Engineer Solana Mobile",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/software-engineer-dev-tools-polymarket/149091",
       "company_name": "Polymarket",
       "description": "dev engineer blockchain javascript kotlin"
-    },
-    {
-      "title": "Software Developer in Test SDET Engineering · R3 Mumbai · Hybrid",
-      "link": "https://web3.career/software-developer-in-test-sdet-engineering-r3-mumbai-hybrid-r3/148980",
-      "company_name": "R3",
-      "description": "quality assurance dev defi docker java"
     }
   ]
 }

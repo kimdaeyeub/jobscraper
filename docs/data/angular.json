@@ -2,19 +2,19 @@
   "skill": "angular",
   "label": "Angular",
   "count": 15,
-  "updated_at": "2026-06-01T08:02:03.432515+00:00",
+  "updated_at": "2026-06-08T07:57:42.957855+00:00",
   "jobs": [
-    {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/103010",
-      "company_name": "Bcbgroup",
-      "description": "engineer full stack senior angular bitcoin"
-    },
     {
       "title": "Senior Full Stack Engineer",
       "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
       "company_name": "Bcbgroup",
       "description": "engineer full stack senior angular crypto"
+    },
+    {
+      "title": "Software Engineer III",
+      "link": "https://web3.career/software-engineer-iii-zinnia/150042",
+      "company_name": "Zinnia",
+      "description": "engineer dev angular aws react"
     },
     {
       "title": "Senior Software Engineer Angular B2C Web Platm",
@@ -27,6 +27,12 @@
       "link": "https://web3.career/java-backend-developer-localcoin/78924",
       "company_name": "Localcoin",
       "description": "backend dev java angular aws"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/103010",
+      "company_name": "Bcbgroup",
+      "description": "engineer full stack senior angular bitcoin"
     },
     {
       "title": "Senior Blockchain Developer",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/frontend-engineering-intern-trading-coinhako/148015",
       "company_name": "Coinhako",
       "description": "front end intern entry level angular crypto"
-    },
-    {
-      "title": "Software Engineer III Associate Tech Lead",
-      "link": "https://web3.career/software-engineer-iii-associate-tech-lead-zinnia/94300",
-      "company_name": "Zinnia",
-      "description": "engineer lead dev tech lead angular"
     }
   ]
 }

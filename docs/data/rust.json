@@ -2,43 +2,61 @@
   "skill": "rust",
   "label": "Rust",
   "count": 15,
-  "updated_at": "2026-06-01T08:01:44.892629+00:00",
+  "updated_at": "2026-06-08T07:57:25.161925+00:00",
   "jobs": [
     {
-      "title": "Staff Permance Engineer Trading Infrastructure",
-      "link": "https://web3.career/staff-performance-engineer-trading-infrastructure-helius/149853",
-      "company_name": "Helius",
-      "description": "infrastructure engineer crypto defi rust"
+      "title": "Binance Accelerator Program AI Research Scientist LLM Reasoning PostTraining",
+      "link": "https://web3.career/binance-accelerator-program-ai-research-scientist-llm-reasoning-post-training-binance/150204",
+      "company_name": "Binance",
+      "description": "research scientist ai education blockchain"
     },
     {
-      "title": "Founding Crypto Liquidity Trader Market Making",
-      "link": "https://web3.career/founding-crypto-liquidity-trader-market-making-volcanoexchange/149849",
-      "company_name": "Volcano Exchange",
-      "description": "founding member sales non tech trader crypto"
+      "title": "Blockchain Developer :: Chicago IL",
+      "link": "https://web3.career/blockchain-developer-chicago-il-hyrglobalsourceinc/150117",
+      "company_name": "HYR Global Source Inc",
+      "description": "dev blockchain aws crypto golang"
     },
     {
-      "title": "Senior BackEnd Engineer Trading Platm",
-      "link": "https://web3.career/senior-back-end-engineer-trading-platform-blockchain/98044",
-      "company_name": "Blockchain",
-      "description": "backend engineer senior blockchain rust"
+      "title": "Blockchain Developer TIWDC5819228",
+      "link": "https://web3.career/blockchain-developer-tiwdc5819228-compunnelinc/150116",
+      "company_name": "Compunnel Inc.",
+      "description": "dev blockchain aws golang java"
     },
     {
-      "title": "Senior Backend Engineer Rust",
-      "link": "https://web3.career/senior-backend-engineer-rust-cow-dao/149797",
-      "company_name": "CoW DAO",
-      "description": "backend engineer rust senior remote"
+      "title": "Blockchain Developer _ Digital Asset",
+      "link": "https://web3.career/blockchain-developer-_-digital-asset-envisiontechnologysolutions/150114",
+      "company_name": "Envision Technology Solutions",
+      "description": "dev blockchain node rust solidity"
     },
     {
-      "title": "DevOps Engineer Blockchain Digital Assets",
-      "link": "https://web3.career/devops-engineer-blockchain-digital-assets-n3xt/149787",
-      "company_name": "N3XT",
-      "description": "devops finance non tech engineer blockchain"
+      "title": "Block chain developer",
+      "link": "https://web3.career/block-chain-developer-unicomtechnologiesinc/150113",
+      "company_name": "UNICOM Technologies Inc",
+      "description": "dev aws blockchain crypto golang"
     },
     {
-      "title": "Issuance Engineering Lead",
-      "link": "https://web3.career/issuance-engineering-lead-m0/149785",
-      "company_name": "M0",
-      "description": "lead blockchain defi rust solana"
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-fustisllc/150112",
+      "company_name": "FUSTIS LLC",
+      "description": "dev blockchain aws crypto golang"
+    },
+    {
+      "title": "Blockchain developer",
+      "link": "https://web3.career/blockchain-developer-accordtechnologiesinc/150110",
+      "company_name": "Accord Technologies Inc",
+      "description": "dev blockchain aws crypto golang"
+    },
+    {
+      "title": "Principal Software Engineer React + Node Remote EU or USA",
+      "link": "https://web3.career/principal-software-engineer-react-node-remote-eu-or-usa-pubgeniusinc/150071",
+      "company_name": "Pubgenius Inc.",
+      "description": "remote engineer javascript node executive"
+    },
+    {
+      "title": "Platm Engineer",
+      "link": "https://web3.career/platform-engineer-moonshot/150067",
+      "company_name": "Moonshot",
+      "description": "engineer blockchain crypto defi node"
     },
     {
       "title": "Staff Site Reliability Engineer",
@@ -53,6 +71,18 @@
       "description": "engineer executive reliability aws golang"
     },
     {
+      "title": "Sr. Staff Software Development EngineerAI Security",
+      "link": "https://web3.career/sr-staff-software-development-engineer-ai-security-zscaler/150044",
+      "company_name": "Zscaler",
+      "description": "ai engineer security dev senior"
+    },
+    {
+      "title": "Sr. Software Development EngineerAI Security",
+      "link": "https://web3.career/sr-software-development-engineer-ai-security-zscaler/150043",
+      "company_name": "Zscaler",
+      "description": "ai engineer security dev senior"
+    },
+    {
       "title": "Quant Developer Rust Liquidity Platm Delta One Systematic Trading",
       "link": "https://web3.career/quant-developer-rust-liquidity-platform-delta-one-systematic-trading-okx/145502",
       "company_name": "Okx",
@@ -63,36 +93,6 @@
       "link": "https://web3.career/crypto-production-engineer-jumpcrypto/89562",
       "company_name": "Jumpcrypto",
       "description": "engineer blockchain crypto defi ethereum"
-    },
-    {
-      "title": "Quantitative Developer",
-      "link": "https://web3.career/quantitative-developer-gsrmarkets/105350",
-      "company_name": "Gsrmarkets",
-      "description": "quantitative quantitative developer dev crypto rust"
-    },
-    {
-      "title": "Systematic Options Researcher Trader Market Making",
-      "link": "https://web3.career/systematic-options-researcher-trader-market-making-gsrmarkets/147062",
-      "company_name": "Gsrmarkets",
-      "description": "research trader crypto rust remote"
-    },
-    {
-      "title": "Senior Software Engineer C++ Trading Technologies",
-      "link": "https://web3.career/senior-software-engineer-c-trading-technologies-kraken/149768",
-      "company_name": "Kraken",
-      "description": "c c plus plus engineer senior dev"
-    },
-    {
-      "title": "Senior Software Engineer Prime",
-      "link": "https://web3.career/senior-software-engineer-prime-alpaca/149756",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev aws crypto"
-    },
-    {
-      "title": "Senior Software Engineer Market Data",
-      "link": "https://web3.career/senior-software-engineer-market-data-alpaca/99655",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev crypto kubernetes"
     }
   ]
 }

@@ -2,18 +2,12 @@
   "skill": "docker",
   "label": "Docker",
   "count": 20,
-  "updated_at": "2026-06-01T08:02:40.515760+00:00",
+  "updated_at": "2026-06-08T07:58:13.093890+00:00",
   "jobs": [
     {
-      "title": "Senior Backend Developer – Go & Kubernetes",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
-      "company_name": "DATATRONiQ"
-    },
-    {
-      "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
-      "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
+      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
       "company_name": "DATATRONiQ"
     },
     {
@@ -23,9 +17,15 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
+      "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
+      "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Senior Backend Developer – Go & Kubernetes",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
       "company_name": "DATATRONiQ"
     },
     {
@@ -35,10 +35,16 @@
       "company_name": "Sourcecast"
     },
     {
-      "title": "Senior Backend Engineer Rust",
-      "link": "https://web3.career/senior-backend-engineer-rust-cow-dao/149797",
-      "company_name": "CoW DAO",
-      "description": "backend engineer rust senior remote"
+      "title": "Copy of Full Stack Engineer Blockchain",
+      "link": "https://web3.career/copy-of-full-stack-engineer-blockchain-fireblocks/150174",
+      "company_name": "Fireblocks",
+      "description": "engineer full stack blockchain docker javascript"
+    },
+    {
+      "title": "Vice President",
+      "link": "https://web3.career/vice-president-blackrock/150171",
+      "company_name": "BlackRock",
+      "description": "aws blockchain docker java kubernetes"
     },
     {
       "title": "Senior DevOps Engineer",
@@ -59,12 +65,6 @@
       "description": "cloud engineer engineer aws crypto docker"
     },
     {
-      "title": "Cloud Database Administrator",
-      "link": "https://web3.career/cloud-database-administrator-bitpanda/149168",
-      "company_name": "Bitpanda",
-      "description": "cloud engineer engineer admin aws crypto"
-    },
-    {
       "title": "Senior Trading Technology Engineer LowLatency",
       "link": "https://web3.career/senior-trading-technology-engineer-low-latency-bitmex/92753",
       "company_name": "Bitmex",
@@ -75,6 +75,18 @@
       "link": "https://web3.career/java-backend-developer-localcoin/78924",
       "company_name": "Localcoin",
       "description": "backend dev java angular aws"
+    },
+    {
+      "title": "Senior Backend Engineer Rust",
+      "link": "https://web3.career/senior-backend-engineer-rust-cow-dao/149797",
+      "company_name": "CoW DAO",
+      "description": "backend engineer rust senior remote"
+    },
+    {
+      "title": "Cloud Database Administrator",
+      "link": "https://web3.career/cloud-database-administrator-bitpanda/149168",
+      "company_name": "Bitpanda",
+      "description": "cloud engineer engineer admin aws crypto"
     },
     {
       "title": "IT Junior Python Developer London",
@@ -111,18 +123,6 @@
       "link": "https://web3.career/infrastructure-engineer-contract-latam-nexus/149667",
       "company_name": "Nexus",
       "description": "infrastructure engineer aws blockchain docker"
-    },
-    {
-      "title": "Applied AI Engineer",
-      "link": "https://web3.career/applied-ai-engineer-cryptio/149649",
-      "company_name": "Cryptio",
-      "description": "ai engineer aws crypto docker"
-    },
-    {
-      "title": "Senior Software Engineer Core Trading",
-      "link": "https://web3.career/senior-software-engineer-core-trading-alpaca/149637",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev aws crypto"
     }
   ]
 }

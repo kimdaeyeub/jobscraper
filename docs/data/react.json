@@ -2,7 +2,7 @@
   "skill": "react",
   "label": "React",
   "count": 17,
-  "updated_at": "2026-06-01T08:01:56.442282+00:00",
+  "updated_at": "2026-06-08T07:57:34.797077+00:00",
   "jobs": [
     {
       "title": "Senior Product Engineer",
@@ -17,22 +17,28 @@
       "company_name": "Small Improvements"
     },
     {
-      "title": "Senior Software Engineer React Broker Web Platm",
-      "link": "https://web3.career/senior-software-engineer-react-broker-web-platform-bitpanda/149241",
-      "company_name": "Bitpanda",
-      "description": "engineer javascript react senior dev"
+      "title": "Technical Lead Wallets 100% remote",
+      "link": "https://web3.career/technical-lead-wallets-100-remote-tether/105878",
+      "company_name": "Tether",
+      "description": "remote lead tech lead backend defi"
     },
     {
-      "title": "Staff Software Engineer future opportunities",
-      "link": "https://web3.career/staff-software-engineer-future-opportunities-shakepay/149826",
-      "company_name": "Shakepay",
-      "description": "engineer dev bitcoin crypto node"
+      "title": "Principal Software Engineer React + Node Remote EU or USA",
+      "link": "https://web3.career/principal-software-engineer-react-node-remote-eu-or-usa-pubgeniusinc/150071",
+      "company_name": "Pubgenius Inc.",
+      "description": "remote engineer javascript node executive"
     },
     {
-      "title": "Senior Software Engineer future opportunities",
-      "link": "https://web3.career/senior-software-engineer-future-opportunities-shakepay/149825",
-      "company_name": "Shakepay",
-      "description": "engineer senior dev bitcoin crypto"
+      "title": "Platm Engineer",
+      "link": "https://web3.career/platform-engineer-moonshot/150067",
+      "company_name": "Moonshot",
+      "description": "engineer blockchain crypto defi node"
+    },
+    {
+      "title": "Software Engineer III",
+      "link": "https://web3.career/software-engineer-iii-zinnia/150042",
+      "company_name": "Zinnia",
+      "description": "engineer dev angular aws react"
     },
     {
       "title": "Engineering Director Frontend Business Lead",
@@ -47,22 +53,28 @@
       "description": "executive front end blockchain crypto react"
     },
     {
-      "title": "FullStack Engineer",
-      "link": "https://web3.career/full-stack-engineer-launchpadtechnologiesinc/149776",
-      "company_name": "Launchpadtechnologiesinc",
-      "description": "engineer full stack javascript nextjs node"
-    },
-    {
       "title": "Senior Software Engineer",
       "link": "https://web3.career/senior-software-engineer-groma/59987",
       "company_name": "Groma",
       "description": "dev senior blockchain ethereum javascript"
     },
     {
-      "title": "Staff React Native Engineer Pro",
-      "link": "https://web3.career/staff-react-native-engineer-pro-kraken/149769",
+      "title": "Senior Engineering Manager Frontend Pro",
+      "link": "https://web3.career/senior-engineering-manager-frontend-pro-kraken/150025",
       "company_name": "Kraken",
-      "description": "engineer react native mobile javascript react"
+      "description": "engineering manager engineer front end senior blockchain"
+    },
+    {
+      "title": "Software Engineer II Frontend Pro",
+      "link": "https://web3.career/software-engineer-ii-frontend-pro-kraken/150024",
+      "company_name": "Kraken",
+      "description": "engineer front end dev blockchain crypto"
+    },
+    {
+      "title": "Software Engineer Frontend Payments",
+      "link": "https://web3.career/software-engineer-frontend-payments-kraken/150023",
+      "company_name": "Kraken",
+      "description": "engineer front end dev blockchain crypto"
     },
     {
       "title": "FrontEnd Engineer",
@@ -77,6 +89,12 @@
       "description": "c c plus plus javascript angular engineer"
     },
     {
+      "title": "Senior Software Engineer React Broker Web Platm",
+      "link": "https://web3.career/senior-software-engineer-react-broker-web-platform-bitpanda/149241",
+      "company_name": "Bitpanda",
+      "description": "engineer javascript react senior dev"
+    },
+    {
       "title": "Senior Software Engineer Web Full Stack",
       "link": "https://web3.career/senior-software-engineer-web-full-stack-bitmex/92818",
       "company_name": "Bitmex",
@@ -87,24 +105,6 @@
       "link": "https://web3.career/growth-engineer-data-systems-bitmex/146102",
       "company_name": "Bitmex",
       "description": "growth engineer crypto discord javascript"
-    },
-    {
-      "title": "Senior Software Engineer New Markets",
-      "link": "https://web3.career/senior-software-engineer-new-markets-alpaca/99656",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev crypto react"
-    },
-    {
-      "title": "FrontEnd Engineer Institutional",
-      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
-      "company_name": "Blockchain",
-      "description": "engineer front end blockchain crypto javascript"
-    },
-    {
-      "title": "Software Engineer Frontend and Mobile",
-      "link": "https://web3.career/software-engineer-frontend-and-mobile-bitgo/148771",
-      "company_name": "Bitgo",
-      "description": "engineer front end mobile dev bitcoin"
     }
   ]
 }
