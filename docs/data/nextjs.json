@@ -2,8 +2,26 @@
   "skill": "nextjs",
   "label": "Next.js",
   "count": 15,
-  "updated_at": "2026-06-08T07:57:47.216759+00:00",
+  "updated_at": "2026-06-15T08:16:32.203132+00:00",
   "jobs": [
+    {
+      "title": "Full Stack Engineer — AI Integrations",
+      "link": "https://web3.career/full-stack-engineer-ai-integrations-performanceai/150316",
+      "company_name": "Performance AI",
+      "description": "integration ai engineer full stack blockchain"
+    },
+    {
+      "title": "Sr. Full Stack Developer",
+      "link": "https://web3.career/sr-full-stack-developer-stealth/138129",
+      "company_name": "Stealth",
+      "description": "dev full stack senior aws blockchain"
+    },
+    {
+      "title": "Senior Software Engineer Angular B2C Web Platm",
+      "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
+      "company_name": "Bitpanda",
+      "description": "c c plus plus javascript angular engineer"
+    },
     {
       "title": "Principal Software Engineer React + Node Remote EU or USA",
       "link": "https://web3.career/principal-software-engineer-react-node-remote-eu-or-usa-pubgeniusinc/150071",
@@ -15,12 +33,6 @@
       "link": "https://web3.career/software-engineer-frontend-payments-kraken/150023",
       "company_name": "Kraken",
       "description": "engineer front end dev blockchain crypto"
-    },
-    {
-      "title": "Senior Software Engineer Angular B2C Web Platm",
-      "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
-      "company_name": "Bitpanda",
-      "description": "c c plus plus javascript angular engineer"
     },
     {
       "title": "FullStack Engineer",
@@ -65,12 +77,6 @@
       "description": "remote engineer full stack senior dev"
     },
     {
-      "title": "Sr. Full Stack Developer",
-      "link": "https://web3.career/sr-full-stack-developer-stealth/138129",
-      "company_name": "Stealth",
-      "description": "dev full stack senior aws blockchain"
-    },
-    {
       "title": "Senior Web Engineer",
       "link": "https://web3.career/senior-web-engineer-polymarket/149090",
       "company_name": "Polymarket",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/product-engineer-sherlock/149056",
       "company_name": "Sherlock",
       "description": "engineer ai blockchain crypto defi"
-    },
-    {
-      "title": "Principal Software Engineer",
-      "link": "https://web3.career/principal-software-engineer-pubgeniusinc/148757",
-      "company_name": "Pubgenius Inc.",
-      "description": "engineer executive dev blockchain crypto"
     }
   ]
 }

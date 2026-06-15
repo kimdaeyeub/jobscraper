@@ -2,13 +2,37 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-06-08T07:57:34.366796+00:00",
+  "updated_at": "2026-06-15T08:16:16.946084+00:00",
   "jobs": [
+    {
+      "title": "Mobile Design Engineer",
+      "link": "https://web3.career/mobile-design-engineer-kraken/150371",
+      "company_name": "Kraken",
+      "description": "design non tech engineer mobile crypto"
+    },
+    {
+      "title": "Software Engineer Payments",
+      "link": "https://web3.career/software-engineer-payments-bluecubeservices/150368",
+      "company_name": "Bluecubeservices",
+      "description": "engineer dev blockchain crypto java"
+    },
+    {
+      "title": "Binance Accelerator Program APP iOS Android Engineer Fresh Grad",
+      "link": "https://web3.career/binance-accelerator-program-app-ios-android-engineer-fresh-grad-binance/150333",
+      "company_name": "Binance",
+      "description": "android mobile engineer intern entry level"
+    },
     {
       "title": "Android Engineer",
       "link": "https://web3.career/android-engineer-bluecubeservices/103709",
       "company_name": "Bluecubeservices",
       "description": "android mobile engineer bitcoin crypto"
+    },
+    {
+      "title": "Senior Software Engineer Web Full Stack",
+      "link": "https://web3.career/senior-software-engineer-web-full-stack-bitmex/92818",
+      "company_name": "Bitmex",
+      "description": "engineer full stack senior dev bitcoin"
     },
     {
       "title": "Software Engineer Lending Savings Contractors",
@@ -21,12 +45,6 @@
       "link": "https://web3.career/software-engineer-fraud-bluecubeservices/141161",
       "company_name": "Bluecubeservices",
       "description": "engineer security dev blockchain crypto"
-    },
-    {
-      "title": "Senior Software Engineer Web Full Stack",
-      "link": "https://web3.career/senior-software-engineer-web-full-stack-bitmex/92818",
-      "company_name": "Bitmex",
-      "description": "engineer full stack senior dev bitcoin"
     },
     {
       "title": "Senior Staff iOS Developer",
@@ -75,24 +93,6 @@
       "link": "https://web3.career/crypto-security-engineer-blockchain/149233",
       "company_name": "Blockchain",
       "description": "engineer security aws blockchain crypto"
-    },
-    {
-      "title": "Business Engineer Trading",
-      "link": "https://web3.career/business-engineer-trading-okx/149183",
-      "company_name": "Okx",
-      "description": "engineer blockchain crypto defi kotlin"
-    },
-    {
-      "title": "Business Engineer",
-      "link": "https://web3.career/business-engineer-okx/149182",
-      "company_name": "Okx",
-      "description": "engineer blockchain crypto defi kotlin"
-    },
-    {
-      "title": "Software Engineer Dev Tools",
-      "link": "https://web3.career/software-engineer-dev-tools-polymarket/149091",
-      "company_name": "Polymarket",
-      "description": "dev engineer blockchain javascript kotlin"
     }
   ]
 }

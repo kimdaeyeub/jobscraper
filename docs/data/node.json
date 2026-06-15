@@ -2,7 +2,7 @@
   "skill": "node",
   "label": "Node.js",
   "count": 16,
-  "updated_at": "2026-06-08T07:57:43.406937+00:00",
+  "updated_at": "2026-06-15T08:16:28.259399+00:00",
   "jobs": [
     {
       "title": "Senior Product Engineer",
@@ -11,46 +11,28 @@
       "company_name": "Kombo"
     },
     {
-      "title": "Blockchain Developer _ Digital Asset",
-      "link": "https://web3.career/blockchain-developer-_-digital-asset-envisiontechnologysolutions/150114",
-      "company_name": "Envision Technology Solutions",
-      "description": "dev blockchain node rust solidity"
+      "title": "Senior Frontend Engineer Trading Systems",
+      "link": "https://web3.career/senior-frontend-engineer-trading-systems-binance/150426",
+      "company_name": "Binance",
+      "description": "engineer front end senior blockchain crypto"
     },
     {
-      "title": "Principal Software Engineer React + Node Remote EU or USA",
-      "link": "https://web3.career/principal-software-engineer-react-node-remote-eu-or-usa-pubgeniusinc/150071",
-      "company_name": "Pubgenius Inc.",
-      "description": "remote engineer javascript node executive"
+      "title": "Staff DevOps Engineer",
+      "link": "https://web3.career/staff-devops-engineer-alchemy/150425",
+      "company_name": "Alchemy",
+      "description": "devops engineer blockchain kubernetes node"
     },
     {
-      "title": "Platm Engineer",
-      "link": "https://web3.career/platform-engineer-moonshot/150067",
-      "company_name": "Moonshot",
-      "description": "engineer blockchain crypto defi node"
+      "title": "DLT Developer",
+      "link": "https://web3.career/dlt-developer-q1technologies-inc/150424",
+      "company_name": "Q1 Technologies, Inc.",
+      "description": "dev blockchain docker ethereum java"
     },
     {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
-      "company_name": "Bcbgroup",
-      "description": "engineer full stack senior angular crypto"
-    },
-    {
-      "title": "Senior Engineering Manager Frontend Pro",
-      "link": "https://web3.career/senior-engineering-manager-frontend-pro-kraken/150025",
-      "company_name": "Kraken",
-      "description": "engineering manager engineer front end senior blockchain"
-    },
-    {
-      "title": "Senior Site Reliability Engineer",
-      "link": "https://web3.career/senior-site-reliability-engineer-bloxstaking/148505",
-      "company_name": "Bloxstaking",
-      "description": "engineer reliability senior blockchain ethereum"
-    },
-    {
-      "title": "Growth Engineer Data Systems",
-      "link": "https://web3.career/growth-engineer-data-systems-bitmex/146102",
-      "company_name": "Bitmex",
-      "description": "growth engineer crypto discord javascript"
+      "title": "Software Engineer Markets",
+      "link": "https://web3.career/software-engineer-markets-polymarket/150355",
+      "company_name": "Polymarket",
+      "description": "engineer dev node react typescript"
     },
     {
       "title": "Senior Software Engineer Post Trade",
@@ -59,46 +41,64 @@
       "description": "engineer senior dev bitcoin blockchain"
     },
     {
-      "title": "Machine Learning Systems Engineer",
-      "link": "https://web3.career/machine-learning-systems-engineer-tetheroperationslimited/149835",
+      "title": "Senior Backend Engineer Rust",
+      "link": "https://web3.career/senior-backend-engineer-rust-offchainlabs/150351",
+      "company_name": "Offchain",
+      "description": "backend engineer rust senior remote"
+    },
+    {
+      "title": "DLT Developer – Solana",
+      "link": "https://web3.career/dlt-developer-solana-centraprise/150339",
+      "company_name": "Centraprise",
+      "description": "dev blockchain java node rust"
+    },
+    {
+      "title": "Full Stack AI Engineer",
+      "link": "https://web3.career/full-stack-ai-engineer-mlabs/150336",
+      "company_name": "MLabs",
+      "description": "ai engineer full stack blockchain defi"
+    },
+    {
+      "title": "Bare Developer 100% Remote Worldwide C JavaScript",
+      "link": "https://web3.career/bare-developer-100-remote-worldwide-c-javascript-tetheroperationslimited/150330",
       "company_name": "Tether Operations Limited",
-      "description": "engineer machine learning ai aws bitcoin"
+      "description": "c c plus plus remote dev javascript"
     },
     {
-      "title": "Staff Software Engineer future opportunities",
-      "link": "https://web3.career/staff-software-engineer-future-opportunities-shakepay/149826",
-      "company_name": "Shakepay",
-      "description": "engineer dev bitcoin crypto node"
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-q1technologies-inc/150317",
+      "company_name": "Q1 Technologies, Inc.",
+      "description": "dev blockchain node rust solidity"
     },
     {
-      "title": "Senior Software Engineer future opportunities",
-      "link": "https://web3.career/senior-software-engineer-future-opportunities-shakepay/149825",
-      "company_name": "Shakepay",
-      "description": "engineer senior dev bitcoin crypto"
+      "title": "Full Stack Engineer — AI Integrations",
+      "link": "https://web3.career/full-stack-engineer-ai-integrations-performanceai/150316",
+      "company_name": "Performance AI",
+      "description": "integration ai engineer full stack blockchain"
     },
     {
-      "title": "DevOps Engineer Blockchain Digital Assets",
-      "link": "https://web3.career/devops-engineer-blockchain-digital-assets-n3xt/149787",
-      "company_name": "N3XT",
-      "description": "devops finance non tech engineer blockchain"
+      "title": "Staff Software Engineer MetaMask Money Movement",
+      "link": "https://web3.career/staff-software-engineer-metamask-money-movement-consensys/150311",
+      "company_name": "Consensys",
+      "description": "engineer dev remote blockchain crypto"
+    },
+    {
+      "title": "Sr. Full Stack Developer",
+      "link": "https://web3.career/sr-full-stack-developer-stealth/138129",
+      "company_name": "Stealth",
+      "description": "dev full stack senior aws blockchain"
+    },
+    {
+      "title": "Bare Developer 100% Remote Worldwide",
+      "link": "https://web3.career/bare-developer-100-remote-worldwide-tetheroperationslimited/150310",
+      "company_name": "Tether Operations Limited",
+      "description": "remote dev bitcoin blockchain crypto"
     },
     {
       "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/103010",
+      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
       "company_name": "Bcbgroup",
-      "description": "engineer full stack senior angular bitcoin"
-    },
-    {
-      "title": "FullStack Engineer",
-      "link": "https://web3.career/full-stack-engineer-launchpadtechnologiesinc/149776",
-      "company_name": "Launchpadtechnologiesinc",
-      "description": "engineer full stack javascript nextjs node"
-    },
-    {
-      "title": "Account Executive Crypto Native",
-      "link": "https://web3.career/account-executive-crypto-native-blockdaemon/149763",
-      "company_name": "Blockdaemon",
-      "description": "account manager sales non tech executive blockchain"
+      "description": "engineer full stack senior angular crypto"
     }
   ]
 }

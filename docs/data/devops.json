@@ -2,7 +2,7 @@
   "skill": "devops",
   "label": "DevOps",
   "count": 17,
-  "updated_at": "2026-06-08T07:58:17.998967+00:00",
+  "updated_at": "2026-06-15T08:17:04.371486+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
@@ -15,6 +15,18 @@
       "description": "Help us decarbonize the cement and concrete industry. alcemy was founded to reduce the massive CO2 footprint of the cement and concrete industry. Concrete is humanity\\’s second most used material by volume and its production is responsible for around 8% of global CO2 emissions. We are changing this! We leverage machine learning to provide smart production control software...",
       "link": "https://berlinstartupjobs.com/engineering/senior-infrastructure-engineer-f-m-d-alcemy/",
       "company_name": "alcemy"
+    },
+    {
+      "title": "Staff DevOps Engineer",
+      "link": "https://web3.career/staff-devops-engineer-alchemy/150425",
+      "company_name": "Alchemy",
+      "description": "devops engineer blockchain kubernetes node"
+    },
+    {
+      "title": "DevOps Site Reliability Engineer",
+      "link": "https://web3.career/devops-site-reliability-engineer-okx/150381",
+      "company_name": "Okx",
+      "description": "devops engineer reliability aws blockchain"
     },
     {
       "title": "Senior DevOps Engineer",
@@ -93,18 +105,6 @@
       "link": "https://web3.career/senior-devops-engineer-bitfit-labs-pte-ltd/149139",
       "company_name": "BITFIT LABS PTE LTD",
       "description": "devops engineer senior aws bitcoin"
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-localcoin/148996",
-      "company_name": "Localcoin",
-      "description": "devops engineer senior aws bitcoin"
-    },
-    {
-      "title": "Senior DevOps Site Reliability Engineer",
-      "link": "https://web3.career/senior-devops-site-reliability-engineer-limitbreak/148951",
-      "company_name": "Limit Break",
-      "description": "devops engineer reliability senior aws"
     }
   ]
 }

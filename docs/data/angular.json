@@ -2,19 +2,31 @@
   "skill": "angular",
   "label": "Angular",
   "count": 15,
-  "updated_at": "2026-06-08T07:57:42.957855+00:00",
+  "updated_at": "2026-06-15T08:16:27.792730+00:00",
   "jobs": [
+    {
+      "title": "Staff Software Engineer Graphs",
+      "link": "https://web3.career/staff-software-engineer-graphs-chainalysis/150362",
+      "company_name": "Chainalysis",
+      "description": "engineer dev angular aws blockchain"
+    },
+    {
+      "title": "Java Backend Developer",
+      "link": "https://web3.career/java-backend-developer-localcoin/78924",
+      "company_name": "Localcoin",
+      "description": "backend dev java angular aws"
+    },
+    {
+      "title": "QA",
+      "link": "https://web3.career/qa-confirmo/150308",
+      "company_name": "Confirmo",
+      "description": "quality assurance angular crypto typescript"
+    },
     {
       "title": "Senior Full Stack Engineer",
       "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
       "company_name": "Bcbgroup",
       "description": "engineer full stack senior angular crypto"
-    },
-    {
-      "title": "Software Engineer III",
-      "link": "https://web3.career/software-engineer-iii-zinnia/150042",
-      "company_name": "Zinnia",
-      "description": "engineer dev angular aws react"
     },
     {
       "title": "Senior Software Engineer Angular B2C Web Platm",
@@ -23,10 +35,10 @@
       "description": "c c plus plus javascript angular engineer"
     },
     {
-      "title": "Java Backend Developer",
-      "link": "https://web3.career/java-backend-developer-localcoin/78924",
-      "company_name": "Localcoin",
-      "description": "backend dev java angular aws"
+      "title": "Software Engineer III",
+      "link": "https://web3.career/software-engineer-iii-zinnia/150042",
+      "company_name": "Zinnia",
+      "description": "engineer dev angular aws react"
     },
     {
       "title": "Senior Full Stack Engineer",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/binance-accelerator-program-frontend-engineer-com-binance/148163",
       "company_name": "Binance",
       "description": "engineer front end angular blockchain react"
-    },
-    {
-      "title": ".NET Software Engineer C# APIs AWS",
-      "link": "https://web3.career/net-software-engineer-c-apis-aws-zinnia/148038",
-      "company_name": "Zinnia",
-      "description": "c c sharp c plus plus dot net ai"
-    },
-    {
-      "title": "Frontend Engineering Intern Trading",
-      "link": "https://web3.career/frontend-engineering-intern-trading-coinhako/148015",
-      "company_name": "Coinhako",
-      "description": "front end intern entry level angular crypto"
     }
   ]
 }

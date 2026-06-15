@@ -2,8 +2,14 @@
   "skill": "php",
   "label": "PHP",
   "count": 15,
-  "updated_at": "2026-06-08T07:57:25.746646+00:00",
+  "updated_at": "2026-06-15T08:16:08.659869+00:00",
   "jobs": [
+    {
+      "title": "Database Administrator",
+      "link": "https://web3.career/database-administrator-okx/150300",
+      "company_name": "Okx",
+      "description": "admin aws blockchain crypto php"
+    },
     {
       "title": "Senior Software Engineer Java",
       "link": "https://web3.career/senior-software-engineer-java-bitpanda/58574",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/java-engineer-latam-bitso/140367",
       "company_name": "Bitso",
       "description": "engineer java crypto docker kubernetes"
-    },
-    {
-      "title": "Senior Backend Engineer Solana",
-      "link": "https://web3.career/senior-backend-engineer-solana-blockworks/140143",
-      "company_name": "Blockworks",
-      "description": "backend engineer senior aws blockchain"
     }
   ]
 }

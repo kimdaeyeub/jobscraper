@@ -2,13 +2,19 @@
   "skill": "android",
   "label": "Android",
   "count": 16,
-  "updated_at": "2026-06-08T07:58:19.308604+00:00",
+  "updated_at": "2026-06-15T08:17:06.056900+00:00",
   "jobs": [
     {
       "title": "Kotlin Developer (Android / Multiplatform) (m/w/d)",
       "description": "Wir sind apprime, eine innovative Agentur für mobile Anwendungen und plattformübergreifende Lösungen. Unser Fokus liegt auf hochwertiger Softwareentwicklung mit modernsten Technologien, agilen Methoden und höchstem Qualitätsanspruch. Zur Verstärkung unseres Entwicklerteams suchen wir ab sofort einen erfahrenen Senior Kotlin Developer (Android & Multiplatform). Wir suchen dich, wenn du in Berlin wohnst, hierher ziehen möchtest oder in...",
       "link": "https://berlinstartupjobs.com/engineering/kotlin-developer-android-multiplatform-m-w-d-apprime-gmbh/",
       "company_name": "apprime"
+    },
+    {
+      "title": "Binance Accelerator Program APP iOS Android Engineer Fresh Grad",
+      "link": "https://web3.career/binance-accelerator-program-app-ios-android-engineer-fresh-grad-binance/150333",
+      "company_name": "Binance",
+      "description": "android mobile engineer intern entry level"
     },
     {
       "title": "Android Engineer",
@@ -93,12 +99,6 @@
       "link": "https://web3.career/senior-mobile-engineer-ios-android-flutter-binance/143584",
       "company_name": "Binance",
       "description": "android mobile engineer flutter ios"
-    },
-    {
-      "title": "Senior Android Engineer Binance Square",
-      "link": "https://web3.career/senior-android-engineer-binance-square-binance/143483",
-      "company_name": "Binance",
-      "description": "android mobile engineer senior blockchain"
     }
   ]
 }

@@ -2,61 +2,31 @@
   "skill": "rust",
   "label": "Rust",
   "count": 15,
-  "updated_at": "2026-06-08T07:57:25.161925+00:00",
+  "updated_at": "2026-06-15T08:16:08.073566+00:00",
   "jobs": [
     {
-      "title": "Binance Accelerator Program AI Research Scientist LLM Reasoning PostTraining",
-      "link": "https://web3.career/binance-accelerator-program-ai-research-scientist-llm-reasoning-post-training-binance/150204",
-      "company_name": "Binance",
-      "description": "research scientist ai education blockchain"
+      "title": "Senior Lead Blockchain Developer",
+      "link": "https://web3.career/senior-lead-blockchain-developer-jpctechnoinc/150415",
+      "company_name": "JPC TECHNO INC",
+      "description": "dev lead senior blockchain aws"
     },
     {
-      "title": "Blockchain Developer :: Chicago IL",
-      "link": "https://web3.career/blockchain-developer-chicago-il-hyrglobalsourceinc/150117",
-      "company_name": "HYR Global Source Inc",
-      "description": "dev blockchain aws crypto golang"
+      "title": "Blockchain engineer",
+      "link": "https://web3.career/blockchain-engineer-unlimit-pro/150411",
+      "company_name": "Unlimit Pro",
+      "description": "engineer blockchain remote defi nft"
     },
     {
-      "title": "Blockchain Developer TIWDC5819228",
-      "link": "https://web3.career/blockchain-developer-tiwdc5819228-compunnelinc/150116",
-      "company_name": "Compunnel Inc.",
-      "description": "dev blockchain aws golang java"
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-kastechsoftwaresolutionsgroup/150398",
+      "company_name": "Kastech Software Solutions Group",
+      "description": "dev senior blockchain aws crypto"
     },
     {
-      "title": "Blockchain Developer _ Digital Asset",
-      "link": "https://web3.career/blockchain-developer-_-digital-asset-envisiontechnologysolutions/150114",
-      "company_name": "Envision Technology Solutions",
-      "description": "dev blockchain node rust solidity"
-    },
-    {
-      "title": "Block chain developer",
-      "link": "https://web3.career/block-chain-developer-unicomtechnologiesinc/150113",
-      "company_name": "UNICOM Technologies Inc",
-      "description": "dev aws blockchain crypto golang"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-fustisllc/150112",
-      "company_name": "FUSTIS LLC",
-      "description": "dev blockchain aws crypto golang"
-    },
-    {
-      "title": "Blockchain developer",
-      "link": "https://web3.career/blockchain-developer-accordtechnologiesinc/150110",
-      "company_name": "Accord Technologies Inc",
-      "description": "dev blockchain aws crypto golang"
-    },
-    {
-      "title": "Principal Software Engineer React + Node Remote EU or USA",
-      "link": "https://web3.career/principal-software-engineer-react-node-remote-eu-or-usa-pubgeniusinc/150071",
-      "company_name": "Pubgenius Inc.",
-      "description": "remote engineer javascript node executive"
-    },
-    {
-      "title": "Platm Engineer",
-      "link": "https://web3.career/platform-engineer-moonshot/150067",
-      "company_name": "Moonshot",
-      "description": "engineer blockchain crypto defi node"
+      "title": "Member of Technical Staff Smart Contract",
+      "link": "https://web3.career/member-of-technical-staff-smart-contract-galaxy/150394",
+      "company_name": "Galaxy",
+      "description": "ethereum blockchain crypto defi hardhat"
     },
     {
       "title": "Staff Site Reliability Engineer",
@@ -65,22 +35,52 @@
       "description": "engineer reliability aws golang java"
     },
     {
+      "title": "Experienced Quantitative Trader",
+      "link": "https://web3.career/experienced-quantitative-trader-kronosresearch/100108",
+      "company_name": "Kronosresearch",
+      "description": "quantitative quantitative trader trader blockchain crypto"
+    },
+    {
+      "title": "Senior Backend Engineer Rust",
+      "link": "https://web3.career/senior-backend-engineer-rust-offchainlabs/150351",
+      "company_name": "Offchain",
+      "description": "backend engineer rust senior remote"
+    },
+    {
+      "title": "DLT Developer – Solana",
+      "link": "https://web3.career/dlt-developer-solana-centraprise/150339",
+      "company_name": "Centraprise",
+      "description": "dev blockchain java node rust"
+    },
+    {
+      "title": "Senior Smart Contract Engineer",
+      "link": "https://web3.career/senior-smart-contract-engineer-galaxy/150338",
+      "company_name": "Galaxy",
+      "description": "engineer senior ethereum blockchain crypto"
+    },
+    {
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-evolutyzcorp/150320",
+      "company_name": "Evolutyz Corp",
+      "description": "dev senior blockchain aws crypto"
+    },
+    {
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-jpctechnoinc/150318",
+      "company_name": "JPC TECHNO INC",
+      "description": "dev senior blockchain aws golang"
+    },
+    {
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-q1technologies-inc/150317",
+      "company_name": "Q1 Technologies, Inc.",
+      "description": "dev blockchain node rust solidity"
+    },
+    {
       "title": "Principal Site Reliability Engineer",
       "link": "https://web3.career/principal-site-reliability-engineer-zscaler/99847",
       "company_name": "Zscaler",
       "description": "engineer executive reliability aws golang"
-    },
-    {
-      "title": "Sr. Staff Software Development EngineerAI Security",
-      "link": "https://web3.career/sr-staff-software-development-engineer-ai-security-zscaler/150044",
-      "company_name": "Zscaler",
-      "description": "ai engineer security dev senior"
-    },
-    {
-      "title": "Sr. Software Development EngineerAI Security",
-      "link": "https://web3.career/sr-software-development-engineer-ai-security-zscaler/150043",
-      "company_name": "Zscaler",
-      "description": "ai engineer security dev senior"
     },
     {
       "title": "Quant Developer Rust Liquidity Platm Delta One Systematic Trading",

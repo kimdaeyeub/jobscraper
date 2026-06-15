@@ -2,8 +2,20 @@
   "skill": "vue",
   "label": "Vue",
   "count": 15,
-  "updated_at": "2026-06-08T07:57:38.823864+00:00",
+  "updated_at": "2026-06-15T08:16:24.458645+00:00",
   "jobs": [
+    {
+      "title": "Senior Frontend Engineer Trading Systems",
+      "link": "https://web3.career/senior-frontend-engineer-trading-systems-binance/150426",
+      "company_name": "Binance",
+      "description": "engineer front end senior blockchain crypto"
+    },
+    {
+      "title": "DevOps Site Reliability Engineer",
+      "link": "https://web3.career/devops-site-reliability-engineer-okx/150381",
+      "company_name": "Okx",
+      "description": "devops engineer reliability aws blockchain"
+    },
     {
       "title": "Engineering Director Frontend Business Lead",
       "link": "https://web3.career/engineering-director-frontend-business-lead-okx/147552",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/frontend-infra-engineering-director-okx/148233",
       "company_name": "Okx",
       "description": "executive front end blockchain crypto node"
-    },
-    {
-      "title": "Frontend Business Engineering Director",
-      "link": "https://web3.career/frontend-business-engineering-director-okx/148232",
-      "company_name": "Okx",
-      "description": "executive front end crypto react vue"
-    },
-    {
-      "title": "Binance Accelerator Program Frontend Engineer .COM",
-      "link": "https://web3.career/binance-accelerator-program-frontend-engineer-com-binance/148163",
-      "company_name": "Binance",
-      "description": "engineer front end angular blockchain react"
     }
   ]
 }

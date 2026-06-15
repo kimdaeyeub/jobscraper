@@ -2,8 +2,14 @@
   "skill": "ios",
   "label": "iOS",
   "count": 15,
-  "updated_at": "2026-06-08T07:58:19.940343+00:00",
+  "updated_at": "2026-06-15T08:17:10.341793+00:00",
   "jobs": [
+    {
+      "title": "Binance Accelerator Program APP iOS Android Engineer Fresh Grad",
+      "link": "https://web3.career/binance-accelerator-program-app-ios-android-engineer-fresh-grad-binance/150333",
+      "company_name": "Binance",
+      "description": "android mobile engineer intern entry level"
+    },
     {
       "title": "iOS Engineer",
       "link": "https://web3.career/ios-engineer-bluecubeservices/103710",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/code-review-ios-binance/140861",
       "company_name": "Binance",
       "description": "dev ios mobile blockchain"
-    },
-    {
-      "title": "Senior IOS Developer",
-      "link": "https://web3.career/senior-ios-developer-pioneer-services/140653",
-      "company_name": "Powered by Pioneer",
-      "description": "dev ios mobile senior blockchain"
     }
   ]
 }

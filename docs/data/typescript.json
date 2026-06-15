@@ -1,9 +1,15 @@
 {
   "skill": "typescript",
   "label": "TypeScript",
-  "count": 21,
-  "updated_at": "2026-06-08T07:57:19.739616+00:00",
+  "count": 22,
+  "updated_at": "2026-06-15T08:15:59.616805+00:00",
   "jobs": [
+    {
+      "title": "Head of Technology",
+      "description": "EMS Press is looking for a proactive, pragmatic and technically confident Head of Technology who can combine hands-on technical judgement with clear leadership, reliable project delivery, and close collaboration across the organisation. This is a part-time senior-level role reporting to the managing director. The role requires broad technical knowledge, and experience managing agile, project-focused teams....",
+      "link": "https://berlinstartupjobs.com/engineering/head-of-technology-ems-press/",
+      "company_name": "EMS Press"
+    },
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
@@ -41,94 +47,94 @@
       "company_name": "Kombo"
     },
     {
-      "title": "Copy of Full Stack Engineer Blockchain",
-      "link": "https://web3.career/copy-of-full-stack-engineer-blockchain-fireblocks/150174",
-      "company_name": "Fireblocks",
-      "description": "engineer full stack blockchain docker javascript"
-    },
-    {
-      "title": "Principal Software Engineer React + Node Remote EU or USA",
-      "link": "https://web3.career/principal-software-engineer-react-node-remote-eu-or-usa-pubgeniusinc/150071",
-      "company_name": "Pubgenius Inc.",
-      "description": "remote engineer javascript node executive"
-    },
-    {
-      "title": "Lead Software Engineer Blockchain Public or Permissioned blockchain platms",
-      "link": "https://web3.career/lead-software-engineer-blockchain-public-or-permissioned-blockchain-platforms-jpmorganchase/150070",
-      "company_name": "JPMorganChase",
-      "description": "engineer lead dev blockchain aws"
-    },
-    {
-      "title": "Senior QA Engineer 100% Remote Worldwide",
-      "link": "https://web3.career/senior-qa-engineer-100-remote-worldwide-tetheroperationslimited/150051",
-      "company_name": "Tether Operations Limited",
-      "description": "remote engineer quality assurance senior aws"
-    },
-    {
-      "title": "Senior QA Engineer 100% Remote",
-      "link": "https://web3.career/senior-qa-engineer-100-remote-tetheroperationslimited/150050",
-      "company_name": "Tether Operations Limited",
-      "description": "remote engineer quality assurance senior aws"
-    },
-    {
       "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
-      "company_name": "Bcbgroup",
-      "description": "engineer full stack senior angular crypto"
+      "link": "https://web3.career/senior-full-stack-engineer-crossmint/150421",
+      "company_name": "Crossmint",
+      "description": "engineer full stack senior blockchain crypto"
     },
     {
-      "title": "Data Engineer",
-      "link": "https://web3.career/data-engineer-bcbgroup/140602",
-      "company_name": "Bcbgroup",
-      "description": "data science engineer crypto typescript remote"
+      "title": "Blockchain engineer",
+      "link": "https://web3.career/blockchain-engineer-unlimit-pro/150411",
+      "company_name": "Unlimit Pro",
+      "description": "engineer blockchain remote defi nft"
     },
     {
-      "title": "Backend Engineer",
-      "link": "https://web3.career/backend-engineer-layerzerolabs/73714",
+      "title": "Engineering Manager",
+      "link": "https://web3.career/engineering-manager-layerzerolabs/150380",
       "company_name": "Layerzerolabs",
-      "description": "backend engineer aws blockchain typescript"
+      "description": "engineering manager engineer aws blockchain typescript"
     },
     {
-      "title": "Senior Engineering Manager Frontend Pro",
-      "link": "https://web3.career/senior-engineering-manager-frontend-pro-kraken/150025",
-      "company_name": "Kraken",
-      "description": "engineering manager engineer front end senior blockchain"
+      "title": "Staff Software Engineer Graphs",
+      "link": "https://web3.career/staff-software-engineer-graphs-chainalysis/150362",
+      "company_name": "Chainalysis",
+      "description": "engineer dev angular aws blockchain"
     },
     {
-      "title": "Software Engineer II Frontend Pro",
-      "link": "https://web3.career/software-engineer-ii-frontend-pro-kraken/150024",
-      "company_name": "Kraken",
-      "description": "engineer front end dev blockchain crypto"
+      "title": "Software Engineer Markets",
+      "link": "https://web3.career/software-engineer-markets-polymarket/150355",
+      "company_name": "Polymarket",
+      "description": "engineer dev node react typescript"
     },
     {
-      "title": "Software Engineer Frontend Payments",
-      "link": "https://web3.career/software-engineer-frontend-payments-kraken/150023",
-      "company_name": "Kraken",
-      "description": "engineer front end dev blockchain crypto"
+      "title": "Solutions Engineer",
+      "link": "https://web3.career/solutions-engineer-bitgo/149986",
+      "company_name": "Bitgo",
+      "description": "engineer bitcoin blockchain javascript typescript"
     },
     {
-      "title": "FrontEnd Engineer",
-      "link": "https://web3.career/front-end-engineer-bluecubeservices/102823",
-      "company_name": "Bluecubeservices",
-      "description": "engineer front end crypto javascript react"
+      "title": "Software Engineer Frontend and Mobile",
+      "link": "https://web3.career/software-engineer-frontend-and-mobile-bitgo/148771",
+      "company_name": "Bitgo",
+      "description": "engineer front end mobile dev bitcoin"
     },
     {
-      "title": "Software Engineer Data Growth",
-      "link": "https://web3.career/software-engineer-data-growth-chainlinklabs/150011",
-      "company_name": "Chainlink Labs",
-      "description": "growth engineer dev blockchain defi"
+      "title": "Senior Software Engineer Post Trade",
+      "link": "https://web3.career/senior-software-engineer-post-trade-bitgo/145962",
+      "company_name": "Bitgo",
+      "description": "engineer senior dev bitcoin blockchain"
     },
     {
-      "title": "Senior Software Engineer Angular B2C Web Platm",
-      "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
-      "company_name": "Bitpanda",
-      "description": "c c plus plus javascript angular engineer"
+      "title": "Full Stack AI Engineer",
+      "link": "https://web3.career/full-stack-ai-engineer-mlabs/150336",
+      "company_name": "MLabs",
+      "description": "ai engineer full stack blockchain defi"
     },
     {
-      "title": "Senior Software Engineer React Broker Web Platm",
-      "link": "https://web3.career/senior-software-engineer-react-broker-web-platform-bitpanda/149241",
-      "company_name": "Bitpanda",
-      "description": "engineer javascript react senior dev"
+      "title": "Binance Accelerator Program APP iOS Android Engineer Fresh Grad",
+      "link": "https://web3.career/binance-accelerator-program-app-ios-android-engineer-fresh-grad-binance/150333",
+      "company_name": "Binance",
+      "description": "android mobile engineer intern entry level"
+    },
+    {
+      "title": "Senior Fullstack Engineer Backend Focus",
+      "link": "https://web3.career/senior-fullstack-engineer-backend-focus-rugsdotfun/150325",
+      "company_name": "RugsDotFun",
+      "description": "backend engineer full stack senior crypto"
+    },
+    {
+      "title": "Full Stack Engineer — AI Integrations",
+      "link": "https://web3.career/full-stack-engineer-ai-integrations-performanceai/150316",
+      "company_name": "Performance AI",
+      "description": "integration ai engineer full stack blockchain"
+    },
+    {
+      "title": "Staff Software Engineer MetaMask Money Movement",
+      "link": "https://web3.career/staff-software-engineer-metamask-money-movement-consensys/150311",
+      "company_name": "Consensys",
+      "description": "engineer dev remote blockchain crypto"
+    },
+    {
+      "title": "Sr. Full Stack Developer",
+      "link": "https://web3.career/sr-full-stack-developer-stealth/138129",
+      "company_name": "Stealth",
+      "description": "dev full stack senior aws blockchain"
+    },
+    {
+      "title": "QA",
+      "link": "https://web3.career/qa-confirmo/150308",
+      "company_name": "Confirmo",
+      "description": "quality assurance angular crypto typescript"
     }
   ]
 }
