@@ -2,8 +2,20 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-06-15T08:16:16.946084+00:00",
+  "updated_at": "2026-06-22T08:17:13.932920+00:00",
   "jobs": [
+    {
+      "title": "Android Engineer",
+      "link": "https://web3.career/android-engineer-bluecubeservices/103709",
+      "company_name": "Bluecubeservices",
+      "description": "android mobile engineer bitcoin crypto"
+    },
+    {
+      "title": "Senior Software Engineer Web Full Stack",
+      "link": "https://web3.career/senior-software-engineer-web-full-stack-bitmex/92818",
+      "company_name": "Bitmex",
+      "description": "engineer full stack senior dev bitcoin"
+    },
     {
       "title": "Mobile Design Engineer",
       "link": "https://web3.career/mobile-design-engineer-kraken/150371",
@@ -21,18 +33,6 @@
       "link": "https://web3.career/binance-accelerator-program-app-ios-android-engineer-fresh-grad-binance/150333",
       "company_name": "Binance",
       "description": "android mobile engineer intern entry level"
-    },
-    {
-      "title": "Android Engineer",
-      "link": "https://web3.career/android-engineer-bluecubeservices/103709",
-      "company_name": "Bluecubeservices",
-      "description": "android mobile engineer bitcoin crypto"
-    },
-    {
-      "title": "Senior Software Engineer Web Full Stack",
-      "link": "https://web3.career/senior-software-engineer-web-full-stack-bitmex/92818",
-      "company_name": "Bitmex",
-      "description": "engineer full stack senior dev bitcoin"
     },
     {
       "title": "Software Engineer Lending Savings Contractors",

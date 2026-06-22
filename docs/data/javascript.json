@@ -2,7 +2,7 @@
   "skill": "javascript",
   "label": "JavaScript",
   "count": 17,
-  "updated_at": "2026-06-15T08:15:58.842160+00:00",
+  "updated_at": "2026-06-22T08:16:53.451841+00:00",
   "jobs": [
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
@@ -17,28 +17,64 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Frontend Engineer Trading Systems",
-      "link": "https://web3.career/senior-frontend-engineer-trading-systems-binance/150426",
-      "company_name": "Binance",
-      "description": "engineer front end senior blockchain crypto"
+      "title": "Blockchain Lead",
+      "link": "https://web3.career/blockchain-lead-stablenaira/150609",
+      "company_name": "Stable Naira",
+      "description": "lead blockchain defi erc 20 ethereum"
+    },
+    {
+      "title": "Senior Fullstack Engineer Agentic Payments NYC MIA",
+      "link": "https://web3.career/senior-full-stack-engineer-agentic-payments-nyc-mia-crossmint/150606",
+      "company_name": "Crossmint",
+      "description": "engineer full stack senior blockchain crypto"
+    },
+    {
+      "title": "Solutions Engineer",
+      "link": "https://web3.career/solutions-engineer-bitgo/149986",
+      "company_name": "Bitgo",
+      "description": "engineer bitcoin blockchain javascript typescript"
+    },
+    {
+      "title": "Frontend Engineer",
+      "link": "https://web3.career/frontend-engineer-coins/150516",
+      "company_name": "Coins.ph",
+      "description": "engineer front end crypto javascript react"
     },
     {
       "title": "AI Blockchain Risk Control Engineer",
-      "link": "https://web3.career/ai-blockchain-risk-control-engineer-confidential/150393",
-      "company_name": "Confidential",
+      "link": "https://web3.career/ai-blockchain-risk-control-engineer-bylabs/150507",
+      "company_name": "ByLabs",
       "description": "ai engineer blockchain crypto javascript"
     },
     {
-      "title": "SecOps Engineer",
-      "link": "https://web3.career/secops-engineer-lido/150374",
-      "company_name": "Lido",
-      "description": "engineer blockchain docker ethereum golang"
+      "title": "FrontEnd Engineer",
+      "link": "https://web3.career/front-end-engineer-bluecubeservices/102823",
+      "company_name": "Bluecubeservices",
+      "description": "engineer front end crypto javascript react"
     },
     {
-      "title": "Technical Account Manager",
-      "link": "https://web3.career/technical-account-manager-polymarket/150356",
+      "title": "Senior Software Engineer Angular B2C Web Platm",
+      "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
+      "company_name": "Bitpanda",
+      "description": "c c plus plus javascript angular engineer"
+    },
+    {
+      "title": "Growth Engineer Data Systems",
+      "link": "https://web3.career/growth-engineer-data-systems-bitmex/146102",
+      "company_name": "Bitmex",
+      "description": "growth engineer crypto discord javascript"
+    },
+    {
+      "title": "Lead Permance Web Engineer",
+      "link": "https://web3.career/lead-performance-web-engineer-polymarket/150462",
       "company_name": "Polymarket",
-      "description": "account manager sales non tech crypto defi"
+      "description": "engineer lead javascript nextjs react"
+    },
+    {
+      "title": "FrontEnd Engineer Institutional",
+      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
+      "company_name": "Blockchain",
+      "description": "engineer front end blockchain crypto javascript"
     },
     {
       "title": "Sr. Ad Sales Director Search",
@@ -53,58 +89,22 @@
       "description": "dev quality assurance javascript crypto remote"
     },
     {
-      "title": "Solutions Engineer",
-      "link": "https://web3.career/solutions-engineer-bitgo/149986",
-      "company_name": "Bitgo",
-      "description": "engineer bitcoin blockchain javascript typescript"
-    },
-    {
       "title": "Software Engineer Frontend and Mobile",
       "link": "https://web3.career/software-engineer-frontend-and-mobile-bitgo/148771",
       "company_name": "Bitgo",
       "description": "engineer front end mobile dev bitcoin"
     },
     {
-      "title": "Full Stack AI Engineer",
-      "link": "https://web3.career/full-stack-ai-engineer-mlabs/150336",
-      "company_name": "MLabs",
-      "description": "ai engineer full stack blockchain defi"
+      "title": "Senior Infrastructure Engineer",
+      "link": "https://web3.career/senior-infrastructure-engineer-moonpay/150434",
+      "company_name": "MoonPay",
+      "description": "infrastructure engineer senior remote blockchain"
     },
     {
-      "title": "Binance Accelerator Program APP iOS Android Engineer Fresh Grad",
-      "link": "https://web3.career/binance-accelerator-program-app-ios-android-engineer-fresh-grad-binance/150333",
+      "title": "Senior Frontend Engineer Trading Systems",
+      "link": "https://web3.career/senior-frontend-engineer-trading-systems-binance/150426",
       "company_name": "Binance",
-      "description": "android mobile engineer intern entry level"
-    },
-    {
-      "title": "Bare Developer 100% Remote Worldwide C JavaScript",
-      "link": "https://web3.career/bare-developer-100-remote-worldwide-c-javascript-tetheroperationslimited/150330",
-      "company_name": "Tether Operations Limited",
-      "description": "c c plus plus remote dev javascript"
-    },
-    {
-      "title": "Senior Fullstack Engineer Backend Focus",
-      "link": "https://web3.career/senior-fullstack-engineer-backend-focus-rugsdotfun/150325",
-      "company_name": "RugsDotFun",
-      "description": "backend engineer full stack senior crypto"
-    },
-    {
-      "title": "Sr. Full Stack Developer",
-      "link": "https://web3.career/sr-full-stack-developer-stealth/138129",
-      "company_name": "Stealth",
-      "description": "dev full stack senior aws blockchain"
-    },
-    {
-      "title": "Bare Developer 100% Remote Worldwide",
-      "link": "https://web3.career/bare-developer-100-remote-worldwide-tetheroperationslimited/150310",
-      "company_name": "Tether Operations Limited",
-      "description": "remote dev bitcoin blockchain crypto"
-    },
-    {
-      "title": "FrontEnd Engineer",
-      "link": "https://web3.career/front-end-engineer-bluecubeservices/102823",
-      "company_name": "Bluecubeservices",
-      "description": "engineer front end crypto javascript react"
+      "description": "engineer front end senior blockchain crypto"
     }
   ]
 }

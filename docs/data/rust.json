@@ -2,31 +2,25 @@
   "skill": "rust",
   "label": "Rust",
   "count": 15,
-  "updated_at": "2026-06-15T08:16:08.073566+00:00",
+  "updated_at": "2026-06-22T08:17:03.562931+00:00",
   "jobs": [
     {
-      "title": "Senior Lead Blockchain Developer",
-      "link": "https://web3.career/senior-lead-blockchain-developer-jpctechnoinc/150415",
-      "company_name": "JPC TECHNO INC",
-      "description": "dev lead senior blockchain aws"
+      "title": "Blockchain Lead",
+      "link": "https://web3.career/blockchain-lead-stablenaira/150609",
+      "company_name": "Stable Naira",
+      "description": "lead blockchain defi erc 20 ethereum"
     },
     {
-      "title": "Blockchain engineer",
-      "link": "https://web3.career/blockchain-engineer-unlimit-pro/150411",
-      "company_name": "Unlimit Pro",
-      "description": "engineer blockchain remote defi nft"
+      "title": "Blockchain Consultant",
+      "link": "https://web3.career/blockchain-consultant-mindlance/150601",
+      "company_name": "Mindlance",
+      "description": "consulting blockchain crypto java rust"
     },
     {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-kastechsoftwaresolutionsgroup/150398",
-      "company_name": "Kastech Software Solutions Group",
-      "description": "dev senior blockchain aws crypto"
-    },
-    {
-      "title": "Member of Technical Staff Smart Contract",
-      "link": "https://web3.career/member-of-technical-staff-smart-contract-galaxy/150394",
-      "company_name": "Galaxy",
-      "description": "ethereum blockchain crypto defi hardhat"
+      "title": "Sr Blockchain Developer",
+      "link": "https://web3.career/sr-blockchain-developer-accroidinc/150589",
+      "company_name": "Accroid Inc",
+      "description": "dev blockchain aws ethereum java"
     },
     {
       "title": "Staff Site Reliability Engineer",
@@ -35,52 +29,28 @@
       "description": "engineer reliability aws golang java"
     },
     {
-      "title": "Experienced Quantitative Trader",
-      "link": "https://web3.career/experienced-quantitative-trader-kronosresearch/100108",
-      "company_name": "Kronosresearch",
-      "description": "quantitative quantitative trader trader blockchain crypto"
+      "title": "Senior Java Engineer Wallet Smart Account Team",
+      "link": "https://web3.career/senior-java-engineer-wallet-smart-account-team-okx/150561",
+      "company_name": "Okx",
+      "description": "sales non tech engineer java senior"
     },
     {
-      "title": "Senior Backend Engineer Rust",
-      "link": "https://web3.career/senior-backend-engineer-rust-offchainlabs/150351",
-      "company_name": "Offchain",
-      "description": "backend engineer rust senior remote"
+      "title": "Senior Site Reliability Engineer",
+      "link": "https://web3.career/senior-site-reliability-engineer-chainalysis/150554",
+      "company_name": "Chainalysis",
+      "description": "engineer reliability senior aws blockchain"
     },
     {
-      "title": "DLT Developer – Solana",
-      "link": "https://web3.career/dlt-developer-solana-centraprise/150339",
-      "company_name": "Centraprise",
-      "description": "dev blockchain java node rust"
+      "title": "Senior Software Engineer Advisory Suite",
+      "link": "https://web3.career/senior-software-engineer-advisory-suite-alpaca/150544",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev aws crypto"
     },
     {
-      "title": "Senior Smart Contract Engineer",
-      "link": "https://web3.career/senior-smart-contract-engineer-galaxy/150338",
-      "company_name": "Galaxy",
-      "description": "engineer senior ethereum blockchain crypto"
-    },
-    {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-evolutyzcorp/150320",
-      "company_name": "Evolutyz Corp",
-      "description": "dev senior blockchain aws crypto"
-    },
-    {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-jpctechnoinc/150318",
-      "company_name": "JPC TECHNO INC",
-      "description": "dev senior blockchain aws golang"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-q1technologies-inc/150317",
-      "company_name": "Q1 Technologies, Inc.",
-      "description": "dev blockchain node rust solidity"
-    },
-    {
-      "title": "Principal Site Reliability Engineer",
-      "link": "https://web3.career/principal-site-reliability-engineer-zscaler/99847",
-      "company_name": "Zscaler",
-      "description": "engineer executive reliability aws golang"
+      "title": "Senior Blockchain Architect",
+      "link": "https://web3.career/senior-blockchain-architect-globalsettlementnetwork/150526",
+      "company_name": "Global Settlement Network",
+      "description": "architecture senior blockchain aws docker"
     },
     {
       "title": "Quant Developer Rust Liquidity Platm Delta One Systematic Trading",
@@ -93,6 +63,36 @@
       "link": "https://web3.career/crypto-production-engineer-jumpcrypto/89562",
       "company_name": "Jumpcrypto",
       "description": "engineer blockchain crypto defi ethereum"
+    },
+    {
+      "title": "Quantitative Developer",
+      "link": "https://web3.career/quantitative-developer-gsrmarkets/105350",
+      "company_name": "Gsrmarkets",
+      "description": "quantitative quantitative developer dev crypto rust"
+    },
+    {
+      "title": "Systematic Options Researcher Trader Market Making",
+      "link": "https://web3.career/systematic-options-researcher-trader-market-making-gsrmarkets/147062",
+      "company_name": "Gsrmarkets",
+      "description": "research trader crypto rust remote"
+    },
+    {
+      "title": "Senior Red Team Operator",
+      "link": "https://web3.career/senior-red-team-operator-figment/84843",
+      "company_name": "Figment",
+      "description": "senior aws blockchain crypto docker"
+    },
+    {
+      "title": "Staff Engineer Syncro",
+      "link": "https://web3.career/staff-engineer-syncro-p2p-org/150487",
+      "company_name": "P2P. org",
+      "description": "engineer aws blockchain crypto kubernetes"
+    },
+    {
+      "title": "Site Reliability Engineer Core Infrastructure",
+      "link": "https://web3.career/site-reliability-engineer-core-infrastructure-kraken/150483",
+      "company_name": "Kraken",
+      "description": "infrastructure engineer reliability aws crypto"
     }
   ]
 }

@@ -2,8 +2,26 @@
   "skill": "nextjs",
   "label": "Next.js",
   "count": 15,
-  "updated_at": "2026-06-15T08:16:32.203132+00:00",
+  "updated_at": "2026-06-22T08:17:27.038572+00:00",
   "jobs": [
+    {
+      "title": "Senior Software Engineer Angular B2C Web Platm",
+      "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
+      "company_name": "Bitpanda",
+      "description": "c c plus plus javascript angular engineer"
+    },
+    {
+      "title": "Lead Permance Web Engineer",
+      "link": "https://web3.career/lead-performance-web-engineer-polymarket/150462",
+      "company_name": "Polymarket",
+      "description": "engineer lead javascript nextjs react"
+    },
+    {
+      "title": "Acquisition Engineering Team Lead",
+      "link": "https://web3.career/acquisition-engineering-team-lead-alpaca/150459",
+      "company_name": "Alpaca",
+      "description": "lead crypto nextjs react typescript"
+    },
     {
       "title": "Full Stack Engineer — AI Integrations",
       "link": "https://web3.career/full-stack-engineer-ai-integrations-performanceai/150316",
@@ -15,12 +33,6 @@
       "link": "https://web3.career/sr-full-stack-developer-stealth/138129",
       "company_name": "Stealth",
       "description": "dev full stack senior aws blockchain"
-    },
-    {
-      "title": "Senior Software Engineer Angular B2C Web Platm",
-      "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
-      "company_name": "Bitpanda",
-      "description": "c c plus plus javascript angular engineer"
     },
     {
       "title": "Principal Software Engineer React + Node Remote EU or USA",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/senior-web-engineer-polymarket/149090",
       "company_name": "Polymarket",
       "description": "engineer senior crypto nextjs react"
-    },
-    {
-      "title": "Software Engineer Propr.xyz",
-      "link": "https://web3.career/software-engineer-propr-xyz-swissborg/149073",
-      "company_name": "SwissBorg",
-      "description": "engineer dev remote aws blockchain"
-    },
-    {
-      "title": "Product Engineer",
-      "link": "https://web3.career/product-engineer-sherlock/149056",
-      "company_name": "Sherlock",
-      "description": "engineer ai blockchain crypto defi"
     }
   ]
 }

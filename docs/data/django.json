@@ -1,14 +1,7 @@
 {
   "skill": "django",
   "label": "Django",
-  "count": 1,
-  "updated_at": "2026-06-15T08:16:32.587851+00:00",
-  "jobs": [
-    {
-      "title": "Senior Product Engineer",
-      "description": "Tech Stack: Python, Django, React, Claude Code / Cursor Location: Berlin (remote first) Role: Full-time The Mission We are building TechMiners ONE, the automated machinery for the next generation of M&A due diligence. We’re moving away from manual, static reporting toward a high-speed, agentic data platform. We aren’t looking for someone to just “build an...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-product-engineer-techminers-gmbh/",
-      "company_name": "TechMiners"
-    }
-  ]
+  "count": 0,
+  "updated_at": "2026-06-22T08:17:27.607317+00:00",
+  "jobs": []
 }

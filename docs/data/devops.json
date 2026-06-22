@@ -2,7 +2,7 @@
   "skill": "devops",
   "label": "DevOps",
   "count": 17,
-  "updated_at": "2026-06-15T08:17:04.371486+00:00",
+  "updated_at": "2026-06-22T08:18:02.211931+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
@@ -17,18 +17,6 @@
       "company_name": "alcemy"
     },
     {
-      "title": "Staff DevOps Engineer",
-      "link": "https://web3.career/staff-devops-engineer-alchemy/150425",
-      "company_name": "Alchemy",
-      "description": "devops engineer blockchain kubernetes node"
-    },
-    {
-      "title": "DevOps Site Reliability Engineer",
-      "link": "https://web3.career/devops-site-reliability-engineer-okx/150381",
-      "company_name": "Okx",
-      "description": "devops engineer reliability aws blockchain"
-    },
-    {
       "title": "Senior DevOps Engineer",
       "link": "https://web3.career/senior-devops-engineer-copperco/96368",
       "company_name": "Copperco",
@@ -39,6 +27,24 @@
       "link": "https://web3.career/senior-devops-engineer-bitpanda/75931",
       "company_name": "Bitpanda",
       "description": "devops engineer senior aws crypto"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-dvtrading/150456",
+      "company_name": "Dvtrading",
+      "description": "devops engineer senior kubernetes remote"
+    },
+    {
+      "title": "Staff DevOps Engineer",
+      "link": "https://web3.career/staff-devops-engineer-alchemy/150425",
+      "company_name": "Alchemy",
+      "description": "devops engineer blockchain kubernetes node"
+    },
+    {
+      "title": "DevOps Site Reliability Engineer",
+      "link": "https://web3.career/devops-site-reliability-engineer-okx/150381",
+      "company_name": "Okx",
+      "description": "devops engineer reliability aws blockchain"
     },
     {
       "title": "Senior DevOps Engineer Exchange Trading Platms United Kingdom",
@@ -99,12 +105,6 @@
       "link": "https://web3.career/devops-engineer-bitpanda/139451",
       "company_name": "Bitpanda",
       "description": "devops engineer aws blockchain crypto"
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-bitfit-labs-pte-ltd/149139",
-      "company_name": "BITFIT LABS PTE LTD",
-      "description": "devops engineer senior aws bitcoin"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "skill": "data-science",
   "label": "Data Science",
   "count": 19,
-  "updated_at": "2026-06-15T08:17:05.567327+00:00",
+  "updated_at": "2026-06-22T08:18:03.951667+00:00",
   "jobs": [
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
@@ -29,28 +29,22 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Binance Accelerator Program Data Scientist Recommendation Square Community",
-      "link": "https://web3.career/binance-accelerator-program-data-scientist-recommendation-square-community-binance/150407",
-      "company_name": "Binance",
-      "description": "scientist community manager non tech data science blockchain"
+      "title": "Data Engineer PH",
+      "link": "https://web3.career/data-engineer-ph-coins/150541",
+      "company_name": "Coins.ph",
+      "description": "data science engineer aws crypto java"
     },
     {
-      "title": "Binance Accelerator Program Research On Chain Data Analyst",
-      "link": "https://web3.career/binance-accelerator-program-research-on-chain-data-analyst-binance/150342",
-      "company_name": "Binance",
-      "description": "research analyst data science blockchain defi"
+      "title": "Senior Data Analystシニアデータアナリスト Japan",
+      "link": "https://web3.career/senior-data-analyst-japan-limitbreak/150532",
+      "company_name": "Limit Break",
+      "description": "japan analyst data science senior blockchain"
     },
     {
       "title": "Data Engineer",
       "link": "https://web3.career/data-engineer-bcbgroup/140602",
       "company_name": "Bcbgroup",
       "description": "data science engineer crypto typescript remote"
-    },
-    {
-      "title": "Senior Data Engineer Compliance Data Platm",
-      "link": "https://web3.career/senior-data-engineer-compliance-data-platform-okx/150301",
-      "company_name": "Okx",
-      "description": "compliance non tech data science engineer senior"
     },
     {
       "title": "Senior Data Engineer",
@@ -77,6 +71,42 @@
       "description": "scientist analyst data science remote"
     },
     {
+      "title": "Data Analyst Marketing",
+      "link": "https://web3.career/data-analyst-marketing-bluecubeservices/140151",
+      "company_name": "Bluecubeservices",
+      "description": "analyst data science marketing non tech blockchain"
+    },
+    {
+      "title": "Staff Data Analyst",
+      "link": "https://web3.career/staff-data-analyst-polymarket/150467",
+      "company_name": "Polymarket",
+      "description": "analyst data science crypto"
+    },
+    {
+      "title": "Data Analyst",
+      "link": "https://web3.career/data-analyst-alpaca/150460",
+      "company_name": "Alpaca",
+      "description": "analyst data science crypto remote"
+    },
+    {
+      "title": "Binance Accelerator Program Data Scientist Recommendation Square Community",
+      "link": "https://web3.career/binance-accelerator-program-data-scientist-recommendation-square-community-binance/150407",
+      "company_name": "Binance",
+      "description": "scientist community manager non tech data science blockchain"
+    },
+    {
+      "title": "Binance Accelerator Program Research On Chain Data Analyst",
+      "link": "https://web3.career/binance-accelerator-program-research-on-chain-data-analyst-binance/150342",
+      "company_name": "Binance",
+      "description": "research analyst data science blockchain defi"
+    },
+    {
+      "title": "Senior Data Engineer Compliance Data Platm",
+      "link": "https://web3.career/senior-data-engineer-compliance-data-platform-okx/150301",
+      "company_name": "Okx",
+      "description": "compliance non tech data science engineer senior"
+    },
+    {
       "title": "Sr. Data Analyst Product",
       "link": "https://web3.career/sr-data-analyst-product-kraken/150298",
       "company_name": "Kraken",
@@ -87,36 +117,6 @@
       "link": "https://web3.career/sr-data-analyst-growth-kraken/150297",
       "company_name": "Kraken",
       "description": "growth analyst data science senior crypto"
-    },
-    {
-      "title": "Data Analyst Marketing",
-      "link": "https://web3.career/data-analyst-marketing-bluecubeservices/140151",
-      "company_name": "Bluecubeservices",
-      "description": "analyst data science marketing non tech blockchain"
-    },
-    {
-      "title": "Operation Manager",
-      "link": "https://web3.career/operation-manager-sbi-investment/150140",
-      "company_name": "SBI Investment",
-      "description": "analyst big data blockchain crypto cryptography"
-    },
-    {
-      "title": "Senior Data Engineer",
-      "link": "https://web3.career/senior-data-engineer-zinnia/109189",
-      "company_name": "Zinnia",
-      "description": "data science engineer senior kubernetes remote"
-    },
-    {
-      "title": "Data Analyst",
-      "link": "https://web3.career/data-analyst-layerzerolabs/73710",
-      "company_name": "Layerzerolabs",
-      "description": "analyst data science blockchain crypto dapp"
-    },
-    {
-      "title": "Data Engineer",
-      "link": "https://web3.career/data-engineer-launchpadtechnologiesinc/73687",
-      "company_name": "Launchpadtechnologiesinc",
-      "description": "data science engineer"
     }
   ]
 }

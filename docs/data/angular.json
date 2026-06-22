@@ -2,25 +2,13 @@
   "skill": "angular",
   "label": "Angular",
   "count": 15,
-  "updated_at": "2026-06-15T08:16:27.792730+00:00",
+  "updated_at": "2026-06-22T08:17:22.435329+00:00",
   "jobs": [
     {
-      "title": "Staff Software Engineer Graphs",
-      "link": "https://web3.career/staff-software-engineer-graphs-chainalysis/150362",
-      "company_name": "Chainalysis",
-      "description": "engineer dev angular aws blockchain"
-    },
-    {
-      "title": "Java Backend Developer",
-      "link": "https://web3.career/java-backend-developer-localcoin/78924",
-      "company_name": "Localcoin",
-      "description": "backend dev java angular aws"
-    },
-    {
-      "title": "QA",
-      "link": "https://web3.career/qa-confirmo/150308",
-      "company_name": "Confirmo",
-      "description": "quality assurance angular crypto typescript"
+      "title": "Backend Engineer BE + LLM",
+      "link": "https://web3.career/backend-engineer-be-llm-binance/150513",
+      "company_name": "Binance",
+      "description": "backend engineer angular blockchain java"
     },
     {
       "title": "Senior Full Stack Engineer",
@@ -33,6 +21,24 @@
       "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
       "company_name": "Bitpanda",
       "description": "c c plus plus javascript angular engineer"
+    },
+    {
+      "title": "Java Backend Developer",
+      "link": "https://web3.career/java-backend-developer-localcoin/78924",
+      "company_name": "Localcoin",
+      "description": "backend dev java angular aws"
+    },
+    {
+      "title": "Staff Software Engineer Graphs",
+      "link": "https://web3.career/staff-software-engineer-graphs-chainalysis/150362",
+      "company_name": "Chainalysis",
+      "description": "engineer dev angular aws blockchain"
+    },
+    {
+      "title": "QA",
+      "link": "https://web3.career/qa-confirmo/150308",
+      "company_name": "Confirmo",
+      "description": "quality assurance angular crypto typescript"
     },
     {
       "title": "Software Engineer III",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/software-engineer-iii-zinnia/93829",
       "company_name": "Zinnia",
       "description": "engineer dev angular aws docker"
-    },
-    {
-      "title": "Binance Accelerator Program Frontend Engineer .COM",
-      "link": "https://web3.career/binance-accelerator-program-frontend-engineer-com-binance/148163",
-      "company_name": "Binance",
-      "description": "engineer front end angular blockchain react"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "skill": "android",
   "label": "Android",
   "count": 16,
-  "updated_at": "2026-06-15T08:17:06.056900+00:00",
+  "updated_at": "2026-06-22T08:18:04.771317+00:00",
   "jobs": [
     {
       "title": "Kotlin Developer (Android / Multiplatform) (m/w/d)",
@@ -11,16 +11,16 @@
       "company_name": "apprime"
     },
     {
-      "title": "Binance Accelerator Program APP iOS Android Engineer Fresh Grad",
-      "link": "https://web3.career/binance-accelerator-program-app-ios-android-engineer-fresh-grad-binance/150333",
-      "company_name": "Binance",
-      "description": "android mobile engineer intern entry level"
-    },
-    {
       "title": "Android Engineer",
       "link": "https://web3.career/android-engineer-bluecubeservices/103709",
       "company_name": "Bluecubeservices",
       "description": "android mobile engineer bitcoin crypto"
+    },
+    {
+      "title": "Binance Accelerator Program APP iOS Android Engineer Fresh Grad",
+      "link": "https://web3.career/binance-accelerator-program-app-ios-android-engineer-fresh-grad-binance/150333",
+      "company_name": "Binance",
+      "description": "android mobile engineer intern entry level"
     },
     {
       "title": "Lead Android Engineer",

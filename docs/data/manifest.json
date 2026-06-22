@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-15T08:15:56.286497+00:00",
+  "updated_at": "2026-06-22T08:16:47.635912+00:00",
   "skills": [
     {
       "id": "python",
       "label": "Python",
-      "count": 21
+      "count": 20
     },
     {
       "id": "javascript",
@@ -54,7 +54,7 @@
     {
       "id": "react",
       "label": "React",
-      "count": 18
+      "count": 17
     },
     {
       "id": "vue",
@@ -79,7 +79,7 @@
     {
       "id": "django",
       "label": "Django",
-      "count": 1
+      "count": 0
     },
     {
       "id": "flask",

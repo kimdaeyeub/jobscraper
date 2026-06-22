@@ -2,14 +2,8 @@
   "skill": "ios",
   "label": "iOS",
   "count": 15,
-  "updated_at": "2026-06-15T08:17:10.341793+00:00",
+  "updated_at": "2026-06-22T08:18:09.012694+00:00",
   "jobs": [
-    {
-      "title": "Binance Accelerator Program APP iOS Android Engineer Fresh Grad",
-      "link": "https://web3.career/binance-accelerator-program-app-ios-android-engineer-fresh-grad-binance/150333",
-      "company_name": "Binance",
-      "description": "android mobile engineer intern entry level"
-    },
     {
       "title": "iOS Engineer",
       "link": "https://web3.career/ios-engineer-bluecubeservices/103710",
@@ -23,10 +17,22 @@
       "description": "engineer ios mobile swift crypto"
     },
     {
+      "title": "Staff iOS Engineer",
+      "link": "https://web3.career/staff-ios-engineer-polymarket/150466",
+      "company_name": "Polymarket",
+      "description": "engineer ios mobile"
+    },
+    {
       "title": "iOS Engineer",
       "link": "https://web3.career/ios-engineer-blockchain/105339",
       "company_name": "Blockchain",
       "description": "engineer ios mobile bitcoin blockchain"
+    },
+    {
+      "title": "Binance Accelerator Program APP iOS Android Engineer Fresh Grad",
+      "link": "https://web3.career/binance-accelerator-program-app-ios-android-engineer-fresh-grad-binance/150333",
+      "company_name": "Binance",
+      "description": "android mobile engineer intern entry level"
     },
     {
       "title": "Senior Staff iOS Developer",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/senior-ios-engineer-binance-square-binance/143484",
       "company_name": "Binance",
       "description": "engineer ios mobile senior blockchain"
-    },
-    {
-      "title": "Code Review IOS",
-      "link": "https://web3.career/code-review-ios-binance/140861",
-      "company_name": "Binance",
-      "description": "dev ios mobile blockchain"
     }
   ]
 }

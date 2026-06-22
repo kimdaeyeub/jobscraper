@@ -2,19 +2,19 @@
   "skill": "vue",
   "label": "Vue",
   "count": 15,
-  "updated_at": "2026-06-15T08:16:24.458645+00:00",
+  "updated_at": "2026-06-22T08:17:18.465374+00:00",
   "jobs": [
     {
-      "title": "Senior Frontend Engineer Trading Systems",
-      "link": "https://web3.career/senior-frontend-engineer-trading-systems-binance/150426",
-      "company_name": "Binance",
-      "description": "engineer front end senior blockchain crypto"
+      "title": "Frontend Engineer",
+      "link": "https://web3.career/frontend-engineer-coins/150516",
+      "company_name": "Coins.ph",
+      "description": "engineer front end crypto javascript react"
     },
     {
-      "title": "DevOps Site Reliability Engineer",
-      "link": "https://web3.career/devops-site-reliability-engineer-okx/150381",
-      "company_name": "Okx",
-      "description": "devops engineer reliability aws blockchain"
+      "title": "Backend Engineer BE + LLM",
+      "link": "https://web3.career/backend-engineer-be-llm-binance/150513",
+      "company_name": "Binance",
+      "description": "backend engineer angular blockchain java"
     },
     {
       "title": "Engineering Director Frontend Business Lead",
@@ -27,6 +27,18 @@
       "link": "https://web3.career/engineering-director-frontend-okx/147551",
       "company_name": "Okx",
       "description": "executive front end blockchain crypto react"
+    },
+    {
+      "title": "Senior Frontend Engineer Trading Systems",
+      "link": "https://web3.career/senior-frontend-engineer-trading-systems-binance/150426",
+      "company_name": "Binance",
+      "description": "engineer front end senior blockchain crypto"
+    },
+    {
+      "title": "DevOps Site Reliability Engineer",
+      "link": "https://web3.career/devops-site-reliability-engineer-okx/150381",
+      "company_name": "Okx",
+      "description": "devops engineer reliability aws blockchain"
     },
     {
       "title": "Senior Blockchain Developer",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/senior-blockchain-developer-lemon-io/148405",
       "company_name": "Lemon.io",
       "description": "dev senior blockchain angular ethereum"
-    },
-    {
-      "title": "Senior Frontend Leader Business Infra",
-      "link": "https://web3.career/senior-front-end-leader-business-infra-okx/148334",
-      "company_name": "Okx",
-      "description": "front end lead senior blockchain crypto"
-    },
-    {
-      "title": "Frontend Infra Engineering Director",
-      "link": "https://web3.career/frontend-infra-engineering-director-okx/148233",
-      "company_name": "Okx",
-      "description": "executive front end blockchain crypto node"
     }
   ]
 }

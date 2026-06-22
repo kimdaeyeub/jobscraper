@@ -2,19 +2,25 @@
   "skill": "aws",
   "label": "AWS",
   "count": 15,
-  "updated_at": "2026-06-15T08:16:58.672949+00:00",
+  "updated_at": "2026-06-22T08:17:55.805634+00:00",
   "jobs": [
     {
-      "title": "Senior Lead Blockchain Developer",
-      "link": "https://web3.career/senior-lead-blockchain-developer-jpctechnoinc/150415",
-      "company_name": "JPC TECHNO INC",
-      "description": "dev lead senior blockchain aws"
+      "title": "Sr Blockchain Developer",
+      "link": "https://web3.career/sr-blockchain-developer-accroidinc/150589",
+      "company_name": "Accroid Inc",
+      "description": "dev blockchain aws ethereum java"
     },
     {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-kastechsoftwaresolutionsgroup/150398",
-      "company_name": "Kastech Software Solutions Group",
-      "description": "dev senior blockchain aws crypto"
+      "title": "Sr. Production Engineer",
+      "link": "https://web3.career/sr-production-engineer-zscaler/150565",
+      "company_name": "Zscaler",
+      "description": "engineer senior aws remote"
+    },
+    {
+      "title": "Principal Production Engineer",
+      "link": "https://web3.career/principal-production-engineer-zscaler/150564",
+      "company_name": "Zscaler",
+      "description": "engineer executive aws remote"
     },
     {
       "title": "Staff Site Reliability Engineer",
@@ -23,76 +29,70 @@
       "description": "engineer reliability aws golang java"
     },
     {
-      "title": "Manager Professional Services",
-      "link": "https://web3.career/manager-professional-services-zscaler/150385",
-      "company_name": "Zscaler",
-      "description": "aws remote"
+      "title": "Principal Site Reliability Engineer",
+      "link": "https://web3.career/principal-site-reliability-engineer-copperco/145726",
+      "company_name": "Copperco",
+      "description": "engineer executive reliability aws blockchain"
     },
     {
-      "title": "DevOps Site Reliability Engineer",
-      "link": "https://web3.career/devops-site-reliability-engineer-okx/150381",
-      "company_name": "Okx",
-      "description": "devops engineer reliability aws blockchain"
-    },
-    {
-      "title": "Engineering Manager",
-      "link": "https://web3.career/engineering-manager-layerzerolabs/150380",
-      "company_name": "Layerzerolabs",
-      "description": "engineering manager engineer aws blockchain typescript"
-    },
-    {
-      "title": "SDE 2",
-      "link": "https://web3.career/sde-2-inmobi/150378",
-      "company_name": "Inmobi",
-      "description": "aws kubernetes scala remote"
-    },
-    {
-      "title": "Site Reliability Engineer AI Agents",
-      "link": "https://web3.career/site-reliability-engineer-ai-agents-kraken/150372",
-      "company_name": "Kraken",
-      "description": "ai engineer reliability aws crypto"
-    },
-    {
-      "title": "PMS Engineer",
-      "link": "https://web3.career/pms-engineer-elwoodtechnologies/150370",
-      "company_name": "Elwoodtechnologies",
-      "description": "engineer aws golang java remote"
-    },
-    {
-      "title": "Graduate PMS Engineer",
-      "link": "https://web3.career/graduate-pms-engineer-elwoodtechnologies/150369",
-      "company_name": "Elwoodtechnologies",
-      "description": "engineer intern entry level aws golang"
-    },
-    {
-      "title": "Head of Engineering",
-      "link": "https://web3.career/head-of-engineering-coinhako/150366",
-      "company_name": "Coinhako",
-      "description": "engineering manager engineer executive aws blockchain"
-    },
-    {
-      "title": "Software Engineer Java Digital Asset Systems",
-      "link": "https://web3.career/software-engineer-java-digital-asset-systems-bitpanda/149242",
-      "company_name": "Bitpanda",
-      "description": "engineer java dev aws crypto"
-    },
-    {
-      "title": "Staff Software Engineer Graphs",
-      "link": "https://web3.career/staff-software-engineer-graphs-chainalysis/150362",
+      "title": "Senior Site Reliability Engineer",
+      "link": "https://web3.career/senior-site-reliability-engineer-chainalysis/150554",
       "company_name": "Chainalysis",
-      "description": "engineer dev angular aws blockchain"
+      "description": "engineer reliability senior aws blockchain"
     },
     {
-      "title": "Senior Software Engineer Java Regulatory Onboarding",
-      "link": "https://web3.career/senior-software-engineer-java-regulatory-onboarding-bitpanda/150361",
-      "company_name": "Bitpanda",
-      "description": "legal engineer java senior dev"
+      "title": "Director GRC Privacy Security",
+      "link": "https://web3.career/director-grc-privacy-security-polymarket/150549",
+      "company_name": "Polymarket",
+      "description": "executive security aws"
     },
     {
-      "title": "Senior Cloud Security Engineer",
-      "link": "https://web3.career/senior-cloud-security-engineer-bitpanda/150360",
-      "company_name": "Bitpanda",
-      "description": "cloud engineer engineer security senior aws"
+      "title": "Senior Software Engineer Advisory Suite",
+      "link": "https://web3.career/senior-software-engineer-advisory-suite-alpaca/150544",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev aws crypto"
+    },
+    {
+      "title": "Data Engineer PH",
+      "link": "https://web3.career/data-engineer-ph-coins/150541",
+      "company_name": "Coins.ph",
+      "description": "data science engineer aws crypto java"
+    },
+    {
+      "title": "SOC Lead Security Operations Center",
+      "link": "https://web3.career/soc-lead-security-operations-center-crypto-com/150540",
+      "company_name": "Crypto.com",
+      "description": "lead operations security aws"
+    },
+    {
+      "title": "Business Operations",
+      "link": "https://web3.career/business-operations-turnkey/150528",
+      "company_name": "Turnkey",
+      "description": "operations aws crypto"
+    },
+    {
+      "title": "Senior Blockchain Architect",
+      "link": "https://web3.career/senior-blockchain-architect-globalsettlementnetwork/150526",
+      "company_name": "Global Settlement Network",
+      "description": "architecture senior blockchain aws docker"
+    },
+    {
+      "title": "Escalation Engineer DLP",
+      "link": "https://web3.career/escalation-engineer-dlp-zscaler/148637",
+      "company_name": "Zscaler",
+      "description": "engineer aws remote"
+    },
+    {
+      "title": "Escalation Engineer AI Security",
+      "link": "https://web3.career/escalation-engineer-ai-security-zscaler/141505",
+      "company_name": "Zscaler",
+      "description": "ai engineer security aws remote"
+    },
+    {
+      "title": "Senior Technical Success Manager",
+      "link": "https://web3.career/senior-technical-success-manager-zscaler/145190",
+      "company_name": "Zscaler",
+      "description": "sales non tech senior aws remote"
     }
   ]
 }

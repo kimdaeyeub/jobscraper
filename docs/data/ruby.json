@@ -2,7 +2,7 @@
   "skill": "ruby",
   "label": "Ruby",
   "count": 16,
-  "updated_at": "2026-06-15T08:16:09.387036+00:00",
+  "updated_at": "2026-06-22T08:17:05.294691+00:00",
   "jobs": [
     {
       "title": "Senior Full-Stack Ruby on Rails Developer",
@@ -11,16 +11,16 @@
       "company_name": "GAIA"
     },
     {
-      "title": "Head of Engineering",
-      "link": "https://web3.career/head-of-engineering-coinhako/150366",
-      "company_name": "Coinhako",
-      "description": "engineering manager engineer executive aws blockchain"
-    },
-    {
       "title": "Senior Red Team Operator",
       "link": "https://web3.career/senior-red-team-operator-figment/84843",
       "company_name": "Figment",
       "description": "senior aws blockchain crypto docker"
+    },
+    {
+      "title": "Head of Engineering",
+      "link": "https://web3.career/head-of-engineering-coinhako/150366",
+      "company_name": "Coinhako",
+      "description": "engineering manager engineer executive aws blockchain"
     },
     {
       "title": "Senior Blockchain Developer",

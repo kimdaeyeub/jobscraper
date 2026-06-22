@@ -1,8 +1,8 @@
 {
   "skill": "python",
   "label": "Python",
-  "count": 21,
-  "updated_at": "2026-06-15T08:15:58.275535+00:00",
+  "count": 20,
+  "updated_at": "2026-06-22T08:16:48.847149+00:00",
   "jobs": [
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
@@ -29,16 +29,16 @@
       "company_name": "Sourcecast"
     },
     {
-      "title": "Senior Product Engineer",
-      "description": "Tech Stack: Python, Django, React, Claude Code / Cursor Location: Berlin (remote first) Role: Full-time The Mission We are building TechMiners ONE, the automated machinery for the next generation of M&A due diligence. We’re moving away from manual, static reporting toward a high-speed, agentic data platform. We aren’t looking for someone to just “build an...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-product-engineer-techminers-gmbh/",
-      "company_name": "TechMiners"
-    },
-    {
       "title": "Senior Full-Stack Developer / Data Scientist (remote-friendly)",
       "description": "AIDAR is building the future of artist scouting. We help A&Rs and music professionals discover artists that truly fit their creative vision — using personalized AI agents that scout the global music landscape 24/7. The product is live, the beta is working, and we already have paying customers and EXIST AI Transfer funding. Role Now,...",
       "link": "https://berlinstartupjobs.com/engineering/senior-full-stack-developer-data-scientist-remote-friendly-aidar/",
       "company_name": "AIDAR"
+    },
+    {
+      "title": "Senior Software Development Engineer in Test Automation Python Trading Technologies",
+      "link": "https://web3.career/senior-software-development-engineer-in-test-automation-python-trading-technologies-binance/150607",
+      "company_name": "Binance",
+      "description": "quality assurance engineer python senior dev"
     },
     {
       "title": "Software Engineer Rust Python Asset Pricing Hedging",
@@ -123,12 +123,6 @@
       "link": "https://web3.career/security-engineer-python-binance/144925",
       "company_name": "Binance",
       "description": "engineer python security aws blockchain"
-    },
-    {
-      "title": "Senior Software Engineer Trading Infrastructure Team",
-      "link": "https://web3.career/senior-software-engineer-trading-infrastructure-team-gravity-team/144924",
-      "company_name": "Gravity Team",
-      "description": "infrastructure engineer senior dev api"
     }
   ]
 }
