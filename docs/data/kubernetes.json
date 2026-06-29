@@ -2,7 +2,7 @@
   "skill": "kubernetes",
   "label": "Kubernetes",
   "count": 19,
-  "updated_at": "2026-06-22T08:17:57.478586+00:00",
+  "updated_at": "2026-06-29T07:59:11.193010+00:00",
   "jobs": [
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
@@ -29,22 +29,34 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Principal Architect Money and Payments R D",
-      "link": "https://web3.career/principal-architect-money-and-payments-r-d-federalreservebankofboston/150623",
-      "company_name": "Federal Reserve Bank of Boston",
-      "description": "architecture executive blockchain kubernetes solidity"
+      "title": "Senior Product Security Engineer",
+      "link": "https://web3.career/senior-product-security-engineer-blockchain/150772",
+      "company_name": "Blockchain",
+      "description": "engineer security senior blockchain crypto"
     },
     {
-      "title": "Senior Site Reliability Engineer",
-      "link": "https://web3.career/senior-site-reliability-engineer-chainalysis/150554",
-      "company_name": "Chainalysis",
-      "description": "engineer reliability senior aws blockchain"
+      "title": "Senior AI Engineer",
+      "link": "https://web3.career/senior-ai-engineer-dvtrading/150771",
+      "company_name": "Dvtrading",
+      "description": "ai engineer senior kubernetes remote"
     },
     {
-      "title": "Senior Blockchain Architect",
-      "link": "https://web3.career/senior-blockchain-architect-globalsettlementnetwork/150526",
-      "company_name": "Global Settlement Network",
-      "description": "architecture senior blockchain aws docker"
+      "title": "AI Engineer",
+      "link": "https://web3.career/ai-engineer-dvtrading/150770",
+      "company_name": "Dvtrading",
+      "description": "ai engineer kubernetes remote"
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "link": "https://web3.career/infrastructure-engineer-gauntlet/150765",
+      "company_name": "Gauntlet",
+      "description": "infrastructure engineer aws crypto defi"
+    },
+    {
+      "title": "Software Engineer Fullstack",
+      "link": "https://web3.career/software-engineer-fullstack-kast/150761",
+      "company_name": "Kast",
+      "description": "engineer full stack dev aws blockchain"
     },
     {
       "title": "Senior Full Stack Engineer",
@@ -59,16 +71,16 @@
       "description": "engineer dev kubernetes remote"
     },
     {
+      "title": "Site Reliability Engineer",
+      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
+      "company_name": "Layerzerolabs",
+      "description": "engineer reliability blockchain golang kubernetes"
+    },
+    {
       "title": "Crypto Production Engineer",
       "link": "https://web3.career/crypto-production-engineer-jumpcrypto/89562",
       "company_name": "Jumpcrypto",
       "description": "engineer blockchain crypto defi ethereum"
-    },
-    {
-      "title": "SDE 3",
-      "link": "https://web3.career/sde-3-inmobi/150492",
-      "company_name": "Inmobi",
-      "description": "kubernetes scala remote"
     },
     {
       "title": "Senior Red Team Operator",
@@ -77,10 +89,10 @@
       "description": "senior aws blockchain crypto docker"
     },
     {
-      "title": "Staff Engineer Syncro",
-      "link": "https://web3.career/staff-engineer-syncro-p2p-org/150487",
-      "company_name": "P2P. org",
-      "description": "engineer aws blockchain crypto kubernetes"
+      "title": "Senior Trading System Support Engineer",
+      "link": "https://web3.career/senior-trading-system-support-engineer-falconx/150692",
+      "company_name": "Falconx",
+      "description": "engineer senior customer support aws crypto"
     },
     {
       "title": "Senior DevOps Engineer",
@@ -89,34 +101,22 @@
       "description": "devops engineer senior aws blockchain"
     },
     {
-      "title": "Site Reliability Engineer Core Infrastructure",
-      "link": "https://web3.career/site-reliability-engineer-core-infrastructure-kraken/150483",
-      "company_name": "Kraken",
-      "description": "infrastructure engineer reliability aws crypto"
-    },
-    {
-      "title": "Senior Database Administrator Core Infrastructure",
-      "link": "https://web3.career/senior-database-administrator-core-infrastructure-kraken/150482",
-      "company_name": "Kraken",
-      "description": "infrastructure admin senior crypto kubernetes"
-    },
-    {
-      "title": "VP of Engineering",
-      "link": "https://web3.career/vp-of-engineering-hyperboliclabs/150480",
-      "company_name": "Hyperbolic Labs",
-      "description": "executive kubernetes"
-    },
-    {
-      "title": "Staff Software Engineer Platm Infrastructure",
-      "link": "https://web3.career/staff-software-engineer-platform-infrastructure-hyperboliclabs/150479",
-      "company_name": "Hyperbolic Labs",
-      "description": "infrastructure engineer dev aws kubernetes"
-    },
-    {
       "title": "Senior Site Reliability Engineer",
       "link": "https://web3.career/senior-site-reliability-engineer-bloxstaking/148505",
       "company_name": "Bloxstaking",
       "description": "engineer reliability senior blockchain ethereum"
+    },
+    {
+      "title": "Software Engineer Java OpsHub",
+      "link": "https://web3.career/software-engineer-java-opshub-bitpanda/149243",
+      "company_name": "Bitpanda",
+      "description": "engineer java dev aws crypto"
+    },
+    {
+      "title": "Software Engineer Java Identity Platm",
+      "link": "https://web3.career/software-engineer-java-identity-platform-bitpanda/149831",
+      "company_name": "Bitpanda",
+      "description": "engineer java dev crypto kubernetes"
     }
   ]
 }

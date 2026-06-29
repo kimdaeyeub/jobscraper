@@ -2,13 +2,25 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-06-22T08:17:13.932920+00:00",
+  "updated_at": "2026-06-29T07:58:14.234573+00:00",
   "jobs": [
+    {
+      "title": "Senior Product Security Engineer",
+      "link": "https://web3.career/senior-product-security-engineer-blockchain/150772",
+      "company_name": "Blockchain",
+      "description": "engineer security senior blockchain crypto"
+    },
     {
       "title": "Android Engineer",
       "link": "https://web3.career/android-engineer-bluecubeservices/103709",
       "company_name": "Bluecubeservices",
       "description": "android mobile engineer bitcoin crypto"
+    },
+    {
+      "title": "Software Engineers KYC Eligibility",
+      "link": "https://web3.career/software-engineers-kyc-eligibility-bluecubeservices/139456",
+      "company_name": "Bluecubeservices",
+      "description": "kyc non tech dev blockchain java"
     },
     {
       "title": "Senior Software Engineer Web Full Stack",
@@ -59,12 +71,6 @@
       "description": "engineer react native mobile javascript react"
     },
     {
-      "title": "Software Engineers KYC Eligibility",
-      "link": "https://web3.career/software-engineers-kyc-eligibility-bluecubeservices/139456",
-      "company_name": "Bluecubeservices",
-      "description": "kyc non tech dev blockchain java"
-    },
-    {
       "title": "Senior Backend Engineer Solana Mobile",
       "link": "https://web3.career/senior-backend-engineer-solana-mobile-solanalabs/149602",
       "company_name": "Solana Labs",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/blockchain-developer-swift/149302",
       "company_name": "Swift",
       "description": "dev blockchain aws docker ethereum"
-    },
-    {
-      "title": "Crypto Security Engineer",
-      "link": "https://web3.career/crypto-security-engineer-blockchain/149233",
-      "company_name": "Blockchain",
-      "description": "engineer security aws blockchain crypto"
     }
   ]
 }

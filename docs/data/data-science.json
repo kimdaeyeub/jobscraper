@@ -2,7 +2,7 @@
   "skill": "data-science",
   "label": "Data Science",
   "count": 19,
-  "updated_at": "2026-06-22T08:18:03.951667+00:00",
+  "updated_at": "2026-06-29T07:59:18.794415+00:00",
   "jobs": [
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
@@ -27,18 +27,6 @@
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
       "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
       "company_name": "DATATRONiQ"
-    },
-    {
-      "title": "Data Engineer PH",
-      "link": "https://web3.career/data-engineer-ph-coins/150541",
-      "company_name": "Coins.ph",
-      "description": "data science engineer aws crypto java"
-    },
-    {
-      "title": "Senior Data Analystシニアデータアナリスト Japan",
-      "link": "https://web3.career/senior-data-analyst-japan-limitbreak/150532",
-      "company_name": "Limit Break",
-      "description": "japan analyst data science senior blockchain"
     },
     {
       "title": "Data Engineer",
@@ -77,6 +65,30 @@
       "description": "analyst data science marketing non tech blockchain"
     },
     {
+      "title": "Senior Data Engineer AI Infrastructure",
+      "link": "https://web3.career/senior-data-engineer-ai-infrastructure-kraken/150687",
+      "company_name": "Kraken",
+      "description": "data science engineer infrastructure ai senior"
+    },
+    {
+      "title": "Senior Data Engineer Agents Systems",
+      "link": "https://web3.career/senior-data-engineer-agents-systems-kraken/150686",
+      "company_name": "Kraken",
+      "description": "data science engineer senior crypto scala"
+    },
+    {
+      "title": "Data Engineer PH",
+      "link": "https://web3.career/data-engineer-ph-coins/150541",
+      "company_name": "Coins.ph",
+      "description": "data science engineer aws crypto java"
+    },
+    {
+      "title": "Senior Data Analystシニアデータアナリスト Japan",
+      "link": "https://web3.career/senior-data-analyst-japan-limitbreak/150532",
+      "company_name": "Limit Break",
+      "description": "japan analyst data science senior blockchain"
+    },
+    {
       "title": "Staff Data Analyst",
       "link": "https://web3.career/staff-data-analyst-polymarket/150467",
       "company_name": "Polymarket",
@@ -105,18 +117,6 @@
       "link": "https://web3.career/senior-data-engineer-compliance-data-platform-okx/150301",
       "company_name": "Okx",
       "description": "compliance non tech data science engineer senior"
-    },
-    {
-      "title": "Sr. Data Analyst Product",
-      "link": "https://web3.career/sr-data-analyst-product-kraken/150298",
-      "company_name": "Kraken",
-      "description": "analyst data science senior crypto"
-    },
-    {
-      "title": "Sr. Data Analyst Growth",
-      "link": "https://web3.career/sr-data-analyst-growth-kraken/150297",
-      "company_name": "Kraken",
-      "description": "growth analyst data science senior crypto"
     }
   ]
 }

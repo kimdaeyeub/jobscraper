@@ -2,7 +2,7 @@
   "skill": "java",
   "label": "Java",
   "count": 16,
-  "updated_at": "2026-06-22T08:16:58.366530+00:00",
+  "updated_at": "2026-06-29T07:58:03.241558+00:00",
   "jobs": [
     {
       "title": "Senior Fullstack Developer with Product Mindset",
@@ -11,40 +11,22 @@
       "company_name": "Small Improvements"
     },
     {
-      "title": "Senior Fullstack Engineer Agentic Payments NYC MIA",
-      "link": "https://web3.career/senior-full-stack-engineer-agentic-payments-nyc-mia-crossmint/150606",
-      "company_name": "Crossmint",
-      "description": "engineer full stack senior blockchain crypto"
+      "title": "Senior Tooling Engineer Tech GEO",
+      "link": "https://web3.career/senior-tooling-engineer-tech-geo-binance/150814",
+      "company_name": "Binance",
+      "description": "engineer senior aws blockchain golang"
     },
     {
-      "title": "Blockchain Consultant",
-      "link": "https://web3.career/blockchain-consultant-mindlance/150601",
-      "company_name": "Mindlance",
-      "description": "consulting blockchain crypto java rust"
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-devhub/150789",
+      "company_name": "DevHub",
+      "description": "dev blockchain ethereum java rust"
     },
     {
-      "title": "Sr Blockchain Developer",
-      "link": "https://web3.career/sr-blockchain-developer-accroidinc/150589",
-      "company_name": "Accroid Inc",
-      "description": "dev blockchain aws ethereum java"
-    },
-    {
-      "title": "Staff Site Reliability Engineer",
-      "link": "https://web3.career/staff-site-reliability-engineer-zscaler/106117",
-      "company_name": "Zscaler",
-      "description": "engineer reliability aws golang java"
-    },
-    {
-      "title": "Senior Java Engineer Wallet Smart Account Team",
-      "link": "https://web3.career/senior-java-engineer-wallet-smart-account-team-okx/150561",
-      "company_name": "Okx",
-      "description": "sales non tech engineer java senior"
-    },
-    {
-      "title": "Senior Software Engineer Advisory Suite",
-      "link": "https://web3.career/senior-software-engineer-advisory-suite-alpaca/150544",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev aws crypto"
+      "title": "Senior Product Security Engineer",
+      "link": "https://web3.career/senior-product-security-engineer-blockchain/150772",
+      "company_name": "Blockchain",
+      "description": "engineer security senior blockchain crypto"
     },
     {
       "title": "Graduate Trader",
@@ -59,28 +41,46 @@
       "description": "dev intern entry level crypto java"
     },
     {
-      "title": "Data Engineer PH",
-      "link": "https://web3.career/data-engineer-ph-coins/150541",
-      "company_name": "Coins.ph",
-      "description": "data science engineer aws crypto java"
+      "title": "Software Engineer Fullstack",
+      "link": "https://web3.career/software-engineer-fullstack-kast/150761",
+      "company_name": "Kast",
+      "description": "engineer full stack dev aws blockchain"
     },
     {
-      "title": "Senior Blockchain Architect",
-      "link": "https://web3.career/senior-blockchain-architect-globalsettlementnetwork/150526",
-      "company_name": "Global Settlement Network",
-      "description": "architecture senior blockchain aws docker"
-    },
-    {
-      "title": "Backend Engineer",
-      "link": "https://web3.career/backend-engineer-coins/150515",
-      "company_name": "Coins.ph",
-      "description": "backend engineer crypto java"
-    },
-    {
-      "title": "Backend Engineer BE + LLM",
-      "link": "https://web3.career/backend-engineer-be-llm-binance/150513",
+      "title": "Binance Accelerator Program Backend Engineer KYC Technology",
+      "link": "https://web3.career/binance-accelerator-program-backend-engineer-kyc-technology-binance/150739",
       "company_name": "Binance",
-      "description": "backend engineer angular blockchain java"
+      "description": "kyc non tech backend engineer blockchain"
+    },
+    {
+      "title": "Technical Lead Fullstack",
+      "link": "https://web3.career/technical-lead-fullstack-kast/150723",
+      "company_name": "Kast",
+      "description": "full stack lead tech lead aws blockchain"
+    },
+    {
+      "title": "Java Backend Engineer – P2P Marketplace",
+      "link": "https://web3.career/java-backend-engineer-p2p-marketplace-binance/150709",
+      "company_name": "Binance",
+      "description": "backend engineer java blockchain"
+    },
+    {
+      "title": "Java Backend Engineer – OnChain Payment Integration",
+      "link": "https://web3.career/java-backend-engineer-on-chain-payment-integration-binance/150708",
+      "company_name": "Binance",
+      "description": "integration backend engineer java blockchain"
+    },
+    {
+      "title": "Java Backend Engineer – Fiat Payment Channels",
+      "link": "https://web3.career/java-backend-engineer-fiat-payment-channels-binance/150707",
+      "company_name": "Binance",
+      "description": "backend engineer java crypto"
+    },
+    {
+      "title": "Staff Site Reliability Engineer",
+      "link": "https://web3.career/staff-site-reliability-engineer-zscaler/106117",
+      "company_name": "Zscaler",
+      "description": "engineer reliability aws golang java"
     },
     {
       "title": "Principal Staff Engineer Compliance",
@@ -89,16 +89,16 @@
       "description": "compliance non tech engineer executive blockchain"
     },
     {
+      "title": "Senior Trading System Support Engineer",
+      "link": "https://web3.career/senior-trading-system-support-engineer-falconx/150692",
+      "company_name": "Falconx",
+      "description": "engineer senior customer support aws crypto"
+    },
+    {
       "title": "Android Engineer",
       "link": "https://web3.career/android-engineer-bluecubeservices/103709",
       "company_name": "Bluecubeservices",
       "description": "android mobile engineer bitcoin crypto"
-    },
-    {
-      "title": "Software Engineer Java OpsHub",
-      "link": "https://web3.career/software-engineer-java-opshub-bitpanda/149243",
-      "company_name": "Bitpanda",
-      "description": "engineer java dev aws crypto"
     }
   ]
 }

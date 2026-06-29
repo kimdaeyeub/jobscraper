@@ -2,13 +2,19 @@
   "skill": "android",
   "label": "Android",
   "count": 16,
-  "updated_at": "2026-06-22T08:18:04.771317+00:00",
+  "updated_at": "2026-06-29T07:59:19.297936+00:00",
   "jobs": [
     {
       "title": "Kotlin Developer (Android / Multiplatform) (m/w/d)",
       "description": "Wir sind apprime, eine innovative Agentur für mobile Anwendungen und plattformübergreifende Lösungen. Unser Fokus liegt auf hochwertiger Softwareentwicklung mit modernsten Technologien, agilen Methoden und höchstem Qualitätsanspruch. Zur Verstärkung unseres Entwicklerteams suchen wir ab sofort einen erfahrenen Senior Kotlin Developer (Android & Multiplatform). Wir suchen dich, wenn du in Berlin wohnst, hierher ziehen möchtest oder in...",
       "link": "https://berlinstartupjobs.com/engineering/kotlin-developer-android-multiplatform-m-w-d-apprime-gmbh/",
       "company_name": "apprime"
+    },
+    {
+      "title": "Engineering Director Mobile iOS Android",
+      "link": "https://web3.career/engineering-director-mobile-ios-android-okx/150697",
+      "company_name": "Okx",
+      "description": "android mobile executive ios blockchain"
     },
     {
       "title": "Android Engineer",
@@ -93,12 +99,6 @@
       "link": "https://web3.career/client-side-audio-video-development-engineer-android-ios-web-binance/144240",
       "company_name": "Binance",
       "description": "android mobile engineer ios video"
-    },
-    {
-      "title": "Senior Mobile Engineer iOS Android Flutter",
-      "link": "https://web3.career/senior-mobile-engineer-ios-android-flutter-binance/143584",
-      "company_name": "Binance",
-      "description": "android mobile engineer flutter ios"
     }
   ]
 }

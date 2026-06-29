@@ -2,7 +2,7 @@
   "skill": "docker",
   "label": "Docker",
   "count": 20,
-  "updated_at": "2026-06-22T08:17:56.532425+00:00",
+  "updated_at": "2026-06-29T07:59:10.768736+00:00",
   "jobs": [
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
@@ -35,16 +35,16 @@
       "company_name": "Sourcecast"
     },
     {
-      "title": "Senior Data Analystシニアデータアナリスト Japan",
-      "link": "https://web3.career/senior-data-analyst-japan-limitbreak/150532",
-      "company_name": "Limit Break",
-      "description": "japan analyst data science senior blockchain"
+      "title": "Software Engineer Intern",
+      "link": "https://web3.career/software-engineer-intern-fluo/150807",
+      "company_name": "Fluo",
+      "description": "engineer intern entry level dev aws"
     },
     {
-      "title": "Senior Blockchain Architect",
-      "link": "https://web3.career/senior-blockchain-architect-globalsettlementnetwork/150526",
-      "company_name": "Global Settlement Network",
-      "description": "architecture senior blockchain aws docker"
+      "title": "Software Engineer Fullstack",
+      "link": "https://web3.career/software-engineer-fullstack-kast/150761",
+      "company_name": "Kast",
+      "description": "engineer full stack dev aws blockchain"
     },
     {
       "title": "Senior Red Team Operator",
@@ -53,16 +53,16 @@
       "description": "senior aws blockchain crypto docker"
     },
     {
+      "title": "Senior Trading System Support Engineer",
+      "link": "https://web3.career/senior-trading-system-support-engineer-falconx/150692",
+      "company_name": "Falconx",
+      "description": "engineer senior customer support aws crypto"
+    },
+    {
       "title": "Senior DevOps Engineer",
       "link": "https://web3.career/senior-devops-engineer-copperco/96368",
       "company_name": "Copperco",
       "description": "devops engineer senior aws blockchain"
-    },
-    {
-      "title": "Site Reliability Engineer Core Infrastructure",
-      "link": "https://web3.career/site-reliability-engineer-core-infrastructure-kraken/150483",
-      "company_name": "Kraken",
-      "description": "infrastructure engineer reliability aws crypto"
     },
     {
       "title": "Senior DevOps Engineer",
@@ -95,34 +95,34 @@
       "description": "backend dev java angular aws"
     },
     {
+      "title": "Software Engineer Solana",
+      "link": "https://web3.career/software-engineer-solana-fireblocks/150662",
+      "company_name": "Fireblocks",
+      "description": "engineer dev blockchain docker javascript"
+    },
+    {
+      "title": "Senior Data Analystシニアデータアナリスト Japan",
+      "link": "https://web3.career/senior-data-analyst-japan-limitbreak/150532",
+      "company_name": "Limit Break",
+      "description": "japan analyst data science senior blockchain"
+    },
+    {
+      "title": "Senior Blockchain Architect",
+      "link": "https://web3.career/senior-blockchain-architect-globalsettlementnetwork/150526",
+      "company_name": "Global Settlement Network",
+      "description": "architecture senior blockchain aws docker"
+    },
+    {
+      "title": "Site Reliability Engineer Core Infrastructure",
+      "link": "https://web3.career/site-reliability-engineer-core-infrastructure-kraken/150483",
+      "company_name": "Kraken",
+      "description": "infrastructure engineer reliability aws crypto"
+    },
+    {
       "title": "DLT Developer",
       "link": "https://web3.career/dlt-developer-q1technologies-inc/150424",
       "company_name": "Q1 Technologies, Inc.",
       "description": "dev blockchain docker ethereum java"
-    },
-    {
-      "title": "SecOps Engineer",
-      "link": "https://web3.career/secops-engineer-lido/150374",
-      "company_name": "Lido",
-      "description": "engineer blockchain docker ethereum golang"
-    },
-    {
-      "title": "Head of Engineering",
-      "link": "https://web3.career/head-of-engineering-coinhako/150366",
-      "company_name": "Coinhako",
-      "description": "engineering manager engineer executive aws blockchain"
-    },
-    {
-      "title": "Senior Fullstack Engineer Backend Focus",
-      "link": "https://web3.career/senior-fullstack-engineer-backend-focus-rugsdotfun/150325",
-      "company_name": "RugsDotFun",
-      "description": "backend engineer full stack senior crypto"
-    },
-    {
-      "title": "Full Stack Engineer — AI Integrations",
-      "link": "https://web3.career/full-stack-engineer-ai-integrations-performanceai/150316",
-      "company_name": "Performance AI",
-      "description": "integration ai engineer full stack blockchain"
     }
   ]
 }

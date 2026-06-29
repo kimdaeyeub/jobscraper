@@ -2,7 +2,7 @@
   "skill": "node",
   "label": "Node.js",
   "count": 16,
-  "updated_at": "2026-06-22T08:17:23.264260+00:00",
+  "updated_at": "2026-06-29T07:58:23.318532+00:00",
   "jobs": [
     {
       "title": "Senior Product Engineer",
@@ -11,34 +11,76 @@
       "company_name": "Kombo"
     },
     {
-      "title": "Blockchain Lead",
-      "link": "https://web3.career/blockchain-lead-stablenaira/150609",
-      "company_name": "Stable Naira",
-      "description": "lead blockchain defi erc 20 ethereum"
+      "title": "Full Stack Blockchain Developer",
+      "link": "https://web3.career/full-stack-blockchain-developer-val-sservices/150815",
+      "company_name": "val's services",
+      "description": "dev full stack blockchain ethereum javascript"
     },
     {
-      "title": "Staff Full Stack Engineer",
-      "link": "https://web3.career/staff-full-stack-engineer-fireblocks/150591",
-      "company_name": "Fireblocks",
-      "description": "engineer full stack blockchain crypto node"
+      "title": "Software Engineer Intern",
+      "link": "https://web3.career/software-engineer-intern-fluo/150807",
+      "company_name": "Fluo",
+      "description": "engineer intern entry level dev aws"
     },
     {
-      "title": "Senior Systems Engineer Solana Remote Germany Europe m f d",
-      "link": "https://web3.career/senior-systems-engineer-solana-remote-germany-europe-m-f-d-stakingfacilitiesgmbh/150582",
-      "company_name": "Staking Facilities GmbH",
-      "description": "remote engineer senior blockchain crypto"
+      "title": "Blockchain Developer _ Digital Assets",
+      "link": "https://web3.career/blockchain-developer-_-digital-assets-envisiontechnologysolutions/150798",
+      "company_name": "Envision Technology Solutions",
+      "description": "dev finance non tech blockchain node"
     },
     {
-      "title": "Senior Blockchain Architect",
-      "link": "https://web3.career/senior-blockchain-architect-globalsettlementnetwork/150526",
-      "company_name": "Global Settlement Network",
-      "description": "architecture senior blockchain aws docker"
+      "title": "Software Engineer Fullstack",
+      "link": "https://web3.career/software-engineer-fullstack-kast/150761",
+      "company_name": "Kast",
+      "description": "engineer full stack dev aws blockchain"
     },
     {
-      "title": "Backend Engineer BE + LLM",
-      "link": "https://web3.career/backend-engineer-be-llm-binance/150513",
-      "company_name": "Binance",
-      "description": "backend engineer angular blockchain java"
+      "title": "Senior blockchain engineer with payment and exchange building experience",
+      "link": "https://web3.career/senior-blockchain-engineer-with-payment-and-exchange-building-experience-travoom/150753",
+      "company_name": "Travoom",
+      "description": "engineer senior blockchain crypto ethereum"
+    },
+    {
+      "title": "Associate Technical Lead Fullstack",
+      "link": "https://web3.career/associate-technical-lead-fullstack-kast/150736",
+      "company_name": "Kast",
+      "description": "full stack lead tech lead aws blockchain"
+    },
+    {
+      "title": "Associate Technical Lead Web Development",
+      "link": "https://web3.career/associate-technical-lead-web-development-kast/150735",
+      "company_name": "Kast",
+      "description": "lead tech lead web dev aws blockchain"
+    },
+    {
+      "title": "Senior Software Engineer Fullstack",
+      "link": "https://web3.career/senior-software-engineer-fullstack-kast/150729",
+      "company_name": "Kast",
+      "description": "engineer full stack senior dev aws"
+    },
+    {
+      "title": "Senior Software Engineer Web Development",
+      "link": "https://web3.career/senior-software-engineer-web-development-kast/150727",
+      "company_name": "Kast",
+      "description": "engineer senior dev web dev aws"
+    },
+    {
+      "title": "Technical Lead Fullstack",
+      "link": "https://web3.career/technical-lead-fullstack-kast/150723",
+      "company_name": "Kast",
+      "description": "full stack lead tech lead aws blockchain"
+    },
+    {
+      "title": "Senior Backend Engineer",
+      "link": "https://web3.career/senior-backend-engineer-blockus/150718",
+      "company_name": "Blockus",
+      "description": "backend engineer senior aws blockchain"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "link": "https://web3.career/senior-full-stack-engineer-blockus/150717",
+      "company_name": "Blockus",
+      "description": "engineer full stack senior aws blockchain"
     },
     {
       "title": "Senior Full Stack Engineer",
@@ -47,58 +89,16 @@
       "description": "engineer full stack senior angular crypto"
     },
     {
-      "title": "Staff Engineer Syncro",
-      "link": "https://web3.career/staff-engineer-syncro-p2p-org/150487",
-      "company_name": "P2P. org",
-      "description": "engineer aws blockchain crypto kubernetes"
+      "title": "Site Reliability Engineer",
+      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
+      "company_name": "Layerzerolabs",
+      "description": "engineer reliability blockchain golang kubernetes"
     },
     {
-      "title": "Senior Site Reliability Engineer",
-      "link": "https://web3.career/senior-site-reliability-engineer-bloxstaking/148505",
-      "company_name": "Bloxstaking",
-      "description": "engineer reliability senior blockchain ethereum"
-    },
-    {
-      "title": "Growth Engineer Data Systems",
-      "link": "https://web3.career/growth-engineer-data-systems-bitmex/146102",
-      "company_name": "Bitmex",
-      "description": "growth engineer crypto discord javascript"
-    },
-    {
-      "title": "Senior Software Engineer Platm Infrastructure",
-      "link": "https://web3.career/senior-software-engineer-platform-infrastructure-aptoslabs/150461",
-      "company_name": "Aptoslabs",
-      "description": "infrastructure engineer senior dev blockchain"
-    },
-    {
-      "title": "Senior Software Engineer Post Trade",
-      "link": "https://web3.career/senior-software-engineer-post-trade-bitgo/145962",
-      "company_name": "Bitgo",
-      "description": "engineer senior dev bitcoin blockchain"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-centraprise/150444",
-      "company_name": "Centraprise",
-      "description": "dev blockchain node rust solidity"
-    },
-    {
-      "title": "Senior Infrastructure Engineer",
-      "link": "https://web3.career/senior-infrastructure-engineer-moonpay/150434",
-      "company_name": "MoonPay",
-      "description": "infrastructure engineer senior remote blockchain"
-    },
-    {
-      "title": "Senior Frontend Engineer Trading Systems",
-      "link": "https://web3.career/senior-frontend-engineer-trading-systems-binance/150426",
-      "company_name": "Binance",
-      "description": "engineer front end senior blockchain crypto"
-    },
-    {
-      "title": "Staff DevOps Engineer",
-      "link": "https://web3.career/staff-devops-engineer-alchemy/150425",
-      "company_name": "Alchemy",
-      "description": "devops engineer blockchain kubernetes node"
+      "title": "SRE Manager",
+      "link": "https://web3.career/sre-manager-parity/150690",
+      "company_name": "Parity",
+      "description": "senior blockchain ethereum node polkadot"
     }
   ]
 }

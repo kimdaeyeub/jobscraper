@@ -2,7 +2,7 @@
   "skill": "python",
   "label": "Python",
   "count": 20,
-  "updated_at": "2026-06-22T08:16:48.847149+00:00",
+  "updated_at": "2026-06-29T07:58:01.752862+00:00",
   "jobs": [
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
@@ -35,12 +35,6 @@
       "company_name": "AIDAR"
     },
     {
-      "title": "Senior Software Development Engineer in Test Automation Python Trading Technologies",
-      "link": "https://web3.career/senior-software-development-engineer-in-test-automation-python-trading-technologies-binance/150607",
-      "company_name": "Binance",
-      "description": "quality assurance engineer python senior dev"
-    },
-    {
       "title": "Software Engineer Rust Python Asset Pricing Hedging",
       "link": "https://web3.career/software-engineer-rust-python-asset-pricing-hedging-bitpanda/150010",
       "company_name": "Bitpanda",
@@ -57,6 +51,18 @@
       "link": "https://web3.career/python-engineer-asset-pricing-hedging-bitpanda/103283",
       "company_name": "Bitpanda",
       "description": "engineer python aws blockchain crypto"
+    },
+    {
+      "title": "Senior QA Engineer Exploratory Python Trading Technologies",
+      "link": "https://web3.career/senior-qa-engineer-exploratory-python-trading-technologies-binance/150664",
+      "company_name": "Binance",
+      "description": "engineer python quality assurance senior blockchain"
+    },
+    {
+      "title": "Senior Software Development Engineer in Test Automation Python Trading Technologies",
+      "link": "https://web3.career/senior-software-development-engineer-in-test-automation-python-trading-technologies-binance/150607",
+      "company_name": "Binance",
+      "description": "quality assurance engineer python senior dev"
     },
     {
       "title": "IT Junior Python Developer London",
@@ -117,12 +123,6 @@
       "link": "https://web3.career/lead-python-developer-defi-infrastructure-connecthum/145672",
       "company_name": "ConnectHum",
       "description": "infrastructure dev lead python blockchain"
-    },
-    {
-      "title": "Security Engineer Python",
-      "link": "https://web3.career/security-engineer-python-binance/144925",
-      "company_name": "Binance",
-      "description": "engineer python security aws blockchain"
     }
   ]
 }

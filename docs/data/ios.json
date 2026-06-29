@@ -2,8 +2,14 @@
   "skill": "ios",
   "label": "iOS",
   "count": 15,
-  "updated_at": "2026-06-22T08:18:09.012694+00:00",
+  "updated_at": "2026-06-29T07:59:28.358475+00:00",
   "jobs": [
+    {
+      "title": "Engineering Director Mobile iOS Android",
+      "link": "https://web3.career/engineering-director-mobile-ios-android-okx/150697",
+      "company_name": "Okx",
+      "description": "android mobile executive ios blockchain"
+    },
     {
       "title": "iOS Engineer",
       "link": "https://web3.career/ios-engineer-bluecubeservices/103710",
@@ -17,16 +23,16 @@
       "description": "engineer ios mobile swift crypto"
     },
     {
-      "title": "Staff iOS Engineer",
-      "link": "https://web3.career/staff-ios-engineer-polymarket/150466",
-      "company_name": "Polymarket",
-      "description": "engineer ios mobile"
-    },
-    {
       "title": "iOS Engineer",
       "link": "https://web3.career/ios-engineer-blockchain/105339",
       "company_name": "Blockchain",
       "description": "engineer ios mobile bitcoin blockchain"
+    },
+    {
+      "title": "Staff iOS Engineer",
+      "link": "https://web3.career/staff-ios-engineer-polymarket/150466",
+      "company_name": "Polymarket",
+      "description": "engineer ios mobile"
     },
     {
       "title": "Binance Accelerator Program APP iOS Android Engineer Fresh Grad",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/senior-mobile-engineer-ios-android-flutter-binance/143584",
       "company_name": "Binance",
       "description": "android mobile engineer flutter ios"
-    },
-    {
-      "title": "Senior IOS Engineer Binance Square",
-      "link": "https://web3.career/senior-ios-engineer-binance-square-binance/143484",
-      "company_name": "Binance",
-      "description": "engineer ios mobile senior blockchain"
     }
   ]
 }

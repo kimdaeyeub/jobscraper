@@ -2,7 +2,7 @@
   "skill": "devops",
   "label": "DevOps",
   "count": 17,
-  "updated_at": "2026-06-22T08:18:02.211931+00:00",
+  "updated_at": "2026-06-29T07:59:17.525397+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
@@ -15,6 +15,12 @@
       "description": "Help us decarbonize the cement and concrete industry. alcemy was founded to reduce the massive CO2 footprint of the cement and concrete industry. Concrete is humanity\\’s second most used material by volume and its production is responsible for around 8% of global CO2 emissions. We are changing this! We leverage machine learning to provide smart production control software...",
       "link": "https://berlinstartupjobs.com/engineering/senior-infrastructure-engineer-f-m-d-alcemy/",
       "company_name": "alcemy"
+    },
+    {
+      "title": "Junior Product Manager DevOps and AI",
+      "link": "https://web3.career/junior-product-manager-devops-and-ai-okx/150699",
+      "company_name": "Okx",
+      "description": "ai devops junior entry level product manager"
     },
     {
       "title": "Senior DevOps Engineer",
@@ -99,12 +105,6 @@
       "link": "https://web3.career/senior-devops-engineer-blockchain-kubernetes-binance/149346",
       "company_name": "Binance",
       "description": "devops engineer kubernetes senior blockchain"
-    },
-    {
-      "title": "DevOps Engineer",
-      "link": "https://web3.career/devops-engineer-bitpanda/139451",
-      "company_name": "Bitpanda",
-      "description": "devops engineer aws blockchain crypto"
     }
   ]
 }

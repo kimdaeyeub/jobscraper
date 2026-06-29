@@ -2,7 +2,7 @@
   "skill": "ruby",
   "label": "Ruby",
   "count": 16,
-  "updated_at": "2026-06-22T08:17:05.294691+00:00",
+  "updated_at": "2026-06-29T07:58:09.917029+00:00",
   "jobs": [
     {
       "title": "Senior Full-Stack Ruby on Rails Developer",
@@ -21,12 +21,6 @@
       "link": "https://web3.career/head-of-engineering-coinhako/150366",
       "company_name": "Coinhako",
       "description": "engineering manager engineer executive aws blockchain"
-    },
-    {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
-      "company_name": "Lemon.io",
-      "description": "dev senior blockchain ethereum ethereumjs"
     },
     {
       "title": "Enterprise Solutions Engineer",
@@ -99,6 +93,12 @@
       "link": "https://web3.career/senior-software-engineer-backend-institutional-markets-exchange-coinbase/143125",
       "company_name": "Coinbase",
       "description": "backend engineer senior dev remote"
+    },
+    {
+      "title": "Director Site and Infrastructure",
+      "link": "https://web3.career/director-site-and-infrastructure-genies/142951",
+      "company_name": "Genies",
+      "description": "infrastructure executive aws gaming golang"
     }
   ]
 }

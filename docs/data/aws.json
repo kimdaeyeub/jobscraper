@@ -2,97 +2,97 @@
   "skill": "aws",
   "label": "AWS",
   "count": 15,
-  "updated_at": "2026-06-22T08:17:55.805634+00:00",
+  "updated_at": "2026-06-29T07:59:10.262225+00:00",
   "jobs": [
     {
-      "title": "Sr Blockchain Developer",
-      "link": "https://web3.career/sr-blockchain-developer-accroidinc/150589",
-      "company_name": "Accroid Inc",
-      "description": "dev blockchain aws ethereum java"
+      "title": "Binance Accelerator Program Big Data Infrastructure Engineer",
+      "link": "https://web3.career/binance-accelerator-program-big-data-infrastructure-engineer-binance/150816",
+      "company_name": "Binance",
+      "description": "infrastructure big data engineer aws blockchain"
     },
     {
-      "title": "Sr. Production Engineer",
-      "link": "https://web3.career/sr-production-engineer-zscaler/150565",
-      "company_name": "Zscaler",
-      "description": "engineer senior aws remote"
+      "title": "Senior Tooling Engineer Tech GEO",
+      "link": "https://web3.career/senior-tooling-engineer-tech-geo-binance/150814",
+      "company_name": "Binance",
+      "description": "engineer senior aws blockchain golang"
     },
     {
-      "title": "Principal Production Engineer",
-      "link": "https://web3.career/principal-production-engineer-zscaler/150564",
-      "company_name": "Zscaler",
-      "description": "engineer executive aws remote"
+      "title": "Software Engineer Intern",
+      "link": "https://web3.career/software-engineer-intern-fluo/150807",
+      "company_name": "Fluo",
+      "description": "engineer intern entry level dev aws"
     },
     {
-      "title": "Staff Site Reliability Engineer",
-      "link": "https://web3.career/staff-site-reliability-engineer-zscaler/106117",
-      "company_name": "Zscaler",
-      "description": "engineer reliability aws golang java"
-    },
-    {
-      "title": "Principal Site Reliability Engineer",
-      "link": "https://web3.career/principal-site-reliability-engineer-copperco/145726",
-      "company_name": "Copperco",
-      "description": "engineer executive reliability aws blockchain"
-    },
-    {
-      "title": "Senior Site Reliability Engineer",
-      "link": "https://web3.career/senior-site-reliability-engineer-chainalysis/150554",
+      "title": "Senior Manager EngineeringClustering Exposure",
+      "link": "https://web3.career/senior-manager-engineering-clustering-exposure-chainalysis/150778",
       "company_name": "Chainalysis",
-      "description": "engineer reliability senior aws blockchain"
+      "description": "senior aws blockchain crypto"
     },
     {
-      "title": "Director GRC Privacy Security",
-      "link": "https://web3.career/director-grc-privacy-security-polymarket/150549",
-      "company_name": "Polymarket",
-      "description": "executive security aws"
+      "title": "Infrastructure Engineer",
+      "link": "https://web3.career/infrastructure-engineer-gauntlet/150765",
+      "company_name": "Gauntlet",
+      "description": "infrastructure engineer aws crypto defi"
     },
     {
-      "title": "Senior Software Engineer Advisory Suite",
-      "link": "https://web3.career/senior-software-engineer-advisory-suite-alpaca/150544",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev aws crypto"
+      "title": "Software Engineer Fullstack",
+      "link": "https://web3.career/software-engineer-fullstack-kast/150761",
+      "company_name": "Kast",
+      "description": "engineer full stack dev aws blockchain"
     },
     {
-      "title": "Data Engineer PH",
-      "link": "https://web3.career/data-engineer-ph-coins/150541",
-      "company_name": "Coins.ph",
-      "description": "data science engineer aws crypto java"
+      "title": "Senior Product Manager Compliance",
+      "link": "https://web3.career/senior-product-manager-compliance-kast/150760",
+      "company_name": "Kast",
+      "description": "compliance non tech product manager senior aws"
     },
     {
-      "title": "SOC Lead Security Operations Center",
-      "link": "https://web3.career/soc-lead-security-operations-center-crypto-com/150540",
+      "title": "AI Security Engineer DevSecOps",
+      "link": "https://web3.career/ai-security-engineer-devsecops-crypto-com/150738",
       "company_name": "Crypto.com",
-      "description": "lead operations security aws"
+      "description": "ai engineer security aws crypto"
     },
     {
-      "title": "Business Operations",
-      "link": "https://web3.career/business-operations-turnkey/150528",
-      "company_name": "Turnkey",
-      "description": "operations aws crypto"
+      "title": "Crypto Partnerships Manager",
+      "link": "https://web3.career/crypto-partnerships-manager-kast/150737",
+      "company_name": "Kast",
+      "description": "partnership sales non tech aws crypto"
     },
     {
-      "title": "Senior Blockchain Architect",
-      "link": "https://web3.career/senior-blockchain-architect-globalsettlementnetwork/150526",
-      "company_name": "Global Settlement Network",
-      "description": "architecture senior blockchain aws docker"
+      "title": "Associate Technical Lead Fullstack",
+      "link": "https://web3.career/associate-technical-lead-fullstack-kast/150736",
+      "company_name": "Kast",
+      "description": "full stack lead tech lead aws blockchain"
     },
     {
-      "title": "Escalation Engineer DLP",
-      "link": "https://web3.career/escalation-engineer-dlp-zscaler/148637",
-      "company_name": "Zscaler",
-      "description": "engineer aws remote"
+      "title": "Associate Technical Lead Web Development",
+      "link": "https://web3.career/associate-technical-lead-web-development-kast/150735",
+      "company_name": "Kast",
+      "description": "lead tech lead web dev aws blockchain"
     },
     {
-      "title": "Escalation Engineer AI Security",
-      "link": "https://web3.career/escalation-engineer-ai-security-zscaler/141505",
-      "company_name": "Zscaler",
-      "description": "ai engineer security aws remote"
+      "title": "Senior Brand Marketing Designer",
+      "link": "https://web3.career/senior-brand-marketing-designer-kast/150734",
+      "company_name": "Kast",
+      "description": "brand design non tech marketing senior"
     },
     {
-      "title": "Senior Technical Success Manager",
-      "link": "https://web3.career/senior-technical-success-manager-zscaler/145190",
-      "company_name": "Zscaler",
-      "description": "sales non tech senior aws remote"
+      "title": "Regional Country Manager UAE GCC",
+      "link": "https://web3.career/regional-country-manager-uae-gcc-kast/150733",
+      "company_name": "Kast",
+      "description": "aws crypto solana"
+    },
+    {
+      "title": "Growth Associate",
+      "link": "https://web3.career/growth-associate-kast/150732",
+      "company_name": "Kast",
+      "description": "growth aws crypto solana"
+    },
+    {
+      "title": "Senior Creative Art Director",
+      "link": "https://web3.career/senior-creative-art-director-kast/150731",
+      "company_name": "Kast",
+      "description": "executive senior aws crypto solana"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "skill": "typescript",
   "label": "TypeScript",
   "count": 22,
-  "updated_at": "2026-06-22T08:16:54.325024+00:00",
+  "updated_at": "2026-06-29T07:58:02.753314+00:00",
   "jobs": [
     {
       "title": "Head of Technology",
@@ -47,52 +47,46 @@
       "company_name": "Kombo"
     },
     {
-      "title": "Blockchain Lead",
-      "link": "https://web3.career/blockchain-lead-stablenaira/150609",
-      "company_name": "Stable Naira",
-      "description": "lead blockchain defi erc 20 ethereum"
+      "title": "Senior Software Development Engineer",
+      "link": "https://web3.career/senior-software-development-engineer-zscaler/106335",
+      "company_name": "Zscaler",
+      "description": "engineer senior dev javascript tailwind"
     },
     {
-      "title": "Senior Fullstack Engineer Agentic Payments NYC MIA",
-      "link": "https://web3.career/senior-full-stack-engineer-agentic-payments-nyc-mia-crossmint/150606",
-      "company_name": "Crossmint",
-      "description": "engineer full stack senior blockchain crypto"
+      "title": "Senior Product Security Engineer",
+      "link": "https://web3.career/senior-product-security-engineer-blockchain/150772",
+      "company_name": "Blockchain",
+      "description": "engineer security senior blockchain crypto"
     },
     {
-      "title": "Staff Full Stack Engineer",
-      "link": "https://web3.career/staff-full-stack-engineer-fireblocks/150591",
-      "company_name": "Fireblocks",
-      "description": "engineer full stack blockchain crypto node"
+      "title": "Infrastructure Engineer",
+      "link": "https://web3.career/infrastructure-engineer-gauntlet/150765",
+      "company_name": "Gauntlet",
+      "description": "infrastructure engineer aws crypto defi"
     },
     {
-      "title": "Senior Engineer Custody Engineering Tokenization",
-      "link": "https://web3.career/senior-engineer-custody-engineering-tokenization-bullish/150575",
-      "company_name": "Bullish",
-      "description": "tokenization engineer senior blockchain ethereum"
-    },
-    {
-      "title": "Lead Engineer Custody Engineering Tokenization",
-      "link": "https://web3.career/lead-engineer-custody-engineering-tokenization-bullish/150574",
-      "company_name": "Bullish",
-      "description": "tokenization engineer lead blockchain erc 20"
-    },
-    {
-      "title": "Senior Full Stack Engineer Somnia",
-      "link": "https://web3.career/senior-full-stack-engineer-somnia-improbable/150557",
-      "company_name": "Improbable",
-      "description": "engineer full stack senior blockchain crypto"
-    },
-    {
-      "title": "Senior Full Stack Engineer: Improbable",
-      "link": "https://web3.career/senior-full-stack-engineer-improbable-improbable/150556",
-      "company_name": "Improbable",
-      "description": "engineer full stack senior crypto golang"
+      "title": "Senior Security Engineer",
+      "link": "https://web3.career/senior-security-engineer-gauntlet/150764",
+      "company_name": "Gauntlet",
+      "description": "engineer security senior blockchain crypto"
     },
     {
       "title": "Solutions Engineer",
-      "link": "https://web3.career/solutions-engineer-bitgo/149986",
-      "company_name": "Bitgo",
-      "description": "engineer bitcoin blockchain javascript typescript"
+      "link": "https://web3.career/solutions-engineer-aavelabs/150747",
+      "company_name": "Aave Labs",
+      "description": "engineer blockchain crypto defi rust"
+    },
+    {
+      "title": "Senior Backend Engineer",
+      "link": "https://web3.career/senior-backend-engineer-blockus/150718",
+      "company_name": "Blockus",
+      "description": "backend engineer senior aws blockchain"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "link": "https://web3.career/senior-full-stack-engineer-blockus/150717",
+      "company_name": "Blockus",
+      "description": "engineer full stack senior aws blockchain"
     },
     {
       "title": "Senior Full Stack Engineer",
@@ -113,16 +107,16 @@
       "description": "backend engineer aws blockchain typescript"
     },
     {
-      "title": "FrontEnd Engineer",
-      "link": "https://web3.career/front-end-engineer-bluecubeservices/102823",
-      "company_name": "Bluecubeservices",
-      "description": "engineer front end crypto javascript react"
-    },
-    {
       "title": "Senior Software Engineer Angular B2C Web Platm",
       "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
       "company_name": "Bitpanda",
       "description": "c c plus plus javascript angular engineer"
+    },
+    {
+      "title": "Solutions Architect",
+      "link": "https://web3.career/solutions-architect-blockdaemon/150675",
+      "company_name": "Blockdaemon",
+      "description": "architecture aws bitcoin blockchain crypto"
     },
     {
       "title": "Growth Engineer Data Systems",
@@ -131,10 +125,16 @@
       "description": "growth engineer crypto discord javascript"
     },
     {
-      "title": "Lead Permance Web Engineer",
-      "link": "https://web3.career/lead-performance-web-engineer-polymarket/150462",
+      "title": "Integration Engineer",
+      "link": "https://web3.career/integration-engineer-polymarket/150674",
       "company_name": "Polymarket",
-      "description": "engineer lead javascript nextjs react"
+      "description": "integration engineer crypto defi rust"
+    },
+    {
+      "title": "FrontEnd Engineer Institutional",
+      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
+      "company_name": "Blockchain",
+      "description": "engineer front end blockchain crypto javascript"
     }
   ]
 }

@@ -2,14 +2,8 @@
   "skill": "angular",
   "label": "Angular",
   "count": 15,
-  "updated_at": "2026-06-22T08:17:22.435329+00:00",
+  "updated_at": "2026-06-29T07:58:22.884247+00:00",
   "jobs": [
-    {
-      "title": "Backend Engineer BE + LLM",
-      "link": "https://web3.career/backend-engineer-be-llm-binance/150513",
-      "company_name": "Binance",
-      "description": "backend engineer angular blockchain java"
-    },
     {
       "title": "Senior Full Stack Engineer",
       "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
@@ -27,6 +21,12 @@
       "link": "https://web3.career/java-backend-developer-localcoin/78924",
       "company_name": "Localcoin",
       "description": "backend dev java angular aws"
+    },
+    {
+      "title": "Backend Engineer BE + LLM",
+      "link": "https://web3.career/backend-engineer-be-llm-binance/150513",
+      "company_name": "Binance",
+      "description": "backend engineer angular blockchain java"
     },
     {
       "title": "Staff Software Engineer Graphs",
@@ -51,12 +51,6 @@
       "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/103010",
       "company_name": "Bcbgroup",
       "description": "engineer full stack senior angular bitcoin"
-    },
-    {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
-      "company_name": "Lemon.io",
-      "description": "dev senior blockchain ethereum ethereumjs"
     },
     {
       "title": "Director of Engineering API Management and CIAM",
@@ -93,6 +87,12 @@
       "link": "https://web3.career/software-engineer-iii-zinnia/93829",
       "company_name": "Zinnia",
       "description": "engineer dev angular aws docker"
+    },
+    {
+      "title": "Binance Accelerator Program Frontend Engineer .COM",
+      "link": "https://web3.career/binance-accelerator-program-frontend-engineer-com-binance/148163",
+      "company_name": "Binance",
+      "description": "engineer front end angular blockchain react"
     }
   ]
 }

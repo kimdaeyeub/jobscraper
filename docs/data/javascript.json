@@ -2,7 +2,7 @@
   "skill": "javascript",
   "label": "JavaScript",
   "count": 17,
-  "updated_at": "2026-06-22T08:16:53.451841+00:00",
+  "updated_at": "2026-06-29T07:58:02.199002+00:00",
   "jobs": [
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
@@ -17,40 +17,34 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Blockchain Lead",
-      "link": "https://web3.career/blockchain-lead-stablenaira/150609",
-      "company_name": "Stable Naira",
-      "description": "lead blockchain defi erc 20 ethereum"
+      "title": "Full Stack Blockchain Developer",
+      "link": "https://web3.career/full-stack-blockchain-developer-val-sservices/150815",
+      "company_name": "val's services",
+      "description": "dev full stack blockchain ethereum javascript"
     },
     {
-      "title": "Senior Fullstack Engineer Agentic Payments NYC MIA",
-      "link": "https://web3.career/senior-full-stack-engineer-agentic-payments-nyc-mia-crossmint/150606",
-      "company_name": "Crossmint",
-      "description": "engineer full stack senior blockchain crypto"
+      "title": "Senior Software Development Engineer",
+      "link": "https://web3.career/senior-software-development-engineer-zscaler/106335",
+      "company_name": "Zscaler",
+      "description": "engineer senior dev javascript tailwind"
     },
     {
-      "title": "Solutions Engineer",
-      "link": "https://web3.career/solutions-engineer-bitgo/149986",
-      "company_name": "Bitgo",
-      "description": "engineer bitcoin blockchain javascript typescript"
+      "title": "Staff Security and Privacy Engineer",
+      "link": "https://web3.career/staff-security-and-privacy-engineer-brave/150767",
+      "company_name": "Brave",
+      "description": "engineer security crypto javascript rust"
     },
     {
-      "title": "Frontend Engineer",
-      "link": "https://web3.career/frontend-engineer-coins/150516",
-      "company_name": "Coins.ph",
-      "description": "engineer front end crypto javascript react"
+      "title": "Senior Security Engineer",
+      "link": "https://web3.career/senior-security-engineer-gauntlet/150764",
+      "company_name": "Gauntlet",
+      "description": "engineer security senior blockchain crypto"
     },
     {
-      "title": "AI Blockchain Risk Control Engineer",
-      "link": "https://web3.career/ai-blockchain-risk-control-engineer-bylabs/150507",
-      "company_name": "ByLabs",
-      "description": "ai engineer blockchain crypto javascript"
-    },
-    {
-      "title": "FrontEnd Engineer",
-      "link": "https://web3.career/front-end-engineer-bluecubeservices/102823",
-      "company_name": "Bluecubeservices",
-      "description": "engineer front end crypto javascript react"
+      "title": "Senior blockchain engineer with payment and exchange building experience",
+      "link": "https://web3.career/senior-blockchain-engineer-with-payment-and-exchange-building-experience-travoom/150753",
+      "company_name": "Travoom",
+      "description": "engineer senior blockchain crypto ethereum"
     },
     {
       "title": "Senior Software Engineer Angular B2C Web Platm",
@@ -63,12 +57,6 @@
       "link": "https://web3.career/growth-engineer-data-systems-bitmex/146102",
       "company_name": "Bitmex",
       "description": "growth engineer crypto discord javascript"
-    },
-    {
-      "title": "Lead Permance Web Engineer",
-      "link": "https://web3.career/lead-performance-web-engineer-polymarket/150462",
-      "company_name": "Polymarket",
-      "description": "engineer lead javascript nextjs react"
     },
     {
       "title": "FrontEnd Engineer Institutional",
@@ -89,22 +77,34 @@
       "description": "dev quality assurance javascript crypto remote"
     },
     {
+      "title": "Solutions Engineer",
+      "link": "https://web3.career/solutions-engineer-bitgo/149986",
+      "company_name": "Bitgo",
+      "description": "engineer bitcoin blockchain javascript typescript"
+    },
+    {
       "title": "Software Engineer Frontend and Mobile",
       "link": "https://web3.career/software-engineer-frontend-and-mobile-bitgo/148771",
       "company_name": "Bitgo",
       "description": "engineer front end mobile dev bitcoin"
     },
     {
-      "title": "Senior Infrastructure Engineer",
-      "link": "https://web3.career/senior-infrastructure-engineer-moonpay/150434",
-      "company_name": "MoonPay",
-      "description": "infrastructure engineer senior remote blockchain"
+      "title": "Software Engineer Solana",
+      "link": "https://web3.career/software-engineer-solana-fireblocks/150662",
+      "company_name": "Fireblocks",
+      "description": "engineer dev blockchain docker javascript"
     },
     {
-      "title": "Senior Frontend Engineer Trading Systems",
-      "link": "https://web3.career/senior-frontend-engineer-trading-systems-binance/150426",
-      "company_name": "Binance",
-      "description": "engineer front end senior blockchain crypto"
+      "title": "Blockchain Lead",
+      "link": "https://web3.career/blockchain-lead-stablenaira/150609",
+      "company_name": "Stable Naira",
+      "description": "lead blockchain defi erc 20 ethereum"
+    },
+    {
+      "title": "Senior Fullstack Engineer Agentic Payments NYC MIA",
+      "link": "https://web3.career/senior-full-stack-engineer-agentic-payments-nyc-mia-crossmint/150606",
+      "company_name": "Crossmint",
+      "description": "engineer full stack senior blockchain crypto"
     }
   ]
 }

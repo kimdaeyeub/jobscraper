@@ -2,8 +2,62 @@
   "skill": "nextjs",
   "label": "Next.js",
   "count": 15,
-  "updated_at": "2026-06-22T08:17:27.038572+00:00",
+  "updated_at": "2026-06-29T07:58:27.025048+00:00",
   "jobs": [
+    {
+      "title": "AI Infra Engineer",
+      "link": "https://web3.career/ai-infra-engineer-serotonin/150793",
+      "company_name": "Serotonin",
+      "description": "ai engineer crypto nextjs"
+    },
+    {
+      "title": "Software Engineer Fullstack",
+      "link": "https://web3.career/software-engineer-fullstack-kast/150761",
+      "company_name": "Kast",
+      "description": "engineer full stack dev aws blockchain"
+    },
+    {
+      "title": "Associate Technical Lead Fullstack",
+      "link": "https://web3.career/associate-technical-lead-fullstack-kast/150736",
+      "company_name": "Kast",
+      "description": "full stack lead tech lead aws blockchain"
+    },
+    {
+      "title": "Associate Technical Lead Web Development",
+      "link": "https://web3.career/associate-technical-lead-web-development-kast/150735",
+      "company_name": "Kast",
+      "description": "lead tech lead web dev aws blockchain"
+    },
+    {
+      "title": "Senior Software Engineer Fullstack",
+      "link": "https://web3.career/senior-software-engineer-fullstack-kast/150729",
+      "company_name": "Kast",
+      "description": "engineer full stack senior dev aws"
+    },
+    {
+      "title": "Senior Web Engineer",
+      "link": "https://web3.career/senior-web-engineer-kast/150725",
+      "company_name": "Kast",
+      "description": "engineer senior aws crypto nextjs"
+    },
+    {
+      "title": "Technical Lead Fullstack",
+      "link": "https://web3.career/technical-lead-fullstack-kast/150723",
+      "company_name": "Kast",
+      "description": "full stack lead tech lead aws blockchain"
+    },
+    {
+      "title": "Senior Backend Engineer",
+      "link": "https://web3.career/senior-backend-engineer-blockus/150718",
+      "company_name": "Blockus",
+      "description": "backend engineer senior aws blockchain"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "link": "https://web3.career/senior-full-stack-engineer-blockus/150717",
+      "company_name": "Blockus",
+      "description": "engineer full stack senior aws blockchain"
+    },
     {
       "title": "Senior Software Engineer Angular B2C Web Platm",
       "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
@@ -39,60 +93,6 @@
       "link": "https://web3.career/principal-software-engineer-react-node-remote-eu-or-usa-pubgeniusinc/150071",
       "company_name": "Pubgenius Inc.",
       "description": "remote engineer javascript node executive"
-    },
-    {
-      "title": "Software Engineer Frontend Payments",
-      "link": "https://web3.career/software-engineer-frontend-payments-kraken/150023",
-      "company_name": "Kraken",
-      "description": "engineer front end dev blockchain crypto"
-    },
-    {
-      "title": "FullStack Engineer",
-      "link": "https://web3.career/full-stack-engineer-launchpadtechnologiesinc/149776",
-      "company_name": "Launchpadtechnologiesinc",
-      "description": "engineer full stack javascript nextjs node"
-    },
-    {
-      "title": "Front End Engineer",
-      "link": "https://web3.career/front-end-engineer-blackwing/103745",
-      "company_name": "Blackwing",
-      "description": "engineer front end crypto defi nextjs"
-    },
-    {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
-      "company_name": "Lemon.io",
-      "description": "dev senior blockchain ethereum ethereumjs"
-    },
-    {
-      "title": "Tech Lead Engineer Contract LATAM",
-      "link": "https://web3.career/tech-lead-engineer-contract-latam-nexus/149668",
-      "company_name": "Nexus",
-      "description": "engineer lead tech lead blockchain crypto"
-    },
-    {
-      "title": "Applied AI Engineer",
-      "link": "https://web3.career/applied-ai-engineer-cryptio/149649",
-      "company_name": "Cryptio",
-      "description": "ai engineer aws crypto docker"
-    },
-    {
-      "title": "CTO Security Lead — CoFounder",
-      "link": "https://web3.career/cto-security-lead-co-founder-byte/149622",
-      "company_name": "BYTE",
-      "description": "co founder cto executive lead security"
-    },
-    {
-      "title": "Senior Fullstack Software Engineer Websites 100% remote",
-      "link": "https://web3.career/senior-fullstack-software-engineer-websites-100-remote-tetheroperationslimited/149507",
-      "company_name": "Tether Operations Limited",
-      "description": "remote engineer full stack senior dev"
-    },
-    {
-      "title": "Senior Web Engineer",
-      "link": "https://web3.career/senior-web-engineer-polymarket/149090",
-      "company_name": "Polymarket",
-      "description": "engineer senior crypto nextjs react"
     }
   ]
 }
