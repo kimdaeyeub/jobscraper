@@ -2,7 +2,7 @@
   "skill": "kubernetes",
   "label": "Kubernetes",
   "count": 19,
-  "updated_at": "2026-06-29T07:59:11.193010+00:00",
+  "updated_at": "2026-07-06T07:45:02.628418+00:00",
   "jobs": [
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
@@ -29,94 +29,94 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Product Security Engineer",
-      "link": "https://web3.career/senior-product-security-engineer-blockchain/150772",
-      "company_name": "Blockchain",
-      "description": "engineer security senior blockchain crypto"
+      "title": "Blockchain Lead Security Engineer",
+      "link": "https://web3.career/blockchain-lead-security-engineer-jpmorganchase/151061",
+      "company_name": "JPMorganChase",
+      "description": "engineer lead security blockchain aws"
     },
     {
-      "title": "Senior AI Engineer",
-      "link": "https://web3.career/senior-ai-engineer-dvtrading/150771",
-      "company_name": "Dvtrading",
-      "description": "ai engineer senior kubernetes remote"
+      "title": "Binance Accelerator Program DevSecOps Engineer",
+      "link": "https://web3.career/binance-accelerator-program-devsecops-engineer-binance/151058",
+      "company_name": "Binance",
+      "description": "engineer aws blockchain docker kubernetes"
     },
     {
-      "title": "AI Engineer",
-      "link": "https://web3.career/ai-engineer-dvtrading/150770",
-      "company_name": "Dvtrading",
-      "description": "ai engineer kubernetes remote"
+      "title": "Backend Software Engineer",
+      "link": "https://web3.career/backend-software-engineer-alchemy/151017",
+      "company_name": "Alchemy",
+      "description": "backend engineer dev aws blockchain"
     },
     {
-      "title": "Infrastructure Engineer",
-      "link": "https://web3.career/infrastructure-engineer-gauntlet/150765",
-      "company_name": "Gauntlet",
-      "description": "infrastructure engineer aws crypto defi"
+      "title": "Crypto Blockchain Engineer",
+      "link": "https://web3.career/crypto-blockchain-engineer-irissoftwareinc/151004",
+      "company_name": "Iris Software Inc.",
+      "description": "engineer blockchain aws bitcoin crypto"
     },
     {
-      "title": "Software Engineer Fullstack",
-      "link": "https://web3.career/software-engineer-fullstack-kast/150761",
-      "company_name": "Kast",
-      "description": "engineer full stack dev aws blockchain"
+      "title": "Staff Software Engineer Liquidity Management",
+      "link": "https://web3.career/staff-software-engineer-liquidity-management-ripple/150936",
+      "company_name": "Ripple",
+      "description": "engineer sales non tech dev aws"
     },
     {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
-      "company_name": "Bcbgroup",
-      "description": "engineer full stack senior angular crypto"
+      "title": "Staff Software Engineer Infrastructure",
+      "link": "https://web3.career/staff-software-engineer-infrastructure-ripple/150935",
+      "company_name": "Ripple",
+      "description": "infrastructure engineer dev aws blockchain"
     },
     {
-      "title": "Staff Software Development Engineer",
-      "link": "https://web3.career/staff-software-development-engineer-zscaler/104108",
-      "company_name": "Zscaler",
-      "description": "engineer dev kubernetes remote"
+      "title": "Staff Software Engineer GenAI Platm",
+      "link": "https://web3.career/staff-software-engineer-genai-platform-ripple/150934",
+      "company_name": "Ripple",
+      "description": "engineer dev blockchain crypto java"
     },
     {
-      "title": "Site Reliability Engineer",
-      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
-      "company_name": "Layerzerolabs",
-      "description": "engineer reliability blockchain golang kubernetes"
+      "title": "Staff Software Engineer Frontend",
+      "link": "https://web3.career/staff-software-engineer-frontend-ripple/150933",
+      "company_name": "Ripple",
+      "description": "engineer front end dev blockchain crypto"
     },
     {
-      "title": "Crypto Production Engineer",
-      "link": "https://web3.career/crypto-production-engineer-jumpcrypto/89562",
-      "company_name": "Jumpcrypto",
-      "description": "engineer blockchain crypto defi ethereum"
+      "title": "Staff Software Engineer Authentication Authorization",
+      "link": "https://web3.career/staff-software-engineer-authentication-authorization-ripple/150930",
+      "company_name": "Ripple",
+      "description": "engineer dev crypto golang java"
     },
     {
-      "title": "Senior Red Team Operator",
-      "link": "https://web3.career/senior-red-team-operator-figment/84843",
-      "company_name": "Figment",
-      "description": "senior aws blockchain crypto docker"
+      "title": "Staff Infrastructure Engineer",
+      "link": "https://web3.career/staff-infrastructure-engineer-ripple/150928",
+      "company_name": "Ripple",
+      "description": "infrastructure engineer aws crypto docker"
     },
     {
-      "title": "Senior Trading System Support Engineer",
-      "link": "https://web3.career/senior-trading-system-support-engineer-falconx/150692",
-      "company_name": "Falconx",
-      "description": "engineer senior customer support aws crypto"
+      "title": "Staff DevSecOps Engineer",
+      "link": "https://web3.career/staff-devsecops-engineer-ripple/150926",
+      "company_name": "Ripple",
+      "description": "engineer aws crypto kubernetes"
     },
     {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-copperco/96368",
-      "company_name": "Copperco",
-      "description": "devops engineer senior aws blockchain"
+      "title": "Software Engineer II FullStack",
+      "link": "https://web3.career/software-engineer-ii-full-stack-ripple/150924",
+      "company_name": "Ripple",
+      "description": "engineer full stack dev aws crypto"
     },
     {
-      "title": "Senior Site Reliability Engineer",
-      "link": "https://web3.career/senior-site-reliability-engineer-bloxstaking/148505",
-      "company_name": "Bloxstaking",
-      "description": "engineer reliability senior blockchain ethereum"
+      "title": "Software Engineer II Authentication Authorization",
+      "link": "https://web3.career/software-engineer-ii-authentication-authorization-ripple/150923",
+      "company_name": "Ripple",
+      "description": "engineer dev crypto golang java"
     },
     {
-      "title": "Software Engineer Java OpsHub",
-      "link": "https://web3.career/software-engineer-java-opshub-bitpanda/149243",
-      "company_name": "Bitpanda",
-      "description": "engineer java dev aws crypto"
+      "title": "Senior Staff Security Engineer Ripple Treasury",
+      "link": "https://web3.career/senior-staff-security-engineer-ripple-treasury-ripple/150920",
+      "company_name": "Ripple",
+      "description": "treasury finance engineer security senior"
     },
     {
-      "title": "Software Engineer Java Identity Platm",
-      "link": "https://web3.career/software-engineer-java-identity-platform-bitpanda/149831",
-      "company_name": "Bitpanda",
-      "description": "engineer java dev crypto kubernetes"
+      "title": "Senior Staff Security Engineer AI",
+      "link": "https://web3.career/senior-staff-security-engineer-ai-ripple/150919",
+      "company_name": "Ripple",
+      "description": "ai engineer security senior aws"
     }
   ]
 }

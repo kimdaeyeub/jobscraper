@@ -2,7 +2,7 @@
   "skill": "typescript",
   "label": "TypeScript",
   "count": 22,
-  "updated_at": "2026-06-29T07:58:02.753314+00:00",
+  "updated_at": "2026-07-06T07:44:13.261588+00:00",
   "jobs": [
     {
       "title": "Head of Technology",
@@ -47,46 +47,46 @@
       "company_name": "Kombo"
     },
     {
-      "title": "Senior Software Development Engineer",
-      "link": "https://web3.career/senior-software-development-engineer-zscaler/106335",
-      "company_name": "Zscaler",
-      "description": "engineer senior dev javascript tailwind"
+      "title": "Senior Staff Smart Contract Engineer",
+      "link": "https://web3.career/senior-staff-smart-contract-engineer-symbiotic/151006",
+      "company_name": "Symbiotic",
+      "description": "engineer senior ethereum crypto defi"
     },
     {
-      "title": "Senior Product Security Engineer",
-      "link": "https://web3.career/senior-product-security-engineer-blockchain/150772",
-      "company_name": "Blockchain",
-      "description": "engineer security senior blockchain crypto"
+      "title": "Crypto Blockchain Engineer",
+      "link": "https://web3.career/crypto-blockchain-engineer-irissoftwareinc/151004",
+      "company_name": "Iris Software Inc.",
+      "description": "engineer blockchain aws bitcoin crypto"
     },
     {
-      "title": "Infrastructure Engineer",
-      "link": "https://web3.career/infrastructure-engineer-gauntlet/150765",
-      "company_name": "Gauntlet",
-      "description": "infrastructure engineer aws crypto defi"
+      "title": "Staff Software Engineer Ruby on Rails",
+      "link": "https://web3.career/staff-software-engineer-ruby-on-rails-ripple/150937",
+      "company_name": "Ripple",
+      "description": "engineer ruby dev aws crypto"
     },
     {
-      "title": "Senior Security Engineer",
-      "link": "https://web3.career/senior-security-engineer-gauntlet/150764",
-      "company_name": "Gauntlet",
-      "description": "engineer security senior blockchain crypto"
+      "title": "Staff Software Engineer Liquidity Management",
+      "link": "https://web3.career/staff-software-engineer-liquidity-management-ripple/150936",
+      "company_name": "Ripple",
+      "description": "engineer sales non tech dev aws"
     },
     {
-      "title": "Solutions Engineer",
-      "link": "https://web3.career/solutions-engineer-aavelabs/150747",
-      "company_name": "Aave Labs",
-      "description": "engineer blockchain crypto defi rust"
+      "title": "Staff Software Engineer Infrastructure",
+      "link": "https://web3.career/staff-software-engineer-infrastructure-ripple/150935",
+      "company_name": "Ripple",
+      "description": "infrastructure engineer dev aws blockchain"
     },
     {
-      "title": "Senior Backend Engineer",
-      "link": "https://web3.career/senior-backend-engineer-blockus/150718",
-      "company_name": "Blockus",
-      "description": "backend engineer senior aws blockchain"
+      "title": "Staff Software Engineer Frontend",
+      "link": "https://web3.career/staff-software-engineer-frontend-ripple/150933",
+      "company_name": "Ripple",
+      "description": "engineer front end dev blockchain crypto"
     },
     {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-blockus/150717",
-      "company_name": "Blockus",
-      "description": "engineer full stack senior aws blockchain"
+      "title": "Staff FullStack Software Engineer .NET Azure",
+      "link": "https://web3.career/staff-full-stack-software-engineer-net-azure-ripple/150927",
+      "company_name": "Ripple",
+      "description": "dot net engineer full stack dev angular"
     },
     {
       "title": "Senior Full Stack Engineer",
@@ -101,10 +101,22 @@
       "description": "data science engineer crypto typescript remote"
     },
     {
+      "title": "Senior Software Development Engineer",
+      "link": "https://web3.career/senior-software-development-engineer-zscaler/106335",
+      "company_name": "Zscaler",
+      "description": "engineer senior dev javascript tailwind"
+    },
+    {
       "title": "Backend Engineer",
       "link": "https://web3.career/backend-engineer-layerzerolabs/73714",
       "company_name": "Layerzerolabs",
       "description": "backend engineer aws blockchain typescript"
+    },
+    {
+      "title": "Senior Data Platm Engineer",
+      "link": "https://web3.career/senior-data-platform-engineer-provable/150874",
+      "company_name": "Provable",
+      "description": "engineer senior blockchain kubernetes node"
     },
     {
       "title": "Senior Software Engineer Angular B2C Web Platm",
@@ -113,28 +125,16 @@
       "description": "c c plus plus javascript angular engineer"
     },
     {
-      "title": "Solutions Architect",
-      "link": "https://web3.career/solutions-architect-blockdaemon/150675",
-      "company_name": "Blockdaemon",
-      "description": "architecture aws bitcoin blockchain crypto"
-    },
-    {
-      "title": "Growth Engineer Data Systems",
-      "link": "https://web3.career/growth-engineer-data-systems-bitmex/146102",
-      "company_name": "Bitmex",
-      "description": "growth engineer crypto discord javascript"
-    },
-    {
-      "title": "Integration Engineer",
-      "link": "https://web3.career/integration-engineer-polymarket/150674",
-      "company_name": "Polymarket",
-      "description": "integration engineer crypto defi rust"
-    },
-    {
       "title": "FrontEnd Engineer Institutional",
       "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
       "company_name": "Blockchain",
       "description": "engineer front end blockchain crypto javascript"
+    },
+    {
+      "title": "Staff Design Engineer",
+      "link": "https://web3.career/staff-design-engineer-shakepay/150847",
+      "company_name": "Shakepay",
+      "description": "design non tech engineer bitcoin node"
     }
   ]
 }

@@ -2,97 +2,97 @@
   "skill": "aws",
   "label": "AWS",
   "count": 15,
-  "updated_at": "2026-06-29T07:59:10.262225+00:00",
+  "updated_at": "2026-07-06T07:45:00.989058+00:00",
   "jobs": [
     {
-      "title": "Binance Accelerator Program Big Data Infrastructure Engineer",
-      "link": "https://web3.career/binance-accelerator-program-big-data-infrastructure-engineer-binance/150816",
+      "title": "Blockchain Lead Security Engineer",
+      "link": "https://web3.career/blockchain-lead-security-engineer-jpmorganchase/151061",
+      "company_name": "JPMorganChase",
+      "description": "engineer lead security blockchain aws"
+    },
+    {
+      "title": "Binance Accelerator Program DevSecOps Engineer",
+      "link": "https://web3.career/binance-accelerator-program-devsecops-engineer-binance/151058",
       "company_name": "Binance",
-      "description": "infrastructure big data engineer aws blockchain"
+      "description": "engineer aws blockchain docker kubernetes"
     },
     {
-      "title": "Senior Tooling Engineer Tech GEO",
-      "link": "https://web3.career/senior-tooling-engineer-tech-geo-binance/150814",
-      "company_name": "Binance",
-      "description": "engineer senior aws blockchain golang"
-    },
-    {
-      "title": "Software Engineer Intern",
-      "link": "https://web3.career/software-engineer-intern-fluo/150807",
-      "company_name": "Fluo",
-      "description": "engineer intern entry level dev aws"
-    },
-    {
-      "title": "Senior Manager EngineeringClustering Exposure",
-      "link": "https://web3.career/senior-manager-engineering-clustering-exposure-chainalysis/150778",
-      "company_name": "Chainalysis",
-      "description": "senior aws blockchain crypto"
-    },
-    {
-      "title": "Infrastructure Engineer",
-      "link": "https://web3.career/infrastructure-engineer-gauntlet/150765",
-      "company_name": "Gauntlet",
-      "description": "infrastructure engineer aws crypto defi"
-    },
-    {
-      "title": "Software Engineer Fullstack",
-      "link": "https://web3.career/software-engineer-fullstack-kast/150761",
+      "title": "Product Director Fiat Payments",
+      "link": "https://web3.career/product-director-fiat-payments-kast/151053",
       "company_name": "Kast",
-      "description": "engineer full stack dev aws blockchain"
+      "description": "executive aws crypto solana"
     },
     {
-      "title": "Senior Product Manager Compliance",
-      "link": "https://web3.career/senior-product-manager-compliance-kast/150760",
+      "title": "Architecture Lead",
+      "link": "https://web3.career/architecture-lead-kast/151047",
       "company_name": "Kast",
-      "description": "compliance non tech product manager senior aws"
+      "description": "lead aws crypto solana"
     },
     {
-      "title": "AI Security Engineer DevSecOps",
-      "link": "https://web3.career/ai-security-engineer-devsecops-crypto-com/150738",
-      "company_name": "Crypto.com",
-      "description": "ai engineer security aws crypto"
-    },
-    {
-      "title": "Crypto Partnerships Manager",
-      "link": "https://web3.career/crypto-partnerships-manager-kast/150737",
+      "title": "Database Engineering Lead",
+      "link": "https://web3.career/database-engineering-lead-kast/151046",
       "company_name": "Kast",
-      "description": "partnership sales non tech aws crypto"
+      "description": "lead aws crypto solana"
     },
     {
-      "title": "Associate Technical Lead Fullstack",
-      "link": "https://web3.career/associate-technical-lead-fullstack-kast/150736",
+      "title": "Senior NetSuite Implementation Consultant Fixed Term Contract",
+      "link": "https://web3.career/senior-netsuite-implementation-consultant-fixed-term-contract-kast/151020",
       "company_name": "Kast",
-      "description": "full stack lead tech lead aws blockchain"
+      "description": "consulting senior aws crypto solana"
     },
     {
-      "title": "Associate Technical Lead Web Development",
-      "link": "https://web3.career/associate-technical-lead-web-development-kast/150735",
+      "title": "Finance Director Ireland",
+      "link": "https://web3.career/finance-director-ireland-kast/151019",
       "company_name": "Kast",
-      "description": "lead tech lead web dev aws blockchain"
+      "description": "executive finance non tech aws crypto"
     },
     {
-      "title": "Senior Brand Marketing Designer",
-      "link": "https://web3.career/senior-brand-marketing-designer-kast/150734",
-      "company_name": "Kast",
-      "description": "brand design non tech marketing senior"
+      "title": "Backend Software Engineer",
+      "link": "https://web3.career/backend-software-engineer-alchemy/151017",
+      "company_name": "Alchemy",
+      "description": "backend engineer dev aws blockchain"
     },
     {
-      "title": "Regional Country Manager UAE GCC",
-      "link": "https://web3.career/regional-country-manager-uae-gcc-kast/150733",
-      "company_name": "Kast",
-      "description": "aws crypto solana"
+      "title": "Senior DevSecOps Engineer Spain",
+      "link": "https://web3.career/senior-devsecops-engineer-spain-crossmint/151016",
+      "company_name": "Crossmint",
+      "description": "spain engineer senior aws blockchain"
     },
     {
-      "title": "Growth Associate",
-      "link": "https://web3.career/growth-associate-kast/150732",
-      "company_name": "Kast",
-      "description": "growth aws crypto solana"
+      "title": "Crypto Blockchain Engineer",
+      "link": "https://web3.career/crypto-blockchain-engineer-irissoftwareinc/151004",
+      "company_name": "Iris Software Inc.",
+      "description": "engineer blockchain aws bitcoin crypto"
     },
     {
-      "title": "Senior Creative Art Director",
-      "link": "https://web3.career/senior-creative-art-director-kast/150731",
-      "company_name": "Kast",
-      "description": "executive senior aws crypto solana"
+      "title": "Staff Software Engineer Ruby on Rails",
+      "link": "https://web3.career/staff-software-engineer-ruby-on-rails-ripple/150937",
+      "company_name": "Ripple",
+      "description": "engineer ruby dev aws crypto"
+    },
+    {
+      "title": "Staff Software Engineer Liquidity Management",
+      "link": "https://web3.career/staff-software-engineer-liquidity-management-ripple/150936",
+      "company_name": "Ripple",
+      "description": "engineer sales non tech dev aws"
+    },
+    {
+      "title": "Staff Software Engineer Infrastructure",
+      "link": "https://web3.career/staff-software-engineer-infrastructure-ripple/150935",
+      "company_name": "Ripple",
+      "description": "infrastructure engineer dev aws blockchain"
+    },
+    {
+      "title": "Staff Software Engineer Data Engineering",
+      "link": "https://web3.career/staff-software-engineer-data-engineering-ripple/150932",
+      "company_name": "Ripple",
+      "description": "engineer dev aws crypto"
+    },
+    {
+      "title": "Staff Software Engineer Cloud Infrastructure",
+      "link": "https://web3.career/staff-software-engineer-cloud-infrastructure-ripple/150931",
+      "company_name": "Ripple",
+      "description": "cloud engineer engineer infrastructure dev aws"
     }
   ]
 }

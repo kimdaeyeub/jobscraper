@@ -2,7 +2,7 @@
   "skill": "devops",
   "label": "DevOps",
   "count": 17,
-  "updated_at": "2026-06-29T07:59:17.525397+00:00",
+  "updated_at": "2026-07-06T07:45:06.742096+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
@@ -17,10 +17,10 @@
       "company_name": "alcemy"
     },
     {
-      "title": "Junior Product Manager DevOps and AI",
-      "link": "https://web3.career/junior-product-manager-devops-and-ai-okx/150699",
-      "company_name": "Okx",
-      "description": "ai devops junior entry level product manager"
+      "title": "Senior Staff DevOps Engineer",
+      "link": "https://web3.career/senior-staff-devops-engineer-ripple/150918",
+      "company_name": "Ripple",
+      "description": "devops engineer senior aws crypto"
     },
     {
       "title": "Senior DevOps Engineer",
@@ -39,6 +39,12 @@
       "link": "https://web3.career/senior-devops-engineer-dvtrading/150456",
       "company_name": "Dvtrading",
       "description": "devops engineer senior kubernetes remote"
+    },
+    {
+      "title": "Junior Product Manager DevOps and AI",
+      "link": "https://web3.career/junior-product-manager-devops-and-ai-okx/150699",
+      "company_name": "Okx",
+      "description": "ai devops junior entry level product manager"
     },
     {
       "title": "Staff DevOps Engineer",
@@ -99,12 +105,6 @@
       "link": "https://web3.career/binance-accelerator-program-devops-engineer-binance/149502",
       "company_name": "Binance",
       "description": "devops engineer aws blockchain docker"
-    },
-    {
-      "title": "Senior DevOps Engineer Blockchain Kubernetes",
-      "link": "https://web3.career/senior-devops-engineer-blockchain-kubernetes-binance/149346",
-      "company_name": "Binance",
-      "description": "devops engineer kubernetes senior blockchain"
     }
   ]
 }

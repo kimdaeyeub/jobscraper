@@ -2,7 +2,7 @@
   "skill": "python",
   "label": "Python",
   "count": 20,
-  "updated_at": "2026-06-29T07:58:01.752862+00:00",
+  "updated_at": "2026-07-06T07:44:12.057583+00:00",
   "jobs": [
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
@@ -35,12 +35,6 @@
       "company_name": "AIDAR"
     },
     {
-      "title": "Software Engineer Rust Python Asset Pricing Hedging",
-      "link": "https://web3.career/software-engineer-rust-python-asset-pricing-hedging-bitpanda/150010",
-      "company_name": "Bitpanda",
-      "description": "engineer python rust dev aws"
-    },
-    {
       "title": "Software Engineer Python Asset Pricing Hedging",
       "link": "https://web3.career/software-engineer-python-asset-pricing-hedging-bitpanda/149554",
       "company_name": "Bitpanda",
@@ -51,6 +45,12 @@
       "link": "https://web3.career/python-engineer-asset-pricing-hedging-bitpanda/103283",
       "company_name": "Bitpanda",
       "description": "engineer python aws blockchain crypto"
+    },
+    {
+      "title": "Software Engineer Rust Python Asset Pricing Hedging",
+      "link": "https://web3.career/software-engineer-rust-python-asset-pricing-hedging-bitpanda/150010",
+      "company_name": "Bitpanda",
+      "description": "engineer python rust dev aws"
     },
     {
       "title": "Senior QA Engineer Exploratory Python Trading Technologies",

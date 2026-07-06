@@ -2,7 +2,7 @@
   "skill": "react",
   "label": "React",
   "count": 17,
-  "updated_at": "2026-06-29T07:58:14.681977+00:00",
+  "updated_at": "2026-07-06T07:44:26.595874+00:00",
   "jobs": [
     {
       "title": "Head of Technology",
@@ -17,82 +17,70 @@
       "company_name": "Small Improvements"
     },
     {
-      "title": "Full Stack Blockchain Developer",
-      "link": "https://web3.career/full-stack-blockchain-developer-val-sservices/150815",
-      "company_name": "val's services",
-      "description": "dev full stack blockchain ethereum javascript"
+      "title": "Senior Backend Engineer",
+      "link": "https://web3.career/senior-backend-engineer-moonshot/151051",
+      "company_name": "Moonshot",
+      "description": "backend engineer senior blockchain crypto"
     },
     {
-      "title": "Full Stack Software Engineer",
-      "link": "https://web3.career/full-stack-software-engineer-primitives/150810",
-      "company_name": "Primitives",
-      "description": "engineer full stack dev crypto nft"
+      "title": "Content Creator",
+      "link": "https://web3.career/content-creator-kakao-ventures/151036",
+      "company_name": "Kakao Ventures",
+      "description": "blockchain content marketing crypto web3 remote"
     },
     {
-      "title": "Software Engineer Fullstack",
-      "link": "https://web3.career/software-engineer-fullstack-kast/150761",
-      "company_name": "Kast",
-      "description": "engineer full stack dev aws blockchain"
+      "title": "Staff Software Engineer Ruby on Rails",
+      "link": "https://web3.career/staff-software-engineer-ruby-on-rails-ripple/150937",
+      "company_name": "Ripple",
+      "description": "engineer ruby dev aws crypto"
     },
     {
-      "title": "Quantitative Researcher $200k$300k + Equity",
-      "link": "https://web3.career/quantitative-researcher-200k-300k-equity-jack-amp-jill/150751",
-      "company_name": "Jack &amp; Jill",
-      "description": "quantitative researcher quantitative research blockchain crypto"
+      "title": "Staff Software Engineer Liquidity Management",
+      "link": "https://web3.career/staff-software-engineer-liquidity-management-ripple/150936",
+      "company_name": "Ripple",
+      "description": "engineer sales non tech dev aws"
     },
     {
-      "title": "Associate Technical Lead Fullstack",
-      "link": "https://web3.career/associate-technical-lead-fullstack-kast/150736",
-      "company_name": "Kast",
-      "description": "full stack lead tech lead aws blockchain"
+      "title": "Staff Software Engineer Frontend",
+      "link": "https://web3.career/staff-software-engineer-frontend-ripple/150933",
+      "company_name": "Ripple",
+      "description": "engineer front end dev blockchain crypto"
     },
     {
-      "title": "Associate Technical Lead Web Development",
-      "link": "https://web3.career/associate-technical-lead-web-development-kast/150735",
-      "company_name": "Kast",
-      "description": "lead tech lead web dev aws blockchain"
+      "title": "Software Engineer II FullStack",
+      "link": "https://web3.career/software-engineer-ii-full-stack-ripple/150924",
+      "company_name": "Ripple",
+      "description": "engineer full stack dev aws crypto"
     },
     {
-      "title": "Senior Software Engineer Fullstack",
-      "link": "https://web3.career/senior-software-engineer-fullstack-kast/150729",
-      "company_name": "Kast",
+      "title": "Senior Software Engineer Full Stack",
+      "link": "https://web3.career/senior-software-engineer-full-stack-ripple/150915",
+      "company_name": "Ripple",
       "description": "engineer full stack senior dev aws"
     },
     {
-      "title": "Senior Software Engineer Web Development",
-      "link": "https://web3.career/senior-software-engineer-web-development-kast/150727",
-      "company_name": "Kast",
-      "description": "engineer senior dev web dev aws"
-    },
-    {
-      "title": "Senior Web Engineer",
-      "link": "https://web3.career/senior-web-engineer-kast/150725",
-      "company_name": "Kast",
-      "description": "engineer senior aws crypto nextjs"
-    },
-    {
-      "title": "Technical Lead Fullstack",
-      "link": "https://web3.career/technical-lead-fullstack-kast/150723",
-      "company_name": "Kast",
-      "description": "full stack lead tech lead aws blockchain"
-    },
-    {
-      "title": "Senior Backend Engineer",
-      "link": "https://web3.career/senior-backend-engineer-blockus/150718",
-      "company_name": "Blockus",
-      "description": "backend engineer senior aws blockchain"
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-blockus/150717",
-      "company_name": "Blockus",
-      "description": "engineer full stack senior aws blockchain"
+      "title": "Senior Software Engineer AI Trading",
+      "link": "https://web3.career/senior-software-engineer-ai-trading-okx/150881",
+      "company_name": "Okx",
+      "description": "ai engineer senior dev blockchain"
     },
     {
       "title": "Engineering Director Mobile Web3",
       "link": "https://web3.career/engineering-director-mobile-web3-okx/150698",
       "company_name": "Okx",
       "description": "executive mobile blockchain crypto defi"
+    },
+    {
+      "title": "Engineering Director Mobile Infrastructure",
+      "link": "https://web3.career/engineering-director-mobile-infrastructure-okx/150879",
+      "company_name": "Okx",
+      "description": "infrastructure executive mobile blockchain crypto"
+    },
+    {
+      "title": "Engineering Director Mobile Infrastructure",
+      "link": "https://web3.career/engineering-director-mobile-infrastructure-okx/150878",
+      "company_name": "Okx",
+      "description": "infrastructure executive mobile blockchain crypto"
     },
     {
       "title": "Engineering Director Frontend Business Lead",
@@ -105,6 +93,18 @@
       "link": "https://web3.career/engineering-director-frontend-okx/147551",
       "company_name": "Okx",
       "description": "executive front end blockchain crypto react"
+    },
+    {
+      "title": "Web and Brand Designer Breakout Prop",
+      "link": "https://web3.career/web-and-brand-designer-breakout-prop-kraken/150867",
+      "company_name": "Kraken",
+      "description": "brand designer brand design non tech crypto"
+    },
+    {
+      "title": "Senior Software Engineer Angular B2C Web Platm",
+      "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
+      "company_name": "Bitpanda",
+      "description": "c c plus plus javascript angular engineer"
     }
   ]
 }

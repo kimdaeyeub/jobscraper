@@ -2,7 +2,7 @@
   "skill": "data-science",
   "label": "Data Science",
   "count": 19,
-  "updated_at": "2026-06-29T07:59:18.794415+00:00",
+  "updated_at": "2026-07-06T07:45:07.753276+00:00",
   "jobs": [
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
@@ -27,6 +27,12 @@
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
       "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
       "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Staff Data Scientist",
+      "link": "https://web3.career/staff-data-scientist-ripple/150925",
+      "company_name": "Ripple",
+      "description": "scientist data science blockchain crypto"
     },
     {
       "title": "Data Engineer",
@@ -111,12 +117,6 @@
       "link": "https://web3.career/binance-accelerator-program-research-on-chain-data-analyst-binance/150342",
       "company_name": "Binance",
       "description": "research analyst data science blockchain defi"
-    },
-    {
-      "title": "Senior Data Engineer Compliance Data Platm",
-      "link": "https://web3.career/senior-data-engineer-compliance-data-platform-okx/150301",
-      "company_name": "Okx",
-      "description": "compliance non tech data science engineer senior"
     }
   ]
 }

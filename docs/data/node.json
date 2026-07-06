@@ -2,13 +2,73 @@
   "skill": "node",
   "label": "Node.js",
   "count": 16,
-  "updated_at": "2026-06-29T07:58:23.318532+00:00",
+  "updated_at": "2026-07-06T07:44:34.376143+00:00",
   "jobs": [
     {
       "title": "Senior Product Engineer",
       "description": "TL;DR Kombo (YC S22) is building a unified API that saves engineering teams, on average, hundreds of hours by needing to integrate only one API instead of 50+. We’re looking for a product-minded full-stack engineer to potentially own one of our existing or new product verticals and to build features for our rapidly growing customer base....",
       "link": "https://berlinstartupjobs.com/engineering/senior-product-engineer-kombo/",
       "company_name": "Kombo"
+    },
+    {
+      "title": "Binance Accelerator Program DevSecOps Engineer",
+      "link": "https://web3.career/binance-accelerator-program-devsecops-engineer-binance/151058",
+      "company_name": "Binance",
+      "description": "engineer aws blockchain docker kubernetes"
+    },
+    {
+      "title": "Senior Backend Engineer",
+      "link": "https://web3.career/senior-backend-engineer-moonshot/151051",
+      "company_name": "Moonshot",
+      "description": "backend engineer senior blockchain crypto"
+    },
+    {
+      "title": "Experienced principal blockchain engineer with payment and exchange building experience",
+      "link": "https://web3.career/experienced-principal-blockchain-engineer-with-payment-and-exchange-building-experience-travoom/151007",
+      "company_name": "Travoom",
+      "description": "engineer executive blockchain crypto ethereum"
+    },
+    {
+      "title": "Staff Software Engineer Infrastructure",
+      "link": "https://web3.career/staff-software-engineer-infrastructure-ripple/150935",
+      "company_name": "Ripple",
+      "description": "infrastructure engineer dev aws blockchain"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
+      "company_name": "Bcbgroup",
+      "description": "engineer full stack senior angular crypto"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
+      "company_name": "Layerzerolabs",
+      "description": "engineer reliability blockchain golang kubernetes"
+    },
+    {
+      "title": "Senior Data Platm Engineer",
+      "link": "https://web3.career/senior-data-platform-engineer-provable/150874",
+      "company_name": "Provable",
+      "description": "engineer senior blockchain kubernetes node"
+    },
+    {
+      "title": "Product Manager",
+      "link": "https://web3.career/product-manager-flashbots/150866",
+      "company_name": "Flashbots",
+      "description": "product manager non tech blockchain crypto defi"
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "link": "https://web3.career/senior-site-reliability-engineer-bloxstaking/148505",
+      "company_name": "Bloxstaking",
+      "description": "engineer reliability senior blockchain ethereum"
+    },
+    {
+      "title": "Staff Design Engineer",
+      "link": "https://web3.career/staff-design-engineer-shakepay/150847",
+      "company_name": "Shakepay",
+      "description": "design non tech engineer bitcoin node"
     },
     {
       "title": "Full Stack Blockchain Developer",
@@ -39,66 +99,6 @@
       "link": "https://web3.career/senior-blockchain-engineer-with-payment-and-exchange-building-experience-travoom/150753",
       "company_name": "Travoom",
       "description": "engineer senior blockchain crypto ethereum"
-    },
-    {
-      "title": "Associate Technical Lead Fullstack",
-      "link": "https://web3.career/associate-technical-lead-fullstack-kast/150736",
-      "company_name": "Kast",
-      "description": "full stack lead tech lead aws blockchain"
-    },
-    {
-      "title": "Associate Technical Lead Web Development",
-      "link": "https://web3.career/associate-technical-lead-web-development-kast/150735",
-      "company_name": "Kast",
-      "description": "lead tech lead web dev aws blockchain"
-    },
-    {
-      "title": "Senior Software Engineer Fullstack",
-      "link": "https://web3.career/senior-software-engineer-fullstack-kast/150729",
-      "company_name": "Kast",
-      "description": "engineer full stack senior dev aws"
-    },
-    {
-      "title": "Senior Software Engineer Web Development",
-      "link": "https://web3.career/senior-software-engineer-web-development-kast/150727",
-      "company_name": "Kast",
-      "description": "engineer senior dev web dev aws"
-    },
-    {
-      "title": "Technical Lead Fullstack",
-      "link": "https://web3.career/technical-lead-fullstack-kast/150723",
-      "company_name": "Kast",
-      "description": "full stack lead tech lead aws blockchain"
-    },
-    {
-      "title": "Senior Backend Engineer",
-      "link": "https://web3.career/senior-backend-engineer-blockus/150718",
-      "company_name": "Blockus",
-      "description": "backend engineer senior aws blockchain"
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-blockus/150717",
-      "company_name": "Blockus",
-      "description": "engineer full stack senior aws blockchain"
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
-      "company_name": "Bcbgroup",
-      "description": "engineer full stack senior angular crypto"
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
-      "company_name": "Layerzerolabs",
-      "description": "engineer reliability blockchain golang kubernetes"
-    },
-    {
-      "title": "SRE Manager",
-      "link": "https://web3.career/sre-manager-parity/150690",
-      "company_name": "Parity",
-      "description": "senior blockchain ethereum node polkadot"
     }
   ]
 }

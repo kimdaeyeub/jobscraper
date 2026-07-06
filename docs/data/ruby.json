@@ -2,13 +2,19 @@
   "skill": "ruby",
   "label": "Ruby",
   "count": 16,
-  "updated_at": "2026-06-29T07:58:09.917029+00:00",
+  "updated_at": "2026-07-06T07:44:19.096926+00:00",
   "jobs": [
     {
       "title": "Senior Full-Stack Ruby on Rails Developer",
       "description": "About GAIA GAIA is an AI-powered legal operating system that revolutionizes how companies manage legal processes. We help fast-growing startups and mid-sized businesses fully digitize their legal workflows — from automated contract drafting, review, and data extraction to cap table management, ESOPs, shareholder resolutions, compliance checks, and financing simulations. By leveraging advanced AI, we make...",
       "link": "https://berlinstartupjobs.com/engineering/senior-full-stack-ruby-on-rails-developer-gaia/",
       "company_name": "GAIA"
+    },
+    {
+      "title": "Staff Software Engineer Ruby on Rails",
+      "link": "https://web3.career/staff-software-engineer-ruby-on-rails-ripple/150937",
+      "company_name": "Ripple",
+      "description": "engineer ruby dev aws crypto"
     },
     {
       "title": "Senior Red Team Operator",
@@ -93,12 +99,6 @@
       "link": "https://web3.career/senior-software-engineer-backend-institutional-markets-exchange-coinbase/143125",
       "company_name": "Coinbase",
       "description": "backend engineer senior dev remote"
-    },
-    {
-      "title": "Director Site and Infrastructure",
-      "link": "https://web3.career/director-site-and-infrastructure-genies/142951",
-      "company_name": "Genies",
-      "description": "infrastructure executive aws gaming golang"
     }
   ]
 }
