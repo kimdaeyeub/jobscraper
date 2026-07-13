@@ -2,19 +2,13 @@
   "skill": "vue",
   "label": "Vue",
   "count": 15,
-  "updated_at": "2026-07-06T07:44:30.130304+00:00",
+  "updated_at": "2026-07-13T09:35:36.193925+00:00",
   "jobs": [
     {
-      "title": "Software Engineer II FullStack",
-      "link": "https://web3.career/software-engineer-ii-full-stack-ripple/150924",
-      "company_name": "Ripple",
-      "description": "engineer full stack dev aws crypto"
-    },
-    {
-      "title": "Senior Software Engineer Full Stack",
-      "link": "https://web3.career/senior-software-engineer-full-stack-ripple/150915",
-      "company_name": "Ripple",
-      "description": "engineer full stack senior dev aws"
+      "title": "Staff Product Designer future opportunities",
+      "link": "https://web3.career/staff-product-designer-future-opportunities-shakepay/151185",
+      "company_name": "Shakepay",
+      "description": "product designer design non tech bitcoin node"
     },
     {
       "title": "Engineering Director Frontend Business Lead",
@@ -27,6 +21,18 @@
       "link": "https://web3.career/engineering-director-frontend-okx/147551",
       "company_name": "Okx",
       "description": "executive front end blockchain crypto react"
+    },
+    {
+      "title": "Software Engineer II FullStack",
+      "link": "https://web3.career/software-engineer-ii-full-stack-ripple/150924",
+      "company_name": "Ripple",
+      "description": "engineer full stack dev aws crypto"
+    },
+    {
+      "title": "Senior Software Engineer Full Stack",
+      "link": "https://web3.career/senior-software-engineer-full-stack-ripple/150915",
+      "company_name": "Ripple",
+      "description": "engineer full stack senior dev aws"
     },
     {
       "title": "Staff Design Engineer",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/full-stack-engineer-binance/148646",
       "company_name": "Binance",
       "description": "engineer full stack blockchain crypto java"
-    },
-    {
-      "title": "Software Engineer Intern Software Development",
-      "link": "https://web3.career/software-engineer-intern-software-development-zscaler/148636",
-      "company_name": "Zscaler",
-      "description": "engineer intern entry level dev aws"
     }
   ]
 }

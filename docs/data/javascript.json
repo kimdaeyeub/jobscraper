@@ -2,14 +2,8 @@
   "skill": "javascript",
   "label": "JavaScript",
   "count": 17,
-  "updated_at": "2026-07-06T07:44:12.679996+00:00",
+  "updated_at": "2026-07-13T09:35:11.880066+00:00",
   "jobs": [
-    {
-      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
-      "company_name": "DATATRONiQ"
-    },
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
@@ -17,58 +11,76 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Experienced principal blockchain engineer with payment and exchange building experience",
-      "link": "https://web3.career/experienced-principal-blockchain-engineer-with-payment-and-exchange-building-experience-travoom/151007",
-      "company_name": "Travoom",
-      "description": "engineer executive blockchain crypto ethereum"
+      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
+      "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Staff Smart Contract Engineer",
-      "link": "https://web3.career/senior-staff-smart-contract-engineer-symbiotic/151006",
-      "company_name": "Symbiotic",
-      "description": "engineer senior ethereum crypto defi"
+      "title": "AI Web Fullstack Developer Node Javascript React",
+      "link": "https://web3.career/ai-web-fullstack-developer-node-javascript-react-binance/151302",
+      "company_name": "Binance",
+      "description": "ai dev full stack javascript node"
     },
     {
-      "title": "Crypto Blockchain Engineer",
-      "link": "https://web3.career/crypto-blockchain-engineer-irissoftwareinc/151004",
-      "company_name": "Iris Software Inc.",
-      "description": "engineer blockchain aws bitcoin crypto"
+      "title": "Senior React Developer",
+      "link": "https://web3.career/senior-react-developer-golang-cz/151267",
+      "company_name": "golang.cz",
+      "description": "dev javascript react senior blockchain"
     },
     {
-      "title": "GTM Systems Architect Ripple Treasury AI Automation",
-      "link": "https://web3.career/gtm-systems-architect-ripple-treasury-ai-automation-ripple/150954",
-      "company_name": "Ripple",
-      "description": "gtm treasury finance ai architecture"
+      "title": "Full Stack Engineer",
+      "link": "https://web3.career/full-stack-engineer-web3creators/151265",
+      "company_name": "Web3creators",
+      "description": "engineer full stack aws blockchain crypto"
     },
     {
-      "title": "Staff Software Engineer Ruby on Rails",
-      "link": "https://web3.career/staff-software-engineer-ruby-on-rails-ripple/150937",
-      "company_name": "Ripple",
-      "description": "engineer ruby dev aws crypto"
+      "title": "Backend Engineer",
+      "link": "https://web3.career/backend-engineer-web3creators/151264",
+      "company_name": "Web3creators",
+      "description": "backend engineer aws blockchain crypto"
     },
     {
-      "title": "Staff Software Engineer Liquidity Management",
-      "link": "https://web3.career/staff-software-engineer-liquidity-management-ripple/150936",
-      "company_name": "Ripple",
-      "description": "engineer sales non tech dev aws"
+      "title": "Cashen : Quality Assurance Automation Engineer",
+      "link": "https://web3.career/cashen-quality-assurance-automation-engineer-ergonia/151236",
+      "company_name": "Ergonia",
+      "description": "quality assurance engineer crypto javascript react"
     },
     {
-      "title": "Staff FullStack Software Engineer .NET Azure",
-      "link": "https://web3.career/staff-full-stack-software-engineer-net-azure-ripple/150927",
-      "company_name": "Ripple",
-      "description": "dot net engineer full stack dev angular"
+      "title": "Solidity Engineer Only US Citizen and Green Card Tampa FL Jersey City NJ Texas City TX Hybrid",
+      "link": "https://web3.career/solidity-engineer-only-us-citizen-and-green-card-tampa-fl-jersey-city-nj-texas-city-tx-hybrid-ampstek/151234",
+      "company_name": "Ampstek",
+      "description": "engineer ethereum blockchain defi hardhat"
     },
     {
-      "title": "Senior FullStack Software Engineer Azure .NET",
-      "link": "https://web3.career/senior-full-stack-software-engineer-azure-net-ripple/150905",
-      "company_name": "Ripple",
-      "description": "dot net engineer full stack senior dev"
+      "title": "Sr. Staff Software Development Engineer",
+      "link": "https://web3.career/sr-staff-software-development-engineer-zscaler/101646",
+      "company_name": "Zscaler",
+      "description": "engineer dev senior aws javascript"
     },
     {
-      "title": "Senior Staff Partner Engineer",
-      "link": "https://web3.career/senior-staff-partner-engineer-ripple/150892",
-      "company_name": "Ripple",
-      "description": "engineer senior blockchain crypto java"
+      "title": "Graduate Software Engineer UI",
+      "link": "https://web3.career/graduate-software-engineer-ui-elwoodtechnologies/151200",
+      "company_name": "Elwoodtechnologies",
+      "description": "engineer intern entry level dev design"
+    },
+    {
+      "title": "UI Engineer",
+      "link": "https://web3.career/ui-engineer-taxbit/151184",
+      "company_name": "Taxbit",
+      "description": "engineer design non tech aws crypto"
+    },
+    {
+      "title": "Web App Test Engineer",
+      "link": "https://web3.career/web-app-test-engineer-binance/151130",
+      "company_name": "Binance",
+      "description": "engineer quality assurance blockchain crypto java"
+    },
+    {
+      "title": "Binance Accelerator Program Software Engineer Backend + AI LLM",
+      "link": "https://web3.career/binance-accelerator-program-software-engineer-backend-ai-llm-binance/151129",
+      "company_name": "Binance",
+      "description": "ai backend engineer dev aws"
     },
     {
       "title": "Senior Software Development Engineer",
@@ -87,18 +99,6 @@
       "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
       "company_name": "Blockchain",
       "description": "engineer front end blockchain crypto javascript"
-    },
-    {
-      "title": "Workplace Operations Coordinator London",
-      "link": "https://web3.career/workplace-operations-coordinator-london-brave/150842",
-      "company_name": "Brave",
-      "description": "operations javascript remote"
-    },
-    {
-      "title": "Sr. Ad Sales Director Search",
-      "link": "https://web3.career/sr-ad-sales-director-search-brave/99364",
-      "company_name": "Brave",
-      "description": "executive sales non tech senior javascript"
     },
     {
       "title": "Quality Assurance Engineer",

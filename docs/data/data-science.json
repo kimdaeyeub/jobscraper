@@ -2,12 +2,12 @@
   "skill": "data-science",
   "label": "Data Science",
   "count": 19,
-  "updated_at": "2026-07-06T07:45:07.753276+00:00",
+  "updated_at": "2026-07-13T09:36:19.580404+00:00",
   "jobs": [
     {
-      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
+      "title": "Senior Backend Developer – Go & Kubernetes",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
       "company_name": "DATATRONiQ"
     },
     {
@@ -17,22 +17,22 @@
       "company_name": "DATATRONiQ"
     },
     {
+      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
       "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Backend Developer – Go & Kubernetes",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
-      "company_name": "DATATRONiQ"
-    },
-    {
-      "title": "Staff Data Scientist",
-      "link": "https://web3.career/staff-data-scientist-ripple/150925",
-      "company_name": "Ripple",
-      "description": "scientist data science blockchain crypto"
+      "title": "FIU Data Analyst Bengalaru",
+      "link": "https://web3.career/fiu-data-analyst-bengalaru-moonpay/151241",
+      "company_name": "MoonPay",
+      "description": "analyst data science aws blockchain crypto"
     },
     {
       "title": "Data Engineer",
@@ -71,6 +71,18 @@
       "description": "analyst data science marketing non tech blockchain"
     },
     {
+      "title": "Data Analyst",
+      "link": "https://web3.career/data-analyst-kakao-ventures/151036",
+      "company_name": "Kakao Ventures",
+      "description": "analyst data science big data blockchain crypto"
+    },
+    {
+      "title": "Staff Data Scientist",
+      "link": "https://web3.career/staff-data-scientist-ripple/150925",
+      "company_name": "Ripple",
+      "description": "scientist data science blockchain crypto"
+    },
+    {
       "title": "Senior Data Engineer AI Infrastructure",
       "link": "https://web3.career/senior-data-engineer-ai-infrastructure-kraken/150687",
       "company_name": "Kraken",
@@ -105,18 +117,6 @@
       "link": "https://web3.career/data-analyst-alpaca/150460",
       "company_name": "Alpaca",
       "description": "analyst data science crypto remote"
-    },
-    {
-      "title": "Binance Accelerator Program Data Scientist Recommendation Square Community",
-      "link": "https://web3.career/binance-accelerator-program-data-scientist-recommendation-square-community-binance/150407",
-      "company_name": "Binance",
-      "description": "scientist community manager non tech data science blockchain"
-    },
-    {
-      "title": "Binance Accelerator Program Research On Chain Data Analyst",
-      "link": "https://web3.career/binance-accelerator-program-research-on-chain-data-analyst-binance/150342",
-      "company_name": "Binance",
-      "description": "research analyst data science blockchain defi"
     }
   ]
 }

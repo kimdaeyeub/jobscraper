@@ -2,8 +2,20 @@
   "skill": "nextjs",
   "label": "Next.js",
   "count": 15,
-  "updated_at": "2026-07-06T07:44:37.900987+00:00",
+  "updated_at": "2026-07-13T09:35:44.130588+00:00",
   "jobs": [
+    {
+      "title": "Director of Engineering USA",
+      "link": "https://web3.career/director-of-engineering-usa-nexus/151211",
+      "company_name": "Nexus",
+      "description": "executive blockchain kubernetes nextjs node"
+    },
+    {
+      "title": "Graduate Software Engineer UI",
+      "link": "https://web3.career/graduate-software-engineer-ui-elwoodtechnologies/151200",
+      "company_name": "Elwoodtechnologies",
+      "description": "engineer intern entry level dev design"
+    },
     {
       "title": "Senior Software Engineer Angular B2C Web Platm",
       "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/full-stack-engineer-ai-integrations-performanceai/150316",
       "company_name": "Performance AI",
       "description": "integration ai engineer full stack blockchain"
-    },
-    {
-      "title": "Sr. Full Stack Developer",
-      "link": "https://web3.career/sr-full-stack-developer-stealth/138129",
-      "company_name": "Stealth",
-      "description": "dev full stack senior aws blockchain"
-    },
-    {
-      "title": "Principal Software Engineer React + Node Remote EU or USA",
-      "link": "https://web3.career/principal-software-engineer-react-node-remote-eu-or-usa-pubgeniusinc/150071",
-      "company_name": "Pubgenius Inc.",
-      "description": "remote engineer javascript node executive"
     }
   ]
 }

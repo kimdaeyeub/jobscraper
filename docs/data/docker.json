@@ -2,12 +2,12 @@
   "skill": "docker",
   "label": "Docker",
   "count": 20,
-  "updated_at": "2026-07-06T07:45:01.613355+00:00",
+  "updated_at": "2026-07-13T09:36:12.031061+00:00",
   "jobs": [
     {
-      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
+      "title": "Senior Backend Developer – Go & Kubernetes",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
       "company_name": "DATATRONiQ"
     },
     {
@@ -17,15 +17,15 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
-      "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
+      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Backend Developer – Go & Kubernetes",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
+      "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
+      "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
       "company_name": "DATATRONiQ"
     },
     {
@@ -33,6 +33,54 @@
       "description": "Hey! Wir sind die Sourcecast GmbH, ein Softwarehaus mit dem Anspruch, erstklassige Software-Lösungen umzusetzen. Unsere Vision? Fortschrittliche, skalierbare Softwarelösungen, die wirklich etwas bewegen. Momentan liegt unser Fokus auf Digitalisierung im Bereich Gesundheitswesen, Legal Tech und Künstliche Intelligenz. Dafür suchen wir Dich: eine:n Django Entwickler:in mit Leidenschaft für Code und Lust auf ein kleines, freundliches Team,...",
       "link": "https://berlinstartupjobs.com/engineering/django-software-entwicklerin-m-w-d-sourcecast/",
       "company_name": "Sourcecast"
+    },
+    {
+      "title": "Senior Go Developer web3",
+      "link": "https://web3.career/senior-go-developer-web3-golang-cz/151266",
+      "company_name": "golang.cz",
+      "description": "dev golang senior aws blockchain"
+    },
+    {
+      "title": "Binance Accelerator Program Software Engineer Backend + AI LLM",
+      "link": "https://web3.career/binance-accelerator-program-software-engineer-backend-ai-llm-binance/151129",
+      "company_name": "Binance",
+      "description": "ai backend engineer dev aws"
+    },
+    {
+      "title": "Software Development Engineer DevSecOps",
+      "link": "https://web3.career/software-development-engineer-devsecops-zscaler/151115",
+      "company_name": "Zscaler",
+      "description": "engineer dev aws docker kubernetes"
+    },
+    {
+      "title": "SDE III Devops",
+      "link": "https://web3.career/sde-iii-devops-inmobi/100181",
+      "company_name": "Inmobi",
+      "description": "devops aws docker kubernetes remote"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-bitpanda/75931",
+      "company_name": "Bitpanda",
+      "description": "devops engineer senior aws crypto"
+    },
+    {
+      "title": "Senior Cloud Security Engineer",
+      "link": "https://web3.career/senior-cloud-security-engineer-bitpanda/150360",
+      "company_name": "Bitpanda",
+      "description": "cloud engineer engineer security senior aws"
+    },
+    {
+      "title": "Cloud Kafka Engineer",
+      "link": "https://web3.career/cloud-kafka-engineer-bitpanda/149169",
+      "company_name": "Bitpanda",
+      "description": "cloud engineer engineer aws crypto docker"
+    },
+    {
+      "title": "Java Backend Developer",
+      "link": "https://web3.career/java-backend-developer-localcoin/78924",
+      "company_name": "Localcoin",
+      "description": "backend dev java angular aws"
     },
     {
       "title": "Blockchain Lead Security Engineer",
@@ -75,54 +123,6 @@
       "link": "https://web3.career/senior-staff-devops-engineer-ripple/150918",
       "company_name": "Ripple",
       "description": "devops engineer senior aws crypto"
-    },
-    {
-      "title": "Lead Cloud Security Engineer",
-      "link": "https://web3.career/lead-cloud-security-engineer-inmobi/150873",
-      "company_name": "Inmobi",
-      "description": "cloud engineer engineer lead security aws"
-    },
-    {
-      "title": "Senior Red Team Operator",
-      "link": "https://web3.career/senior-red-team-operator-figment/84843",
-      "company_name": "Figment",
-      "description": "senior aws blockchain crypto docker"
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-copperco/96368",
-      "company_name": "Copperco",
-      "description": "devops engineer senior aws blockchain"
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-bitpanda/75931",
-      "company_name": "Bitpanda",
-      "description": "devops engineer senior aws crypto"
-    },
-    {
-      "title": "Senior Cloud Security Engineer",
-      "link": "https://web3.career/senior-cloud-security-engineer-bitpanda/150360",
-      "company_name": "Bitpanda",
-      "description": "cloud engineer engineer security senior aws"
-    },
-    {
-      "title": "Cloud Kafka Engineer",
-      "link": "https://web3.career/cloud-kafka-engineer-bitpanda/149169",
-      "company_name": "Bitpanda",
-      "description": "cloud engineer engineer aws crypto docker"
-    },
-    {
-      "title": "Java Backend Developer",
-      "link": "https://web3.career/java-backend-developer-localcoin/78924",
-      "company_name": "Localcoin",
-      "description": "backend dev java angular aws"
-    },
-    {
-      "title": "Binance Accelerator Program Analytics Engineer",
-      "link": "https://web3.career/binance-accelerator-program-analytics-engineer-binance/150818",
-      "company_name": "Binance",
-      "description": "stats engineer aws blockchain docker"
     }
   ]
 }

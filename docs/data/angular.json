@@ -2,14 +2,8 @@
   "skill": "angular",
   "label": "Angular",
   "count": 15,
-  "updated_at": "2026-07-06T07:44:33.924297+00:00",
+  "updated_at": "2026-07-13T09:35:39.649479+00:00",
   "jobs": [
-    {
-      "title": "Staff FullStack Software Engineer .NET Azure",
-      "link": "https://web3.career/staff-full-stack-software-engineer-net-azure-ripple/150927",
-      "company_name": "Ripple",
-      "description": "dot net engineer full stack dev angular"
-    },
     {
       "title": "Senior Full Stack Engineer",
       "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
@@ -27,6 +21,12 @@
       "link": "https://web3.career/java-backend-developer-localcoin/78924",
       "company_name": "Localcoin",
       "description": "backend dev java angular aws"
+    },
+    {
+      "title": "Staff FullStack Software Engineer .NET Azure",
+      "link": "https://web3.career/staff-full-stack-software-engineer-net-azure-ripple/150927",
+      "company_name": "Ripple",
+      "description": "dot net engineer full stack dev angular"
     },
     {
       "title": "Backend Engineer BE + LLM",

@@ -2,12 +2,12 @@
   "skill": "kubernetes",
   "label": "Kubernetes",
   "count": 19,
-  "updated_at": "2026-07-06T07:45:02.628418+00:00",
+  "updated_at": "2026-07-13T09:36:12.859566+00:00",
   "jobs": [
     {
-      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
+      "title": "Senior Backend Developer – Go & Kubernetes",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
       "company_name": "DATATRONiQ"
     },
     {
@@ -17,106 +17,106 @@
       "company_name": "DATATRONiQ"
     },
     {
+      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
       "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Backend Developer – Go & Kubernetes",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
-      "company_name": "DATATRONiQ"
+      "title": "Senior Go Developer web3",
+      "link": "https://web3.career/senior-go-developer-web3-golang-cz/151266",
+      "company_name": "golang.cz",
+      "description": "dev golang senior aws blockchain"
     },
     {
-      "title": "Blockchain Lead Security Engineer",
-      "link": "https://web3.career/blockchain-lead-security-engineer-jpmorganchase/151061",
-      "company_name": "JPMorganChase",
-      "description": "engineer lead security blockchain aws"
+      "title": "Sr. Staff Site Reliability Engineer Linux Network troubleshooting Scripting",
+      "link": "https://web3.career/sr-staff-site-reliability-engineer-linux-network-troubleshooting-scripting-zscaler/151216",
+      "company_name": "Zscaler",
+      "description": "engineer linux reliability senior aws"
     },
     {
-      "title": "Binance Accelerator Program DevSecOps Engineer",
-      "link": "https://web3.career/binance-accelerator-program-devsecops-engineer-binance/151058",
+      "title": "Director of Engineering USA",
+      "link": "https://web3.career/director-of-engineering-usa-nexus/151211",
+      "company_name": "Nexus",
+      "description": "executive blockchain kubernetes nextjs node"
+    },
+    {
+      "title": "Senior AI Engineer",
+      "link": "https://web3.career/senior-ai-engineer-dvtrading/150771",
+      "company_name": "Dvtrading",
+      "description": "ai engineer senior kubernetes remote"
+    },
+    {
+      "title": "AI Engineer",
+      "link": "https://web3.career/ai-engineer-dvtrading/150770",
+      "company_name": "Dvtrading",
+      "description": "ai engineer kubernetes remote"
+    },
+    {
+      "title": "Backend Engineering Lead Go; Compliance",
+      "link": "https://web3.career/backend-engineering-lead-go-compliance-kast/151173",
+      "company_name": "Kast",
+      "description": "compliance non tech backend golang lead"
+    },
+    {
+      "title": "Binance Accelerator Program Software Engineer Backend + AI LLM",
+      "link": "https://web3.career/binance-accelerator-program-software-engineer-backend-ai-llm-binance/151129",
       "company_name": "Binance",
-      "description": "engineer aws blockchain docker kubernetes"
+      "description": "ai backend engineer dev aws"
     },
     {
-      "title": "Backend Software Engineer",
-      "link": "https://web3.career/backend-software-engineer-alchemy/151017",
-      "company_name": "Alchemy",
-      "description": "backend engineer dev aws blockchain"
+      "title": "Senior Full Stack Engineer",
+      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
+      "company_name": "Bcbgroup",
+      "description": "engineer full stack senior angular crypto"
     },
     {
-      "title": "Crypto Blockchain Engineer",
-      "link": "https://web3.career/crypto-blockchain-engineer-irissoftwareinc/151004",
-      "company_name": "Iris Software Inc.",
-      "description": "engineer blockchain aws bitcoin crypto"
+      "title": "Software Development Engineer DevSecOps",
+      "link": "https://web3.career/software-development-engineer-devsecops-zscaler/151115",
+      "company_name": "Zscaler",
+      "description": "engineer dev aws docker kubernetes"
     },
     {
-      "title": "Staff Software Engineer Liquidity Management",
-      "link": "https://web3.career/staff-software-engineer-liquidity-management-ripple/150936",
-      "company_name": "Ripple",
-      "description": "engineer sales non tech dev aws"
+      "title": "Staff Software Development Engineer",
+      "link": "https://web3.career/staff-software-development-engineer-zscaler/104108",
+      "company_name": "Zscaler",
+      "description": "engineer dev kubernetes remote"
     },
     {
-      "title": "Staff Software Engineer Infrastructure",
-      "link": "https://web3.career/staff-software-engineer-infrastructure-ripple/150935",
-      "company_name": "Ripple",
-      "description": "infrastructure engineer dev aws blockchain"
+      "title": "Data Operations Engineer XLayer",
+      "link": "https://web3.career/data-operations-engineer-x-layer-okx/151106",
+      "company_name": "Okx",
+      "description": "engineer operations aws blockchain crypto"
     },
     {
-      "title": "Staff Software Engineer GenAI Platm",
-      "link": "https://web3.career/staff-software-engineer-genai-platform-ripple/150934",
-      "company_name": "Ripple",
-      "description": "engineer dev blockchain crypto java"
+      "title": "Senior Software Engineer Developer Platm",
+      "link": "https://web3.career/senior-software-engineer-developer-platform-offchainlabs/151105",
+      "company_name": "Offchain",
+      "description": "dev engineer senior remote aws"
     },
     {
-      "title": "Staff Software Engineer Frontend",
-      "link": "https://web3.career/staff-software-engineer-frontend-ripple/150933",
-      "company_name": "Ripple",
-      "description": "engineer front end dev blockchain crypto"
+      "title": "Site Reliability Engineer",
+      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
+      "company_name": "Layerzerolabs",
+      "description": "engineer reliability blockchain golang kubernetes"
     },
     {
-      "title": "Staff Software Engineer Authentication Authorization",
-      "link": "https://web3.career/staff-software-engineer-authentication-authorization-ripple/150930",
-      "company_name": "Ripple",
-      "description": "engineer dev crypto golang java"
+      "title": "Crypto Production Engineer",
+      "link": "https://web3.career/crypto-production-engineer-jumpcrypto/89562",
+      "company_name": "Jumpcrypto",
+      "description": "engineer blockchain crypto defi ethereum"
     },
     {
-      "title": "Staff Infrastructure Engineer",
-      "link": "https://web3.career/staff-infrastructure-engineer-ripple/150928",
-      "company_name": "Ripple",
-      "description": "infrastructure engineer aws crypto docker"
-    },
-    {
-      "title": "Staff DevSecOps Engineer",
-      "link": "https://web3.career/staff-devsecops-engineer-ripple/150926",
-      "company_name": "Ripple",
-      "description": "engineer aws crypto kubernetes"
-    },
-    {
-      "title": "Software Engineer II FullStack",
-      "link": "https://web3.career/software-engineer-ii-full-stack-ripple/150924",
-      "company_name": "Ripple",
-      "description": "engineer full stack dev aws crypto"
-    },
-    {
-      "title": "Software Engineer II Authentication Authorization",
-      "link": "https://web3.career/software-engineer-ii-authentication-authorization-ripple/150923",
-      "company_name": "Ripple",
-      "description": "engineer dev crypto golang java"
-    },
-    {
-      "title": "Senior Staff Security Engineer Ripple Treasury",
-      "link": "https://web3.career/senior-staff-security-engineer-ripple-treasury-ripple/150920",
-      "company_name": "Ripple",
-      "description": "treasury finance engineer security senior"
-    },
-    {
-      "title": "Senior Staff Security Engineer AI",
-      "link": "https://web3.career/senior-staff-security-engineer-ai-ripple/150919",
-      "company_name": "Ripple",
-      "description": "ai engineer security senior aws"
+      "title": "SDE IV Engineering",
+      "link": "https://web3.career/sde-iv-engineering-inmobi/151098",
+      "company_name": "Inmobi",
+      "description": "java kubernetes scala remote"
     }
   ]
 }

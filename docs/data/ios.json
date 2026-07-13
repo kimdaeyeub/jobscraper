@@ -2,8 +2,14 @@
   "skill": "ios",
   "label": "iOS",
   "count": 15,
-  "updated_at": "2026-07-06T07:45:11.917480+00:00",
+  "updated_at": "2026-07-13T09:36:24.236272+00:00",
   "jobs": [
+    {
+      "title": "Senior iOS Engineer TradeFi AI",
+      "link": "https://web3.career/senior-ios-engineer-tradefi-ai-binance/151135",
+      "company_name": "Binance",
+      "description": "ai engineer ios mobile senior"
+    },
     {
       "title": "Engineering Director Mobile iOS Android",
       "link": "https://web3.career/engineering-director-mobile-ios-android-okx/150697",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/client-side-audio-video-development-engineer-android-ios-web-binance/144240",
       "company_name": "Binance",
       "description": "android mobile engineer ios video"
-    },
-    {
-      "title": "Senior Mobile Engineer iOS Android Flutter",
-      "link": "https://web3.career/senior-mobile-engineer-ios-android-flutter-binance/143584",
-      "company_name": "Binance",
-      "description": "android mobile engineer flutter ios"
     }
   ]
 }

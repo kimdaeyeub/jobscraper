@@ -2,8 +2,26 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-07-06T07:44:26.071426+00:00",
+  "updated_at": "2026-07-13T09:35:31.634324+00:00",
   "jobs": [
+    {
+      "title": "Staff Software Engineer New Markets Japan JLPT N1 Fluent",
+      "link": "https://web3.career/staff-software-engineer-new-markets-japan-jlpt-n1-fluent-alpaca/151188",
+      "company_name": "Alpaca",
+      "description": "japan engineer dev crypto java"
+    },
+    {
+      "title": "Android Engineer",
+      "link": "https://web3.career/android-engineer-bluecubeservices/103709",
+      "company_name": "Bluecubeservices",
+      "description": "android mobile engineer bitcoin crypto"
+    },
+    {
+      "title": "Software Engineers KYC Eligibility",
+      "link": "https://web3.career/software-engineers-kyc-eligibility-bluecubeservices/139456",
+      "company_name": "Bluecubeservices",
+      "description": "kyc non tech dev blockchain java"
+    },
     {
       "title": "Software Engineer – Digital Asset Trading",
       "link": "https://web3.career/software-engineer-digital-asset-trading-phaxis/151009",
@@ -41,18 +59,6 @@
       "description": "engineer mobile executive senior blockchain"
     },
     {
-      "title": "Android Engineer",
-      "link": "https://web3.career/android-engineer-bluecubeservices/103709",
-      "company_name": "Bluecubeservices",
-      "description": "android mobile engineer bitcoin crypto"
-    },
-    {
-      "title": "Software Engineers KYC Eligibility",
-      "link": "https://web3.career/software-engineers-kyc-eligibility-bluecubeservices/139456",
-      "company_name": "Bluecubeservices",
-      "description": "kyc non tech dev blockchain java"
-    },
-    {
       "title": "Senior Product Security Engineer",
       "link": "https://web3.career/senior-product-security-engineer-blockchain/150772",
       "company_name": "Blockchain",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/software-engineer-lending-savings-contractors-bluecubeservices/150014",
       "company_name": "Bluecubeservices",
       "description": "engineer dev blockchain crypto java"
-    },
-    {
-      "title": "Software Engineer Fraud",
-      "link": "https://web3.career/software-engineer-fraud-bluecubeservices/141161",
-      "company_name": "Bluecubeservices",
-      "description": "engineer security dev blockchain crypto"
     }
   ]
 }

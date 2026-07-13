@@ -2,13 +2,13 @@
   "skill": "typescript",
   "label": "TypeScript",
   "count": 22,
-  "updated_at": "2026-07-06T07:44:13.261588+00:00",
+  "updated_at": "2026-07-13T09:35:12.695647+00:00",
   "jobs": [
     {
-      "title": "Head of Technology",
-      "description": "EMS Press is looking for a proactive, pragmatic and technically confident Head of Technology who can combine hands-on technical judgement with clear leadership, reliable project delivery, and close collaboration across the organisation. This is a part-time senior-level role reporting to the managing director. The role requires broad technical knowledge, and experience managing agile, project-focused teams....",
-      "link": "https://berlinstartupjobs.com/engineering/head-of-technology-ems-press/",
-      "company_name": "EMS Press"
+      "title": "Senior Backend Developer – Go & Kubernetes",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
+      "company_name": "DATATRONiQ"
     },
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
@@ -17,10 +17,10 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Backend Developer – Go & Kubernetes",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
-      "company_name": "DATATRONiQ"
+      "title": "Head of Technology",
+      "description": "EMS Press is looking for a proactive, pragmatic and technically confident Head of Technology who can combine hands-on technical judgement with clear leadership, reliable project delivery, and close collaboration across the organisation. This is a part-time senior-level role reporting to the managing director. The role requires broad technical knowledge, and experience managing agile, project-focused teams....",
+      "link": "https://berlinstartupjobs.com/engineering/head-of-technology-ems-press/",
+      "company_name": "EMS Press"
     },
     {
       "title": "Full Stack Developer",
@@ -47,94 +47,94 @@
       "company_name": "Kombo"
     },
     {
-      "title": "Senior Staff Smart Contract Engineer",
-      "link": "https://web3.career/senior-staff-smart-contract-engineer-symbiotic/151006",
-      "company_name": "Symbiotic",
-      "description": "engineer senior ethereum crypto defi"
+      "title": "Remote Solidity Developer",
+      "link": "https://web3.career/remote-solidity-developer-rg-amp-tsolutions/151293",
+      "company_name": "RG&amp;T Solutions",
+      "description": "remote dev ethereum aws blockchain"
     },
     {
-      "title": "Crypto Blockchain Engineer",
-      "link": "https://web3.career/crypto-blockchain-engineer-irissoftwareinc/151004",
-      "company_name": "Iris Software Inc.",
-      "description": "engineer blockchain aws bitcoin crypto"
+      "title": "Senior React Developer",
+      "link": "https://web3.career/senior-react-developer-golang-cz/151267",
+      "company_name": "golang.cz",
+      "description": "dev javascript react senior blockchain"
     },
     {
-      "title": "Staff Software Engineer Ruby on Rails",
-      "link": "https://web3.career/staff-software-engineer-ruby-on-rails-ripple/150937",
-      "company_name": "Ripple",
-      "description": "engineer ruby dev aws crypto"
+      "title": "Full Stack Engineer",
+      "link": "https://web3.career/full-stack-engineer-web3creators/151265",
+      "company_name": "Web3creators",
+      "description": "engineer full stack aws blockchain crypto"
     },
     {
-      "title": "Staff Software Engineer Liquidity Management",
-      "link": "https://web3.career/staff-software-engineer-liquidity-management-ripple/150936",
-      "company_name": "Ripple",
-      "description": "engineer sales non tech dev aws"
+      "title": "Backend Engineer",
+      "link": "https://web3.career/backend-engineer-web3creators/151264",
+      "company_name": "Web3creators",
+      "description": "backend engineer aws blockchain crypto"
     },
     {
-      "title": "Staff Software Engineer Infrastructure",
-      "link": "https://web3.career/staff-software-engineer-infrastructure-ripple/150935",
-      "company_name": "Ripple",
-      "description": "infrastructure engineer dev aws blockchain"
+      "title": "Cashen : Quality Assurance Automation Engineer",
+      "link": "https://web3.career/cashen-quality-assurance-automation-engineer-ergonia/151236",
+      "company_name": "Ergonia",
+      "description": "quality assurance engineer crypto javascript react"
     },
     {
-      "title": "Staff Software Engineer Frontend",
-      "link": "https://web3.career/staff-software-engineer-frontend-ripple/150933",
-      "company_name": "Ripple",
-      "description": "engineer front end dev blockchain crypto"
+      "title": "Solidity Engineer Only US Citizen and Green Card Tampa FL Jersey City NJ Texas City TX Hybrid",
+      "link": "https://web3.career/solidity-engineer-only-us-citizen-and-green-card-tampa-fl-jersey-city-nj-texas-city-tx-hybrid-ampstek/151234",
+      "company_name": "Ampstek",
+      "description": "engineer ethereum blockchain defi hardhat"
     },
     {
-      "title": "Staff FullStack Software Engineer .NET Azure",
-      "link": "https://web3.career/staff-full-stack-software-engineer-net-azure-ripple/150927",
-      "company_name": "Ripple",
-      "description": "dot net engineer full stack dev angular"
+      "title": "Sr. Staff Software Development Engineer",
+      "link": "https://web3.career/sr-staff-software-development-engineer-zscaler/101646",
+      "company_name": "Zscaler",
+      "description": "engineer dev senior aws javascript"
+    },
+    {
+      "title": "Director of Engineering USA",
+      "link": "https://web3.career/director-of-engineering-usa-nexus/151211",
+      "company_name": "Nexus",
+      "description": "executive blockchain kubernetes nextjs node"
+    },
+    {
+      "title": "Graduate Software Engineer UI",
+      "link": "https://web3.career/graduate-software-engineer-ui-elwoodtechnologies/151200",
+      "company_name": "Elwoodtechnologies",
+      "description": "engineer intern entry level dev design"
+    },
+    {
+      "title": "Staff Product Designer future opportunities",
+      "link": "https://web3.career/staff-product-designer-future-opportunities-shakepay/151185",
+      "company_name": "Shakepay",
+      "description": "product designer design non tech bitcoin node"
+    },
+    {
+      "title": "UI Engineer",
+      "link": "https://web3.career/ui-engineer-taxbit/151184",
+      "company_name": "Taxbit",
+      "description": "engineer design non tech aws crypto"
+    },
+    {
+      "title": "Agentic AI Engineer",
+      "link": "https://web3.career/agentic-ai-engineer-taxbit/151183",
+      "company_name": "Taxbit",
+      "description": "ai engineer aws crypto typescript"
+    },
+    {
+      "title": "Forward Deployed Engineer Buenos Aires",
+      "link": "https://web3.career/forward-deployed-engineer-buenos-aires-crossmint/151170",
+      "company_name": "Crossmint",
+      "description": "engineer blockchain crypto ethereum solana"
+    },
+    {
+      "title": "Binance Accelerator Program Software Engineer Backend + AI LLM",
+      "link": "https://web3.career/binance-accelerator-program-software-engineer-backend-ai-llm-binance/151129",
+      "company_name": "Binance",
+      "description": "ai backend engineer dev aws"
     },
     {
       "title": "Senior Full Stack Engineer",
       "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
       "company_name": "Bcbgroup",
       "description": "engineer full stack senior angular crypto"
-    },
-    {
-      "title": "Data Engineer",
-      "link": "https://web3.career/data-engineer-bcbgroup/140602",
-      "company_name": "Bcbgroup",
-      "description": "data science engineer crypto typescript remote"
-    },
-    {
-      "title": "Senior Software Development Engineer",
-      "link": "https://web3.career/senior-software-development-engineer-zscaler/106335",
-      "company_name": "Zscaler",
-      "description": "engineer senior dev javascript tailwind"
-    },
-    {
-      "title": "Backend Engineer",
-      "link": "https://web3.career/backend-engineer-layerzerolabs/73714",
-      "company_name": "Layerzerolabs",
-      "description": "backend engineer aws blockchain typescript"
-    },
-    {
-      "title": "Senior Data Platm Engineer",
-      "link": "https://web3.career/senior-data-platform-engineer-provable/150874",
-      "company_name": "Provable",
-      "description": "engineer senior blockchain kubernetes node"
-    },
-    {
-      "title": "Senior Software Engineer Angular B2C Web Platm",
-      "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
-      "company_name": "Bitpanda",
-      "description": "c c plus plus javascript angular engineer"
-    },
-    {
-      "title": "FrontEnd Engineer Institutional",
-      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
-      "company_name": "Blockchain",
-      "description": "engineer front end blockchain crypto javascript"
-    },
-    {
-      "title": "Staff Design Engineer",
-      "link": "https://web3.career/staff-design-engineer-shakepay/150847",
-      "company_name": "Shakepay",
-      "description": "design non tech engineer bitcoin node"
     }
   ]
 }
