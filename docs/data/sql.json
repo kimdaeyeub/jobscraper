@@ -1,98 +1,20 @@
 {
   "skill": "sql",
   "label": "SQL",
-  "count": 15,
-  "updated_at": "2026-07-13T09:35:59.036818+00:00",
+  "count": 2,
+  "updated_at": "2026-07-20T09:22:59.657842+00:00",
   "jobs": [
     {
-      "title": "DeFi Risk Analyst",
-      "link": "https://web3.career/defi-risk-analyst-objective-labs/139281",
-      "company_name": "Objective Labs",
-      "description": "analyst data viz data science defi remote"
+      "title": "FrontEnd Engineer",
+      "link": "https://web3.career/front-end-engineer-starkware/45494",
+      "company_name": "Starkware",
+      "description": "dev front end blockchain"
     },
     {
-      "title": "Senior Software Engineer Capital Management Team",
-      "link": "https://web3.career/senior-software-engineer-capital-management-team-gravity-team/105422",
-      "company_name": "Gravity Team",
-      "description": "engineer senior dev blockchain crypto"
-    },
-    {
-      "title": "Software Engineer Arbitrage Trading Bot",
-      "link": "https://web3.career/software-engineer-arbitrage-trading-bot-gravity-team/105421",
-      "company_name": "Gravity Team",
-      "description": "engineer dev blockchain crypto rust"
-    },
-    {
-      "title": "Software Engineer Python",
-      "link": "https://web3.career/software-engineer-python-cow-dao/105192",
-      "company_name": "CoW DAO",
-      "description": "engineer python dev blockchain defi"
-    },
-    {
-      "title": "Senior FullStack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-agora/100904",
-      "company_name": "Agora",
-      "description": "engineer full stack senior crypto ethereum"
-    },
-    {
-      "title": "Backend Engineer",
-      "link": "https://web3.career/backend-engineer-0xbow/100882",
-      "company_name": "0xbow",
-      "description": "backend engineer blockchain defi ethereum"
-    },
-    {
-      "title": "Full Stack Frontend Software Engineer MidLevel",
-      "link": "https://web3.career/full-stack-front-end-software-engineer-mid-level-regen-network-development-pbc/95815",
-      "company_name": "Regen Network Development PBC",
-      "description": "engineer front end full stack dev blockchain"
-    },
-    {
-      "title": "Data Analyst",
-      "link": "https://web3.career/data-analyst-cow-dao-cow-swap/95488",
-      "company_name": "CoW DAO (CoW Swap)",
-      "description": "analyst data science blockchain defi ethereum"
-    },
-    {
-      "title": "Senior Server Side Developer GammaSwap",
-      "link": "https://web3.career/senior-server-side-developer-gammaswap-gammaswap/92165",
-      "company_name": "GammaSwap",
-      "description": "dev senior aws blockchain defi"
-    },
-    {
-      "title": "Data Engineer web3",
-      "link": "https://web3.career/data-engineer-web3-cow-dao-cow-swap/88628",
-      "company_name": "CoW DAO (CoW Swap)",
-      "description": "data science engineer aws big data blockchain"
-    },
-    {
-      "title": "DeFi strategy operations analyst",
-      "link": "https://web3.career/defi-strategy-operations-analyst-abc-labs/87823",
-      "company_name": "ABC Labs",
-      "description": "strategy non tech analyst operations bitcoin"
-    },
-    {
-      "title": "Founding Engineer Remote",
-      "link": "https://web3.career/founding-engineer-remote-rocksolid-network/86824",
-      "company_name": "RockSolid Network",
-      "description": "founding engineer engineer founding member remote backend"
-    },
-    {
-      "title": "CTO Sports Company",
-      "link": "https://web3.career/cto-sports-company-takeover/80708",
-      "company_name": "TakeOver",
-      "description": "cto executive amazon api aws"
-    },
-    {
-      "title": "Sn. Data Engineer web3",
-      "link": "https://web3.career/sn-data-engineer-web3-cow-dao/79950",
-      "company_name": "CoW DAO",
-      "description": "data science engineer aws big data blockchain"
-    },
-    {
-      "title": "Senior Data Engineer",
-      "link": "https://web3.career/senior-data-engineer-cow-protocol-cow-swap/71736",
-      "company_name": "CoW Protocol (CoW Swap)",
-      "description": "data science engineer senior aws big data"
+      "title": "Software Engineer Crypto",
+      "link": "https://web3.career/software-engineer-crypto-paypal/29818",
+      "company_name": "PayPal",
+      "description": "dev crypto java"
     }
   ]
 }

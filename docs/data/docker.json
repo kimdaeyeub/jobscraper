@@ -2,7 +2,7 @@
   "skill": "docker",
   "label": "Docker",
   "count": 20,
-  "updated_at": "2026-07-13T09:36:12.031061+00:00",
+  "updated_at": "2026-07-20T09:23:11.797006+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -35,94 +35,94 @@
       "company_name": "Sourcecast"
     },
     {
-      "title": "Senior Go Developer web3",
-      "link": "https://web3.career/senior-go-developer-web3-golang-cz/151266",
-      "company_name": "golang.cz",
-      "description": "dev golang senior aws blockchain"
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-altimetrik/151493",
+      "company_name": "Altimetrik",
+      "description": "dev blockchain docker"
     },
     {
-      "title": "Binance Accelerator Program Software Engineer Backend + AI LLM",
-      "link": "https://web3.career/binance-accelerator-program-software-engineer-backend-ai-llm-binance/151129",
-      "company_name": "Binance",
-      "description": "ai backend engineer dev aws"
+      "title": "Blockchain Developer NY NJ Fulltime",
+      "link": "https://web3.career/blockchain-developer-ny-nj-fulltime-altimetrik/151492",
+      "company_name": "Altimetrik",
+      "description": "dev full time blockchain"
     },
     {
-      "title": "Software Development Engineer DevSecOps",
-      "link": "https://web3.career/software-development-engineer-devsecops-zscaler/151115",
+      "title": "Crypto Block Chain Engineer",
+      "link": "https://web3.career/crypto-block-chain-engineer-irissoftwareinc/151491",
+      "company_name": "Iris Software Inc.",
+      "description": "engineer aws bitcoin"
+    },
+    {
+      "title": "Senior Fullstack Engineer Operational Automations",
+      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
+      "company_name": "Alpaca",
+      "description": "engineer full stack operations"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-alpaca/99650",
+      "company_name": "Alpaca",
+      "description": "devops engineer senior"
+    },
+    {
+      "title": "BackEnd Engineer Trading",
+      "link": "https://web3.career/back-end-engineer-trading-blockchain/151412",
+      "company_name": "Blockchain",
+      "description": "backend engineer aws"
+    },
+    {
+      "title": "Infrastructure Systems Operations Engineer",
+      "link": "https://web3.career/infrastructure-systems-operations-engineer-zigchain/151395",
+      "company_name": "ZIGChain",
+      "description": "infrastructure engineer operations"
+    },
+    {
+      "title": "Infrastructure Systems Operations Engineer Junior to Mid",
+      "link": "https://web3.career/infrastructure-systems-operations-engineer-junior-to-mid-zigchain/151392",
+      "company_name": "ZIGChain",
+      "description": "infrastructure engineer junior"
+    },
+    {
+      "title": "Principal Software Development Engineer",
+      "link": "https://web3.career/principal-software-development-engineer-zscaler/99841",
       "company_name": "Zscaler",
-      "description": "engineer dev aws docker kubernetes"
+      "description": "engineer executive dev"
     },
     {
       "title": "SDE III Devops",
       "link": "https://web3.career/sde-iii-devops-inmobi/100181",
       "company_name": "Inmobi",
-      "description": "devops aws docker kubernetes remote"
+      "description": "devops aws docker"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-copperco/96368",
+      "company_name": "Copperco",
+      "description": "devops engineer senior"
+    },
+    {
+      "title": "Senior Engineer Trading Desk",
+      "link": "https://web3.career/senior-engineer-trading-desk-coinhako/151358",
+      "company_name": "Coinhako",
+      "description": "engineer senior aws"
     },
     {
       "title": "Senior DevOps Engineer",
       "link": "https://web3.career/senior-devops-engineer-bitpanda/75931",
       "company_name": "Bitpanda",
-      "description": "devops engineer senior aws crypto"
+      "description": "devops engineer senior"
     },
     {
       "title": "Senior Cloud Security Engineer",
       "link": "https://web3.career/senior-cloud-security-engineer-bitpanda/150360",
       "company_name": "Bitpanda",
-      "description": "cloud engineer engineer security senior aws"
+      "description": "cloud engineer engineer security"
     },
     {
       "title": "Cloud Kafka Engineer",
       "link": "https://web3.career/cloud-kafka-engineer-bitpanda/149169",
       "company_name": "Bitpanda",
-      "description": "cloud engineer engineer aws crypto docker"
-    },
-    {
-      "title": "Java Backend Developer",
-      "link": "https://web3.career/java-backend-developer-localcoin/78924",
-      "company_name": "Localcoin",
-      "description": "backend dev java angular aws"
-    },
-    {
-      "title": "Blockchain Lead Security Engineer",
-      "link": "https://web3.career/blockchain-lead-security-engineer-jpmorganchase/151061",
-      "company_name": "JPMorganChase",
-      "description": "engineer lead security blockchain aws"
-    },
-    {
-      "title": "Binance Accelerator Program DevSecOps Engineer",
-      "link": "https://web3.career/binance-accelerator-program-devsecops-engineer-binance/151058",
-      "company_name": "Binance",
-      "description": "engineer aws blockchain docker kubernetes"
-    },
-    {
-      "title": "Crypto Blockchain Engineer",
-      "link": "https://web3.career/crypto-blockchain-engineer-irissoftwareinc/151004",
-      "company_name": "Iris Software Inc.",
-      "description": "engineer blockchain aws bitcoin crypto"
-    },
-    {
-      "title": "Staff Software Engineer Ruby on Rails",
-      "link": "https://web3.career/staff-software-engineer-ruby-on-rails-ripple/150937",
-      "company_name": "Ripple",
-      "description": "engineer ruby dev aws crypto"
-    },
-    {
-      "title": "Staff Software Engineer Liquidity Management",
-      "link": "https://web3.career/staff-software-engineer-liquidity-management-ripple/150936",
-      "company_name": "Ripple",
-      "description": "engineer sales non tech dev aws"
-    },
-    {
-      "title": "Staff Infrastructure Engineer",
-      "link": "https://web3.career/staff-infrastructure-engineer-ripple/150928",
-      "company_name": "Ripple",
-      "description": "infrastructure engineer aws crypto docker"
-    },
-    {
-      "title": "Senior Staff DevOps Engineer",
-      "link": "https://web3.career/senior-staff-devops-engineer-ripple/150918",
-      "company_name": "Ripple",
-      "description": "devops engineer senior aws crypto"
+      "description": "cloud engineer engineer aws"
     }
   ]
 }

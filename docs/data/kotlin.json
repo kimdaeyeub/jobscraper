@@ -2,97 +2,97 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-07-13T09:35:31.634324+00:00",
+  "updated_at": "2026-07-20T09:22:30.302894+00:00",
   "jobs": [
     {
-      "title": "Staff Software Engineer New Markets Japan JLPT N1 Fluent",
-      "link": "https://web3.career/staff-software-engineer-new-markets-japan-jlpt-n1-fluent-alpaca/151188",
-      "company_name": "Alpaca",
-      "description": "japan engineer dev crypto java"
+      "title": "BackEnd Engineer Trading",
+      "link": "https://web3.career/back-end-engineer-trading-blockchain/151412",
+      "company_name": "Blockchain",
+      "description": "backend engineer aws"
+    },
+    {
+      "title": "Client FullStack Engineer — IM Chat Platm Android Focus",
+      "link": "https://web3.career/client-full-stack-engineer-im-chat-platform-android-focus-binance/151384",
+      "company_name": "Binance",
+      "description": "android mobile engineer"
     },
     {
       "title": "Android Engineer",
       "link": "https://web3.career/android-engineer-bluecubeservices/103709",
       "company_name": "Bluecubeservices",
-      "description": "android mobile engineer bitcoin crypto"
+      "description": "android mobile engineer"
     },
     {
       "title": "Software Engineers KYC Eligibility",
       "link": "https://web3.career/software-engineers-kyc-eligibility-bluecubeservices/139456",
       "company_name": "Bluecubeservices",
-      "description": "kyc non tech dev blockchain java"
+      "description": "kyc non tech dev"
+    },
+    {
+      "title": "Staff Software Engineer New Markets Japan JLPT N1 Fluent",
+      "link": "https://web3.career/staff-software-engineer-new-markets-japan-jlpt-n1-fluent-alpaca/151188",
+      "company_name": "Alpaca",
+      "description": "japan engineer dev"
     },
     {
       "title": "Software Engineer – Digital Asset Trading",
       "link": "https://web3.career/software-engineer-digital-asset-trading-phaxis/151009",
       "company_name": "Phaxis",
-      "description": "engineer dev blockchain ethereum java"
+      "description": "engineer dev blockchain"
     },
     {
       "title": "Software Engineer II FullStack",
       "link": "https://web3.career/software-engineer-ii-full-stack-ripple/150924",
       "company_name": "Ripple",
-      "description": "engineer full stack dev aws crypto"
+      "description": "engineer full stack dev"
     },
     {
       "title": "Senior Software Engineer Identity Trust",
       "link": "https://web3.career/senior-software-engineer-identity-trust-ripple/150916",
       "company_name": "Ripple",
-      "description": "engineer senior dev aws crypto"
+      "description": "engineer senior dev"
     },
     {
       "title": "Senior Software Engineer Full Stack",
       "link": "https://web3.career/senior-software-engineer-full-stack-ripple/150915",
       "company_name": "Ripple",
-      "description": "engineer full stack senior dev aws"
+      "description": "engineer full stack senior"
     },
     {
       "title": "Senior Software Engineer AI Trading",
       "link": "https://web3.career/senior-software-engineer-ai-trading-okx/150881",
       "company_name": "Okx",
-      "description": "ai engineer senior dev blockchain"
+      "description": "ai engineer senior"
     },
     {
       "title": "Principal Senior Mobile Engineer Trading Strategies CEX",
       "link": "https://web3.career/principal-senior-mobile-engineer-trading-strategies-cex-okx/150880",
       "company_name": "Okx",
-      "description": "engineer mobile executive senior blockchain"
+      "description": "engineer mobile executive"
     },
     {
       "title": "Senior Product Security Engineer",
       "link": "https://web3.career/senior-product-security-engineer-blockchain/150772",
       "company_name": "Blockchain",
-      "description": "engineer security senior blockchain crypto"
+      "description": "engineer security senior"
     },
     {
       "title": "Senior Software Engineer Web Full Stack",
       "link": "https://web3.career/senior-software-engineer-web-full-stack-bitmex/92818",
       "company_name": "Bitmex",
-      "description": "engineer full stack senior dev bitcoin"
+      "description": "engineer full stack senior"
     },
     {
       "title": "Mobile Design Engineer",
       "link": "https://web3.career/mobile-design-engineer-kraken/150371",
       "company_name": "Kraken",
-      "description": "design non tech engineer mobile crypto"
+      "description": "design non tech engineer"
     },
     {
       "title": "Software Engineer Payments",
       "link": "https://web3.career/software-engineer-payments-bluecubeservices/150368",
       "company_name": "Bluecubeservices",
-      "description": "engineer dev blockchain crypto java"
-    },
-    {
-      "title": "Binance Accelerator Program APP iOS Android Engineer Fresh Grad",
-      "link": "https://web3.career/binance-accelerator-program-app-ios-android-engineer-fresh-grad-binance/150333",
-      "company_name": "Binance",
-      "description": "android mobile engineer intern entry level"
-    },
-    {
-      "title": "Software Engineer Lending Savings Contractors",
-      "link": "https://web3.career/software-engineer-lending-savings-contractors-bluecubeservices/150014",
-      "company_name": "Bluecubeservices",
-      "description": "engineer dev blockchain crypto java"
+      "description": "engineer dev blockchain"
     }
   ]
 }

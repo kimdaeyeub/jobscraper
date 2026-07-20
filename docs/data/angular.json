@@ -2,97 +2,97 @@
   "skill": "angular",
   "label": "Angular",
   "count": 15,
-  "updated_at": "2026-07-13T09:35:39.649479+00:00",
+  "updated_at": "2026-07-20T09:22:38.250596+00:00",
   "jobs": [
     {
       "title": "Senior Full Stack Engineer",
       "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
       "company_name": "Bcbgroup",
-      "description": "engineer full stack senior angular crypto"
+      "description": "engineer full stack senior"
     },
     {
       "title": "Senior Software Engineer Angular B2C Web Platm",
       "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
       "company_name": "Bitpanda",
-      "description": "c c plus plus javascript angular engineer"
+      "description": "c c plus plus javascript"
     },
     {
       "title": "Java Backend Developer",
       "link": "https://web3.career/java-backend-developer-localcoin/78924",
       "company_name": "Localcoin",
-      "description": "backend dev java angular aws"
+      "description": "backend dev java"
+    },
+    {
+      "title": "Blockchain Engineer",
+      "link": "https://web3.career/blockchain-engineer-infosys/151334",
+      "company_name": "Infosys",
+      "description": "engineer blockchain angular"
     },
     {
       "title": "Staff FullStack Software Engineer .NET Azure",
       "link": "https://web3.career/staff-full-stack-software-engineer-net-azure-ripple/150927",
       "company_name": "Ripple",
-      "description": "dot net engineer full stack dev angular"
+      "description": "dot net engineer full stack"
     },
     {
       "title": "Backend Engineer BE + LLM",
       "link": "https://web3.career/backend-engineer-be-llm-binance/150513",
       "company_name": "Binance",
-      "description": "backend engineer angular blockchain java"
+      "description": "backend engineer angular"
     },
     {
       "title": "Staff Software Engineer Graphs",
       "link": "https://web3.career/staff-software-engineer-graphs-chainalysis/150362",
       "company_name": "Chainalysis",
-      "description": "engineer dev angular aws blockchain"
+      "description": "engineer dev angular"
     },
     {
       "title": "QA",
       "link": "https://web3.career/qa-confirmo/150308",
       "company_name": "Confirmo",
-      "description": "quality assurance angular crypto typescript"
+      "description": "quality assurance angular crypto"
     },
     {
       "title": "Software Engineer III",
       "link": "https://web3.career/software-engineer-iii-zinnia/150042",
       "company_name": "Zinnia",
-      "description": "engineer dev angular aws react"
+      "description": "engineer dev angular"
     },
     {
       "title": "Senior Full Stack Engineer",
       "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/103010",
       "company_name": "Bcbgroup",
-      "description": "engineer full stack senior angular bitcoin"
+      "description": "engineer full stack senior"
     },
     {
       "title": "Director of Engineering API Management and CIAM",
       "link": "https://web3.career/director-of-engineering-api-management-and-ciam-zinnia/149677",
       "company_name": "Zinnia",
-      "description": "api executive angular aws java"
+      "description": "api executive angular"
     },
     {
       "title": "Software Engineering Internship Aarhus Office",
       "link": "https://web3.career/software-engineering-internship-aarhus-office-chainalysis/148924",
       "company_name": "Chainalysis",
-      "description": "office intern entry level dev angular"
+      "description": "office intern entry level"
     },
     {
       "title": "Software Engineer I New Grad Aarhus Office",
       "link": "https://web3.career/software-engineer-i-new-grad-aarhus-office-chainalysis/148923",
       "company_name": "Chainalysis",
-      "description": "office engineer intern entry level dev"
+      "description": "office engineer intern"
     },
     {
       "title": "Senior Technical Product Manager 100% remote Worldwide",
       "link": "https://web3.career/senior-technical-product-manager-100-remote-worldwide-tetheroperationslimited/148695",
       "company_name": "Tether Operations Limited",
-      "description": "remote product manager non tech senior angular"
-    },
-    {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-lemon-io/148405",
-      "company_name": "Lemon.io",
-      "description": "dev senior blockchain angular ethereum"
+      "description": "remote product manager non tech"
     },
     {
       "title": "Software Engineer III",
       "link": "https://web3.career/software-engineer-iii-zinnia/93829",
       "company_name": "Zinnia",
-      "description": "engineer dev angular aws docker"
+      "description": "engineer dev angular"
     }
   ]
 }

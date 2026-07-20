@@ -1,8 +1,8 @@
 {
   "skill": "postgres",
   "label": "PostgreSQL",
-  "count": 16,
-  "updated_at": "2026-07-13T09:35:59.826371+00:00",
+  "count": 3,
+  "updated_at": "2026-07-20T09:23:00.248451+00:00",
   "jobs": [
     {
       "title": "Senior Product Engineer",
@@ -11,94 +11,16 @@
       "company_name": "Kombo"
     },
     {
-      "title": "API Rust DevOps freelancer",
-      "link": "https://web3.career/api-rust-devops-freelancer-byzantine-finance/141106",
-      "company_name": "Byzantine Finance",
-      "description": "freelance api devops rust aws"
+      "title": "Typescript Developer",
+      "link": "https://web3.career/typescript-developer-bluesky/49659",
+      "company_name": "Bluesky",
+      "description": "typescript dev api"
     },
     {
-      "title": "Senior Smart Contract Engineer",
-      "link": "https://web3.career/senior-smart-contract-engineer-wildcat/108465",
-      "company_name": "wildcat",
-      "description": "engineer senior ethereum agile crypto"
-    },
-    {
-      "title": "Ares: Senior+ Fullstack Engineer BackendLeaning",
-      "link": "https://web3.career/ares-senior-fullstack-engineer-backend-leaning-ares/107266",
-      "company_name": "Ares",
-      "description": "backend engineer full stack senior crypto"
-    },
-    {
-      "title": "Full Stack Blockchain Developer",
-      "link": "https://web3.career/full-stack-blockchain-developer-tao-bot/106638",
-      "company_name": "tao.bot",
-      "description": "dev full stack blockchain polkadot postgres"
-    },
-    {
-      "title": "Backend Blockchain Developer",
-      "link": "https://web3.career/backend-blockchain-developer-tao-bot/106637",
-      "company_name": "tao.bot",
-      "description": "backend dev blockchain defi ethereum"
-    },
-    {
-      "title": "Staff SRE Defi Scalability Lead",
-      "link": "https://web3.career/staff-sre-defi-scalability-lead-abc-labs/103527",
-      "company_name": "ABC Labs",
-      "description": "lead senior api blockchain crypto"
-    },
-    {
-      "title": "Full Stack Frontend Software Engineer MidLevel",
-      "link": "https://web3.career/full-stack-front-end-software-engineer-mid-level-regen-network-development-pbc/95815",
-      "company_name": "Regen Network Development PBC",
-      "description": "engineer front end full stack dev blockchain"
-    },
-    {
-      "title": "Full Stack Engineer EVM",
-      "link": "https://web3.career/full-stack-engineer-evm-lazer-technologies/92687",
-      "company_name": "Lazer Technologies",
-      "description": "evm ethereum engineer full stack aws"
-    },
-    {
-      "title": "Junior Backend Engineer",
-      "link": "https://web3.career/junior-backend-engineer-sideshift-ai/78172",
-      "company_name": "SideShift.ai",
-      "description": "backend engineer junior entry level crypto"
-    },
-    {
-      "title": "DevOps Engineer",
-      "link": "https://web3.career/devops-engineer-number-group/90119",
-      "company_name": "NUMBER GROUP",
-      "description": "devops engineer aws ci cd docker"
-    },
-    {
-      "title": "Senior Rust Developer Dex Trading APP CTO",
-      "link": "https://web3.career/senior-rust-developer-for-dex-trading-app-cto-position-alphax/89697",
-      "company_name": "AlphaX",
-      "description": "cto executive dev rust senior"
-    },
-    {
-      "title": "Optimism Staff Engineer",
-      "link": "https://web3.career/optimism-staff-engineer-agora/89158",
-      "company_name": "Agora",
-      "description": "engineer api crypto ethereum nextjs"
-    },
-    {
-      "title": "Web3 Backend Engineer",
-      "link": "https://web3.career/web3-backend-engineer-dia-e-v/86264",
-      "company_name": "DIA e.V.",
-      "description": "backend engineer c plus plus crypto decentralize"
-    },
-    {
-      "title": "Senior Backend Engineer",
-      "link": "https://web3.career/senior-backend-engineer-pichi-finance/82357",
-      "company_name": "Pichi Finance",
-      "description": "backend engineer senior api aws"
-    },
-    {
-      "title": "Backend Engineer",
-      "link": "https://web3.career/backend-engineer-exponent/74681",
-      "company_name": "Exponent",
-      "description": "backend engineer blockchain crypto defi"
+      "title": "Software Engineer Crypto",
+      "link": "https://web3.career/software-engineer-crypto-paypal/29818",
+      "company_name": "PayPal",
+      "description": "dev crypto java"
     }
   ]
 }

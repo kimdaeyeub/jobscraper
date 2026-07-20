@@ -2,97 +2,97 @@
   "skill": "php",
   "label": "PHP",
   "count": 15,
-  "updated_at": "2026-07-13T09:35:19.595057+00:00",
+  "updated_at": "2026-07-20T09:22:22.271947+00:00",
   "jobs": [
+    {
+      "title": "Software Engineer Intern Fullstack 12 Month Internship",
+      "link": "https://web3.career/software-engineer-intern-fullstack-12-month-internship-bitpanda/151423",
+      "company_name": "Bitpanda",
+      "description": "engineer full stack intern"
+    },
     {
       "title": "Database Administrator",
       "link": "https://web3.career/database-administrator-okx/150300",
       "company_name": "Okx",
-      "description": "admin aws blockchain crypto php"
+      "description": "admin aws blockchain"
     },
     {
       "title": "Senior Software Engineer Java",
       "link": "https://web3.career/senior-software-engineer-java-bitpanda/58574",
       "company_name": "Bitpanda",
-      "description": "dev java senior aws php"
-    },
-    {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-lemon-io/148405",
-      "company_name": "Lemon.io",
-      "description": "dev senior blockchain angular ethereum"
+      "description": "dev java senior"
     },
     {
       "title": "Senior Backend Engineer Golang",
       "link": "https://web3.career/senior-backend-engineer-golang-bitpanda/63021",
       "company_name": "Bitpanda",
-      "description": "backend engineer golang senior aws"
+      "description": "backend engineer golang"
     },
     {
       "title": "Senior Technical Business Analyst",
       "link": "https://web3.career/senior-technical-business-analyst-bcbgroup/141294",
       "company_name": "Bcbgroup",
-      "description": "analyst senior blockchain crypto java"
+      "description": "analyst senior blockchain"
     },
     {
       "title": "Web Engineer Marketing Focused",
       "link": "https://web3.career/web-engineer-marketing-focused-launchpadtechnologiesinc/146119",
       "company_name": "Launchpadtechnologiesinc",
-      "description": "engineer marketing non tech aws nextjs"
+      "description": "engineer marketing non tech"
     },
     {
       "title": "Software Engineer Manager Marketing",
       "link": "https://web3.career/software-engineer-manager-marketing-bitmex/141458",
       "company_name": "Bitmex",
-      "description": "engineer marketing non tech dev aws"
+      "description": "engineer marketing non tech"
     },
     {
       "title": "Sr. Software Engineer UI",
       "link": "https://web3.career/sr-software-engineer-ui-brave/145964",
       "company_name": "Brave",
-      "description": "engineer dev senior design non tech"
-    },
-    {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-lemon-io/144964",
-      "company_name": "Lemon.io",
-      "description": "dev senior blockchain angular ethereum"
+      "description": "engineer dev senior"
     },
     {
       "title": "Senior QA Engineer Web3",
       "link": "https://web3.career/senior-qa-engineer-web3-xsolla/144301",
       "company_name": "Xsolla",
-      "description": "engineer quality assurance senior blockchain gaming"
+      "description": "engineer quality assurance senior"
     },
     {
       "title": "Site Reliability Engineer Platm",
       "link": "https://web3.career/site-reliability-engineer-platform-kiln/141978",
       "company_name": "Kiln",
-      "description": "engineer reliability aws blockchain crypto"
+      "description": "engineer reliability aws"
     },
     {
       "title": "Manager Engineering",
       "link": "https://web3.career/manager-engineering-bitpanda/141467",
       "company_name": "Bitpanda",
-      "description": "crypto java php bitcoin remote"
+      "description": "crypto java php"
     },
     {
       "title": "UNPAID VOLUNTEER Web Developer",
       "link": "https://web3.career/unpaid-volunteer-web-developer-blockchain-climateinstitute-bciamericainc/140410",
       "company_name": "Blockchain & Climate Institute/ BCI America Inc.",
-      "description": "unpaid dev javascript php remote"
+      "description": "unpaid dev javascript"
     },
     {
       "title": "Java Engineer Latam",
       "link": "https://web3.career/java-engineer-latam-bitso/140367",
       "company_name": "Bitso",
-      "description": "engineer java crypto docker kubernetes"
+      "description": "engineer java crypto"
     },
     {
       "title": "Senior Backend Engineer Solana",
       "link": "https://web3.career/senior-backend-engineer-solana-blockworks/140143",
       "company_name": "Blockworks",
-      "description": "backend engineer senior aws blockchain"
+      "description": "backend engineer senior"
+    },
+    {
+      "title": "FX and NDF Trader",
+      "link": "https://web3.career/fx-and-ndf-trader-coins/139788",
+      "company_name": "Coins.ph",
+      "description": "trader php"
     }
   ]
 }

@@ -1,98 +1,26 @@
 {
   "skill": "graphql",
   "label": "GraphQL",
-  "count": 15,
-  "updated_at": "2026-07-13T09:36:28.998337+00:00",
+  "count": 3,
+  "updated_at": "2026-07-20T09:23:31.281899+00:00",
   "jobs": [
     {
       "title": "GraphQL GCP Blockchain",
       "link": "https://web3.career/graphql-gcp-blockchain-vytwotechnologiesinc/149301",
       "company_name": "Vytwo Technologies Inc.",
-      "description": "gcp graphql blockchain ethereum java"
-    },
-    {
-      "title": "Senior Smart Contract Engineer",
-      "link": "https://web3.career/senior-smart-contract-engineer-wildcat/108465",
-      "company_name": "wildcat",
-      "description": "engineer senior ethereum agile crypto"
-    },
-    {
-      "title": "Web3 Full Stack Developer",
-      "link": "https://web3.career/web3-full-stack-developer-wildcat/101516",
-      "company_name": "wildcat",
-      "description": "dev full stack agile backend blockchain"
-    },
-    {
-      "title": "Backend Engineer",
-      "link": "https://web3.career/backend-engineer-0xbow/100882",
-      "company_name": "0xbow",
-      "description": "backend engineer blockchain defi ethereum"
-    },
-    {
-      "title": "Full Stack Frontend Software Engineer MidLevel",
-      "link": "https://web3.career/full-stack-front-end-software-engineer-mid-level-regen-network-development-pbc/95815",
-      "company_name": "Regen Network Development PBC",
-      "description": "engineer front end full stack dev blockchain"
-    },
-    {
-      "title": "Full Stack Engineer EVM",
-      "link": "https://web3.career/full-stack-engineer-evm-lazer-technologies/92687",
-      "company_name": "Lazer Technologies",
-      "description": "evm ethereum engineer full stack aws"
-    },
-    {
-      "title": "Junior Backend Engineer",
-      "link": "https://web3.career/junior-backend-engineer-sideshift-ai/78172",
-      "company_name": "SideShift.ai",
-      "description": "backend engineer junior entry level crypto"
-    },
-    {
-      "title": "Smart Contract Engineer",
-      "link": "https://web3.career/smart-contract-engineer-zetachain/89778",
-      "company_name": "ZetaChain",
-      "description": "engineer ethereum bitcoin blockchain blockchain engineer"
-    },
-    {
-      "title": "Software Engineer Developer Experience",
-      "link": "https://web3.career/software-engineer-developer-experience-zetachain/89777",
-      "company_name": "ZetaChain",
-      "description": "dev engineer aws bitcoin blockchain"
+      "description": "gcp graphql blockchain"
     },
     {
       "title": "Senior Python Developer Financial Data Systems",
       "link": "https://web3.career/senior-python-developer-financial-data-systems-truflation/86048",
       "company_name": "Truflation",
-      "description": "dev finance non tech python senior"
+      "description": "dev finance non tech"
     },
     {
       "title": "Senior Frontend Web Developer Financial Data Visualization",
       "link": "https://web3.career/senior-front-end-web-developer-financial-data-visualization-truflation/86047",
       "company_name": "Truflation",
-      "description": "dev finance non tech senior ethereum"
-    },
-    {
-      "title": "Senior Fullstack Engineer",
-      "link": "https://web3.career/senior-fullstack-engineer-absinthe-labs/74472",
-      "company_name": "Absinthe Labs",
-      "description": "engineer full stack senior aws blockchain"
-    },
-    {
-      "title": "Junior Backend Engineer",
-      "link": "https://web3.career/junior-backend-engineer-sideshift-ai/70059",
-      "company_name": "SideShift.ai",
-      "description": "backend engineer junior entry level blockchain"
-    },
-    {
-      "title": "Tech lead OnChain Data Indexing",
-      "link": "https://web3.career/tech-lead-for-on-chain-data-indexing-keyko/67403",
-      "company_name": "Keyko",
-      "description": "lead tech lead api blockchain engineer"
-    },
-    {
-      "title": "Software Engineer Full Stack 2024",
-      "link": "https://web3.career/software-engineer-full-stack-2024-paragonsdao/61084",
-      "company_name": "ParagonsDAO",
-      "description": "dev full stack aws dataops erc"
+      "description": "dev finance non tech"
     }
   ]
 }

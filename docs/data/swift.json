@@ -1,86 +1,38 @@
 {
   "skill": "swift",
   "label": "Swift",
-  "count": 13,
-  "updated_at": "2026-07-13T09:35:27.500639+00:00",
+  "count": 5,
+  "updated_at": "2026-07-20T09:22:26.587572+00:00",
   "jobs": [
+    {
+      "title": "Senior iOS Engineer",
+      "description": "Tandem is the leading global language learning community, where more than 30 million members from over 200 countries practice languages together. The concept of learning from each other is not only an integral part of the Tandem community but it is also at the heart of our everyday lives at Tandem. This shared connection through...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-ios-engineer-tandem/",
+      "company_name": "Tandem"
+    },
     {
       "title": "iOS Engineer Swift Onboarding Verification",
       "link": "https://web3.career/ios-engineer-swift-onboarding-verification-bitpanda/149017",
       "company_name": "Bitpanda",
-      "description": "engineer ios mobile swift crypto"
+      "description": "engineer ios mobile"
     },
     {
       "title": "iOS Engineer Swift Trading Experience",
       "link": "https://web3.career/ios-engineer-swift-trading-experience-bitpanda/149018",
       "company_name": "Bitpanda",
-      "description": "engineer ios mobile swift crypto"
+      "description": "engineer ios mobile"
     },
     {
       "title": "Member of Product Stablecoins SWIFT Integration",
       "link": "https://web3.career/member-of-product-stablecoins-swift-integration-anchorage/148767",
       "company_name": "Anchorage Digital",
-      "description": "integration product manager non tech swift mobile"
+      "description": "integration product manager non tech"
     },
     {
       "title": "Senior Software Engineer Mobile iOS Swift",
       "link": "https://web3.career/senior-software-engineer-mobile-ios-swift-chirulabs/95736",
       "company_name": "Chiru Labs",
-      "description": "engineer ios mobile senior dev"
-    },
-    {
-      "title": "Staff iOS Engineer",
-      "link": "https://web3.career/staff-ios-engineer-floor/55275",
-      "company_name": "Floor",
-      "description": "dev ios mobile blockchain kotlin"
-    },
-    {
-      "title": "Web3 Senior iOS Developer",
-      "link": "https://web3.career/web3-senior-ios-developer-popoo/43508",
-      "company_name": "Popoo",
-      "description": "dev ios mobile senior aws"
-    },
-    {
-      "title": "iOS Developer Swift",
-      "link": "https://web3.career/ios-developer-swift-binance/37303",
-      "company_name": "Binance",
-      "description": "dev ios mobile swift computer science"
-    },
-    {
-      "title": "Senior iOS Developer SwiftCMC",
-      "link": "https://web3.career/senior-ios-developer-swift-cmc-binance/33911",
-      "company_name": "Binance",
-      "description": "dev ios mobile senior swift"
-    },
-    {
-      "title": "Heymate iOS Developer web3 Swift",
-      "link": "https://web3.career/heymate-ios-developer-web3-swift-braintrust/15905",
-      "company_name": "Braintrust",
-      "description": "dev ios mobile swift solidity"
-    },
-    {
-      "title": "Senior iOS Developer Swift",
-      "link": "https://web3.career/senior-ios-developer-swift-binance/11122",
-      "company_name": "Binance",
-      "description": "dev ios mobile senior swift"
-    },
-    {
-      "title": "iOS Developer Swift; Mid to Senior",
-      "link": "https://web3.career/ios-developer-swift-mid-to-senior-binance/8499",
-      "company_name": "Binance",
-      "description": "dev ios mobile senior swift"
-    },
-    {
-      "title": "Senior iOS Developer Swift",
-      "link": "https://web3.career/senior-ios-developer-swift-binance/7712",
-      "company_name": "Binance",
-      "description": "dev ios mobile senior swift"
-    },
-    {
-      "title": "iOS Developer Swift; Mid to Senior",
-      "link": "https://web3.career/ios-developer-swift-mid-to-senior-binance/7709",
-      "company_name": "Binance",
-      "description": "dev ios mobile senior swift"
+      "description": "engineer ios mobile"
     }
   ]
 }

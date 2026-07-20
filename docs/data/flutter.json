@@ -2,7 +2,7 @@
   "skill": "flutter",
   "label": "Flutter",
   "count": 16,
-  "updated_at": "2026-07-13T09:36:25.307178+00:00",
+  "updated_at": "2026-07-20T09:23:27.605061+00:00",
   "jobs": [
     {
       "title": "Senior Full-Stack Developer / Data Scientist (remote-friendly)",
@@ -11,94 +11,94 @@
       "company_name": "AIDAR"
     },
     {
+      "title": "Flutter Developer DeFi",
+      "link": "https://web3.career/flutter-developer-defi-kast/151405",
+      "company_name": "Kast",
+      "description": "dev flutter aws"
+    },
+    {
       "title": "Flutter Developer",
       "link": "https://web3.career/flutter-developer-kast/147507",
       "company_name": "Kast",
-      "description": "dev flutter aws crypto solana"
+      "description": "dev flutter aws"
     },
     {
       "title": "Lead Flutter Developer",
       "link": "https://web3.career/lead-flutter-developer-kast/147506",
       "company_name": "Kast",
-      "description": "dev flutter lead aws crypto"
+      "description": "dev flutter lead"
     },
     {
       "title": "Senior Mobile Engineer Flutter Consumer App",
       "link": "https://web3.career/senior-mobile-engineer-flutter-consumer-app-moonshot-money/147437",
       "company_name": "moonshot.money",
-      "description": "engineer flutter mobile senior crypto"
+      "description": "engineer flutter mobile"
     },
     {
       "title": "Staff Mobile Engineer Flutter Consumer App",
       "link": "https://web3.career/staff-mobile-engineer-flutter-consumer-app-moonshot-money/147434",
       "company_name": "moonshot.money",
-      "description": "engineer flutter mobile crypto defi"
+      "description": "engineer flutter mobile"
     },
     {
       "title": "Senior Mobile Engineer iOS Android Flutter",
       "link": "https://web3.career/senior-mobile-engineer-ios-android-flutter-binance/143584",
       "company_name": "Binance",
-      "description": "android mobile engineer flutter ios"
+      "description": "android mobile engineer"
     },
     {
       "title": "Flutterdeveloper Crypto Wallet Web3",
       "link": "https://web3.career/flutter-developer-crypto-wallet-web3-gomining/108433",
       "company_name": "GoMining",
-      "description": "dev flutter bitcoin crypto dapp"
+      "description": "dev flutter bitcoin"
     },
     {
       "title": "Senior Flutter Mobile Engineer",
       "link": "https://web3.career/senior-flutter-mobile-engineer-busha/106119",
       "company_name": "Busha",
-      "description": "engineer flutter mobile senior bitcoin"
+      "description": "engineer flutter mobile"
     },
     {
       "title": "Senior Flutter Engineer",
       "link": "https://web3.career/senior-flutter-engineer-windrangerlabs/105600",
       "company_name": "Windranger Labs",
-      "description": "engineer flutter senior crypto java"
+      "description": "engineer flutter senior"
     },
     {
       "title": "QA Engineer Mobile + Web Flutter",
       "link": "https://web3.career/qa-engineer-mobile-web-flutter-emperia/103651",
       "company_name": "Emperia",
-      "description": "engineer flutter mobile quality assurance blockchain"
+      "description": "engineer flutter mobile"
     },
     {
       "title": "Flutter Developer",
       "link": "https://web3.career/flutter-developer-unlimit/102385",
       "company_name": "Unlimit",
-      "description": "dev flutter crypto defi"
+      "description": "dev flutter crypto"
     },
     {
       "title": "Flutter Mobile Engineer",
       "link": "https://web3.career/flutter-mobile-engineer-woo/95670",
       "company_name": "Woo",
-      "description": "engineer flutter mobile crypto remote"
+      "description": "engineer flutter mobile"
     },
     {
       "title": "Senior APP Developer Flutter",
       "link": "https://web3.career/senior-app-developer-flutter-gate-io/98400",
       "company_name": "Gate.io",
-      "description": "dev flutter senior remote"
+      "description": "dev flutter senior"
     },
     {
       "title": "Experienced Flutter Engineer",
       "link": "https://web3.career/experienced-flutter-engineer-bitso/92783",
       "company_name": "Bitso",
-      "description": "engineer flutter crypto java kotlin"
+      "description": "engineer flutter crypto"
     },
     {
       "title": "APP Developer（Flutter）",
       "link": "https://web3.career/app-developer-flutter-gate-io/85264",
       "company_name": "Gate.io",
       "description": "dev flutter remote"
-    },
-    {
-      "title": "Flutter Developer Dubai Base Crypto Exchange Chinese Speaking",
-      "link": "https://web3.career/flutter-developer-dubai-base-crypto-exchange-chinese-speaking-nahc/80672",
-      "company_name": "nahc.io",
-      "description": "dev flutter crypto chinese"
     }
   ]
 }

@@ -2,97 +2,97 @@
   "skill": "terraform",
   "label": "Terraform",
   "count": 15,
-  "updated_at": "2026-07-13T09:36:16.811619+00:00",
+  "updated_at": "2026-07-20T09:23:17.153496+00:00",
   "jobs": [
     {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-bitfit-labs-pte-ltd/149139",
-      "company_name": "BITFIT LABS PTE LTD",
-      "description": "devops engineer senior aws bitcoin"
+      "title": "Infrastructure Systems Operations Engineer Junior to Mid",
+      "link": "https://web3.career/infrastructure-systems-operations-engineer-junior-to-mid-zigchain/151392",
+      "company_name": "ZIGChain",
+      "description": "infrastructure engineer junior"
     },
     {
       "title": "Senior DevOps Engineer",
       "link": "https://web3.career/senior-devops-engineer-figment/55120",
       "company_name": "Figment",
-      "description": "devops dev senior blockchain kubernetes"
+      "description": "devops dev senior"
     },
     {
       "title": "DevOps Engineer",
       "link": "https://web3.career/devops-engineer-figment/432",
       "company_name": "Figment",
-      "description": "devops dev crypto kubernetes remote"
-    },
-    {
-      "title": "Ares: Senior+ Fullstack Engineer BackendLeaning",
-      "link": "https://web3.career/ares-senior-fullstack-engineer-backend-leaning-ares/107266",
-      "company_name": "Ares",
-      "description": "backend engineer full stack senior crypto"
+      "description": "devops dev crypto"
     },
     {
       "title": "Senior Staff Devops Engineer Terram Security Solutions",
       "link": "https://web3.career/senior-staff-devops-engineer-terraform-security-solutions-zscaler/104117",
       "company_name": "Zscaler",
-      "description": "terraform devops engineer security senior"
+      "description": "terraform devops engineer"
     },
     {
       "title": "Senior Devops Engineer Terram Security Solutions",
       "link": "https://web3.career/senior-devops-engineer-terraform-security-solutions-zscaler/104116",
       "company_name": "Zscaler",
-      "description": "terraform devops engineer security senior"
-    },
-    {
-      "title": "Principal Software Engineer Platm",
-      "link": "https://web3.career/principal-software-engineer-platform-brighthire-search-partners/97799",
-      "company_name": "BrightHire Search Partners",
-      "description": "engineer executive dev api aws"
+      "description": "terraform devops engineer"
     },
     {
       "title": "Blockchain Data Engineer",
       "link": "https://web3.career/blockchain-data-engineer-nethermind/32077",
       "company_name": "Nethermind",
-      "description": "data science dev blockchain scala java"
-    },
-    {
-      "title": "Blockchain Infrastructure Engineer AEST time zone",
-      "link": "https://web3.career/blockchain-infrastructure-engineer-aest-time-zone-twinstake-uk-limited/92473",
-      "company_name": "Twinstake UK Limited",
-      "description": "infrastructure engineer blockchain aws crypto"
-    },
-    {
-      "title": "DevOps Engineer",
-      "link": "https://web3.career/devops-engineer-number-group/90119",
-      "company_name": "NUMBER GROUP",
-      "description": "devops engineer aws ci cd docker"
-    },
-    {
-      "title": "Senior Devops EngineerStakeway",
-      "link": "https://web3.career/senior-devops-engineer-stakeway-gateway-fm/85556",
-      "company_name": "Gateway.FM",
-      "description": "devops engineer senior agile blockchain"
+      "description": "data science dev blockchain"
     },
     {
       "title": "Senior DevOps Engineer",
       "link": "https://web3.career/senior-devops-engineer-monad/59724",
       "company_name": "Monad",
-      "description": "devops dev senior blockchain crypto"
+      "description": "devops dev senior"
     },
     {
       "title": "Senior DevOps Engineer",
       "link": "https://web3.career/senior-devops-engineer-figure/56908",
       "company_name": "Figure",
-      "description": "devops dev senior blockchain golang"
+      "description": "devops dev senior"
     },
     {
-      "title": "Platm Engineer Kubernetes Terram",
-      "link": "https://web3.career/platform-engineer-kubernetes-terraform-rhino-fi/67042",
-      "company_name": "Rhino.fi",
-      "description": "terraform engineer kubernetes blockchain defi"
+      "title": "Software Engineer in Test Integrations",
+      "link": "https://web3.career/software-engineer-in-test-integrations-chainlink/62961",
+      "company_name": "Chainlink Labs",
+      "description": "quality assurance engineer integration"
     },
     {
-      "title": "DevOps Site Reliability Engineer",
-      "link": "https://web3.career/devops-site-reliability-engineer-gelato/66091",
-      "company_name": "Gelato",
-      "description": "engineer devops reliability aws ci cd"
+      "title": "Software Engineer Control Center",
+      "link": "https://web3.career/software-engineer-control-center-coinbase/62920",
+      "company_name": "Coinbase",
+      "description": "engineer dev remote"
+    },
+    {
+      "title": "Site Reliability Engineer Release Engineering",
+      "link": "https://web3.career/site-reliability-engineer-release-engineering-chainlink/62860",
+      "company_name": "Chainlink Labs",
+      "description": "engineer reliability remote"
+    },
+    {
+      "title": "Senior DevOps Engineer Engineering Operations",
+      "link": "https://web3.career/senior-devops-engineer-engineering-operations-chainlink/62858",
+      "company_name": "Chainlink Labs",
+      "description": "engineer devops operations"
+    },
+    {
+      "title": "Software Engineer Frontend Agent Cockpit",
+      "link": "https://web3.career/software-engineer-frontend-agent-cockpit-coinbase/62817",
+      "company_name": "Coinbase",
+      "description": "engineer front end dev"
+    },
+    {
+      "title": "Enterprise Infrastructure Architect",
+      "link": "https://web3.career/enterprise-infrastructure-architect-crypto-com/62564",
+      "company_name": "Crypto.com",
+      "description": "infrastructure architecture aws"
+    },
+    {
+      "title": "DevOps Architect Individual contributor role",
+      "link": "https://web3.career/devops-architect-individual-contributor-role-binance/62497",
+      "company_name": "Binance",
+      "description": "architecture devops aws"
     }
   ]
 }

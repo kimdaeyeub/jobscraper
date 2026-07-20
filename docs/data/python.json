@@ -2,7 +2,7 @@
   "skill": "python",
   "label": "Python",
   "count": 20,
-  "updated_at": "2026-07-13T09:35:10.804728+00:00",
+  "updated_at": "2026-07-20T09:22:14.670313+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -35,46 +35,52 @@
       "company_name": "AIDAR"
     },
     {
-      "title": "Python Engineer Asset Pricing Hedging",
-      "link": "https://web3.career/python-engineer-asset-pricing-hedging-bitpanda/103283",
-      "company_name": "Bitpanda",
-      "description": "engineer python aws blockchain crypto"
-    },
-    {
       "title": "Software Engineer Python Asset Pricing Hedging",
       "link": "https://web3.career/software-engineer-python-asset-pricing-hedging-bitpanda/149554",
       "company_name": "Bitpanda",
-      "description": "engineer python dev aws blockchain"
+      "description": "engineer python dev"
+    },
+    {
+      "title": "Infrastructure Systems Operations Engineer Junior to Mid",
+      "link": "https://web3.career/infrastructure-systems-operations-engineer-junior-to-mid-zigchain/151392",
+      "company_name": "ZIGChain",
+      "description": "infrastructure engineer junior"
+    },
+    {
+      "title": "Python Engineer Asset Pricing Hedging",
+      "link": "https://web3.career/python-engineer-asset-pricing-hedging-bitpanda/103283",
+      "company_name": "Bitpanda",
+      "description": "engineer python aws"
     },
     {
       "title": "Software Engineer Rust Python Asset Pricing Hedging",
       "link": "https://web3.career/software-engineer-rust-python-asset-pricing-hedging-bitpanda/150010",
       "company_name": "Bitpanda",
-      "description": "engineer python rust dev aws"
+      "description": "engineer python rust"
     },
     {
       "title": "Senior QA Engineer Exploratory Python Trading Technologies",
       "link": "https://web3.career/senior-qa-engineer-exploratory-python-trading-technologies-binance/150664",
       "company_name": "Binance",
-      "description": "engineer python quality assurance senior blockchain"
+      "description": "engineer python quality assurance"
     },
     {
       "title": "Senior Software Development Engineer in Test Automation Python Trading Technologies",
       "link": "https://web3.career/senior-software-development-engineer-in-test-automation-python-trading-technologies-binance/150607",
       "company_name": "Binance",
-      "description": "quality assurance engineer python senior dev"
+      "description": "quality assurance engineer python"
     },
     {
       "title": "IT Junior Python Developer London",
       "link": "https://web3.career/it-junior-python-developer-london-b2c2/144971",
       "company_name": "B2c2",
-      "description": "dev junior entry level python aws"
+      "description": "dev junior entry level"
     },
     {
       "title": "Senior Software Engineer Python Asset Pricing Hedging",
       "link": "https://web3.career/senior-software-engineer-python-asset-pricing-hedging-bitpanda/101436",
       "company_name": "Bitpanda",
-      "description": "engineer python senior dev aws"
+      "description": "engineer python senior"
     },
     {
       "title": "Software Developer Python DV Equities",
@@ -83,46 +89,40 @@
       "description": "dev python remote"
     },
     {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-bitfit-labs-pte-ltd/149139",
-      "company_name": "BITFIT LABS PTE LTD",
-      "description": "devops engineer senior aws bitcoin"
-    },
-    {
-      "title": "Product Engineer",
-      "link": "https://web3.career/product-engineer-sherlock/149056",
-      "company_name": "Sherlock",
-      "description": "engineer ai blockchain crypto defi"
-    },
-    {
       "title": "Senior Solutions Engineer API Python Node.JS",
       "link": "https://web3.career/senior-solutions-engineer-api-python-node-js-binance/148589",
       "company_name": "Binance",
-      "description": "javascript ai api engineer node"
-    },
-    {
-      "title": "Financial Analyst",
-      "link": "https://web3.career/financial-analyst-divergence-vc/148576",
-      "company_name": "Divergence VC",
-      "description": "analyst finance non tech bitcoin blockchain"
+      "description": "javascript ai api"
     },
     {
       "title": "Senior API Solutions Engineer Python Node.JS",
       "link": "https://web3.career/senior-api-solutions-engineer-python-node-js-binance/146936",
       "company_name": "Binance",
-      "description": "javascript api engineer node python"
+      "description": "javascript api engineer"
     },
     {
       "title": "JrMid Python Developer Accounting Team",
       "link": "https://web3.career/jr-mid-python-developer-accounting-team-b2c2/138510",
       "company_name": "B2c2",
-      "description": "accounting dev junior entry level python"
+      "description": "accounting dev junior"
     },
     {
       "title": "Lead Python Developer DeFi Infrastructure",
       "link": "https://web3.career/lead-python-developer-defi-infrastructure-connecthum/145672",
       "company_name": "ConnectHum",
-      "description": "infrastructure dev lead python blockchain"
+      "description": "infrastructure dev lead"
+    },
+    {
+      "title": "Security Engineer Python",
+      "link": "https://web3.career/security-engineer-python-binance/144925",
+      "company_name": "Binance",
+      "description": "engineer python security"
+    },
+    {
+      "title": "Principal Software Engineer Backend Python Golang",
+      "link": "https://web3.career/principal-software-engineer-backend-python-golang-zscaler/143950",
+      "company_name": "Zscaler",
+      "description": "backend engineer golang"
     }
   ]
 }

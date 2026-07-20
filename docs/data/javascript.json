@@ -2,7 +2,7 @@
   "skill": "javascript",
   "label": "JavaScript",
   "count": 17,
-  "updated_at": "2026-07-13T09:35:11.880066+00:00",
+  "updated_at": "2026-07-20T09:22:15.405185+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -17,94 +17,94 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "AI Web Fullstack Developer Node Javascript React",
-      "link": "https://web3.career/ai-web-fullstack-developer-node-javascript-react-binance/151302",
+      "title": "Crypto Block Chain Engineer",
+      "link": "https://web3.career/crypto-block-chain-engineer-irissoftwareinc/151491",
+      "company_name": "Iris Software Inc.",
+      "description": "engineer aws bitcoin"
+    },
+    {
+      "title": "Product Manager Operation",
+      "link": "https://web3.career/product-manager-operation-binance/151473",
       "company_name": "Binance",
-      "description": "ai dev full stack javascript node"
+      "description": "product manager non tech blockchain"
     },
     {
-      "title": "Senior React Developer",
-      "link": "https://web3.career/senior-react-developer-golang-cz/151267",
-      "company_name": "golang.cz",
-      "description": "dev javascript react senior blockchain"
-    },
-    {
-      "title": "Full Stack Engineer",
-      "link": "https://web3.career/full-stack-engineer-web3creators/151265",
-      "company_name": "Web3creators",
-      "description": "engineer full stack aws blockchain crypto"
-    },
-    {
-      "title": "Backend Engineer",
-      "link": "https://web3.career/backend-engineer-web3creators/151264",
-      "company_name": "Web3creators",
-      "description": "backend engineer aws blockchain crypto"
-    },
-    {
-      "title": "Cashen : Quality Assurance Automation Engineer",
-      "link": "https://web3.career/cashen-quality-assurance-automation-engineer-ergonia/151236",
-      "company_name": "Ergonia",
-      "description": "quality assurance engineer crypto javascript react"
-    },
-    {
-      "title": "Solidity Engineer Only US Citizen and Green Card Tampa FL Jersey City NJ Texas City TX Hybrid",
-      "link": "https://web3.career/solidity-engineer-only-us-citizen-and-green-card-tampa-fl-jersey-city-nj-texas-city-tx-hybrid-ampstek/151234",
+      "title": "Solidity Engineer Only US Citizen and Green Card Tampa FL Jersey City NJ Texas City TX Remote",
+      "link": "https://web3.career/solidity-engineer-only-us-citizen-and-green-card-tampa-fl-jersey-city-nj-texas-city-tx-remote-ampstek/151462",
       "company_name": "Ampstek",
-      "description": "engineer ethereum blockchain defi hardhat"
+      "description": "remote engineer ethereum"
     },
     {
-      "title": "Sr. Staff Software Development Engineer",
-      "link": "https://web3.career/sr-staff-software-development-engineer-zscaler/101646",
-      "company_name": "Zscaler",
-      "description": "engineer dev senior aws javascript"
-    },
-    {
-      "title": "Graduate Software Engineer UI",
-      "link": "https://web3.career/graduate-software-engineer-ui-elwoodtechnologies/151200",
-      "company_name": "Elwoodtechnologies",
-      "description": "engineer intern entry level dev design"
-    },
-    {
-      "title": "UI Engineer",
-      "link": "https://web3.career/ui-engineer-taxbit/151184",
-      "company_name": "Taxbit",
-      "description": "engineer design non tech aws crypto"
-    },
-    {
-      "title": "Web App Test Engineer",
-      "link": "https://web3.career/web-app-test-engineer-binance/151130",
+      "title": "Web Frontend Engineer Camera Video Image Recognition",
+      "link": "https://web3.career/web-frontend-engineer-camera-video-image-recognition-binance/151388",
       "company_name": "Binance",
-      "description": "engineer quality assurance blockchain crypto java"
-    },
-    {
-      "title": "Binance Accelerator Program Software Engineer Backend + AI LLM",
-      "link": "https://web3.career/binance-accelerator-program-software-engineer-backend-ai-llm-binance/151129",
-      "company_name": "Binance",
-      "description": "ai backend engineer dev aws"
+      "description": "engineer front end video"
     },
     {
       "title": "Senior Software Development Engineer",
       "link": "https://web3.career/senior-software-development-engineer-zscaler/106335",
       "company_name": "Zscaler",
-      "description": "engineer senior dev javascript tailwind"
+      "description": "engineer senior dev"
     },
     {
       "title": "Senior Software Engineer Angular B2C Web Platm",
       "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
       "company_name": "Bitpanda",
-      "description": "c c plus plus javascript angular engineer"
+      "description": "c c plus plus javascript"
     },
     {
       "title": "FrontEnd Engineer Institutional",
       "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
       "company_name": "Blockchain",
-      "description": "engineer front end blockchain crypto javascript"
+      "description": "engineer front end blockchain"
+    },
+    {
+      "title": "UI Engineer",
+      "link": "https://web3.career/ui-engineer-taxbit/151184",
+      "company_name": "Taxbit",
+      "description": "engineer design non tech"
+    },
+    {
+      "title": "Sr. Security Engineer",
+      "link": "https://web3.career/sr-security-engineer-brave/151347",
+      "company_name": "Brave",
+      "description": "engineer security senior"
     },
     {
       "title": "Quality Assurance Engineer",
       "link": "https://web3.career/quality-assurance-engineer-brave/46151",
       "company_name": "Brave",
-      "description": "dev quality assurance javascript crypto remote"
+      "description": "dev quality assurance javascript"
+    },
+    {
+      "title": "Solutions Engineer",
+      "link": "https://web3.career/solutions-engineer-bitgo/149986",
+      "company_name": "Bitgo",
+      "description": "engineer bitcoin blockchain"
+    },
+    {
+      "title": "Blockchain Smart Contract Engineer",
+      "link": "https://web3.career/blockchain-smart-contract-engineer-hallmarkglobalsolutionsltd/151333",
+      "company_name": "Hallmark Global Solutions Ltd",
+      "description": "engineer blockchain ethereum"
+    },
+    {
+      "title": "Solidity Smart Contract Developer",
+      "link": "https://web3.career/solidity-smart-contract-developer-vmcsofttechnologies-inc/151332",
+      "company_name": "VMC Soft Technologies, Inc",
+      "description": "dev ethereum hardhat"
+    },
+    {
+      "title": "Solidity Developer",
+      "link": "https://web3.career/solidity-developer-techclubinc/151331",
+      "company_name": "TechClub Inc",
+      "description": "dev ethereum hardhat"
+    },
+    {
+      "title": "Solidity Engineer USC GC",
+      "link": "https://web3.career/solidity-engineer-usc-gc-ampstek/151330",
+      "company_name": "Ampstek",
+      "description": "engineer ethereum blockchain"
     }
   ]
 }

@@ -2,97 +2,97 @@
   "skill": "aws",
   "label": "AWS",
   "count": 15,
-  "updated_at": "2026-07-13T09:36:11.297127+00:00",
+  "updated_at": "2026-07-20T09:23:11.095902+00:00",
   "jobs": [
     {
-      "title": "Remote Solidity Developer",
-      "link": "https://web3.career/remote-solidity-developer-rg-amp-tsolutions/151293",
-      "company_name": "RG&amp;T Solutions",
-      "description": "remote dev ethereum aws blockchain"
-    },
-    {
-      "title": "Senior Go Developer web3",
-      "link": "https://web3.career/senior-go-developer-web3-golang-cz/151266",
-      "company_name": "golang.cz",
-      "description": "dev golang senior aws blockchain"
-    },
-    {
-      "title": "Full Stack Engineer",
-      "link": "https://web3.career/full-stack-engineer-web3creators/151265",
-      "company_name": "Web3creators",
-      "description": "engineer full stack aws blockchain crypto"
-    },
-    {
-      "title": "Backend Engineer",
-      "link": "https://web3.career/backend-engineer-web3creators/151264",
-      "company_name": "Web3creators",
-      "description": "backend engineer aws blockchain crypto"
-    },
-    {
-      "title": "FIU Data Analyst Bengalaru",
-      "link": "https://web3.career/fiu-data-analyst-bengalaru-moonpay/151241",
-      "company_name": "MoonPay",
-      "description": "analyst data science aws blockchain crypto"
-    },
-    {
-      "title": "KYC Compliance Analyst",
-      "link": "https://web3.career/kyc-compliance-analyst-kast/151238",
+      "title": "Senior Security Engineer",
+      "link": "https://web3.career/senior-security-engineer-kast/151525",
       "company_name": "Kast",
-      "description": "compliance non tech kyc analyst aws"
+      "description": "engineer security senior"
     },
     {
-      "title": "Senior Legal Counsel Regulatory",
-      "link": "https://web3.career/senior-legal-counsel-regulatory-kast/151237",
-      "company_name": "Kast",
-      "description": "legal senior aws crypto solana"
+      "title": "Crypto Block Chain Engineer",
+      "link": "https://web3.career/crypto-block-chain-engineer-irissoftwareinc/151491",
+      "company_name": "Iris Software Inc.",
+      "description": "engineer aws bitcoin"
     },
     {
-      "title": "Sr. Staff Site Reliability Engineer Linux Network troubleshooting Scripting",
-      "link": "https://web3.career/sr-staff-site-reliability-engineer-linux-network-troubleshooting-scripting-zscaler/151216",
+      "title": "Staff ML Systems Engineer Media Intelligence",
+      "link": "https://web3.career/staff-ml-systems-engineer-media-intelligence-tetheroperationslimited/151474",
+      "company_name": "Tether Operations Limited",
+      "description": "engineer machine learning ai"
+    },
+    {
+      "title": "Software Engineer Stablecoin",
+      "link": "https://web3.career/software-engineer-stablecoin-vigil/151459",
+      "company_name": "Vigil",
+      "description": "engineer dev aws"
+    },
+    {
+      "title": "Senior Machine Learning Engineer Agentic AI",
+      "link": "https://web3.career/senior-machine-learning-engineer-agentic-ai-zscaler/151435",
       "company_name": "Zscaler",
-      "description": "engineer linux reliability senior aws"
+      "description": "ai engineer machine learning"
     },
     {
-      "title": "Sr. Staff Software Development Engineer",
-      "link": "https://web3.career/sr-staff-software-development-engineer-zscaler/101646",
-      "company_name": "Zscaler",
-      "description": "engineer dev senior aws javascript"
+      "title": "Site Reliability Engineer Cloudflare Ingress Core Infrastructure",
+      "link": "https://web3.career/site-reliability-engineer-cloudflare-ingress-core-infrastructure-kraken/151429",
+      "company_name": "Kraken",
+      "description": "infrastructure engineer reliability"
     },
     {
-      "title": "Staff Engineer I",
-      "link": "https://web3.career/staff-engineer-i-inmobi/151206",
-      "company_name": "Inmobi",
-      "description": "engineer aws react tensorflow pytorch"
+      "title": "Rust Engineer Trading Systems",
+      "link": "https://web3.career/rust-engineer-trading-systems-keyrock/151427",
+      "company_name": "Keyrock",
+      "description": "engineer rust aws"
     },
     {
-      "title": "Software Engineer Back End",
-      "link": "https://web3.career/software-engineer-back-end-elwoodtechnologies/151201",
-      "company_name": "Elwoodtechnologies",
-      "description": "backend engineer dev aws crypto"
+      "title": "Software Engineer Python Asset Pricing Hedging",
+      "link": "https://web3.career/software-engineer-python-asset-pricing-hedging-bitpanda/149554",
+      "company_name": "Bitpanda",
+      "description": "engineer python dev"
     },
     {
-      "title": "Senior GRC Engineer Trust",
-      "link": "https://web3.career/senior-grc-engineer-trust-chainalysis/151197",
-      "company_name": "Chainalysis",
-      "description": "engineer senior aws blockchain crypto"
+      "title": "Infrastructure Security Manager",
+      "link": "https://web3.career/infrastructure-security-manager-chainlinklabs/151425",
+      "company_name": "Chainlink Labs",
+      "description": "infrastructure security aws"
     },
     {
-      "title": "UI Engineer",
-      "link": "https://web3.career/ui-engineer-taxbit/151184",
-      "company_name": "Taxbit",
-      "description": "engineer design non tech aws crypto"
+      "title": "Data Engineer",
+      "link": "https://web3.career/data-engineer-bitpanda/151421",
+      "company_name": "Bitpanda",
+      "description": "data science engineer aws"
     },
     {
-      "title": "Agentic AI Engineer",
-      "link": "https://web3.career/agentic-ai-engineer-taxbit/151183",
-      "company_name": "Taxbit",
-      "description": "ai engineer aws crypto typescript"
+      "title": "BackEnd Engineer Trading",
+      "link": "https://web3.career/back-end-engineer-trading-blockchain/151412",
+      "company_name": "Blockchain",
+      "description": "backend engineer aws"
     },
     {
-      "title": "Principal Architect",
-      "link": "https://web3.career/principal-architect-kast/151175",
+      "title": "Assistant HR People Manager",
+      "link": "https://web3.career/assistant-hr-people-manager-kast/151406",
       "company_name": "Kast",
-      "description": "architecture executive aws crypto solana"
+      "description": "hr non tech recruiter"
+    },
+    {
+      "title": "Flutter Developer DeFi",
+      "link": "https://web3.career/flutter-developer-defi-kast/151405",
+      "company_name": "Kast",
+      "description": "dev flutter aws"
+    },
+    {
+      "title": "Solutions Architect US",
+      "link": "https://web3.career/solutions-architect-us-blockdaemon/151399",
+      "company_name": "Blockdaemon",
+      "description": "architecture aws bitcoin"
+    },
+    {
+      "title": "Infrastructure Systems Operations Engineer",
+      "link": "https://web3.career/infrastructure-systems-operations-engineer-zigchain/151395",
+      "company_name": "ZIGChain",
+      "description": "infrastructure engineer operations"
     }
   ]
 }

@@ -1,98 +1,62 @@
 {
   "skill": "css",
   "label": "CSS",
-  "count": 15,
-  "updated_at": "2026-07-13T09:36:41.722960+00:00",
+  "count": 9,
+  "updated_at": "2026-07-20T09:23:42.774251+00:00",
   "jobs": [
     {
       "title": "Web App Developer HTML JavaScript CSS Go",
       "link": "https://web3.career/web-app-developer-html-javascript-css-go-crypto-banter/138798",
       "company_name": "Crypto Banter",
-      "description": "css dev golang html javascript"
+      "description": "css dev golang"
     },
     {
       "title": "Senior Product Engineer",
       "link": "https://web3.career/senior-product-engineer-polymarket/70227",
       "company_name": "Polymarket",
-      "description": "engineer senior crypto css decentralize"
-    },
-    {
-      "title": "Develop onchain tools Solana",
-      "link": "https://web3.career/develop-on-chain-tools-for-solana-solchronicles/95535",
-      "company_name": "SolChronicles",
-      "description": "blockchain css discord java javascript"
-    },
-    {
-      "title": "Full Stack Frontend Software Engineer MidLevel",
-      "link": "https://web3.career/full-stack-front-end-software-engineer-mid-level-regen-network-development-pbc/95815",
-      "company_name": "Regen Network Development PBC",
-      "description": "engineer front end full stack dev blockchain"
-    },
-    {
-      "title": "Senior Frontend Engineer web3",
-      "link": "https://web3.career/senior-frontend-engineer-web3-cow-dao-cow-swap/94259",
-      "company_name": "CoW DAO (CoW Swap)",
-      "description": "engineer front end senior aws blockchain"
-    },
-    {
-      "title": "Senior Frontend Engineer web3",
-      "link": "https://web3.career/senior-frontend-engineer-web3-cow-dao-cow-swap/90724",
-      "company_name": "CoW DAO (CoW Swap)",
-      "description": "engineer front end senior aws blockchain"
-    },
-    {
-      "title": "Senior Front End Engineer",
-      "link": "https://web3.career/senior-front-end-engineer-blackwing-fi/63699",
-      "company_name": "Blackwing.fi",
-      "description": "engineer front end senior crypto css"
+      "description": "engineer senior crypto"
     },
     {
       "title": "CSS P2P",
       "link": "https://web3.career/css-p2p-wallet/70347",
       "company_name": "Wallet",
-      "description": "css blockchain crypto remote"
-    },
-    {
-      "title": "Senior FrontEnd Engineer",
-      "link": "https://web3.career/senior-front-end-engineer-internet-game/68315",
-      "company_name": "Internet Game",
-      "description": "engineer front end senior css gaming"
+      "description": "css blockchain crypto"
     },
     {
       "title": "CSS Styling focused FrontEnd Engineer",
       "link": "https://web3.career/css-styling-focused-front-end-engineer-multiversx/67673",
       "company_name": "MultiversX",
-      "description": "engineer css front end blockchain javascript"
-    },
-    {
-      "title": "Engineering Lead",
-      "link": "https://web3.career/engineering-lead-web3-recruit/64781",
-      "company_name": "Web3 Recruit",
-      "description": "lead aws css ethereumjs nextjs"
-    },
-    {
-      "title": "Junior FrontEnd Developer",
-      "link": "https://web3.career/junior-front-end-developer-number-group/64701",
-      "company_name": "Number Group",
-      "description": "dev front end junior entry level css"
-    },
-    {
-      "title": "Web3 Community Administrator",
-      "link": "https://web3.career/web3-community-administrator-cartan-group-llc/62702",
-      "company_name": "Cartan Group LLC",
-      "description": "admin community manager non tech css defi"
-    },
-    {
-      "title": "Senior Frontend Engineer TypeScript React",
-      "link": "https://web3.career/senior-frontend-engineer-typescript-react-payy/64276",
-      "company_name": "Payy",
-      "description": "typescript engineer front end javascript react"
+      "description": "engineer css front end"
     },
     {
       "title": "Web Developer",
       "link": "https://web3.career/web-developer-bluesky/49660",
       "company_name": "Bluesky",
-      "description": "dev css front end javascript react"
+      "description": "dev css front end"
+    },
+    {
+      "title": "FrontEnd Engineer",
+      "link": "https://web3.career/front-end-engineer-starkware/45494",
+      "company_name": "Starkware",
+      "description": "dev front end blockchain"
+    },
+    {
+      "title": "Frontend UI Web Developer",
+      "link": "https://web3.career/frontend-ui-web-developer-etherscan/43160",
+      "company_name": "Etherscan",
+      "description": "dev front end design"
+    },
+    {
+      "title": "UI Developer HTML5 CSS3",
+      "link": "https://web3.career/ui-developer-html5-css3-polysynth/35430",
+      "company_name": "Polysynth (Defi)",
+      "description": "css dev html"
+    },
+    {
+      "title": "Frontend Developer HTML5 CSS3",
+      "link": "https://web3.career/frontend-developer-html5-css3-polysynth/32080",
+      "company_name": "Polysynth (Defi)",
+      "description": "css dev front end"
     }
   ]
 }
