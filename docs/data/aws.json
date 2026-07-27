@@ -2,97 +2,97 @@
   "skill": "aws",
   "label": "AWS",
   "count": 15,
-  "updated_at": "2026-07-20T09:23:11.095902+00:00",
+  "updated_at": "2026-07-27T09:59:23.468865+00:00",
   "jobs": [
     {
-      "title": "Senior Security Engineer",
-      "link": "https://web3.career/senior-security-engineer-kast/151525",
-      "company_name": "Kast",
-      "description": "engineer security senior"
-    },
-    {
-      "title": "Crypto Block Chain Engineer",
-      "link": "https://web3.career/crypto-block-chain-engineer-irissoftwareinc/151491",
+      "title": "Crypto Technology Engineer",
+      "link": "https://web3.career/crypto-technology-engineer-irissoftwareinc/151857",
       "company_name": "Iris Software Inc.",
       "description": "engineer aws bitcoin"
     },
     {
-      "title": "Staff ML Systems Engineer Media Intelligence",
-      "link": "https://web3.career/staff-ml-systems-engineer-media-intelligence-tetheroperationslimited/151474",
-      "company_name": "Tether Operations Limited",
-      "description": "engineer machine learning ai"
+      "title": "DevOps Engineer",
+      "link": "https://web3.career/devops-engineer-confirmo/151836",
+      "company_name": "Confirmo",
+      "description": "devops engineer aws"
     },
     {
-      "title": "Software Engineer Stablecoin",
-      "link": "https://web3.career/software-engineer-stablecoin-vigil/151459",
-      "company_name": "Vigil",
-      "description": "engineer dev aws"
+      "title": "Blockchain Solutions Architect",
+      "link": "https://web3.career/blockchain-solutions-architect-oplabs/151827",
+      "company_name": "OP Labs",
+      "description": "architecture blockchain aws"
     },
     {
-      "title": "Senior Machine Learning Engineer Agentic AI",
-      "link": "https://web3.career/senior-machine-learning-engineer-agentic-ai-zscaler/151435",
+      "title": "Sr. Staff Software Engineer UI UX",
+      "link": "https://web3.career/sr-staff-software-engineer-ui-ux-zscaler/151804",
       "company_name": "Zscaler",
-      "description": "ai engineer machine learning"
+      "description": "engineer dev senior"
     },
     {
-      "title": "Site Reliability Engineer Cloudflare Ingress Core Infrastructure",
-      "link": "https://web3.career/site-reliability-engineer-cloudflare-ingress-core-infrastructure-kraken/151429",
-      "company_name": "Kraken",
-      "description": "infrastructure engineer reliability"
+      "title": "Senior Lead Security Engineer Red team",
+      "link": "https://web3.career/senior-lead-security-engineer-red-team-coinhako/151789",
+      "company_name": "Coinhako",
+      "description": "engineer lead security"
     },
     {
-      "title": "Rust Engineer Trading Systems",
-      "link": "https://web3.career/rust-engineer-trading-systems-keyrock/151427",
-      "company_name": "Keyrock",
-      "description": "engineer rust aws"
+      "title": "INTERNATIONAL PROJECT MANAGER",
+      "link": "https://web3.career/international-project-manager-beamwallet/151716",
+      "company_name": "Beam Wallet",
+      "description": "project manager non tech aws"
     },
     {
-      "title": "Software Engineer Python Asset Pricing Hedging",
-      "link": "https://web3.career/software-engineer-python-asset-pricing-hedging-bitpanda/149554",
-      "company_name": "Bitpanda",
-      "description": "engineer python dev"
+      "title": "Senior Infrastructure Engineer — IDC BareMetal Kubernetes",
+      "link": "https://web3.career/senior-infrastructure-engineer-idc-bare-metal-kubernetes-binance/151712",
+      "company_name": "Binance",
+      "description": "infrastructure engineer kubernetes"
     },
     {
-      "title": "Infrastructure Security Manager",
-      "link": "https://web3.career/infrastructure-security-manager-chainlinklabs/151425",
-      "company_name": "Chainlink Labs",
-      "description": "infrastructure security aws"
+      "title": "Principal Software Development Engineer",
+      "link": "https://web3.career/principal-software-development-engineer-zscaler/99841",
+      "company_name": "Zscaler",
+      "description": "engineer executive dev"
     },
     {
-      "title": "Data Engineer",
-      "link": "https://web3.career/data-engineer-bitpanda/151421",
-      "company_name": "Bitpanda",
-      "description": "data science engineer aws"
+      "title": "Staff Site Reliability Engineer",
+      "link": "https://web3.career/staff-site-reliability-engineer-zscaler/106117",
+      "company_name": "Zscaler",
+      "description": "engineer reliability aws"
     },
     {
-      "title": "BackEnd Engineer Trading",
-      "link": "https://web3.career/back-end-engineer-trading-blockchain/151412",
-      "company_name": "Blockchain",
-      "description": "backend engineer aws"
+      "title": "Sr. Production Engineer",
+      "link": "https://web3.career/sr-production-engineer-zscaler/150565",
+      "company_name": "Zscaler",
+      "description": "engineer senior aws"
     },
     {
-      "title": "Assistant HR People Manager",
-      "link": "https://web3.career/assistant-hr-people-manager-kast/151406",
-      "company_name": "Kast",
-      "description": "hr non tech recruiter"
+      "title": "Escalation Engineer DLP",
+      "link": "https://web3.career/escalation-engineer-dlp-zscaler/148637",
+      "company_name": "Zscaler",
+      "description": "engineer aws remote"
     },
     {
-      "title": "Flutter Developer DeFi",
-      "link": "https://web3.career/flutter-developer-defi-kast/151405",
-      "company_name": "Kast",
-      "description": "dev flutter aws"
+      "title": "Escalation Engineer AI Security",
+      "link": "https://web3.career/escalation-engineer-ai-security-zscaler/141505",
+      "company_name": "Zscaler",
+      "description": "ai engineer security"
     },
     {
-      "title": "Solutions Architect US",
-      "link": "https://web3.career/solutions-architect-us-blockdaemon/151399",
-      "company_name": "Blockdaemon",
-      "description": "architecture aws bitcoin"
+      "title": "Senior Technical Success Manager",
+      "link": "https://web3.career/senior-technical-success-manager-zscaler/145190",
+      "company_name": "Zscaler",
+      "description": "sales non tech senior"
     },
     {
-      "title": "Infrastructure Systems Operations Engineer",
-      "link": "https://web3.career/infrastructure-systems-operations-engineer-zigchain/151395",
-      "company_name": "ZIGChain",
-      "description": "infrastructure engineer operations"
+      "title": "Quant Developer Rust Liquidity Platm Delta One Systematic Trading",
+      "link": "https://web3.career/quant-developer-rust-liquidity-platform-delta-one-systematic-trading-okx/145502",
+      "company_name": "Okx",
+      "description": "dev sales non tech"
+    },
+    {
+      "title": "Senior Security Engineer",
+      "link": "https://web3.career/senior-security-engineer-nearfoundation/149563",
+      "company_name": "Nearfoundation",
+      "description": "engineer security senior"
     }
   ]
 }

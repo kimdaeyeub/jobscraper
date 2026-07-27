@@ -2,43 +2,55 @@
   "skill": "rust",
   "label": "Rust",
   "count": 15,
-  "updated_at": "2026-07-20T09:22:21.434446+00:00",
+  "updated_at": "2026-07-27T09:58:32.510644+00:00",
   "jobs": [
     {
-      "title": "Remote Founding Engineer Backend",
-      "link": "https://web3.career/remote-founding-engineer-backend-lssolutions/151524",
-      "company_name": "LS Solutions",
-      "description": "founding engineer engineer founding member"
+      "title": "Engineering Manager Blockchain",
+      "link": "https://web3.career/engineering-manager-blockchain-anchorage/151824",
+      "company_name": "Anchorage Digital",
+      "description": "engineering manager engineer blockchain"
     },
     {
-      "title": "Portfolio Manager",
-      "link": "https://web3.career/portfolio-manager-albertbow/151495",
-      "company_name": "Albert Bow",
-      "description": "finance crypto rust"
+      "title": "Binance Accelerator Program Software Engineer Cryptography",
+      "link": "https://web3.career/binance-accelerator-program-software-engineer-cryptography-binance/151809",
+      "company_name": "Binance",
+      "description": "cryptography engineer dev"
     },
     {
-      "title": "Rust Engineer Trading Systems",
-      "link": "https://web3.career/rust-engineer-trading-systems-keyrock/151427",
-      "company_name": "Keyrock",
-      "description": "engineer rust aws"
+      "title": "Snr QA Automation Engineer Pro",
+      "link": "https://web3.career/snr-qa-automation-engineer-pro-kraken/151792",
+      "company_name": "Kraken",
+      "description": "engineer quality assurance crypto"
     },
     {
-      "title": "Experienced SMA Trader Systematic Strategies",
-      "link": "https://web3.career/experienced-sma-trader-systematic-strategies-kronosresearch/151410",
-      "company_name": "Kronosresearch",
-      "description": "trader blockchain crypto"
+      "title": "Senior Software Engineer Block Production",
+      "link": "https://web3.career/senior-software-engineer-block-production-anza/151765",
+      "company_name": "Anza",
+      "description": "engineer senior dev"
     },
     {
-      "title": "Senior Blockchain Engineer",
-      "link": "https://web3.career/senior-blockchain-engineer-amazechsolutions/151401",
-      "company_name": "Amazech Solutions",
-      "description": "engineer senior blockchain"
+      "title": "DeFi Trader Proprietary Trading",
+      "link": "https://web3.career/defi-trader-proprietary-trading-radleyjames/151762",
+      "company_name": "Radley James",
+      "description": "trader blockchain defi"
     },
     {
-      "title": "Solutions Architect US",
-      "link": "https://web3.career/solutions-architect-us-blockdaemon/151399",
-      "company_name": "Blockdaemon",
-      "description": "architecture aws bitcoin"
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-oneafricamarkets/151727",
+      "company_name": "One Africa Markets",
+      "description": "dev senior blockchain"
+    },
+    {
+      "title": "Crypto Blockchain Engineer",
+      "link": "https://web3.career/crypto-blockchain-engineer-irissoftwareinc/151724",
+      "company_name": "Iris Software Inc.",
+      "description": "engineer blockchain crypto"
+    },
+    {
+      "title": "Head of Solutions Engineering",
+      "link": "https://web3.career/head-of-solutions-engineering-offchainlabs/151708",
+      "company_name": "Offchain",
+      "description": "executive remote blockchain"
     },
     {
       "title": "Principal Software Development Engineer",
@@ -65,34 +77,22 @@
       "description": "engineer blockchain crypto"
     },
     {
-      "title": "Senior Software Engineer Rust Payward Services",
-      "link": "https://web3.career/senior-software-engineer-rust-payward-services-kraken/151366",
-      "company_name": "Kraken",
-      "description": "engineer rust senior"
+      "title": "Software Engineer Data",
+      "link": "https://web3.career/software-engineer-data-dune/151685",
+      "company_name": "Dune",
+      "description": "engineer dev bitcoin"
     },
     {
-      "title": "Staff Engineer Market Data",
-      "link": "https://web3.career/staff-engineer-market-data-dourolabs/151360",
-      "company_name": "Douro Labs",
-      "description": "engineer crypto rust"
+      "title": "Senior Software Engineer Trading",
+      "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev"
     },
     {
       "title": "Senior Software Engineer Market Data",
       "link": "https://web3.career/senior-software-engineer-market-data-alpaca/99655",
       "company_name": "Alpaca",
       "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior BackEnd Engineer Trading Platm",
-      "link": "https://web3.career/senior-back-end-engineer-trading-platform-blockchain/98044",
-      "company_name": "Blockchain",
-      "description": "backend engineer senior"
-    },
-    {
-      "title": "Experienced Quantitative Trader",
-      "link": "https://web3.career/experienced-quantitative-trader-kronosresearch/100108",
-      "company_name": "Kronosresearch",
-      "description": "quantitative quantitative trader trader"
     }
   ]
 }

@@ -2,13 +2,31 @@
   "skill": "vue",
   "label": "Vue",
   "count": 15,
-  "updated_at": "2026-07-20T09:22:34.614494+00:00",
+  "updated_at": "2026-07-27T09:58:47.869952+00:00",
   "jobs": [
+    {
+      "title": "Engineering Director Frontend Business Lead",
+      "link": "https://web3.career/engineering-director-frontend-business-lead-okx/147552",
+      "company_name": "Okx",
+      "description": "executive front end lead"
+    },
+    {
+      "title": "Engineering Director Frontend",
+      "link": "https://web3.career/engineering-director-frontend-okx/147551",
+      "company_name": "Okx",
+      "description": "executive front end blockchain"
+    },
     {
       "title": "Software Engineer Intern Fullstack 12 Month Internship",
       "link": "https://web3.career/software-engineer-intern-fullstack-12-month-internship-bitpanda/151423",
       "company_name": "Bitpanda",
       "description": "engineer full stack intern"
+    },
+    {
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain"
     },
     {
       "title": "Web Frontend Engineer Camera Video Image Recognition",
@@ -21,18 +39,6 @@
       "link": "https://web3.career/client-full-stack-engineer-im-chat-platform-android-focus-binance/151384",
       "company_name": "Binance",
       "description": "android mobile engineer"
-    },
-    {
-      "title": "Engineering Director Frontend Business Lead",
-      "link": "https://web3.career/engineering-director-frontend-business-lead-okx/147552",
-      "company_name": "Okx",
-      "description": "executive front end lead"
-    },
-    {
-      "title": "Engineering Director Frontend",
-      "link": "https://web3.career/engineering-director-frontend-okx/147551",
-      "company_name": "Okx",
-      "description": "executive front end blockchain"
     },
     {
       "title": "Staff Product Designer future opportunities",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/devops-site-reliability-engineer-okx/150381",
       "company_name": "Okx",
       "description": "devops engineer reliability"
-    },
-    {
-      "title": "Staff Software Engineer",
-      "link": "https://web3.career/staff-software-engineer-shakepay/65680",
-      "company_name": "Shakepay",
-      "description": "engineer dev crypto"
     }
   ]
 }

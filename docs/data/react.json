@@ -2,7 +2,7 @@
   "skill": "react",
   "label": "React",
   "count": 18,
-  "updated_at": "2026-07-20T09:22:30.962655+00:00",
+  "updated_at": "2026-07-27T09:58:44.810807+00:00",
   "jobs": [
     {
       "title": "(Senior) Full-Stack Engineer (AI-Assisted 3D / CAD / BIM Development)",
@@ -23,22 +23,70 @@
       "company_name": "Small Improvements"
     },
     {
-      "title": "Senior Fullstack Engineer Operational Automations",
-      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
-      "company_name": "Alpaca",
-      "description": "engineer full stack operations"
+      "title": "Senior Staff React Native Engineer",
+      "link": "https://web3.career/senior-staff-react-native-engineer-moonpay/151834",
+      "company_name": "MoonPay",
+      "description": "engineer react native mobile"
     },
     {
-      "title": "Web Frontend Engineer Camera Video Image Recognition",
-      "link": "https://web3.career/web-frontend-engineer-camera-video-image-recognition-binance/151388",
-      "company_name": "Binance",
-      "description": "engineer front end video"
+      "title": "Full Stack Software Engineer Web3 SF",
+      "link": "https://web3.career/full-stack-software-engineer-web3-sf-yoloinvestments/151817",
+      "company_name": "Yolo Investments",
+      "description": "engineer full stack dev"
     },
     {
-      "title": "Client FullStack Engineer — IM Chat Platm Android Focus",
-      "link": "https://web3.career/client-full-stack-engineer-im-chat-platform-android-focus-binance/151384",
+      "title": "Sr. Staff Software Engineer UI UX",
+      "link": "https://web3.career/sr-staff-software-engineer-ui-ux-zscaler/151804",
+      "company_name": "Zscaler",
+      "description": "engineer dev senior"
+    },
+    {
+      "title": "Full Stack Engineer",
+      "link": "https://web3.career/full-stack-engineer-launchpadtechnologiesinc/151800",
+      "company_name": "Launchpadtechnologiesinc",
+      "description": "engineer full stack javascript"
+    },
+    {
+      "title": "Social Media and Community Manager",
+      "link": "https://web3.career/social-media-and-community-manager-koinly/151770",
+      "company_name": "Koinly",
+      "description": "community manager non tech social media"
+    },
+    {
+      "title": "Frontend Tech lead AI Agent",
+      "link": "https://web3.career/frontend-tech-lead-ai-agent-binance/151768",
       "company_name": "Binance",
-      "description": "android mobile engineer"
+      "description": "ai front end lead"
+    },
+    {
+      "title": "Pioneer Talent Program Full Stack Engineer AI",
+      "link": "https://web3.career/pioneer-talent-program-full-stack-engineer-ai-binance/151736",
+      "company_name": "Binance",
+      "description": "ai engineer full stack"
+    },
+    {
+      "title": "Full Stack Software Engineer Web3 SF",
+      "link": "https://web3.career/full-stack-software-engineer-web3-sf-mesh/151728",
+      "company_name": "Mesh",
+      "description": "engineer full stack dev"
+    },
+    {
+      "title": "Growth Data Analyst",
+      "link": "https://web3.career/growth-data-analyst-unchaindata/151717",
+      "company_name": "Unchain Data",
+      "description": "growth analyst data science"
+    },
+    {
+      "title": "Pioneer Talent Program Full Stack Engineer Frontend Oriented",
+      "link": "https://web3.career/pioneer-talent-program-full-stack-engineer-front-end-oriented-binance/151715",
+      "company_name": "Binance",
+      "description": "engineer front end full stack"
+    },
+    {
+      "title": "Pioneer Talent Program Full Stack Engineer Backend Oriented",
+      "link": "https://web3.career/pioneer-talent-program-full-stack-engineer-back-end-oriented-binance/151714",
+      "company_name": "Binance",
+      "description": "backend engineer full stack"
     },
     {
       "title": "Engineering Director Mobile Web3",
@@ -59,58 +107,10 @@
       "description": "executive front end blockchain"
     },
     {
-      "title": "Sr Software Engineer Front End",
-      "link": "https://web3.career/sr-software-engineer-front-end-okx/151368",
-      "company_name": "Okx",
-      "description": "engineer front end dev"
-    },
-    {
-      "title": "Senior Software Engineer Angular B2C Web Platm",
-      "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
-      "company_name": "Bitpanda",
-      "description": "c c plus plus javascript"
-    },
-    {
-      "title": "Growth Data Analyst",
-      "link": "https://web3.career/growth-data-analyst-polymarket/151353",
-      "company_name": "Polymarket",
-      "description": "growth analyst data science"
-    },
-    {
-      "title": "Senior Software Engineer New Markets",
-      "link": "https://web3.career/senior-software-engineer-new-markets-alpaca/99656",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "FrontEnd Engineer Institutional",
-      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
-      "company_name": "Blockchain",
-      "description": "engineer front end blockchain"
-    },
-    {
-      "title": "UI Engineer",
-      "link": "https://web3.career/ui-engineer-taxbit/151184",
-      "company_name": "Taxbit",
-      "description": "engineer design non tech"
-    },
-    {
-      "title": "Forward Deployed Engineer",
-      "link": "https://web3.career/forward-deployed-engineer-taxbit/140543",
-      "company_name": "Taxbit",
-      "description": "engineer aws bitcoin"
-    },
-    {
-      "title": "AI Web Fullstack Developer Node Javascript React",
-      "link": "https://web3.career/ai-web-fullstack-developer-node-javascript-react-binance/151302",
-      "company_name": "Binance",
-      "description": "ai dev full stack"
-    },
-    {
-      "title": "Senior React Developer",
-      "link": "https://web3.career/senior-react-developer-golang-cz/151267",
-      "company_name": "golang.cz",
-      "description": "dev javascript react"
+      "title": "Release Management Engineer Mobile",
+      "link": "https://web3.career/release-management-engineer-mobile-phantom/151699",
+      "company_name": "Phantom",
+      "description": "engineer mobile crypto"
     }
   ]
 }

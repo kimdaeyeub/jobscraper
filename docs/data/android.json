@@ -2,25 +2,13 @@
   "skill": "android",
   "label": "Android",
   "count": 16,
-  "updated_at": "2026-07-20T09:23:20.424597+00:00",
+  "updated_at": "2026-07-27T09:59:34.554615+00:00",
   "jobs": [
     {
       "title": "Kotlin Developer (Android / Multiplatform) (m/w/d)",
       "description": "Wir sind apprime, eine innovative Agentur für mobile Anwendungen und plattformübergreifende Lösungen. Unser Fokus liegt auf hochwertiger Softwareentwicklung mit modernsten Technologien, agilen Methoden und höchstem Qualitätsanspruch. Zur Verstärkung unseres Entwicklerteams suchen wir ab sofort einen erfahrenen Senior Kotlin Developer (Android & Multiplatform). Wir suchen dich, wenn du in Berlin wohnst, hierher ziehen möchtest oder in...",
       "link": "https://berlinstartupjobs.com/engineering/kotlin-developer-android-multiplatform-m-w-d-apprime-gmbh/",
       "company_name": "apprime"
-    },
-    {
-      "title": "Android Engineer Camera Video Image Recognition",
-      "link": "https://web3.career/android-engineer-camera-video-image-recognition-binance/151389",
-      "company_name": "Binance",
-      "description": "android mobile engineer"
-    },
-    {
-      "title": "Client FullStack Engineer — IM Chat Platm Android Focus",
-      "link": "https://web3.career/client-full-stack-engineer-im-chat-platform-android-focus-binance/151384",
-      "company_name": "Binance",
-      "description": "android mobile engineer"
     },
     {
       "title": "Engineering Director Mobile iOS Android",
@@ -32,6 +20,18 @@
       "title": "Android Engineer",
       "link": "https://web3.career/android-engineer-bluecubeservices/103709",
       "company_name": "Bluecubeservices",
+      "description": "android mobile engineer"
+    },
+    {
+      "title": "Android Engineer Camera Video Image Recognition",
+      "link": "https://web3.career/android-engineer-camera-video-image-recognition-binance/151389",
+      "company_name": "Binance",
+      "description": "android mobile engineer"
+    },
+    {
+      "title": "Client FullStack Engineer — IM Chat Platm Android Focus",
+      "link": "https://web3.career/client-full-stack-engineer-im-chat-platform-android-focus-binance/151384",
+      "company_name": "Binance",
       "description": "android mobile engineer"
     },
     {

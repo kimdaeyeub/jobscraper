@@ -2,7 +2,7 @@
   "skill": "node",
   "label": "Node.js",
   "count": 16,
-  "updated_at": "2026-07-20T09:22:41.685979+00:00",
+  "updated_at": "2026-07-27T09:58:53.947231+00:00",
   "jobs": [
     {
       "title": "Senior Product Engineer",
@@ -11,94 +11,94 @@
       "company_name": "Kombo"
     },
     {
-      "title": "Blockchain Developer NY NJ Fulltime",
-      "link": "https://web3.career/blockchain-developer-ny-nj-fulltime-altimetrik/151492",
-      "company_name": "Altimetrik",
-      "description": "dev full time blockchain"
+      "title": "Coinbase",
+      "link": "https://web3.career/coinbase-alphakappapsi-chizeta/151861",
+      "company_name": "Alpha Kappa Psi - Chi Zeta",
+      "description": "bitcoin blockchain crypto"
     },
     {
-      "title": "Product Manager Operation",
-      "link": "https://web3.career/product-manager-operation-binance/151473",
+      "title": "Blockchain Architect",
+      "link": "https://web3.career/blockchain-architect-gandivinsightsllc/151854",
+      "company_name": "Gandiv Insights LLC",
+      "description": "architecture blockchain bitcoin"
+    },
+    {
+      "title": "Full Stack Software Engineer Web3 SF",
+      "link": "https://web3.career/full-stack-software-engineer-web3-sf-yoloinvestments/151817",
+      "company_name": "Yolo Investments",
+      "description": "engineer full stack dev"
+    },
+    {
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-smartitframellc/151816",
+      "company_name": "Smart IT Frame LLC",
+      "description": "dev blockchain defi"
+    },
+    {
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-tekshapers/151815",
+      "company_name": "Tekshapers",
+      "description": "dev blockchain ethereum"
+    },
+    {
+      "title": "Full Stack Engineer",
+      "link": "https://web3.career/full-stack-engineer-launchpadtechnologiesinc/151800",
+      "company_name": "Launchpadtechnologiesinc",
+      "description": "engineer full stack javascript"
+    },
+    {
+      "title": "Frontend Tech lead AI Agent",
+      "link": "https://web3.career/frontend-tech-lead-ai-agent-binance/151768",
       "company_name": "Binance",
-      "description": "product manager non tech blockchain"
+      "description": "ai front end lead"
     },
     {
-      "title": "Solutions Architect US",
-      "link": "https://web3.career/solutions-architect-us-blockdaemon/151399",
-      "company_name": "Blockdaemon",
-      "description": "architecture aws bitcoin"
-    },
-    {
-      "title": "Infrastructure Systems Operations Engineer",
-      "link": "https://web3.career/infrastructure-systems-operations-engineer-zigchain/151395",
-      "company_name": "ZIGChain",
-      "description": "infrastructure engineer operations"
-    },
-    {
-      "title": "Infrastructure Systems Operations Engineer Junior to Mid",
-      "link": "https://web3.career/infrastructure-systems-operations-engineer-junior-to-mid-zigchain/151392",
-      "company_name": "ZIGChain",
-      "description": "infrastructure engineer junior"
-    },
-    {
-      "title": "Android Engineer Camera Video Image Recognition",
-      "link": "https://web3.career/android-engineer-camera-video-image-recognition-binance/151389",
+      "title": "QA Engineer Frontend Mobile Java Trading",
+      "link": "https://web3.career/qa-engineer-frontend-mobile-java-trading-binance/151763",
       "company_name": "Binance",
-      "description": "android mobile engineer"
+      "description": "engineer front end java"
     },
     {
-      "title": "Web Frontend Engineer Camera Video Image Recognition",
-      "link": "https://web3.career/web-frontend-engineer-camera-video-image-recognition-binance/151388",
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-thoughtstorm/151757",
+      "company_name": "ThoughtStorm",
+      "description": "dev blockchain defi"
+    },
+    {
+      "title": "Blockchain Architect",
+      "link": "https://web3.career/blockchain-architect-thoughtstorm/151755",
+      "company_name": "ThoughtStorm",
+      "description": "architecture blockchain bitcoin"
+    },
+    {
+      "title": "Pioneer Talent Program Full Stack AI Engineer Backend Oriented Fully Remote",
+      "link": "https://web3.career/pioneer-talent-program-full-stack-ai-engineer-backend-oriented-fully-remote-binance/151743",
       "company_name": "Binance",
-      "description": "engineer front end video"
+      "description": "remote ai backend"
     },
     {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
-      "company_name": "Bcbgroup",
-      "description": "engineer full stack senior"
-    },
-    {
-      "title": "Security Architect Agentic AI",
-      "link": "https://web3.career/security-architect-agentic-ai-zscaler/151372",
-      "company_name": "Zscaler",
-      "description": "ai architecture security"
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
-      "company_name": "Layerzerolabs",
-      "description": "engineer reliability blockchain"
-    },
-    {
-      "title": "Senior Site Reliability Engineer",
-      "link": "https://web3.career/senior-site-reliability-engineer-bloxstaking/148505",
-      "company_name": "Bloxstaking",
-      "description": "engineer reliability senior"
-    },
-    {
-      "title": "Blockchain Engineer",
-      "link": "https://web3.career/blockchain-engineer-infosys/151334",
-      "company_name": "Infosys",
-      "description": "engineer blockchain angular"
-    },
-    {
-      "title": "AI Web Fullstack Developer Node Javascript React",
-      "link": "https://web3.career/ai-web-fullstack-developer-node-javascript-react-binance/151302",
+      "title": "Binance Accelerator Program Full Stack Engineer",
+      "link": "https://web3.career/binance-accelerator-program-full-stack-engineer-binance/151738",
       "company_name": "Binance",
-      "description": "ai dev full stack"
+      "description": "engineer full stack blockchain"
     },
     {
-      "title": "Director of Engineering USA",
-      "link": "https://web3.career/director-of-engineering-usa-nexus/151211",
-      "company_name": "Nexus",
-      "description": "executive blockchain kubernetes"
+      "title": "Binance Accelerator Program Full Stack Engineer AI",
+      "link": "https://web3.career/binance-accelerator-program-full-stack-engineer-ai-binance/151737",
+      "company_name": "Binance",
+      "description": "ai engineer full stack"
     },
     {
-      "title": "Staff Product Designer future opportunities",
-      "link": "https://web3.career/staff-product-designer-future-opportunities-shakepay/151185",
-      "company_name": "Shakepay",
-      "description": "product designer design non tech"
+      "title": "Pioneer Talent Program Full Stack Engineer AI",
+      "link": "https://web3.career/pioneer-talent-program-full-stack-engineer-ai-binance/151736",
+      "company_name": "Binance",
+      "description": "ai engineer full stack"
+    },
+    {
+      "title": "Full Stack Software Engineer Web3 SF",
+      "link": "https://web3.career/full-stack-software-engineer-web3-sf-mesh/151728",
+      "company_name": "Mesh",
+      "description": "engineer full stack dev"
     }
   ]
 }

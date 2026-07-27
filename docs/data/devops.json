@@ -2,7 +2,7 @@
   "skill": "devops",
   "label": "DevOps",
   "count": 17,
-  "updated_at": "2026-07-20T09:23:17.699862+00:00",
+  "updated_at": "2026-07-27T09:59:30.451389+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
@@ -17,10 +17,10 @@
       "company_name": "alcemy"
     },
     {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-alpaca/99650",
-      "company_name": "Alpaca",
-      "description": "devops engineer senior"
+      "title": "DevOps Engineer",
+      "link": "https://web3.career/devops-engineer-confirmo/151836",
+      "company_name": "Confirmo",
+      "description": "devops engineer aws"
     },
     {
       "title": "SDE III Devops",
@@ -38,6 +38,12 @@
       "title": "Senior DevOps Engineer",
       "link": "https://web3.career/senior-devops-engineer-bitpanda/75931",
       "company_name": "Bitpanda",
+      "description": "devops engineer senior"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-alpaca/99650",
+      "company_name": "Alpaca",
       "description": "devops engineer senior"
     },
     {
@@ -99,12 +105,6 @@
       "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-hong-kong-crypto-com/149817",
       "company_name": "Crypto.com",
       "description": "devops engineer senior"
-    },
-    {
-      "title": "DevOps Engineer Blockchain Digital Assets",
-      "link": "https://web3.career/devops-engineer-blockchain-digital-assets-n3xt/149787",
-      "company_name": "N3XT",
-      "description": "devops finance non tech"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "skill": "java",
   "label": "Java",
   "count": 16,
-  "updated_at": "2026-07-20T09:22:17.084957+00:00",
+  "updated_at": "2026-07-27T09:58:26.432888+00:00",
   "jobs": [
     {
       "title": "Senior Fullstack Developer with Product Mindset",
@@ -11,94 +11,94 @@
       "company_name": "Small Improvements"
     },
     {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-altimetrik/151493",
-      "company_name": "Altimetrik",
-      "description": "dev blockchain docker"
+      "title": "Backend Blockchain Engineer – Java Spring Web3",
+      "link": "https://web3.career/backend-blockchain-engineer-java-spring-web3-glglobal/151890",
+      "company_name": "GL Global",
+      "description": "backend engineer java"
     },
     {
-      "title": "Blockchain Developer NY NJ Fulltime",
-      "link": "https://web3.career/blockchain-developer-ny-nj-fulltime-altimetrik/151492",
-      "company_name": "Altimetrik",
-      "description": "dev full time blockchain"
-    },
-    {
-      "title": "Crypto Block Chain Engineer",
-      "link": "https://web3.career/crypto-block-chain-engineer-irissoftwareinc/151491",
+      "title": "Crypto Technology Engineer",
+      "link": "https://web3.career/crypto-technology-engineer-irissoftwareinc/151857",
       "company_name": "Iris Software Inc.",
       "description": "engineer aws bitcoin"
     },
     {
-      "title": "Product Manager Operation",
-      "link": "https://web3.career/product-manager-operation-binance/151473",
+      "title": "Blockchain Consultant",
+      "link": "https://web3.career/blockchain-consultant-altimetrik/151856",
+      "company_name": "Altimetrik",
+      "description": "consulting blockchain ethereum"
+    },
+    {
+      "title": "Blockchain Architect",
+      "link": "https://web3.career/blockchain-architect-gandivinsightsllc/151854",
+      "company_name": "Gandiv Insights LLC",
+      "description": "architecture blockchain bitcoin"
+    },
+    {
+      "title": "DevOps Engineer",
+      "link": "https://web3.career/devops-engineer-confirmo/151836",
+      "company_name": "Confirmo",
+      "description": "devops engineer aws"
+    },
+    {
+      "title": "Web3 Security Senior Software Engineer Java",
+      "link": "https://web3.career/web3-security-senior-software-engineer-java-binance/151832",
       "company_name": "Binance",
-      "description": "product manager non tech blockchain"
+      "description": "engineer java security"
     },
     {
-      "title": "Software Engineer Stablecoin",
-      "link": "https://web3.career/software-engineer-stablecoin-vigil/151459",
-      "company_name": "Vigil",
-      "description": "engineer dev aws"
+      "title": "Full Stack Software Engineer Web3 SF",
+      "link": "https://web3.career/full-stack-software-engineer-web3-sf-yoloinvestments/151817",
+      "company_name": "Yolo Investments",
+      "description": "engineer full stack dev"
     },
     {
-      "title": "Software Engineer Intern Fullstack 12 Month Internship",
-      "link": "https://web3.career/software-engineer-intern-fullstack-12-month-internship-bitpanda/151423",
-      "company_name": "Bitpanda",
-      "description": "engineer full stack intern"
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-smartitframellc/151816",
+      "company_name": "Smart IT Frame LLC",
+      "description": "dev blockchain defi"
     },
     {
-      "title": "Senior Blockchain Engineer",
-      "link": "https://web3.career/senior-blockchain-engineer-amazechsolutions/151401",
-      "company_name": "Amazech Solutions",
-      "description": "engineer senior blockchain"
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-tekshapers/151815",
+      "company_name": "Tekshapers",
+      "description": "dev blockchain ethereum"
     },
     {
-      "title": "Binance Accelerator Program Java Backend Engineer",
-      "link": "https://web3.career/binance-accelerator-program-java-backend-engineer-binance/151390",
-      "company_name": "Binance",
-      "description": "backend engineer java"
-    },
-    {
-      "title": "Android Engineer Camera Video Image Recognition",
-      "link": "https://web3.career/android-engineer-camera-video-image-recognition-binance/151389",
-      "company_name": "Binance",
-      "description": "android mobile engineer"
-    },
-    {
-      "title": "Web Frontend Engineer Camera Video Image Recognition",
-      "link": "https://web3.career/web-frontend-engineer-camera-video-image-recognition-binance/151388",
-      "company_name": "Binance",
-      "description": "engineer front end video"
-    },
-    {
-      "title": "Client FullStack Engineer — IM Chat Platm Android Focus",
-      "link": "https://web3.career/client-full-stack-engineer-im-chat-platform-android-focus-binance/151384",
-      "company_name": "Binance",
-      "description": "android mobile engineer"
-    },
-    {
-      "title": "Backend Architect Pay Card Tech",
-      "link": "https://web3.career/backend-architect-pay-card-tech-binance/151375",
-      "company_name": "Binance",
-      "description": "architecture backend blockchain"
-    },
-    {
-      "title": "Principal Software Development Engineer",
-      "link": "https://web3.career/principal-software-development-engineer-zscaler/99841",
+      "title": "Sr. Staff Software Engineer UI UX",
+      "link": "https://web3.career/sr-staff-software-engineer-ui-ux-zscaler/151804",
       "company_name": "Zscaler",
-      "description": "engineer executive dev"
+      "description": "engineer dev senior"
     },
     {
-      "title": "Staff Site Reliability Engineer",
-      "link": "https://web3.career/staff-site-reliability-engineer-zscaler/106117",
-      "company_name": "Zscaler",
-      "description": "engineer reliability aws"
+      "title": "Senior Backend Engineer Trading Infrastructure",
+      "link": "https://web3.career/senior-backend-engineer-trading-infrastructure-sfox/151775",
+      "company_name": "Sfox",
+      "description": "infrastructure backend engineer"
     },
     {
-      "title": "System Administrator",
-      "link": "https://web3.career/system-administrator-zinnia/151371",
-      "company_name": "Zinnia",
-      "description": "admin sys admin aws"
+      "title": "QA Engineer Frontend Mobile Java Trading",
+      "link": "https://web3.career/qa-engineer-frontend-mobile-java-trading-binance/151763",
+      "company_name": "Binance",
+      "description": "engineer front end java"
+    },
+    {
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-thoughtstorm/151757",
+      "company_name": "ThoughtStorm",
+      "description": "dev blockchain defi"
+    },
+    {
+      "title": "Blockchain Architect",
+      "link": "https://web3.career/blockchain-architect-thoughtstorm/151755",
+      "company_name": "ThoughtStorm",
+      "description": "architecture blockchain bitcoin"
+    },
+    {
+      "title": "Pioneer Talent Program Full Stack AI Engineer Backend Oriented Fully Remote",
+      "link": "https://web3.career/pioneer-talent-program-full-stack-ai-engineer-backend-oriented-fully-remote-binance/151743",
+      "company_name": "Binance",
+      "description": "remote ai backend"
     }
   ]
 }

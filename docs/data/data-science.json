@@ -2,7 +2,7 @@
   "skill": "data-science",
   "label": "Data Science",
   "count": 19,
-  "updated_at": "2026-07-20T09:23:19.723935+00:00",
+  "updated_at": "2026-07-27T09:59:31.316794+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -29,10 +29,10 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Data Engineer",
-      "link": "https://web3.career/data-engineer-bitpanda/151421",
-      "company_name": "Bitpanda",
-      "description": "data science engineer aws"
+      "title": "Growth Data Analyst",
+      "link": "https://web3.career/growth-data-analyst-unchaindata/151717",
+      "company_name": "Unchain Data",
+      "description": "growth analyst data science"
     },
     {
       "title": "Data Engineer",
@@ -65,16 +65,28 @@
       "description": "scientist analyst data science"
     },
     {
+      "title": "Data Engineer Data Platm",
+      "link": "https://web3.career/data-engineer-data-platform-coinhako/151682",
+      "company_name": "Coinhako",
+      "description": "data science engineer aws"
+    },
+    {
       "title": "Data Analyst Marketing",
       "link": "https://web3.career/data-analyst-marketing-bluecubeservices/140151",
       "company_name": "Bluecubeservices",
       "description": "analyst data science marketing"
     },
     {
-      "title": "Growth Data Analyst",
-      "link": "https://web3.career/growth-data-analyst-polymarket/151353",
-      "company_name": "Polymarket",
-      "description": "growth analyst data science"
+      "title": "Data Analyst Finance Risk Fraud",
+      "link": "https://web3.career/data-analyst-finance-risk-fraud-coinhako/151681",
+      "company_name": "Coinhako",
+      "description": "analyst data science finance"
+    },
+    {
+      "title": "Data Engineer",
+      "link": "https://web3.career/data-engineer-bitpanda/151421",
+      "company_name": "Bitpanda",
+      "description": "data science engineer aws"
     },
     {
       "title": "Data Scientist",
@@ -83,40 +95,28 @@
       "description": "scientist data science bitcoin"
     },
     {
+      "title": "Senior Data Analyst Trading",
+      "link": "https://web3.career/senior-data-analyst-trading-binance/151610",
+      "company_name": "Binance",
+      "description": "analyst data science senior"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "link": "https://web3.career/senior-data-analyst-moonpay/151564",
+      "company_name": "MoonPay",
+      "description": "analyst data science senior"
+    },
+    {
+      "title": "Growth Data Analyst",
+      "link": "https://web3.career/growth-data-analyst-polymarket/151353",
+      "company_name": "Polymarket",
+      "description": "growth analyst data science"
+    },
+    {
       "title": "FIU Data Analyst Bengalaru",
       "link": "https://web3.career/fiu-data-analyst-bengalaru-moonpay/151241",
       "company_name": "MoonPay",
       "description": "analyst data science aws"
-    },
-    {
-      "title": "Staff Data Scientist",
-      "link": "https://web3.career/staff-data-scientist-ripple/150925",
-      "company_name": "Ripple",
-      "description": "scientist data science blockchain"
-    },
-    {
-      "title": "Senior Data Engineer AI Infrastructure",
-      "link": "https://web3.career/senior-data-engineer-ai-infrastructure-kraken/150687",
-      "company_name": "Kraken",
-      "description": "data science engineer infrastructure"
-    },
-    {
-      "title": "Senior Data Engineer Agents Systems",
-      "link": "https://web3.career/senior-data-engineer-agents-systems-kraken/150686",
-      "company_name": "Kraken",
-      "description": "data science engineer senior"
-    },
-    {
-      "title": "Data Engineer PH",
-      "link": "https://web3.career/data-engineer-ph-coins/150541",
-      "company_name": "Coins.ph",
-      "description": "data science engineer aws"
-    },
-    {
-      "title": "Senior Data Analystシニアデータアナリスト Japan",
-      "link": "https://web3.career/senior-data-analyst-japan-limitbreak/150532",
-      "company_name": "Limit Break",
-      "description": "japan analyst data science"
     }
   ]
 }

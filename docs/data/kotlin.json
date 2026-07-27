@@ -2,19 +2,13 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-07-20T09:22:30.302894+00:00",
+  "updated_at": "2026-07-27T09:58:44.292494+00:00",
   "jobs": [
     {
-      "title": "BackEnd Engineer Trading",
-      "link": "https://web3.career/back-end-engineer-trading-blockchain/151412",
-      "company_name": "Blockchain",
-      "description": "backend engineer aws"
-    },
-    {
-      "title": "Client FullStack Engineer — IM Chat Platm Android Focus",
-      "link": "https://web3.career/client-full-stack-engineer-im-chat-platform-android-focus-binance/151384",
-      "company_name": "Binance",
-      "description": "android mobile engineer"
+      "title": "Software Engineer Data",
+      "link": "https://web3.career/software-engineer-data-dune/151685",
+      "company_name": "Dune",
+      "description": "engineer dev bitcoin"
     },
     {
       "title": "Android Engineer",
@@ -27,6 +21,24 @@
       "link": "https://web3.career/software-engineers-kyc-eligibility-bluecubeservices/139456",
       "company_name": "Bluecubeservices",
       "description": "kyc non tech dev"
+    },
+    {
+      "title": "Staff Engineer Solana",
+      "link": "https://web3.career/staff-engineer-solana-r3/151611",
+      "company_name": "R3",
+      "description": "engineer crypto defi"
+    },
+    {
+      "title": "BackEnd Engineer Trading",
+      "link": "https://web3.career/back-end-engineer-trading-blockchain/151412",
+      "company_name": "Blockchain",
+      "description": "backend engineer aws"
+    },
+    {
+      "title": "Client FullStack Engineer — IM Chat Platm Android Focus",
+      "link": "https://web3.career/client-full-stack-engineer-im-chat-platform-android-focus-binance/151384",
+      "company_name": "Binance",
+      "description": "android mobile engineer"
     },
     {
       "title": "Staff Software Engineer New Markets Japan JLPT N1 Fluent",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/senior-software-engineer-web-full-stack-bitmex/92818",
       "company_name": "Bitmex",
       "description": "engineer full stack senior"
-    },
-    {
-      "title": "Mobile Design Engineer",
-      "link": "https://web3.career/mobile-design-engineer-kraken/150371",
-      "company_name": "Kraken",
-      "description": "design non tech engineer"
-    },
-    {
-      "title": "Software Engineer Payments",
-      "link": "https://web3.career/software-engineer-payments-bluecubeservices/150368",
-      "company_name": "Bluecubeservices",
-      "description": "engineer dev blockchain"
     }
   ]
 }

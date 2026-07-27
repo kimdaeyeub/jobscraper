@@ -2,7 +2,7 @@
   "skill": "angular",
   "label": "Angular",
   "count": 15,
-  "updated_at": "2026-07-20T09:22:38.250596+00:00",
+  "updated_at": "2026-07-27T09:58:50.827258+00:00",
   "jobs": [
     {
       "title": "Senior Full Stack Engineer",
@@ -21,6 +21,18 @@
       "link": "https://web3.career/java-backend-developer-localcoin/78924",
       "company_name": "Localcoin",
       "description": "backend dev java"
+    },
+    {
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-infosys/151605",
+      "company_name": "Infosys",
+      "description": "dev blockchain angular"
+    },
+    {
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain"
     },
     {
       "title": "Blockchain Engineer",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/software-engineer-i-new-grad-aarhus-office-chainalysis/148923",
       "company_name": "Chainalysis",
       "description": "office engineer intern"
-    },
-    {
-      "title": "Senior Technical Product Manager 100% remote Worldwide",
-      "link": "https://web3.career/senior-technical-product-manager-100-remote-worldwide-tetheroperationslimited/148695",
-      "company_name": "Tether Operations Limited",
-      "description": "remote product manager non tech"
-    },
-    {
-      "title": "Software Engineer III",
-      "link": "https://web3.career/software-engineer-iii-zinnia/93829",
-      "company_name": "Zinnia",
-      "description": "engineer dev angular"
     }
   ]
 }
