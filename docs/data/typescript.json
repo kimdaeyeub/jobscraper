@@ -2,7 +2,7 @@
   "skill": "typescript",
   "label": "TypeScript",
   "count": 22,
-  "updated_at": "2026-07-27T09:58:25.932475+00:00",
+  "updated_at": "2026-08-03T09:53:28.504052+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -47,94 +47,94 @@
       "company_name": "Kombo"
     },
     {
-      "title": "Crypto Technology Engineer",
-      "link": "https://web3.career/crypto-technology-engineer-irissoftwareinc/151857",
-      "company_name": "Iris Software Inc.",
-      "description": "engineer aws bitcoin"
-    },
-    {
-      "title": "DevOps Engineer",
-      "link": "https://web3.career/devops-engineer-confirmo/151836",
-      "company_name": "Confirmo",
-      "description": "devops engineer aws"
-    },
-    {
-      "title": "Quant Developer",
-      "link": "https://web3.career/quant-developer-gauntlet/151835",
-      "company_name": "Gauntlet",
-      "description": "dev remote crypto"
-    },
-    {
-      "title": "Engineering Manager Blockchain",
-      "link": "https://web3.career/engineering-manager-blockchain-anchorage/151824",
-      "company_name": "Anchorage Digital",
-      "description": "engineering manager engineer blockchain"
-    },
-    {
       "title": "Full Stack Software Engineer Web3 SF",
-      "link": "https://web3.career/full-stack-software-engineer-web3-sf-yoloinvestments/151817",
-      "company_name": "Yolo Investments",
+      "link": "https://web3.career/full-stack-software-engineer-web3-sf-paradigmoperationslp-al/152187",
+      "company_name": "Paradigm Operations LP-AL",
       "description": "engineer full stack dev"
     },
     {
-      "title": "Sr. Staff Software Engineer UI UX",
-      "link": "https://web3.career/sr-staff-software-engineer-ui-ux-zscaler/151804",
-      "company_name": "Zscaler",
-      "description": "engineer dev senior"
+      "title": "Blockchain Platm Engineer [211940]",
+      "link": "https://web3.career/blockchain-platform-engineer-211940-aquent/152185",
+      "company_name": "Aquent",
+      "description": "engineer blockchain erc 20"
     },
     {
-      "title": "Senior Mobile Developer",
-      "link": "https://web3.career/senior-mobile-developer-launchpadtechnologiesinc/112062",
-      "company_name": "Launchpadtechnologiesinc",
-      "description": "dev mobile senior"
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-anviktechnologies/152184",
+      "company_name": "Anvik Technologies",
+      "description": "dev blockchain erc 20"
     },
     {
-      "title": "Full Stack Engineer",
-      "link": "https://web3.career/full-stack-engineer-launchpadtechnologiesinc/151800",
-      "company_name": "Launchpadtechnologiesinc",
-      "description": "engineer full stack javascript"
+      "title": "Senior Blockchain Engineer",
+      "link": "https://web3.career/senior-blockchain-engineer-ondofinance/152100",
+      "company_name": "Ondo Finance",
+      "description": "engineer senior blockchain"
     },
     {
-      "title": "Senior Software Engineer Quality Engineering",
-      "link": "https://web3.career/senior-software-engineer-quality-engineering-alpaca/151785",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
+      "title": "Staff Software Engineer Frontend Trading",
+      "link": "https://web3.career/staff-software-engineer-frontend-trading-phantom/152073",
+      "company_name": "Phantom",
+      "description": "engineer front end dev"
     },
     {
-      "title": "Frontend Tech lead AI Agent",
-      "link": "https://web3.career/frontend-tech-lead-ai-agent-binance/151768",
-      "company_name": "Binance",
-      "description": "ai front end lead"
+      "title": "FullStack Solana Developer",
+      "link": "https://web3.career/full-stack-solana-developer-fbyt/152053",
+      "company_name": "FBYT",
+      "description": "dev full stack rust"
     },
     {
-      "title": "Pioneer Talent Program Full Stack Engineer AI",
-      "link": "https://web3.career/pioneer-talent-program-full-stack-engineer-ai-binance/151736",
-      "company_name": "Binance",
-      "description": "ai engineer full stack"
+      "title": "Blockchain Engineer Digital Assets Tokenization",
+      "link": "https://web3.career/blockchain-engineer-digital-assets-tokenization-mindlance/152048",
+      "company_name": "Mindlance",
+      "description": "tokenization finance non tech"
     },
     {
-      "title": "Full Stack Software Engineer Web3 SF",
-      "link": "https://web3.career/full-stack-software-engineer-web3-sf-mesh/151728",
-      "company_name": "Mesh",
-      "description": "engineer full stack dev"
+      "title": "Applied AI Engineer",
+      "link": "https://web3.career/applied-ai-engineer-jito-wtf/152041",
+      "company_name": "Jito Labs",
+      "description": "ai engineer blockchain"
     },
     {
-      "title": "Pioneer Talent Program Full Stack Engineer Frontend Oriented",
-      "link": "https://web3.career/pioneer-talent-program-full-stack-engineer-front-end-oriented-binance/151715",
-      "company_name": "Binance",
-      "description": "engineer front end full stack"
+      "title": "Senior Frontend Engineer JTX",
+      "link": "https://web3.career/senior-frontend-engineer-jtx-jito-wtf/152040",
+      "company_name": "Jito Labs",
+      "description": "engineer front end senior"
     },
     {
-      "title": "Pioneer Talent Program Full Stack Engineer Backend Oriented",
-      "link": "https://web3.career/pioneer-talent-program-full-stack-engineer-back-end-oriented-binance/151714",
-      "company_name": "Binance",
-      "description": "backend engineer full stack"
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-dxblockchaingroupfzco/152029",
+      "company_name": "DX Blockchain Group FZCO",
+      "description": "dev blockchain defi"
     },
     {
       "title": "Senior Full Stack Engineer",
       "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
       "company_name": "Bcbgroup",
       "description": "engineer full stack senior"
+    },
+    {
+      "title": "Data Engineer",
+      "link": "https://web3.career/data-engineer-bcbgroup/140602",
+      "company_name": "Bcbgroup",
+      "description": "data science engineer crypto"
+    },
+    {
+      "title": "Senior IT Engineer",
+      "link": "https://web3.career/senior-it-engineer-magiceden/152017",
+      "company_name": "Magic Eden",
+      "description": "engineer senior crypto"
+    },
+    {
+      "title": "Backend Engineer",
+      "link": "https://web3.career/backend-engineer-layerzerolabs/73714",
+      "company_name": "Layerzerolabs",
+      "description": "backend engineer aws"
+    },
+    {
+      "title": "Software Engineer I CCIP",
+      "link": "https://web3.career/software-engineer-i-ccip-chainlinklabs/152002",
+      "company_name": "Chainlink Labs",
+      "description": "engineer dev blockchain"
     }
   ]
 }

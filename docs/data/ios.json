@@ -2,19 +2,19 @@
   "skill": "ios",
   "label": "iOS",
   "count": 15,
-  "updated_at": "2026-07-27T09:59:37.489839+00:00",
+  "updated_at": "2026-08-03T09:54:49.099544+00:00",
   "jobs": [
-    {
-      "title": "Senior Software Engineer iOS Paris",
-      "link": "https://web3.career/senior-software-engineer-ios-paris-sorare/151801",
-      "company_name": "Sorare",
-      "description": "engineer ios mobile"
-    },
     {
       "title": "Engineering Director Mobile iOS Android",
       "link": "https://web3.career/engineering-director-mobile-ios-android-okx/150697",
       "company_name": "Okx",
       "description": "android mobile executive"
+    },
+    {
+      "title": "Senior Software Engineer iOS Paris",
+      "link": "https://web3.career/senior-software-engineer-ios-paris-sorare/151801",
+      "company_name": "Sorare",
+      "description": "engineer ios mobile"
     },
     {
       "title": "iOS Engineer Swift Onboarding Verification",

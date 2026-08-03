@@ -2,7 +2,7 @@
   "skill": "node",
   "label": "Node.js",
   "count": 16,
-  "updated_at": "2026-07-27T09:58:53.947231+00:00",
+  "updated_at": "2026-08-03T09:53:58.431234+00:00",
   "jobs": [
     {
       "title": "Senior Product Engineer",
@@ -11,94 +11,94 @@
       "company_name": "Kombo"
     },
     {
+      "title": "Full Stack Software Engineer Web3 SF",
+      "link": "https://web3.career/full-stack-software-engineer-web3-sf-paradigmoperationslp-al/152187",
+      "company_name": "Paradigm Operations LP-AL",
+      "description": "engineer full stack dev"
+    },
+    {
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-anviktechnologies/152184",
+      "company_name": "Anvik Technologies",
+      "description": "dev blockchain erc 20"
+    },
+    {
+      "title": "Full Stack Architect Digital Assets Tokenization",
+      "link": "https://web3.career/full-stack-architect-digital-assets-tokenization-td/152118",
+      "company_name": "TD",
+      "description": "tokenization architecture finance"
+    },
+    {
+      "title": "Web3 Blockchain Engineer",
+      "link": "https://web3.career/web3-blockchain-engineer-naminfoinc/152087",
+      "company_name": "NAM Info Inc",
+      "description": "engineer blockchain docker"
+    },
+    {
+      "title": "Core Developer Node",
+      "link": "https://web3.career/core-developer-node-parity/152071",
+      "company_name": "Parity",
+      "description": "dev javascript node"
+    },
+    {
+      "title": "Blockchain Engineer Digital Assets Tokenization",
+      "link": "https://web3.career/blockchain-engineer-digital-assets-tokenization-mindlance/152048",
+      "company_name": "Mindlance",
+      "description": "tokenization finance non tech"
+    },
+    {
+      "title": "Fireblocks Implementation Specialist",
+      "link": "https://web3.career/fireblocks-implementation-specialist-purview/152047",
+      "company_name": "PURVIEW",
+      "description": "aws bitcoin blockchain"
+    },
+    {
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-reubencooley/152031",
+      "company_name": "Reuben Cooley",
+      "description": "dev blockchain docker"
+    },
+    {
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-dxblockchaingroupfzco/152029",
+      "company_name": "DX Blockchain Group FZCO",
+      "description": "dev blockchain defi"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
+      "company_name": "Bcbgroup",
+      "description": "engineer full stack senior"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
+      "company_name": "Layerzerolabs",
+      "description": "engineer reliability blockchain"
+    },
+    {
+      "title": "Software Engineer II Gov Systems",
+      "link": "https://web3.career/software-engineer-ii-gov-systems-chainalysis/151999",
+      "company_name": "Chainalysis",
+      "description": "engineer dev aws"
+    },
+    {
+      "title": "Senior Software Engineer Protocol Rust",
+      "link": "https://web3.career/senior-software-engineer-protocol-rust-oplabs/151996",
+      "company_name": "OP Labs",
+      "description": "protocol engineer rust"
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "link": "https://web3.career/senior-site-reliability-engineer-bloxstaking/148505",
+      "company_name": "Bloxstaking",
+      "description": "engineer reliability senior"
+    },
+    {
       "title": "Coinbase",
       "link": "https://web3.career/coinbase-alphakappapsi-chizeta/151861",
       "company_name": "Alpha Kappa Psi - Chi Zeta",
       "description": "bitcoin blockchain crypto"
-    },
-    {
-      "title": "Blockchain Architect",
-      "link": "https://web3.career/blockchain-architect-gandivinsightsllc/151854",
-      "company_name": "Gandiv Insights LLC",
-      "description": "architecture blockchain bitcoin"
-    },
-    {
-      "title": "Full Stack Software Engineer Web3 SF",
-      "link": "https://web3.career/full-stack-software-engineer-web3-sf-yoloinvestments/151817",
-      "company_name": "Yolo Investments",
-      "description": "engineer full stack dev"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-smartitframellc/151816",
-      "company_name": "Smart IT Frame LLC",
-      "description": "dev blockchain defi"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-tekshapers/151815",
-      "company_name": "Tekshapers",
-      "description": "dev blockchain ethereum"
-    },
-    {
-      "title": "Full Stack Engineer",
-      "link": "https://web3.career/full-stack-engineer-launchpadtechnologiesinc/151800",
-      "company_name": "Launchpadtechnologiesinc",
-      "description": "engineer full stack javascript"
-    },
-    {
-      "title": "Frontend Tech lead AI Agent",
-      "link": "https://web3.career/frontend-tech-lead-ai-agent-binance/151768",
-      "company_name": "Binance",
-      "description": "ai front end lead"
-    },
-    {
-      "title": "QA Engineer Frontend Mobile Java Trading",
-      "link": "https://web3.career/qa-engineer-frontend-mobile-java-trading-binance/151763",
-      "company_name": "Binance",
-      "description": "engineer front end java"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-thoughtstorm/151757",
-      "company_name": "ThoughtStorm",
-      "description": "dev blockchain defi"
-    },
-    {
-      "title": "Blockchain Architect",
-      "link": "https://web3.career/blockchain-architect-thoughtstorm/151755",
-      "company_name": "ThoughtStorm",
-      "description": "architecture blockchain bitcoin"
-    },
-    {
-      "title": "Pioneer Talent Program Full Stack AI Engineer Backend Oriented Fully Remote",
-      "link": "https://web3.career/pioneer-talent-program-full-stack-ai-engineer-backend-oriented-fully-remote-binance/151743",
-      "company_name": "Binance",
-      "description": "remote ai backend"
-    },
-    {
-      "title": "Binance Accelerator Program Full Stack Engineer",
-      "link": "https://web3.career/binance-accelerator-program-full-stack-engineer-binance/151738",
-      "company_name": "Binance",
-      "description": "engineer full stack blockchain"
-    },
-    {
-      "title": "Binance Accelerator Program Full Stack Engineer AI",
-      "link": "https://web3.career/binance-accelerator-program-full-stack-engineer-ai-binance/151737",
-      "company_name": "Binance",
-      "description": "ai engineer full stack"
-    },
-    {
-      "title": "Pioneer Talent Program Full Stack Engineer AI",
-      "link": "https://web3.career/pioneer-talent-program-full-stack-engineer-ai-binance/151736",
-      "company_name": "Binance",
-      "description": "ai engineer full stack"
-    },
-    {
-      "title": "Full Stack Software Engineer Web3 SF",
-      "link": "https://web3.career/full-stack-software-engineer-web3-sf-mesh/151728",
-      "company_name": "Mesh",
-      "description": "engineer full stack dev"
     }
   ]
 }

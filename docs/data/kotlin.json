@@ -2,13 +2,31 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-07-27T09:58:44.292494+00:00",
+  "updated_at": "2026-08-03T09:53:43.956519+00:00",
   "jobs": [
     {
-      "title": "Software Engineer Data",
-      "link": "https://web3.career/software-engineer-data-dune/151685",
-      "company_name": "Dune",
-      "description": "engineer dev bitcoin"
+      "title": "Smart Contract Developer",
+      "link": "https://web3.career/smart-contract-developer-easiio-inc/152188",
+      "company_name": "Easiio, Inc",
+      "description": "dev ethereum aws"
+    },
+    {
+      "title": "Blockchain Platm Engineer [211940]",
+      "link": "https://web3.career/blockchain-platform-engineer-211940-aquent/152185",
+      "company_name": "Aquent",
+      "description": "engineer blockchain erc 20"
+    },
+    {
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-anviktechnologies/152184",
+      "company_name": "Anvik Technologies",
+      "description": "dev blockchain erc 20"
+    },
+    {
+      "title": "Blockchain Engineer Digital Assets Tokenization",
+      "link": "https://web3.career/blockchain-engineer-digital-assets-tokenization-mindlance/152048",
+      "company_name": "Mindlance",
+      "description": "tokenization finance non tech"
     },
     {
       "title": "Android Engineer",
@@ -21,6 +39,12 @@
       "link": "https://web3.career/software-engineers-kyc-eligibility-bluecubeservices/139456",
       "company_name": "Bluecubeservices",
       "description": "kyc non tech dev"
+    },
+    {
+      "title": "Software Engineer Data",
+      "link": "https://web3.career/software-engineer-data-dune/151685",
+      "company_name": "Dune",
+      "description": "engineer dev bitcoin"
     },
     {
       "title": "Staff Engineer Solana",
@@ -68,30 +92,6 @@
       "title": "Senior Software Engineer Full Stack",
       "link": "https://web3.career/senior-software-engineer-full-stack-ripple/150915",
       "company_name": "Ripple",
-      "description": "engineer full stack senior"
-    },
-    {
-      "title": "Senior Software Engineer AI Trading",
-      "link": "https://web3.career/senior-software-engineer-ai-trading-okx/150881",
-      "company_name": "Okx",
-      "description": "ai engineer senior"
-    },
-    {
-      "title": "Principal Senior Mobile Engineer Trading Strategies CEX",
-      "link": "https://web3.career/principal-senior-mobile-engineer-trading-strategies-cex-okx/150880",
-      "company_name": "Okx",
-      "description": "engineer mobile executive"
-    },
-    {
-      "title": "Senior Product Security Engineer",
-      "link": "https://web3.career/senior-product-security-engineer-blockchain/150772",
-      "company_name": "Blockchain",
-      "description": "engineer security senior"
-    },
-    {
-      "title": "Senior Software Engineer Web Full Stack",
-      "link": "https://web3.career/senior-software-engineer-web-full-stack-bitmex/92818",
-      "company_name": "Bitmex",
       "description": "engineer full stack senior"
     }
   ]

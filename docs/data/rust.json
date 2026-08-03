@@ -2,55 +2,43 @@
   "skill": "rust",
   "label": "Rust",
   "count": 15,
-  "updated_at": "2026-07-27T09:58:32.510644+00:00",
+  "updated_at": "2026-08-03T09:53:31.843738+00:00",
   "jobs": [
     {
-      "title": "Engineering Manager Blockchain",
-      "link": "https://web3.career/engineering-manager-blockchain-anchorage/151824",
-      "company_name": "Anchorage Digital",
-      "description": "engineering manager engineer blockchain"
+      "title": "Blockchain Platm Engineer [211940]",
+      "link": "https://web3.career/blockchain-platform-engineer-211940-aquent/152185",
+      "company_name": "Aquent",
+      "description": "engineer blockchain erc 20"
     },
     {
-      "title": "Binance Accelerator Program Software Engineer Cryptography",
-      "link": "https://web3.career/binance-accelerator-program-software-engineer-cryptography-binance/151809",
-      "company_name": "Binance",
-      "description": "cryptography engineer dev"
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-anviktechnologies/152184",
+      "company_name": "Anvik Technologies",
+      "description": "dev blockchain erc 20"
     },
     {
-      "title": "Snr QA Automation Engineer Pro",
-      "link": "https://web3.career/snr-qa-automation-engineer-pro-kraken/151792",
-      "company_name": "Kraken",
-      "description": "engineer quality assurance crypto"
+      "title": "Full Stack Architect Digital Assets Tokenization",
+      "link": "https://web3.career/full-stack-architect-digital-assets-tokenization-td/152118",
+      "company_name": "TD",
+      "description": "tokenization architecture finance"
     },
     {
-      "title": "Senior Software Engineer Block Production",
-      "link": "https://web3.career/senior-software-engineer-block-production-anza/151765",
-      "company_name": "Anza",
-      "description": "engineer senior dev"
+      "title": "FullStack Solana Developer",
+      "link": "https://web3.career/full-stack-solana-developer-fbyt/152053",
+      "company_name": "FBYT",
+      "description": "dev full stack rust"
     },
     {
-      "title": "DeFi Trader Proprietary Trading",
-      "link": "https://web3.career/defi-trader-proprietary-trading-radleyjames/151762",
-      "company_name": "Radley James",
-      "description": "trader blockchain defi"
+      "title": "Blockchain Engineer Digital Assets Tokenization",
+      "link": "https://web3.career/blockchain-engineer-digital-assets-tokenization-mindlance/152048",
+      "company_name": "Mindlance",
+      "description": "tokenization finance non tech"
     },
     {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-oneafricamarkets/151727",
-      "company_name": "One Africa Markets",
-      "description": "dev senior blockchain"
-    },
-    {
-      "title": "Crypto Blockchain Engineer",
-      "link": "https://web3.career/crypto-blockchain-engineer-irissoftwareinc/151724",
-      "company_name": "Iris Software Inc.",
-      "description": "engineer blockchain crypto"
-    },
-    {
-      "title": "Head of Solutions Engineering",
-      "link": "https://web3.career/head-of-solutions-engineering-offchainlabs/151708",
-      "company_name": "Offchain",
-      "description": "executive remote blockchain"
+      "title": "Applied AI Engineer",
+      "link": "https://web3.career/applied-ai-engineer-jito-wtf/152041",
+      "company_name": "Jito Labs",
+      "description": "ai engineer blockchain"
     },
     {
       "title": "Principal Software Development Engineer",
@@ -77,10 +65,22 @@
       "description": "engineer blockchain crypto"
     },
     {
-      "title": "Software Engineer Data",
-      "link": "https://web3.career/software-engineer-data-dune/151685",
-      "company_name": "Dune",
-      "description": "engineer dev bitcoin"
+      "title": "Software Engineer I CCIP",
+      "link": "https://web3.career/software-engineer-i-ccip-chainlinklabs/152002",
+      "company_name": "Chainlink Labs",
+      "description": "engineer dev blockchain"
+    },
+    {
+      "title": "Senior Software Engineer Protocol Rust",
+      "link": "https://web3.career/senior-software-engineer-protocol-rust-oplabs/151996",
+      "company_name": "OP Labs",
+      "description": "protocol engineer rust"
+    },
+    {
+      "title": "Software Engineer Rust Python Asset Pricing Hedging",
+      "link": "https://web3.career/software-engineer-rust-python-asset-pricing-hedging-bitpanda/150010",
+      "company_name": "Bitpanda",
+      "description": "engineer python rust"
     },
     {
       "title": "Senior Software Engineer Trading",

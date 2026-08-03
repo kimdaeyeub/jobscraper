@@ -2,7 +2,7 @@
   "skill": "javascript",
   "label": "JavaScript",
   "count": 17,
-  "updated_at": "2026-07-27T09:58:25.405987+00:00",
+  "updated_at": "2026-08-03T09:53:27.365204+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -15,6 +15,66 @@
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
       "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
       "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Smart Contract Developer",
+      "link": "https://web3.career/smart-contract-developer-easiio-inc/152188",
+      "company_name": "Easiio, Inc",
+      "description": "dev ethereum aws"
+    },
+    {
+      "title": "Core Developer Node",
+      "link": "https://web3.career/core-developer-node-parity/152071",
+      "company_name": "Parity",
+      "description": "dev javascript node"
+    },
+    {
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-dxblockchaingroupfzco/152029",
+      "company_name": "DX Blockchain Group FZCO",
+      "description": "dev blockchain defi"
+    },
+    {
+      "title": "Software Engineer II Gov Systems",
+      "link": "https://web3.career/software-engineer-ii-gov-systems-chainalysis/151999",
+      "company_name": "Chainalysis",
+      "description": "engineer dev aws"
+    },
+    {
+      "title": "Software Engineer React Bitpanda Broker",
+      "link": "https://web3.career/software-engineer-react-bitpanda-broker-bitpanda/151991",
+      "company_name": "Bitpanda",
+      "description": "engineer javascript react"
+    },
+    {
+      "title": "Senior Software Engineer Angular B2C Web Platm",
+      "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
+      "company_name": "Bitpanda",
+      "description": "c c plus plus javascript"
+    },
+    {
+      "title": "FrontEnd Engineer Institutional",
+      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
+      "company_name": "Blockchain",
+      "description": "engineer front end blockchain"
+    },
+    {
+      "title": "UI Engineer",
+      "link": "https://web3.career/ui-engineer-taxbit/151184",
+      "company_name": "Taxbit",
+      "description": "engineer design non tech"
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "link": "https://web3.career/quality-assurance-engineer-brave/46151",
+      "company_name": "Brave",
+      "description": "dev quality assurance javascript"
+    },
+    {
+      "title": "Solutions Engineer",
+      "link": "https://web3.career/solutions-engineer-bitgo/149986",
+      "company_name": "Bitgo",
+      "description": "engineer bitcoin blockchain"
     },
     {
       "title": "Crypto Technology Engineer",
@@ -45,66 +105,6 @@
       "link": "https://web3.career/oportunidades-aceleracao-e-desenvolvimento-de-startups-investidoresbrasil/151719",
       "company_name": "Investidores Brasil",
       "description": "blockchain crypto javascript"
-    },
-    {
-      "title": "Senior Software Engineer Angular B2C Web Platm",
-      "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
-      "company_name": "Bitpanda",
-      "description": "c c plus plus javascript"
-    },
-    {
-      "title": "FrontEnd Engineer Institutional",
-      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
-      "company_name": "Blockchain",
-      "description": "engineer front end blockchain"
-    },
-    {
-      "title": "UI Engineer",
-      "link": "https://web3.career/ui-engineer-taxbit/151184",
-      "company_name": "Taxbit",
-      "description": "engineer design non tech"
-    },
-    {
-      "title": "Quality Assurance Engineer",
-      "link": "https://web3.career/quality-assurance-engineer-brave/46151",
-      "company_name": "Brave",
-      "description": "dev quality assurance javascript"
-    },
-    {
-      "title": "Sr. Solutions Engineer API and Developer Platm",
-      "link": "https://web3.career/sr-solutions-engineer-api-and-developer-platform-brave/151657",
-      "company_name": "Brave",
-      "description": "api dev engineer"
-    },
-    {
-      "title": "Solutions Engineer",
-      "link": "https://web3.career/solutions-engineer-bitgo/149986",
-      "company_name": "Bitgo",
-      "description": "engineer bitcoin blockchain"
-    },
-    {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
-      "company_name": "Lemon.io",
-      "description": "dev senior blockchain"
-    },
-    {
-      "title": "Crypto Block Chain Engineer",
-      "link": "https://web3.career/crypto-block-chain-engineer-irissoftwareinc/151491",
-      "company_name": "Iris Software Inc.",
-      "description": "engineer aws bitcoin"
-    },
-    {
-      "title": "Product Manager Operation",
-      "link": "https://web3.career/product-manager-operation-binance/151473",
-      "company_name": "Binance",
-      "description": "product manager non tech blockchain"
-    },
-    {
-      "title": "Solidity Engineer Only US Citizen and Green Card Tampa FL Jersey City NJ Texas City TX Remote",
-      "link": "https://web3.career/solidity-engineer-only-us-citizen-and-green-card-tampa-fl-jersey-city-nj-texas-city-tx-remote-ampstek/151462",
-      "company_name": "Ampstek",
-      "description": "remote engineer ethereum"
     }
   ]
 }

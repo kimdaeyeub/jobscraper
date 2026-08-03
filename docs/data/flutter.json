@@ -2,13 +2,19 @@
   "skill": "flutter",
   "label": "Flutter",
   "count": 16,
-  "updated_at": "2026-07-27T09:59:40.365585+00:00",
+  "updated_at": "2026-08-03T09:54:50.180831+00:00",
   "jobs": [
     {
       "title": "Senior Full-Stack Developer / Data Scientist (remote-friendly)",
       "description": "AIDAR is building the future of artist scouting. We help A&Rs and music professionals discover artists that truly fit their creative vision — using personalized AI agents that scout the global music landscape 24/7. The product is live, the beta is working, and we already have paying customers and EXIST AI Transfer funding. Role Now,...",
       "link": "https://berlinstartupjobs.com/engineering/senior-full-stack-developer-data-scientist-remote-friendly-aidar/",
       "company_name": "AIDAR"
+    },
+    {
+      "title": "Frontend Developer Flutter; DeFi",
+      "link": "https://web3.career/frontend-developer-flutter-defi-kast/151974",
+      "company_name": "Kast",
+      "description": "dev flutter front end"
     },
     {
       "title": "Flutter Developer DeFi",
@@ -93,12 +99,6 @@
       "link": "https://web3.career/experienced-flutter-engineer-bitso/92783",
       "company_name": "Bitso",
       "description": "engineer flutter crypto"
-    },
-    {
-      "title": "APP Developer（Flutter）",
-      "link": "https://web3.career/app-developer-flutter-gate-io/85264",
-      "company_name": "Gate.io",
-      "description": "dev flutter remote"
     }
   ]
 }

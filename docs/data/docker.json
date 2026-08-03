@@ -2,7 +2,7 @@
   "skill": "docker",
   "label": "Docker",
   "count": 20,
-  "updated_at": "2026-07-27T09:59:23.955408+00:00",
+  "updated_at": "2026-08-03T09:54:36.138367+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -35,34 +35,34 @@
       "company_name": "Sourcecast"
     },
     {
-      "title": "Crypto Technology Engineer",
-      "link": "https://web3.career/crypto-technology-engineer-irissoftwareinc/151857",
-      "company_name": "Iris Software Inc.",
-      "description": "engineer aws bitcoin"
+      "title": "Senior Staff Engineer Platm",
+      "link": "https://web3.career/senior-staff-engineer-platform-seilabs/152155",
+      "company_name": "Sei Labs",
+      "description": "engineer senior blockchain"
+    },
+    {
+      "title": "Web3 Blockchain Engineer",
+      "link": "https://web3.career/web3-blockchain-engineer-naminfoinc/152087",
+      "company_name": "NAM Info Inc",
+      "description": "engineer blockchain docker"
+    },
+    {
+      "title": "Fireblocks Implementation Specialist",
+      "link": "https://web3.career/fireblocks-implementation-specialist-purview/152047",
+      "company_name": "PURVIEW",
+      "description": "aws bitcoin blockchain"
     },
     {
       "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-smartitframellc/151816",
-      "company_name": "Smart IT Frame LLC",
-      "description": "dev blockchain defi"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-thoughtstorm/151757",
-      "company_name": "ThoughtStorm",
-      "description": "dev blockchain defi"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-vrproit/151726",
-      "company_name": "VRPRO IT",
-      "description": "dev blockchain defi"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-talenzaa/151725",
-      "company_name": "Talenzaa",
+      "link": "https://web3.career/blockchain-developer-reubencooley/152031",
+      "company_name": "Reuben Cooley",
       "description": "dev blockchain docker"
+    },
+    {
+      "title": "Binance Accelerator Program AI Backend Engineer",
+      "link": "https://web3.career/binance-accelerator-program-ai-backend-engineer-binance/152025",
+      "company_name": "Binance",
+      "description": "ai backend engineer"
     },
     {
       "title": "Principal Software Development Engineer",
@@ -77,10 +77,10 @@
       "description": "devops aws docker"
     },
     {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-copperco/96368",
+      "title": "DevOps Engineer",
+      "link": "https://web3.career/devops-engineer-copperco/104236",
       "company_name": "Copperco",
-      "description": "devops engineer senior"
+      "description": "devops engineer aws"
     },
     {
       "title": "Senior DevOps Engineer",
@@ -95,8 +95,20 @@
       "description": "cloud engineer engineer aws"
     },
     {
+      "title": "Senior Data Engineer",
+      "link": "https://web3.career/senior-data-engineer-alpaca/151988",
+      "company_name": "Alpaca",
+      "description": "data science engineer senior"
+    },
+    {
       "title": "Senior Software Engineer Trading",
       "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "link": "https://web3.career/senior-software-engineer-alpaca/151987",
       "company_name": "Alpaca",
       "description": "engineer senior dev"
     },
@@ -111,18 +123,6 @@
       "link": "https://web3.career/java-backend-developer-localcoin/78924",
       "company_name": "Localcoin",
       "description": "backend dev java"
-    },
-    {
-      "title": "Blockchain Developer Architect",
-      "link": "https://web3.career/blockchain-developer-architect-gandivinsightsllc/151604",
-      "company_name": "Gandiv Insights LLC",
-      "description": "architecture dev blockchain"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-clpsglobal/151603",
-      "company_name": "CLPS Global",
-      "description": "dev blockchain defi"
     }
   ]
 }

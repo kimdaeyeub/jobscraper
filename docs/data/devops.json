@@ -2,7 +2,7 @@
   "skill": "devops",
   "label": "DevOps",
   "count": 17,
-  "updated_at": "2026-07-27T09:59:30.451389+00:00",
+  "updated_at": "2026-08-03T09:54:42.201390+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
@@ -17,22 +17,16 @@
       "company_name": "alcemy"
     },
     {
-      "title": "DevOps Engineer",
-      "link": "https://web3.career/devops-engineer-confirmo/151836",
-      "company_name": "Confirmo",
-      "description": "devops engineer aws"
-    },
-    {
       "title": "SDE III Devops",
       "link": "https://web3.career/sde-iii-devops-inmobi/100181",
       "company_name": "Inmobi",
       "description": "devops aws docker"
     },
     {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-copperco/96368",
+      "title": "DevOps Engineer",
+      "link": "https://web3.career/devops-engineer-copperco/104236",
       "company_name": "Copperco",
-      "description": "devops engineer senior"
+      "description": "devops engineer aws"
     },
     {
       "title": "Senior DevOps Engineer",
@@ -50,6 +44,18 @@
       "title": "Senior DevOps Engineer",
       "link": "https://web3.career/senior-devops-engineer-dvtrading/150456",
       "company_name": "Dvtrading",
+      "description": "devops engineer senior"
+    },
+    {
+      "title": "DevOps Engineer",
+      "link": "https://web3.career/devops-engineer-confirmo/151836",
+      "company_name": "Confirmo",
+      "description": "devops engineer aws"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-copperco/96368",
+      "company_name": "Copperco",
       "description": "devops engineer senior"
     },
     {
@@ -97,12 +103,6 @@
     {
       "title": "Senior DevOps Engineer Exchange Trading Platms Poland",
       "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-poland-crypto-com/149818",
-      "company_name": "Crypto.com",
-      "description": "devops engineer senior"
-    },
-    {
-      "title": "Senior DevOps Engineer Exchange Trading Platms Hong Kong",
-      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-hong-kong-crypto-com/149817",
       "company_name": "Crypto.com",
       "description": "devops engineer senior"
     }

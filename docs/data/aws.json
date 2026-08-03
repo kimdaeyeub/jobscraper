@@ -2,97 +2,97 @@
   "skill": "aws",
   "label": "AWS",
   "count": 15,
-  "updated_at": "2026-07-27T09:59:23.468865+00:00",
+  "updated_at": "2026-08-03T09:54:32.357066+00:00",
   "jobs": [
     {
-      "title": "Crypto Technology Engineer",
-      "link": "https://web3.career/crypto-technology-engineer-irissoftwareinc/151857",
-      "company_name": "Iris Software Inc.",
-      "description": "engineer aws bitcoin"
-    },
-    {
-      "title": "DevOps Engineer",
-      "link": "https://web3.career/devops-engineer-confirmo/151836",
-      "company_name": "Confirmo",
-      "description": "devops engineer aws"
-    },
-    {
-      "title": "Blockchain Solutions Architect",
-      "link": "https://web3.career/blockchain-solutions-architect-oplabs/151827",
-      "company_name": "OP Labs",
-      "description": "architecture blockchain aws"
-    },
-    {
-      "title": "Sr. Staff Software Engineer UI UX",
-      "link": "https://web3.career/sr-staff-software-engineer-ui-ux-zscaler/151804",
-      "company_name": "Zscaler",
-      "description": "engineer dev senior"
-    },
-    {
-      "title": "Senior Lead Security Engineer Red team",
-      "link": "https://web3.career/senior-lead-security-engineer-red-team-coinhako/151789",
-      "company_name": "Coinhako",
-      "description": "engineer lead security"
-    },
-    {
-      "title": "INTERNATIONAL PROJECT MANAGER",
-      "link": "https://web3.career/international-project-manager-beamwallet/151716",
-      "company_name": "Beam Wallet",
-      "description": "project manager non tech aws"
-    },
-    {
-      "title": "Senior Infrastructure Engineer — IDC BareMetal Kubernetes",
-      "link": "https://web3.career/senior-infrastructure-engineer-idc-bare-metal-kubernetes-binance/151712",
-      "company_name": "Binance",
-      "description": "infrastructure engineer kubernetes"
-    },
-    {
-      "title": "Principal Software Development Engineer",
-      "link": "https://web3.career/principal-software-development-engineer-zscaler/99841",
-      "company_name": "Zscaler",
-      "description": "engineer executive dev"
-    },
-    {
-      "title": "Staff Site Reliability Engineer",
-      "link": "https://web3.career/staff-site-reliability-engineer-zscaler/106117",
-      "company_name": "Zscaler",
-      "description": "engineer reliability aws"
-    },
-    {
-      "title": "Sr. Production Engineer",
-      "link": "https://web3.career/sr-production-engineer-zscaler/150565",
-      "company_name": "Zscaler",
+      "title": "Senior Platm Engineer",
+      "link": "https://web3.career/senior-platform-engineer-immutable/152222",
+      "company_name": "Immutable",
       "description": "engineer senior aws"
     },
     {
-      "title": "Escalation Engineer DLP",
-      "link": "https://web3.career/escalation-engineer-dlp-zscaler/148637",
-      "company_name": "Zscaler",
-      "description": "engineer aws remote"
+      "title": "Smart Contract Developer",
+      "link": "https://web3.career/smart-contract-developer-easiio-inc/152188",
+      "company_name": "Easiio, Inc",
+      "description": "dev ethereum aws"
     },
     {
-      "title": "Escalation Engineer AI Security",
-      "link": "https://web3.career/escalation-engineer-ai-security-zscaler/141505",
-      "company_name": "Zscaler",
-      "description": "ai engineer security"
+      "title": "Director Site Reliability Engineering",
+      "link": "https://web3.career/director-site-reliability-engineering-stellardevelopmentfoundation/152142",
+      "company_name": "Stellar Development Foundation",
+      "description": "executive reliability aws"
     },
     {
-      "title": "Senior Technical Success Manager",
-      "link": "https://web3.career/senior-technical-success-manager-zscaler/145190",
-      "company_name": "Zscaler",
-      "description": "sales non tech senior"
+      "title": "Director of Engineering Infrastructure Platm",
+      "link": "https://web3.career/director-of-engineering-infrastructure-platform-alchemy/152140",
+      "company_name": "Alchemy",
+      "description": "infrastructure executive aws"
     },
     {
-      "title": "Quant Developer Rust Liquidity Platm Delta One Systematic Trading",
-      "link": "https://web3.career/quant-developer-rust-liquidity-platform-delta-one-systematic-trading-okx/145502",
-      "company_name": "Okx",
-      "description": "dev sales non tech"
+      "title": "VP Global Head of Product Security and Risk",
+      "link": "https://web3.career/vp-global-head-of-product-security-and-risk-circle/152125",
+      "company_name": "Circle",
+      "description": "executive product manager non tech"
     },
     {
-      "title": "Senior Security Engineer",
-      "link": "https://web3.career/senior-security-engineer-nearfoundation/149563",
-      "company_name": "Nearfoundation",
-      "description": "engineer security senior"
+      "title": "Full Stack Architect Digital Assets Tokenization",
+      "link": "https://web3.career/full-stack-architect-digital-assets-tokenization-td/152118",
+      "company_name": "TD",
+      "description": "tokenization architecture finance"
+    },
+    {
+      "title": "Platm Support Specialist",
+      "link": "https://web3.career/platform-support-specialist-ondofinance/152104",
+      "company_name": "Ondo Finance",
+      "description": "customer support aws blockchain"
+    },
+    {
+      "title": "Head of Client Services",
+      "link": "https://web3.career/head-of-client-services-ondofinance/152103",
+      "company_name": "Ondo Finance",
+      "description": "executive aws blockchain"
+    },
+    {
+      "title": "Growth Marketing Lead",
+      "link": "https://web3.career/growth-marketing-lead-ondofinance/152102",
+      "company_name": "Ondo Finance",
+      "description": "growth marketing growth lead"
+    },
+    {
+      "title": "Founding AI Engineer Internal Copilot Platm",
+      "link": "https://web3.career/founding-ai-engineer-internal-copilot-platform-ondofinance/152101",
+      "company_name": "Ondo Finance",
+      "description": "founding member ai engineer"
+    },
+    {
+      "title": "Senior Blockchain Engineer",
+      "link": "https://web3.career/senior-blockchain-engineer-ondofinance/152100",
+      "company_name": "Ondo Finance",
+      "description": "engineer senior blockchain"
+    },
+    {
+      "title": "Product Designer",
+      "link": "https://web3.career/product-designer-ondofinance/152099",
+      "company_name": "Ondo Finance",
+      "description": "product designer design non tech"
+    },
+    {
+      "title": "Solutions Engineer APAC",
+      "link": "https://web3.career/solutions-engineer-apac-ondofinance/152098",
+      "company_name": "Ondo Finance",
+      "description": "engineer aws blockchain"
+    },
+    {
+      "title": "Senior Security Engineer Infrastructure",
+      "link": "https://web3.career/senior-security-engineer-infrastructure-ondofinance/152097",
+      "company_name": "Ondo Finance",
+      "description": "infrastructure engineer security"
+    },
+    {
+      "title": "Vendor Onboarding Associate",
+      "link": "https://web3.career/vendor-onboarding-associate-ondofinance/152096",
+      "company_name": "Ondo Finance",
+      "description": "aws blockchain crypto"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "skill": "data-science",
   "label": "Data Science",
   "count": 19,
-  "updated_at": "2026-07-27T09:59:31.316794+00:00",
+  "updated_at": "2026-08-03T09:54:44.307639+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -29,10 +29,10 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Growth Data Analyst",
-      "link": "https://web3.career/growth-data-analyst-unchaindata/151717",
-      "company_name": "Unchain Data",
-      "description": "growth analyst data science"
+      "title": "Data Scientist Markets",
+      "link": "https://web3.career/data-scientist-markets-polymarket/152061",
+      "company_name": "Polymarket",
+      "description": "scientist data science"
     },
     {
       "title": "Data Engineer",
@@ -65,22 +65,10 @@
       "description": "scientist analyst data science"
     },
     {
-      "title": "Data Engineer Data Platm",
-      "link": "https://web3.career/data-engineer-data-platform-coinhako/151682",
-      "company_name": "Coinhako",
-      "description": "data science engineer aws"
-    },
-    {
       "title": "Data Analyst Marketing",
       "link": "https://web3.career/data-analyst-marketing-bluecubeservices/140151",
       "company_name": "Bluecubeservices",
       "description": "analyst data science marketing"
-    },
-    {
-      "title": "Data Analyst Finance Risk Fraud",
-      "link": "https://web3.career/data-analyst-finance-risk-fraud-coinhako/151681",
-      "company_name": "Coinhako",
-      "description": "analyst data science finance"
     },
     {
       "title": "Data Engineer",
@@ -89,10 +77,34 @@
       "description": "data science engineer aws"
     },
     {
+      "title": "Senior Data Engineer",
+      "link": "https://web3.career/senior-data-engineer-alpaca/151988",
+      "company_name": "Alpaca",
+      "description": "data science engineer senior"
+    },
+    {
       "title": "Data Scientist",
       "link": "https://web3.career/data-scientist-bitgo/100040",
       "company_name": "Bitgo",
       "description": "scientist data science bitcoin"
+    },
+    {
+      "title": "Growth Data Analyst",
+      "link": "https://web3.career/growth-data-analyst-unchaindata/151717",
+      "company_name": "Unchain Data",
+      "description": "growth analyst data science"
+    },
+    {
+      "title": "Data Engineer Data Platm",
+      "link": "https://web3.career/data-engineer-data-platform-coinhako/151682",
+      "company_name": "Coinhako",
+      "description": "data science engineer aws"
+    },
+    {
+      "title": "Data Analyst Finance Risk Fraud",
+      "link": "https://web3.career/data-analyst-finance-risk-fraud-coinhako/151681",
+      "company_name": "Coinhako",
+      "description": "analyst data science finance"
     },
     {
       "title": "Senior Data Analyst Trading",
@@ -105,18 +117,6 @@
       "link": "https://web3.career/senior-data-analyst-moonpay/151564",
       "company_name": "MoonPay",
       "description": "analyst data science senior"
-    },
-    {
-      "title": "Growth Data Analyst",
-      "link": "https://web3.career/growth-data-analyst-polymarket/151353",
-      "company_name": "Polymarket",
-      "description": "growth analyst data science"
-    },
-    {
-      "title": "FIU Data Analyst Bengalaru",
-      "link": "https://web3.career/fiu-data-analyst-bengalaru-moonpay/151241",
-      "company_name": "MoonPay",
-      "description": "analyst data science aws"
     }
   ]
 }

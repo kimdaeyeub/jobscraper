@@ -2,7 +2,7 @@
   "skill": "react",
   "label": "React",
   "count": 18,
-  "updated_at": "2026-07-27T09:58:44.810807+00:00",
+  "updated_at": "2026-08-03T09:53:47.917437+00:00",
   "jobs": [
     {
       "title": "(Senior) Full-Stack Engineer (AI-Assisted 3D / CAD / BIM Development)",
@@ -23,70 +23,34 @@
       "company_name": "Small Improvements"
     },
     {
-      "title": "Senior Staff React Native Engineer",
-      "link": "https://web3.career/senior-staff-react-native-engineer-moonpay/151834",
-      "company_name": "MoonPay",
-      "description": "engineer react native mobile"
+      "title": "Smart Contract Developer",
+      "link": "https://web3.career/smart-contract-developer-easiio-inc/152188",
+      "company_name": "Easiio, Inc",
+      "description": "dev ethereum aws"
     },
     {
       "title": "Full Stack Software Engineer Web3 SF",
-      "link": "https://web3.career/full-stack-software-engineer-web3-sf-yoloinvestments/151817",
-      "company_name": "Yolo Investments",
+      "link": "https://web3.career/full-stack-software-engineer-web3-sf-paradigmoperationslp-al/152187",
+      "company_name": "Paradigm Operations LP-AL",
       "description": "engineer full stack dev"
     },
     {
-      "title": "Sr. Staff Software Engineer UI UX",
-      "link": "https://web3.career/sr-staff-software-engineer-ui-ux-zscaler/151804",
-      "company_name": "Zscaler",
-      "description": "engineer dev senior"
+      "title": "Full Stack Architect Digital Assets Tokenization",
+      "link": "https://web3.career/full-stack-architect-digital-assets-tokenization-td/152118",
+      "company_name": "TD",
+      "description": "tokenization architecture finance"
     },
     {
-      "title": "Full Stack Engineer",
-      "link": "https://web3.career/full-stack-engineer-launchpadtechnologiesinc/151800",
-      "company_name": "Launchpadtechnologiesinc",
-      "description": "engineer full stack javascript"
+      "title": "Staff Software Engineer Frontend Trading",
+      "link": "https://web3.career/staff-software-engineer-frontend-trading-phantom/152073",
+      "company_name": "Phantom",
+      "description": "engineer front end dev"
     },
     {
-      "title": "Social Media and Community Manager",
-      "link": "https://web3.career/social-media-and-community-manager-koinly/151770",
-      "company_name": "Koinly",
-      "description": "community manager non tech social media"
-    },
-    {
-      "title": "Frontend Tech lead AI Agent",
-      "link": "https://web3.career/frontend-tech-lead-ai-agent-binance/151768",
-      "company_name": "Binance",
-      "description": "ai front end lead"
-    },
-    {
-      "title": "Pioneer Talent Program Full Stack Engineer AI",
-      "link": "https://web3.career/pioneer-talent-program-full-stack-engineer-ai-binance/151736",
-      "company_name": "Binance",
-      "description": "ai engineer full stack"
-    },
-    {
-      "title": "Full Stack Software Engineer Web3 SF",
-      "link": "https://web3.career/full-stack-software-engineer-web3-sf-mesh/151728",
-      "company_name": "Mesh",
-      "description": "engineer full stack dev"
-    },
-    {
-      "title": "Growth Data Analyst",
-      "link": "https://web3.career/growth-data-analyst-unchaindata/151717",
-      "company_name": "Unchain Data",
-      "description": "growth analyst data science"
-    },
-    {
-      "title": "Pioneer Talent Program Full Stack Engineer Frontend Oriented",
-      "link": "https://web3.career/pioneer-talent-program-full-stack-engineer-front-end-oriented-binance/151715",
-      "company_name": "Binance",
-      "description": "engineer front end full stack"
-    },
-    {
-      "title": "Pioneer Talent Program Full Stack Engineer Backend Oriented",
-      "link": "https://web3.career/pioneer-talent-program-full-stack-engineer-back-end-oriented-binance/151714",
-      "company_name": "Binance",
-      "description": "backend engineer full stack"
+      "title": "Senior Frontend Engineer JTX",
+      "link": "https://web3.career/senior-frontend-engineer-jtx-jito-wtf/152040",
+      "company_name": "Jito Labs",
+      "description": "engineer front end senior"
     },
     {
       "title": "Engineering Director Mobile Web3",
@@ -107,10 +71,46 @@
       "description": "executive front end blockchain"
     },
     {
-      "title": "Release Management Engineer Mobile",
-      "link": "https://web3.career/release-management-engineer-mobile-phantom/151699",
-      "company_name": "Phantom",
-      "description": "engineer mobile crypto"
+      "title": "Software Engineer II Gov Systems",
+      "link": "https://web3.career/software-engineer-ii-gov-systems-chainalysis/151999",
+      "company_name": "Chainalysis",
+      "description": "engineer dev aws"
+    },
+    {
+      "title": "Software Engineer React Bitpanda Broker",
+      "link": "https://web3.career/software-engineer-react-bitpanda-broker-bitpanda/151991",
+      "company_name": "Bitpanda",
+      "description": "engineer javascript react"
+    },
+    {
+      "title": "Senior Software Engineer Angular B2C Web Platm",
+      "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
+      "company_name": "Bitpanda",
+      "description": "c c plus plus javascript"
+    },
+    {
+      "title": "Senior Software Engineer New Markets",
+      "link": "https://web3.career/senior-software-engineer-new-markets-alpaca/99656",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "FrontEnd Engineer Institutional",
+      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
+      "company_name": "Blockchain",
+      "description": "engineer front end blockchain"
+    },
+    {
+      "title": "UI Engineer",
+      "link": "https://web3.career/ui-engineer-taxbit/151184",
+      "company_name": "Taxbit",
+      "description": "engineer design non tech"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "link": "https://web3.career/forward-deployed-engineer-taxbit/140543",
+      "company_name": "Taxbit",
+      "description": "engineer aws bitcoin"
     }
   ]
 }
