@@ -2,7 +2,7 @@
   "skill": "javascript",
   "label": "JavaScript",
   "count": 17,
-  "updated_at": "2026-08-03T09:53:27.365204+00:00",
+  "updated_at": "2026-08-10T07:48:17.418915+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -17,40 +17,40 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Smart Contract Developer",
-      "link": "https://web3.career/smart-contract-developer-easiio-inc/152188",
-      "company_name": "Easiio, Inc",
-      "description": "dev ethereum aws"
+      "title": "Senior Security Engineer Product Security",
+      "link": "https://web3.career/senior-security-engineer-product-security-ondofinance/152420",
+      "company_name": "Ondo Finance",
+      "description": "engineer security senior"
     },
     {
-      "title": "Core Developer Node",
-      "link": "https://web3.career/core-developer-node-parity/152071",
-      "company_name": "Parity",
-      "description": "dev javascript node"
+      "title": "Senior Web3 SDET",
+      "link": "https://web3.career/senior-web3-sdet-r3/152390",
+      "company_name": "R3",
+      "description": "quality assurance senior blockchain"
     },
     {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-dxblockchaingroupfzco/152029",
-      "company_name": "DX Blockchain Group FZCO",
-      "description": "dev blockchain defi"
+      "title": "Senior Business IT Engineer Atlassian Cloud",
+      "link": "https://web3.career/senior-business-it-engineer-atlassian-cloud-bitpanda/152342",
+      "company_name": "Bitpanda",
+      "description": "cloud engineer engineer senior"
     },
     {
-      "title": "Software Engineer II Gov Systems",
-      "link": "https://web3.career/software-engineer-ii-gov-systems-chainalysis/151999",
-      "company_name": "Chainalysis",
-      "description": "engineer dev aws"
+      "title": "Vice President DeFi Product Engineer",
+      "link": "https://web3.career/vice-president-defi-product-engineer-fidelityinvestments/152323",
+      "company_name": "Fidelity Investments",
+      "description": "engineer blockchain crypto"
+    },
+    {
+      "title": "Product Engineer",
+      "link": "https://web3.career/product-engineer-improbable/152268",
+      "company_name": "Improbable",
+      "description": "engineer blockchain javascript"
     },
     {
       "title": "Software Engineer React Bitpanda Broker",
       "link": "https://web3.career/software-engineer-react-bitpanda-broker-bitpanda/151991",
       "company_name": "Bitpanda",
       "description": "engineer javascript react"
-    },
-    {
-      "title": "Senior Software Engineer Angular B2C Web Platm",
-      "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
-      "company_name": "Bitpanda",
-      "description": "c c plus plus javascript"
     },
     {
       "title": "FrontEnd Engineer Institutional",
@@ -71,40 +71,40 @@
       "description": "dev quality assurance javascript"
     },
     {
+      "title": "SDR SDR Brave Search API",
+      "link": "https://web3.career/sdr-sdr-brave-search-api-brave/152247",
+      "company_name": "Brave",
+      "description": "api javascript remote"
+    },
+    {
       "title": "Solutions Engineer",
       "link": "https://web3.career/solutions-engineer-bitgo/149986",
       "company_name": "Bitgo",
       "description": "engineer bitcoin blockchain"
     },
     {
-      "title": "Crypto Technology Engineer",
-      "link": "https://web3.career/crypto-technology-engineer-irissoftwareinc/151857",
-      "company_name": "Iris Software Inc.",
-      "description": "engineer aws bitcoin"
+      "title": "Senior Blockchain Engineer With Payment And Exchange Building Experience",
+      "link": "https://web3.career/senior-blockchain-engineer-with-payment-and-exchange-building-experience-y-axisglobal/152233",
+      "company_name": "Y-axis Global",
+      "description": "engineer senior blockchain"
     },
     {
-      "title": "Senior Staff React Native Engineer",
-      "link": "https://web3.career/senior-staff-react-native-engineer-moonpay/151834",
-      "company_name": "MoonPay",
-      "description": "engineer react native mobile"
+      "title": "Senior Mobile Software Engineer React Native",
+      "link": "https://web3.career/senior-mobile-software-engineer-react-native-bitso/152229",
+      "company_name": "Bitso",
+      "description": "engineer mobile react native"
     },
     {
-      "title": "Sr. Staff Software Engineer UI UX",
-      "link": "https://web3.career/sr-staff-software-engineer-ui-ux-zscaler/151804",
-      "company_name": "Zscaler",
-      "description": "engineer dev senior"
+      "title": "Smart Contract Developer",
+      "link": "https://web3.career/smart-contract-developer-easiio-inc/152188",
+      "company_name": "Easiio, Inc",
+      "description": "dev ethereum aws"
     },
     {
-      "title": "Full Stack Engineer",
-      "link": "https://web3.career/full-stack-engineer-launchpadtechnologiesinc/151800",
-      "company_name": "Launchpadtechnologiesinc",
-      "description": "engineer full stack javascript"
-    },
-    {
-      "title": "Oportunidades aceleração e desenvolvimento de startups",
-      "link": "https://web3.career/oportunidades-aceleracao-e-desenvolvimento-de-startups-investidoresbrasil/151719",
-      "company_name": "Investidores Brasil",
-      "description": "blockchain crypto javascript"
+      "title": "Core Developer Node",
+      "link": "https://web3.career/core-developer-node-parity/152071",
+      "company_name": "Parity",
+      "description": "dev javascript node"
     }
   ]
 }

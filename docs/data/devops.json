@@ -1,20 +1,14 @@
 {
   "skill": "devops",
   "label": "DevOps",
-  "count": 17,
-  "updated_at": "2026-08-03T09:54:42.201390+00:00",
+  "count": 16,
+  "updated_at": "2026-08-10T07:49:18.896866+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
       "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
       "company_name": "DATATRONiQ"
-    },
-    {
-      "title": "Senior Infrastructure Engineer (f/m/d)",
-      "description": "Help us decarbonize the cement and concrete industry. alcemy was founded to reduce the massive CO2 footprint of the cement and concrete industry. Concrete is humanity\\’s second most used material by volume and its production is responsible for around 8% of global CO2 emissions. We are changing this! We leverage machine learning to provide smart production control software...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-infrastructure-engineer-f-m-d-alcemy/",
-      "company_name": "alcemy"
     },
     {
       "title": "SDE III Devops",

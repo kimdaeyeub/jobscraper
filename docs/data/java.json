@@ -2,7 +2,7 @@
   "skill": "java",
   "label": "Java",
   "count": 16,
-  "updated_at": "2026-08-03T09:53:29.755185+00:00",
+  "updated_at": "2026-08-10T07:48:19.119019+00:00",
   "jobs": [
     {
       "title": "Senior Fullstack Developer with Product Mindset",
@@ -11,58 +11,22 @@
       "company_name": "Small Improvements"
     },
     {
-      "title": "Smart Contract Developer",
-      "link": "https://web3.career/smart-contract-developer-easiio-inc/152188",
-      "company_name": "Easiio, Inc",
-      "description": "dev ethereum aws"
+      "title": "Senior Web3 SDET",
+      "link": "https://web3.career/senior-web3-sdet-r3/152390",
+      "company_name": "R3",
+      "description": "quality assurance senior blockchain"
     },
     {
-      "title": "Full Stack Software Engineer Web3 SF",
-      "link": "https://web3.career/full-stack-software-engineer-web3-sf-paradigmoperationslp-al/152187",
-      "company_name": "Paradigm Operations LP-AL",
-      "description": "engineer full stack dev"
+      "title": "Blockchain Architect",
+      "link": "https://web3.career/blockchain-architect-themesoftinc/152382",
+      "company_name": "Themesoft Inc.",
+      "description": "architecture blockchain bitcoin"
     },
     {
-      "title": "Blockchain Platm Engineer [211940]",
-      "link": "https://web3.career/blockchain-platform-engineer-211940-aquent/152185",
-      "company_name": "Aquent",
-      "description": "engineer blockchain erc 20"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-anviktechnologies/152184",
-      "company_name": "Anvik Technologies",
-      "description": "dev blockchain erc 20"
-    },
-    {
-      "title": "Director of Engineering Infrastructure Platm",
-      "link": "https://web3.career/director-of-engineering-infrastructure-platform-alchemy/152140",
-      "company_name": "Alchemy",
-      "description": "infrastructure executive aws"
-    },
-    {
-      "title": "Web3 Blockchain Engineer",
-      "link": "https://web3.career/web3-blockchain-engineer-naminfoinc/152087",
-      "company_name": "NAM Info Inc",
-      "description": "engineer blockchain docker"
-    },
-    {
-      "title": "Blockchain Engineer Digital Assets Tokenization",
-      "link": "https://web3.career/blockchain-engineer-digital-assets-tokenization-mindlance/152048",
-      "company_name": "Mindlance",
-      "description": "tokenization finance non tech"
-    },
-    {
-      "title": "Fireblocks Implementation Specialist",
-      "link": "https://web3.career/fireblocks-implementation-specialist-purview/152047",
-      "company_name": "PURVIEW",
-      "description": "aws bitcoin blockchain"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-reubencooley/152031",
-      "company_name": "Reuben Cooley",
-      "description": "dev blockchain docker"
+      "title": "Senior Infrastructure Engineer Trading Systems",
+      "link": "https://web3.career/senior-infrastructure-engineer-trading-systems-falconx/152345",
+      "company_name": "Falconx",
+      "description": "infrastructure engineer senior"
     },
     {
       "title": "Principal Software Development Engineer",
@@ -83,22 +47,58 @@
       "description": "compliance non tech engineer"
     },
     {
-      "title": "Software Engineer II Gov Systems",
-      "link": "https://web3.career/software-engineer-ii-gov-systems-chainalysis/151999",
-      "company_name": "Chainalysis",
-      "description": "engineer dev aws"
+      "title": "SDE II AI",
+      "link": "https://web3.career/sde-ii-ai-inmobi/152277",
+      "company_name": "Inmobi",
+      "description": "ai aws docker"
     },
     {
-      "title": "Android Engineer",
-      "link": "https://web3.career/android-engineer-bluecubeservices/103709",
-      "company_name": "Bluecubeservices",
-      "description": "android mobile engineer"
+      "title": "Software Engineer Java Trade Services",
+      "link": "https://web3.career/software-engineer-java-trade-services-bitpanda/151990",
+      "company_name": "Bitpanda",
+      "description": "engineer java dev"
     },
     {
-      "title": "Software Engineers KYC Eligibility",
-      "link": "https://web3.career/software-engineers-kyc-eligibility-bluecubeservices/139456",
-      "company_name": "Bluecubeservices",
-      "description": "kyc non tech dev"
+      "title": "Software Engineer Java Digital Asset Systems",
+      "link": "https://web3.career/software-engineer-java-digital-asset-systems-bitpanda/149242",
+      "company_name": "Bitpanda",
+      "description": "engineer java dev"
+    },
+    {
+      "title": "Software Engineer Intern Fullstack 12 Month Internship",
+      "link": "https://web3.career/software-engineer-intern-fullstack-12-month-internship-bitpanda/151423",
+      "company_name": "Bitpanda",
+      "description": "engineer full stack intern"
+    },
+    {
+      "title": "Senior Software Engineer Java EVERGREEN",
+      "link": "https://web3.career/senior-software-engineer-java-evergreen-bitpanda/152263",
+      "company_name": "Bitpanda",
+      "description": "engineer java senior"
+    },
+    {
+      "title": "Senior Software Engineer Trading Infrastructure",
+      "link": "https://web3.career/senior-software-engineer-trading-infrastructure-aptoslabs/152255",
+      "company_name": "Aptoslabs",
+      "description": "infrastructure engineer senior"
+    },
+    {
+      "title": "Senior Software Engineer Trading",
+      "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Technical Lead Lending Savings",
+      "link": "https://web3.career/technical-lead-lending-savings-blockchain/152251",
+      "company_name": "Blockchain",
+      "description": "lead tech lead blockchain"
+    },
+    {
+      "title": "Java Backend Developer",
+      "link": "https://web3.career/java-backend-developer-localcoin/78924",
+      "company_name": "Localcoin",
+      "description": "backend dev java"
     }
   ]
 }

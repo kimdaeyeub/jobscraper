@@ -2,8 +2,14 @@
   "skill": "vue",
   "label": "Vue",
   "count": 15,
-  "updated_at": "2026-08-03T09:53:51.500025+00:00",
+  "updated_at": "2026-08-10T07:48:41.234085+00:00",
   "jobs": [
+    {
+      "title": "Sr. Software Development Engineer",
+      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
+      "company_name": "Zscaler",
+      "description": "engineer dev senior"
+    },
     {
       "title": "Engineering Director Frontend Business Lead",
       "link": "https://web3.career/engineering-director-frontend-business-lead-okx/147552",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/senior-frontend-engineer-trading-systems-binance/150426",
       "company_name": "Binance",
       "description": "engineer front end senior"
-    },
-    {
-      "title": "DevOps Site Reliability Engineer",
-      "link": "https://web3.career/devops-site-reliability-engineer-okx/150381",
-      "company_name": "Okx",
-      "description": "devops engineer reliability"
     }
   ]
 }

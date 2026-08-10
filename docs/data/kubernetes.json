@@ -2,7 +2,7 @@
   "skill": "kubernetes",
   "label": "Kubernetes",
   "count": 19,
-  "updated_at": "2026-08-03T09:54:37.308409+00:00",
+  "updated_at": "2026-08-10T07:49:14.622374+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -29,52 +29,40 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Platm Engineer",
-      "link": "https://web3.career/senior-platform-engineer-immutable/152222",
-      "company_name": "Immutable",
-      "description": "engineer senior aws"
+      "title": "Senior Web3 SDET",
+      "link": "https://web3.career/senior-web3-sdet-r3/152390",
+      "company_name": "R3",
+      "description": "quality assurance senior blockchain"
     },
     {
-      "title": "Senior Staff Engineer Platm",
-      "link": "https://web3.career/senior-staff-engineer-platform-seilabs/152155",
-      "company_name": "Sei Labs",
-      "description": "engineer senior blockchain"
+      "title": "Sr. Software Development Engineer",
+      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
+      "company_name": "Zscaler",
+      "description": "engineer dev senior"
     },
     {
-      "title": "Director Site Reliability Engineering",
-      "link": "https://web3.career/director-site-reliability-engineering-stellardevelopmentfoundation/152142",
-      "company_name": "Stellar Development Foundation",
-      "description": "executive reliability aws"
+      "title": "Senior Site Reliability Engineer",
+      "link": "https://web3.career/senior-site-reliability-engineer-alpaca/152337",
+      "company_name": "Alpaca",
+      "description": "engineer reliability senior"
     },
     {
-      "title": "Director of Engineering Infrastructure Platm",
-      "link": "https://web3.career/director-of-engineering-infrastructure-platform-alchemy/152140",
-      "company_name": "Alchemy",
-      "description": "infrastructure executive aws"
+      "title": "Senior Fullstack Engineer Operational Automations",
+      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
+      "company_name": "Alpaca",
+      "description": "engineer full stack operations"
     },
     {
-      "title": "Senior Security Engineer Infrastructure",
-      "link": "https://web3.career/senior-security-engineer-infrastructure-ondofinance/152097",
-      "company_name": "Ondo Finance",
-      "description": "infrastructure engineer security"
+      "title": "Head of Site Reliability Engineering SRE",
+      "link": "https://web3.career/head-of-site-reliability-engineering-sre-blockchain/152336",
+      "company_name": "Blockchain",
+      "description": "executive reliability senior"
     },
     {
-      "title": "Web3 Blockchain Engineer",
-      "link": "https://web3.career/web3-blockchain-engineer-naminfoinc/152087",
-      "company_name": "NAM Info Inc",
-      "description": "engineer blockchain docker"
-    },
-    {
-      "title": "Fireblocks Implementation Specialist",
-      "link": "https://web3.career/fireblocks-implementation-specialist-purview/152047",
-      "company_name": "PURVIEW",
-      "description": "aws bitcoin blockchain"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-reubencooley/152031",
-      "company_name": "Reuben Cooley",
-      "description": "dev blockchain docker"
+      "title": "Senior Full Stack Engineer",
+      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/152288",
+      "company_name": "Bcbgroup",
+      "description": "engineer full stack senior"
     },
     {
       "title": "Senior Full Stack Engineer",
@@ -107,16 +95,28 @@
       "description": "devops aws docker"
     },
     {
-      "title": "Software Engineer II Gov Systems",
-      "link": "https://web3.career/software-engineer-ii-gov-systems-chainalysis/151999",
-      "company_name": "Chainalysis",
-      "description": "engineer dev aws"
-    },
-    {
       "title": "DevOps Engineer",
       "link": "https://web3.career/devops-engineer-copperco/104236",
       "company_name": "Copperco",
       "description": "devops engineer aws"
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "link": "https://web3.career/senior-site-reliability-engineer-bloxstaking/148505",
+      "company_name": "Bloxstaking",
+      "description": "engineer reliability senior"
+    },
+    {
+      "title": "Software Engineer Java Trade Services",
+      "link": "https://web3.career/software-engineer-java-trade-services-bitpanda/151990",
+      "company_name": "Bitpanda",
+      "description": "engineer java dev"
+    },
+    {
+      "title": "Software Engineer Java Digital Asset Systems",
+      "link": "https://web3.career/software-engineer-java-digital-asset-systems-bitpanda/149242",
+      "company_name": "Bitpanda",
+      "description": "engineer java dev"
     }
   ]
 }

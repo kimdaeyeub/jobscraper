@@ -2,8 +2,14 @@
   "skill": "nextjs",
   "label": "Next.js",
   "count": 15,
-  "updated_at": "2026-08-03T09:54:02.143860+00:00",
+  "updated_at": "2026-08-10T07:48:51.201799+00:00",
   "jobs": [
+    {
+      "title": "Product Engineer",
+      "link": "https://web3.career/product-engineer-improbable/152268",
+      "company_name": "Improbable",
+      "description": "engineer blockchain javascript"
+    },
     {
       "title": "Full Stack Architect Digital Assets Tokenization",
       "link": "https://web3.career/full-stack-architect-digital-assets-tokenization-td/152118",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/associate-technical-lead-web-development-kast/150735",
       "company_name": "Kast",
       "description": "lead tech lead web dev"
-    },
-    {
-      "title": "Senior Software Engineer Fullstack",
-      "link": "https://web3.career/senior-software-engineer-fullstack-kast/150729",
-      "company_name": "Kast",
-      "description": "engineer full stack senior"
     }
   ]
 }

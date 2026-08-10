@@ -2,8 +2,14 @@
   "skill": "angular",
   "label": "Angular",
   "count": 15,
-  "updated_at": "2026-08-03T09:53:54.978164+00:00",
+  "updated_at": "2026-08-10T07:48:44.620868+00:00",
   "jobs": [
+    {
+      "title": "Senior Full Stack Engineer",
+      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/152288",
+      "company_name": "Bcbgroup",
+      "description": "engineer full stack senior"
+    },
     {
       "title": "Senior Full Stack Engineer",
       "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
@@ -11,16 +17,16 @@
       "description": "engineer full stack senior"
     },
     {
-      "title": "Senior Software Engineer Angular B2C Web Platm",
-      "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
-      "company_name": "Bitpanda",
-      "description": "c c plus plus javascript"
-    },
-    {
       "title": "Java Backend Developer",
       "link": "https://web3.career/java-backend-developer-localcoin/78924",
       "company_name": "Localcoin",
       "description": "backend dev java"
+    },
+    {
+      "title": "Senior Software Engineer Angular B2C Web Platm",
+      "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
+      "company_name": "Bitpanda",
+      "description": "c c plus plus javascript"
     },
     {
       "title": "Blockchain Developer",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/software-engineering-internship-aarhus-office-chainalysis/148924",
       "company_name": "Chainalysis",
       "description": "office intern entry level"
-    },
-    {
-      "title": "Software Engineer I New Grad Aarhus Office",
-      "link": "https://web3.career/software-engineer-i-new-grad-aarhus-office-chainalysis/148923",
-      "company_name": "Chainalysis",
-      "description": "office engineer intern"
     }
   ]
 }

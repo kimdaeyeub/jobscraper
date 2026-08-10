@@ -2,8 +2,20 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-08-03T09:53:43.956519+00:00",
+  "updated_at": "2026-08-10T07:48:36.921721+00:00",
   "jobs": [
+    {
+      "title": "Senior Web3 SDET",
+      "link": "https://web3.career/senior-web3-sdet-r3/152390",
+      "company_name": "R3",
+      "description": "quality assurance senior blockchain"
+    },
+    {
+      "title": "Technical Lead Lending Savings",
+      "link": "https://web3.career/technical-lead-lending-savings-blockchain/152251",
+      "company_name": "Blockchain",
+      "description": "lead tech lead blockchain"
+    },
     {
       "title": "Smart Contract Developer",
       "link": "https://web3.career/smart-contract-developer-easiio-inc/152188",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/software-engineer-ii-full-stack-ripple/150924",
       "company_name": "Ripple",
       "description": "engineer full stack dev"
-    },
-    {
-      "title": "Senior Software Engineer Identity Trust",
-      "link": "https://web3.career/senior-software-engineer-identity-trust-ripple/150916",
-      "company_name": "Ripple",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior Software Engineer Full Stack",
-      "link": "https://web3.career/senior-software-engineer-full-stack-ripple/150915",
-      "company_name": "Ripple",
-      "description": "engineer full stack senior"
     }
   ]
 }

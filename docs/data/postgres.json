@@ -1,15 +1,9 @@
 {
   "skill": "postgres",
   "label": "PostgreSQL",
-  "count": 3,
-  "updated_at": "2026-08-03T09:54:20.884829+00:00",
+  "count": 2,
+  "updated_at": "2026-08-10T07:49:08.294902+00:00",
   "jobs": [
-    {
-      "title": "Senior Product Engineer",
-      "description": "TL;DR Kombo (YC S22) is building a unified API that saves engineering teams, on average, hundreds of hours by needing to integrate only one API instead of 50+. We’re looking for a product-minded full-stack engineer to potentially own one of our existing or new product verticals and to build features for our rapidly growing customer base....",
-      "link": "https://berlinstartupjobs.com/engineering/senior-product-engineer-kombo/",
-      "company_name": "Kombo"
-    },
     {
       "title": "Typescript Developer",
       "link": "https://web3.career/typescript-developer-bluesky/49659",

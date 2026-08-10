@@ -2,43 +2,43 @@
   "skill": "rust",
   "label": "Rust",
   "count": 15,
-  "updated_at": "2026-08-03T09:53:31.843738+00:00",
+  "updated_at": "2026-08-10T07:48:26.057819+00:00",
   "jobs": [
     {
-      "title": "Blockchain Platm Engineer [211940]",
-      "link": "https://web3.career/blockchain-platform-engineer-211940-aquent/152185",
-      "company_name": "Aquent",
-      "description": "engineer blockchain erc 20"
+      "title": "Senior Security Engineer Product Security",
+      "link": "https://web3.career/senior-security-engineer-product-security-ondofinance/152420",
+      "company_name": "Ondo Finance",
+      "description": "engineer security senior"
     },
     {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-anviktechnologies/152184",
-      "company_name": "Anvik Technologies",
-      "description": "dev blockchain erc 20"
+      "title": "Quantitative Developer",
+      "link": "https://web3.career/quantitative-developer-flintlabs/152394",
+      "company_name": "Flint Labs",
+      "description": "quantitative quantitative developer dev"
     },
     {
-      "title": "Full Stack Architect Digital Assets Tokenization",
-      "link": "https://web3.career/full-stack-architect-digital-assets-tokenization-td/152118",
-      "company_name": "TD",
-      "description": "tokenization architecture finance"
+      "title": "Full Stack Engineer",
+      "link": "https://web3.career/full-stack-engineer-flintlabs/152393",
+      "company_name": "Flint Labs",
+      "description": "engineer full stack crypto"
     },
     {
-      "title": "FullStack Solana Developer",
-      "link": "https://web3.career/full-stack-solana-developer-fbyt/152053",
-      "company_name": "FBYT",
-      "description": "dev full stack rust"
+      "title": "Solana Protocol Engineer",
+      "link": "https://web3.career/solana-protocol-engineer-perena/152391",
+      "company_name": "Perena",
+      "description": "protocol engineer blockchain"
     },
     {
-      "title": "Blockchain Engineer Digital Assets Tokenization",
-      "link": "https://web3.career/blockchain-engineer-digital-assets-tokenization-mindlance/152048",
-      "company_name": "Mindlance",
-      "description": "tokenization finance non tech"
+      "title": "Senior Infrastructure Engineer Trading Systems",
+      "link": "https://web3.career/senior-infrastructure-engineer-trading-systems-falconx/152345",
+      "company_name": "Falconx",
+      "description": "infrastructure engineer senior"
     },
     {
-      "title": "Applied AI Engineer",
-      "link": "https://web3.career/applied-ai-engineer-jito-wtf/152041",
-      "company_name": "Jito Labs",
-      "description": "ai engineer blockchain"
+      "title": "Nasdaq RWA Principal Protocol Engineer",
+      "link": "https://web3.career/nasdaq-rwa-principal-protocol-engineer-nasdaq/152329",
+      "company_name": "Nasdaq",
+      "description": "protocol engineer executive"
     },
     {
       "title": "Principal Software Development Engineer",
@@ -65,16 +65,10 @@
       "description": "engineer blockchain crypto"
     },
     {
-      "title": "Software Engineer I CCIP",
-      "link": "https://web3.career/software-engineer-i-ccip-chainlinklabs/152002",
-      "company_name": "Chainlink Labs",
-      "description": "engineer dev blockchain"
-    },
-    {
-      "title": "Senior Software Engineer Protocol Rust",
-      "link": "https://web3.career/senior-software-engineer-protocol-rust-oplabs/151996",
-      "company_name": "OP Labs",
-      "description": "protocol engineer rust"
+      "title": "Software Engineer Rust Payward Services",
+      "link": "https://web3.career/software-engineer-rust-payward-services-kraken/152270",
+      "company_name": "Kraken",
+      "description": "engineer rust dev"
     },
     {
       "title": "Software Engineer Rust Python Asset Pricing Hedging",
@@ -83,14 +77,20 @@
       "description": "engineer python rust"
     },
     {
-      "title": "Senior Software Engineer Trading",
-      "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
+      "title": "Software Engineer Payments Product Lead",
+      "link": "https://web3.career/software-engineer-payments-product-lead-aptoslabs/152256",
+      "company_name": "Aptoslabs",
+      "description": "engineer lead dev"
     },
     {
-      "title": "Senior Software Engineer Market Data",
-      "link": "https://web3.career/senior-software-engineer-market-data-alpaca/99655",
+      "title": "Senior Software Engineer Trading Infrastructure",
+      "link": "https://web3.career/senior-software-engineer-trading-infrastructure-aptoslabs/152255",
+      "company_name": "Aptoslabs",
+      "description": "infrastructure engineer senior"
+    },
+    {
+      "title": "Senior Software Engineer Trading",
+      "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
       "company_name": "Alpaca",
       "description": "engineer senior dev"
     }

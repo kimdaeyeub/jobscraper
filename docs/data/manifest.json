@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T09:53:24.714252+00:00",
+  "updated_at": "2026-08-10T07:48:12.988283+00:00",
   "skills": [
     {
       "id": "python",
@@ -14,7 +14,7 @@
     {
       "id": "typescript",
       "label": "TypeScript",
-      "count": 22
+      "count": 21
     },
     {
       "id": "java",
@@ -39,7 +39,7 @@
     {
       "id": "ruby",
       "label": "Ruby",
-      "count": 16
+      "count": 15
     },
     {
       "id": "swift",
@@ -69,7 +69,7 @@
     {
       "id": "node",
       "label": "Node.js",
-      "count": 16
+      "count": 15
     },
     {
       "id": "nextjs",
@@ -99,7 +99,7 @@
     {
       "id": "rails",
       "label": "Rails",
-      "count": 1
+      "count": 0
     },
     {
       "id": "sql",
@@ -109,7 +109,7 @@
     {
       "id": "postgres",
       "label": "PostgreSQL",
-      "count": 3
+      "count": 2
     },
     {
       "id": "mongodb",
@@ -144,7 +144,7 @@
     {
       "id": "devops",
       "label": "DevOps",
-      "count": 17
+      "count": 16
     },
     {
       "id": "machine-learning",

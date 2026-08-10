@@ -1,8 +1,8 @@
 {
   "skill": "typescript",
   "label": "TypeScript",
-  "count": 22,
-  "updated_at": "2026-08-03T09:53:28.504052+00:00",
+  "count": 21,
+  "updated_at": "2026-08-10T07:48:18.179365+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -41,70 +41,46 @@
       "company_name": "Climatiq"
     },
     {
-      "title": "Senior Product Engineer",
-      "description": "TL;DR Kombo (YC S22) is building a unified API that saves engineering teams, on average, hundreds of hours by needing to integrate only one API instead of 50+. We’re looking for a product-minded full-stack engineer to potentially own one of our existing or new product verticals and to build features for our rapidly growing customer base....",
-      "link": "https://berlinstartupjobs.com/engineering/senior-product-engineer-kombo/",
-      "company_name": "Kombo"
+      "title": "Head of Engineering",
+      "link": "https://web3.career/head-of-engineering-coinflowlabs/152450",
+      "company_name": "Coinflow Labs",
+      "description": "engineering manager engineer executive"
     },
     {
-      "title": "Full Stack Software Engineer Web3 SF",
-      "link": "https://web3.career/full-stack-software-engineer-web3-sf-paradigmoperationslp-al/152187",
-      "company_name": "Paradigm Operations LP-AL",
-      "description": "engineer full stack dev"
-    },
-    {
-      "title": "Blockchain Platm Engineer [211940]",
-      "link": "https://web3.career/blockchain-platform-engineer-211940-aquent/152185",
-      "company_name": "Aquent",
-      "description": "engineer blockchain erc 20"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-anviktechnologies/152184",
-      "company_name": "Anvik Technologies",
-      "description": "dev blockchain erc 20"
-    },
-    {
-      "title": "Senior Blockchain Engineer",
-      "link": "https://web3.career/senior-blockchain-engineer-ondofinance/152100",
+      "title": "Senior Security Engineer Product Security",
+      "link": "https://web3.career/senior-security-engineer-product-security-ondofinance/152420",
       "company_name": "Ondo Finance",
-      "description": "engineer senior blockchain"
+      "description": "engineer security senior"
     },
     {
-      "title": "Staff Software Engineer Frontend Trading",
-      "link": "https://web3.career/staff-software-engineer-frontend-trading-phantom/152073",
-      "company_name": "Phantom",
-      "description": "engineer front end dev"
+      "title": "Full Stack Engineer",
+      "link": "https://web3.career/full-stack-engineer-flintlabs/152393",
+      "company_name": "Flint Labs",
+      "description": "engineer full stack crypto"
     },
     {
-      "title": "FullStack Solana Developer",
-      "link": "https://web3.career/full-stack-solana-developer-fbyt/152053",
-      "company_name": "FBYT",
-      "description": "dev full stack rust"
+      "title": "Senior Web3 SDET",
+      "link": "https://web3.career/senior-web3-sdet-r3/152390",
+      "company_name": "R3",
+      "description": "quality assurance senior blockchain"
     },
     {
-      "title": "Blockchain Engineer Digital Assets Tokenization",
-      "link": "https://web3.career/blockchain-engineer-digital-assets-tokenization-mindlance/152048",
-      "company_name": "Mindlance",
-      "description": "tokenization finance non tech"
+      "title": "Senior Fullstack Engineer Operational Automations",
+      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
+      "company_name": "Alpaca",
+      "description": "engineer full stack operations"
     },
     {
-      "title": "Applied AI Engineer",
-      "link": "https://web3.career/applied-ai-engineer-jito-wtf/152041",
-      "company_name": "Jito Labs",
-      "description": "ai engineer blockchain"
+      "title": "Vice President DeFi Product Engineer",
+      "link": "https://web3.career/vice-president-defi-product-engineer-fidelityinvestments/152323",
+      "company_name": "Fidelity Investments",
+      "description": "engineer blockchain crypto"
     },
     {
-      "title": "Senior Frontend Engineer JTX",
-      "link": "https://web3.career/senior-frontend-engineer-jtx-jito-wtf/152040",
-      "company_name": "Jito Labs",
-      "description": "engineer front end senior"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-dxblockchaingroupfzco/152029",
-      "company_name": "DX Blockchain Group FZCO",
-      "description": "dev blockchain defi"
+      "title": "Senior Full Stack Engineer",
+      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/152288",
+      "company_name": "Bcbgroup",
+      "description": "engineer full stack senior"
     },
     {
       "title": "Senior Full Stack Engineer",
@@ -119,22 +95,40 @@
       "description": "data science engineer crypto"
     },
     {
-      "title": "Senior IT Engineer",
-      "link": "https://web3.career/senior-it-engineer-magiceden/152017",
-      "company_name": "Magic Eden",
-      "description": "engineer senior crypto"
-    },
-    {
       "title": "Backend Engineer",
       "link": "https://web3.career/backend-engineer-layerzerolabs/73714",
       "company_name": "Layerzerolabs",
       "description": "backend engineer aws"
     },
     {
-      "title": "Software Engineer I CCIP",
-      "link": "https://web3.career/software-engineer-i-ccip-chainlinklabs/152002",
-      "company_name": "Chainlink Labs",
+      "title": "Product Engineer",
+      "link": "https://web3.career/product-engineer-improbable/152268",
+      "company_name": "Improbable",
+      "description": "engineer blockchain javascript"
+    },
+    {
+      "title": "Software Engineer React Bitpanda Broker",
+      "link": "https://web3.career/software-engineer-react-bitpanda-broker-bitpanda/151991",
+      "company_name": "Bitpanda",
+      "description": "engineer javascript react"
+    },
+    {
+      "title": "Backend Engineer Markets",
+      "link": "https://web3.career/backend-engineer-markets-polymarket/152262",
+      "company_name": "Polymarket",
+      "description": "backend engineer typescript"
+    },
+    {
+      "title": "Software Engineer Trading Product",
+      "link": "https://web3.career/software-engineer-trading-product-aptoslabs/152257",
+      "company_name": "Aptoslabs",
       "description": "engineer dev blockchain"
+    },
+    {
+      "title": "FrontEnd Engineer Institutional",
+      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
+      "company_name": "Blockchain",
+      "description": "engineer front end blockchain"
     }
   ]
 }

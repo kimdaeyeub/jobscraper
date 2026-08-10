@@ -2,7 +2,7 @@
   "skill": "python",
   "label": "Python",
   "count": 20,
-  "updated_at": "2026-08-03T09:53:26.445225+00:00",
+  "updated_at": "2026-08-10T07:48:16.504678+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -41,16 +41,16 @@
       "description": "engineer python rust"
     },
     {
-      "title": "Software Engineer Python Asset Pricing Hedging",
-      "link": "https://web3.career/software-engineer-python-asset-pricing-hedging-bitpanda/149554",
-      "company_name": "Bitpanda",
-      "description": "engineer python dev"
-    },
-    {
       "title": "Python Engineer Asset Pricing Hedging",
       "link": "https://web3.career/python-engineer-asset-pricing-hedging-bitpanda/103283",
       "company_name": "Bitpanda",
       "description": "engineer python aws"
+    },
+    {
+      "title": "Software Engineer Python Asset Pricing Hedging",
+      "link": "https://web3.career/software-engineer-python-asset-pricing-hedging-bitpanda/149554",
+      "company_name": "Bitpanda",
+      "description": "engineer python dev"
     },
     {
       "title": "Infrastructure Systems Operations Engineer Junior to Mid",

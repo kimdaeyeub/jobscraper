@@ -2,7 +2,7 @@
   "skill": "docker",
   "label": "Docker",
   "count": 20,
-  "updated_at": "2026-08-03T09:54:36.138367+00:00",
+  "updated_at": "2026-08-10T07:49:13.905625+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -35,40 +35,40 @@
       "company_name": "Sourcecast"
     },
     {
-      "title": "Senior Staff Engineer Platm",
-      "link": "https://web3.career/senior-staff-engineer-platform-seilabs/152155",
-      "company_name": "Sei Labs",
-      "description": "engineer senior blockchain"
+      "title": "Senior Web3 SDET",
+      "link": "https://web3.career/senior-web3-sdet-r3/152390",
+      "company_name": "R3",
+      "description": "quality assurance senior blockchain"
     },
     {
-      "title": "Web3 Blockchain Engineer",
-      "link": "https://web3.career/web3-blockchain-engineer-naminfoinc/152087",
-      "company_name": "NAM Info Inc",
-      "description": "engineer blockchain docker"
+      "title": "Sr. Software Development Engineer",
+      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
+      "company_name": "Zscaler",
+      "description": "engineer dev senior"
     },
     {
-      "title": "Fireblocks Implementation Specialist",
-      "link": "https://web3.career/fireblocks-implementation-specialist-purview/152047",
-      "company_name": "PURVIEW",
-      "description": "aws bitcoin blockchain"
+      "title": "Senior Infrastructure Engineer Trading Systems",
+      "link": "https://web3.career/senior-infrastructure-engineer-trading-systems-falconx/152345",
+      "company_name": "Falconx",
+      "description": "infrastructure engineer senior"
     },
     {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-reubencooley/152031",
-      "company_name": "Reuben Cooley",
-      "description": "dev blockchain docker"
-    },
-    {
-      "title": "Binance Accelerator Program AI Backend Engineer",
-      "link": "https://web3.career/binance-accelerator-program-ai-backend-engineer-binance/152025",
-      "company_name": "Binance",
-      "description": "ai backend engineer"
+      "title": "Senior Fullstack Engineer Operational Automations",
+      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
+      "company_name": "Alpaca",
+      "description": "engineer full stack operations"
     },
     {
       "title": "Principal Software Development Engineer",
       "link": "https://web3.career/principal-software-development-engineer-zscaler/99841",
       "company_name": "Zscaler",
       "description": "engineer executive dev"
+    },
+    {
+      "title": "SDE II AI",
+      "link": "https://web3.career/sde-ii-ai-inmobi/152277",
+      "company_name": "Inmobi",
+      "description": "ai aws docker"
     },
     {
       "title": "SDE III Devops",
@@ -95,20 +95,8 @@
       "description": "cloud engineer engineer aws"
     },
     {
-      "title": "Senior Data Engineer",
-      "link": "https://web3.career/senior-data-engineer-alpaca/151988",
-      "company_name": "Alpaca",
-      "description": "data science engineer senior"
-    },
-    {
       "title": "Senior Software Engineer Trading",
       "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "link": "https://web3.career/senior-software-engineer-alpaca/151987",
       "company_name": "Alpaca",
       "description": "engineer senior dev"
     },
@@ -123,6 +111,18 @@
       "link": "https://web3.career/java-backend-developer-localcoin/78924",
       "company_name": "Localcoin",
       "description": "backend dev java"
+    },
+    {
+      "title": "Senior Staff Engineer Platm",
+      "link": "https://web3.career/senior-staff-engineer-platform-seilabs/152155",
+      "company_name": "Sei Labs",
+      "description": "engineer senior blockchain"
+    },
+    {
+      "title": "Web3 Blockchain Engineer",
+      "link": "https://web3.career/web3-blockchain-engineer-naminfoinc/152087",
+      "company_name": "NAM Info Inc",
+      "description": "engineer blockchain docker"
     }
   ]
 }

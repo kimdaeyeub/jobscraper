@@ -2,20 +2,8 @@
   "skill": "go",
   "label": "Go",
   "count": 4,
-  "updated_at": "2026-08-03T09:53:30.700329+00:00",
+  "updated_at": "2026-08-10T07:48:22.482465+00:00",
   "jobs": [
-    {
-      "title": "Product Engineer (Backend, AI-First, hands-on)",
-      "description": "YGO.ai is a VC-funded AI tourism platform looking for a Product Engineer who uses AI to ship fast. IMPORTANT: This is not a traditional coding role. You’ll use Claude Code and other AI tools to 10x your output, always thinking about how the product or feature you are working on benefits the user. Also: we...",
-      "link": "https://berlinstartupjobs.com/engineering/product-engineer-backend-ai-first-hands-on-ygo/",
-      "company_name": "YGO"
-    },
-    {
-      "title": "Team Lead, Product Engineering (hands-on)",
-      "description": "YGO.ai is a VC-funded AI tourism platform looking for a Team Lead for one of our product engineering pods: a hands-on engineer who uses AI to ship fast and acts as the face of their pod towards clients and leadership. IMPORTANT: This is not a traditional coding role. You’ll use Claude Code and other AI...",
-      "link": "https://berlinstartupjobs.com/engineering/team-lead-product-engineering-hands-on-ygo/",
-      "company_name": "YGO"
-    },
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
@@ -27,6 +15,18 @@
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
       "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
       "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Product Engineer (Backend, AI-First, hands-on)",
+      "description": "YGO.ai is a VC-funded AI tourism platform looking for a Product Engineer who uses AI to ship fast. IMPORTANT: This is not a traditional coding role. You’ll use Claude Code and other AI tools to 10x your output, always thinking about how the product or feature you are working on benefits the user. Also: we...",
+      "link": "https://berlinstartupjobs.com/engineering/product-engineer-backend-ai-first-hands-on-ygo/",
+      "company_name": "YGO"
+    },
+    {
+      "title": "Team Lead, Product Engineering (hands-on)",
+      "description": "YGO.ai is a VC-funded AI tourism platform looking for a Team Lead for one of our product engineering pods: a hands-on engineer who uses AI to ship fast and acts as the face of their pod towards clients and leadership. IMPORTANT: This is not a traditional coding role. You’ll use Claude Code and other AI...",
+      "link": "https://berlinstartupjobs.com/engineering/team-lead-product-engineering-hands-on-ygo/",
+      "company_name": "YGO"
     }
   ]
 }

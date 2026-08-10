@@ -1,14 +1,62 @@
 {
   "skill": "node",
   "label": "Node.js",
-  "count": 16,
-  "updated_at": "2026-08-03T09:53:58.431234+00:00",
+  "count": 15,
+  "updated_at": "2026-08-10T07:48:47.949816+00:00",
   "jobs": [
     {
-      "title": "Senior Product Engineer",
-      "description": "TL;DR Kombo (YC S22) is building a unified API that saves engineering teams, on average, hundreds of hours by needing to integrate only one API instead of 50+. We’re looking for a product-minded full-stack engineer to potentially own one of our existing or new product verticals and to build features for our rapidly growing customer base....",
-      "link": "https://berlinstartupjobs.com/engineering/senior-product-engineer-kombo/",
-      "company_name": "Kombo"
+      "title": "Head of Engineering",
+      "link": "https://web3.career/head-of-engineering-coinflowlabs/152450",
+      "company_name": "Coinflow Labs",
+      "description": "engineering manager engineer executive"
+    },
+    {
+      "title": "Blockchain Architect",
+      "link": "https://web3.career/blockchain-architect-themesoftinc/152382",
+      "company_name": "Themesoft Inc.",
+      "description": "architecture blockchain bitcoin"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/152288",
+      "company_name": "Bcbgroup",
+      "description": "engineer full stack senior"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
+      "company_name": "Bcbgroup",
+      "description": "engineer full stack senior"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
+      "company_name": "Layerzerolabs",
+      "description": "engineer reliability blockchain"
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "link": "https://web3.career/senior-site-reliability-engineer-bloxstaking/148505",
+      "company_name": "Bloxstaking",
+      "description": "engineer reliability senior"
+    },
+    {
+      "title": "Senior Software Engineer Trading Infrastructure",
+      "link": "https://web3.career/senior-software-engineer-trading-infrastructure-aptoslabs/152255",
+      "company_name": "Aptoslabs",
+      "description": "infrastructure engineer senior"
+    },
+    {
+      "title": "Backend Engineer E2 Ecosystem",
+      "link": "https://web3.career/backend-engineer-e2-ecosystem-bitgo/152244",
+      "company_name": "Bitgo",
+      "description": "backend engineer bitcoin"
+    },
+    {
+      "title": "Senior Blockchain Engineer With Payment And Exchange Building Experience",
+      "link": "https://web3.career/senior-blockchain-engineer-with-payment-and-exchange-building-experience-y-axisglobal/152233",
+      "company_name": "Y-axis Global",
+      "description": "engineer senior blockchain"
     },
     {
       "title": "Full Stack Software Engineer Web3 SF",
@@ -45,60 +93,6 @@
       "link": "https://web3.career/blockchain-engineer-digital-assets-tokenization-mindlance/152048",
       "company_name": "Mindlance",
       "description": "tokenization finance non tech"
-    },
-    {
-      "title": "Fireblocks Implementation Specialist",
-      "link": "https://web3.career/fireblocks-implementation-specialist-purview/152047",
-      "company_name": "PURVIEW",
-      "description": "aws bitcoin blockchain"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-reubencooley/152031",
-      "company_name": "Reuben Cooley",
-      "description": "dev blockchain docker"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-dxblockchaingroupfzco/152029",
-      "company_name": "DX Blockchain Group FZCO",
-      "description": "dev blockchain defi"
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
-      "company_name": "Bcbgroup",
-      "description": "engineer full stack senior"
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
-      "company_name": "Layerzerolabs",
-      "description": "engineer reliability blockchain"
-    },
-    {
-      "title": "Software Engineer II Gov Systems",
-      "link": "https://web3.career/software-engineer-ii-gov-systems-chainalysis/151999",
-      "company_name": "Chainalysis",
-      "description": "engineer dev aws"
-    },
-    {
-      "title": "Senior Software Engineer Protocol Rust",
-      "link": "https://web3.career/senior-software-engineer-protocol-rust-oplabs/151996",
-      "company_name": "OP Labs",
-      "description": "protocol engineer rust"
-    },
-    {
-      "title": "Senior Site Reliability Engineer",
-      "link": "https://web3.career/senior-site-reliability-engineer-bloxstaking/148505",
-      "company_name": "Bloxstaking",
-      "description": "engineer reliability senior"
-    },
-    {
-      "title": "Coinbase",
-      "link": "https://web3.career/coinbase-alphakappapsi-chizeta/151861",
-      "company_name": "Alpha Kappa Psi - Chi Zeta",
-      "description": "bitcoin blockchain crypto"
     }
   ]
 }
