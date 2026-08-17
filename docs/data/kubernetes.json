@@ -2,7 +2,7 @@
   "skill": "kubernetes",
   "label": "Kubernetes",
   "count": 19,
-  "updated_at": "2026-08-10T07:49:14.622374+00:00",
+  "updated_at": "2026-08-17T07:03:27.944162+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -29,34 +29,34 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Web3 SDET",
-      "link": "https://web3.career/senior-web3-sdet-r3/152390",
-      "company_name": "R3",
-      "description": "quality assurance senior blockchain"
+      "title": "Blockchain Architect and Developer",
+      "link": "https://web3.career/blockchain-architect-and-developer-techobserver/152682",
+      "company_name": "Tech Observer",
+      "description": "architecture dev blockchain"
     },
     {
-      "title": "Sr. Software Development Engineer",
-      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
-      "company_name": "Zscaler",
-      "description": "engineer dev senior"
+      "title": "Site Reliability Engineer Telemetry",
+      "link": "https://web3.career/site-reliability-engineer-telemetry-kraken/152660",
+      "company_name": "Kraken",
+      "description": "engineer reliability aws"
     },
     {
-      "title": "Senior Site Reliability Engineer",
-      "link": "https://web3.career/senior-site-reliability-engineer-alpaca/152337",
-      "company_name": "Alpaca",
-      "description": "engineer reliability senior"
+      "title": "Blockchain Web3 Java Engineer Digital Assets Platm VP",
+      "link": "https://web3.career/blockchain-web3-java-engineer-digital-assets-platform-vp-citi/152620",
+      "company_name": "Citi",
+      "description": "finance non tech engineer"
     },
     {
-      "title": "Senior Fullstack Engineer Operational Automations",
-      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
-      "company_name": "Alpaca",
-      "description": "engineer full stack operations"
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-i8is-infinitisoftwaresolutions/152619",
+      "company_name": "I8IS - Infiniti Software Solutions",
+      "description": "dev blockchain defi"
     },
     {
-      "title": "Head of Site Reliability Engineering SRE",
-      "link": "https://web3.career/head-of-site-reliability-engineering-sre-blockchain/152336",
-      "company_name": "Blockchain",
-      "description": "executive reliability senior"
+      "title": "Blockchain Developer Blockchain Developer Lead Java",
+      "link": "https://web3.career/blockchain-developer-blockchain-developer-lead-java-wisehead/152581",
+      "company_name": "Wisehead",
+      "description": "dev java lead"
     },
     {
       "title": "Senior Full Stack Engineer",
@@ -69,6 +69,12 @@
       "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
       "company_name": "Bcbgroup",
       "description": "engineer full stack senior"
+    },
+    {
+      "title": "Sr. Software Development Engineer",
+      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
+      "company_name": "Zscaler",
+      "description": "engineer dev senior"
     },
     {
       "title": "Staff Software Development Engineer",
@@ -95,28 +101,22 @@
       "description": "devops aws docker"
     },
     {
-      "title": "DevOps Engineer",
-      "link": "https://web3.career/devops-engineer-copperco/104236",
-      "company_name": "Copperco",
-      "description": "devops engineer aws"
+      "title": "SRE engineer",
+      "link": "https://web3.career/sre-engineer-p2p-org/152551",
+      "company_name": "P2P. org",
+      "description": "engineer senior blockchain"
     },
     {
-      "title": "Senior Site Reliability Engineer",
-      "link": "https://web3.career/senior-site-reliability-engineer-bloxstaking/148505",
-      "company_name": "Bloxstaking",
-      "description": "engineer reliability senior"
+      "title": "Director of Engineering Contract LATAM",
+      "link": "https://web3.career/director-of-engineering-contract-latam-nexus/152549",
+      "company_name": "Nexus",
+      "description": "executive blockchain kubernetes"
     },
     {
-      "title": "Software Engineer Java Trade Services",
-      "link": "https://web3.career/software-engineer-java-trade-services-bitpanda/151990",
-      "company_name": "Bitpanda",
-      "description": "engineer java dev"
-    },
-    {
-      "title": "Software Engineer Java Digital Asset Systems",
-      "link": "https://web3.career/software-engineer-java-digital-asset-systems-bitpanda/149242",
-      "company_name": "Bitpanda",
-      "description": "engineer java dev"
+      "title": "Infrastructure Engineer Kubernetes Platm",
+      "link": "https://web3.career/infrastructure-engineer-kubernetes-platform-kraken/152546",
+      "company_name": "Kraken",
+      "description": "infrastructure engineer kubernetes"
     }
   ]
 }

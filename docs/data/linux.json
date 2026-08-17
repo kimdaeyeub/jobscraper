@@ -2,7 +2,7 @@
   "skill": "linux",
   "label": "Linux",
   "count": 17,
-  "updated_at": "2026-08-10T07:49:38.442554+00:00",
+  "updated_at": "2026-08-17T07:03:42.118842+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
@@ -15,12 +15,6 @@
       "description": "Hey! Wir sind die Sourcecast GmbH, ein Softwarehaus mit dem Anspruch, erstklassige Software-Lösungen umzusetzen. Unsere Vision? Fortschrittliche, skalierbare Softwarelösungen, die wirklich etwas bewegen. Momentan liegt unser Fokus auf Digitalisierung im Bereich Gesundheitswesen, Legal Tech und Künstliche Intelligenz. Dafür suchen wir Dich: eine:n Django Entwickler:in mit Leidenschaft für Code und Lust auf ein kleines, freundliches Team,...",
       "link": "https://berlinstartupjobs.com/engineering/django-software-entwicklerin-m-w-d-sourcecast/",
       "company_name": "Sourcecast"
-    },
-    {
-      "title": "Infrastructure Systems Operations Engineer Junior to Mid",
-      "link": "https://web3.career/infrastructure-systems-operations-engineer-junior-to-mid-zigchain/151392",
-      "company_name": "ZIGChain",
-      "description": "infrastructure engineer junior"
     },
     {
       "title": "Sr. Staff Site Reliability Engineer Linux Network troubleshooting Scripting",
@@ -103,6 +97,12 @@
     {
       "title": "Technical Lead Linux 100% Remote",
       "link": "https://web3.career/technical-lead-linux-100-remote-tether/138565",
+      "company_name": "Tether",
+      "description": "remote lead linux"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138564",
       "company_name": "Tether",
       "description": "remote lead linux"
     }

@@ -2,7 +2,7 @@
   "skill": "python",
   "label": "Python",
   "count": 20,
-  "updated_at": "2026-08-10T07:48:16.504678+00:00",
+  "updated_at": "2026-08-17T07:02:31.480498+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -51,12 +51,6 @@
       "link": "https://web3.career/software-engineer-python-asset-pricing-hedging-bitpanda/149554",
       "company_name": "Bitpanda",
       "description": "engineer python dev"
-    },
-    {
-      "title": "Infrastructure Systems Operations Engineer Junior to Mid",
-      "link": "https://web3.career/infrastructure-systems-operations-engineer-junior-to-mid-zigchain/151392",
-      "company_name": "ZIGChain",
-      "description": "infrastructure engineer junior"
     },
     {
       "title": "Senior QA Engineer Exploratory Python Trading Technologies",
@@ -123,6 +117,12 @@
       "link": "https://web3.career/principal-software-engineer-backend-python-golang-zscaler/143950",
       "company_name": "Zscaler",
       "description": "backend engineer golang"
+    },
+    {
+      "title": "Software Engineer Python Institutional",
+      "link": "https://web3.career/software-engineer-python-institutional-blockchain/143870",
+      "company_name": "Blockchain",
+      "description": "engineer python dev"
     }
   ]
 }

@@ -2,8 +2,20 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-08-10T07:48:36.921721+00:00",
+  "updated_at": "2026-08-17T07:02:48.775082+00:00",
   "jobs": [
+    {
+      "title": "Staff Platm Engineer",
+      "link": "https://web3.career/staff-platform-engineer-opensea/152665",
+      "company_name": "OpenSea",
+      "description": "engineer crypto kotlin"
+    },
+    {
+      "title": "Lead Mobile Engineer Permance",
+      "link": "https://web3.career/lead-mobile-engineer-performance-polymarket/152529",
+      "company_name": "Polymarket",
+      "description": "engineer lead mobile"
+    },
     {
       "title": "Senior Web3 SDET",
       "link": "https://web3.career/senior-web3-sdet-r3/152390",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/staff-software-engineer-new-markets-japan-jlpt-n1-fluent-alpaca/151188",
       "company_name": "Alpaca",
       "description": "japan engineer dev"
-    },
-    {
-      "title": "Software Engineer – Digital Asset Trading",
-      "link": "https://web3.career/software-engineer-digital-asset-trading-phaxis/151009",
-      "company_name": "Phaxis",
-      "description": "engineer dev blockchain"
-    },
-    {
-      "title": "Software Engineer II FullStack",
-      "link": "https://web3.career/software-engineer-ii-full-stack-ripple/150924",
-      "company_name": "Ripple",
-      "description": "engineer full stack dev"
     }
   ]
 }

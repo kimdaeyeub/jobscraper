@@ -2,7 +2,7 @@
   "skill": "java",
   "label": "Java",
   "count": 16,
-  "updated_at": "2026-08-10T07:48:19.119019+00:00",
+  "updated_at": "2026-08-17T07:02:34.801001+00:00",
   "jobs": [
     {
       "title": "Senior Fullstack Developer with Product Mindset",
@@ -11,28 +11,52 @@
       "company_name": "Small Improvements"
     },
     {
-      "title": "Senior Web3 SDET",
-      "link": "https://web3.career/senior-web3-sdet-r3/152390",
-      "company_name": "R3",
-      "description": "quality assurance senior blockchain"
+      "title": "Full Stack Engineer KYC Tech fully remote!",
+      "link": "https://web3.career/full-stack-engineer-kyc-tech-fully-remote-binance/152687",
+      "company_name": "Binance",
+      "description": "kyc non tech remote"
+    },
+    {
+      "title": "Blockchain Architect and Developer",
+      "link": "https://web3.career/blockchain-architect-and-developer-techobserver/152682",
+      "company_name": "Tech Observer",
+      "description": "architecture dev blockchain"
+    },
+    {
+      "title": "Blockchain Crypto Engineer",
+      "link": "https://web3.career/blockchain-crypto-engineer-irissoftwareinc/152680",
+      "company_name": "Iris Software Inc.",
+      "description": "engineer blockchain ethereum"
+    },
+    {
+      "title": "Blockchain Web3 Java Engineer Digital Assets Platm VP",
+      "link": "https://web3.career/blockchain-web3-java-engineer-digital-assets-platform-vp-citi/152620",
+      "company_name": "Citi",
+      "description": "finance non tech engineer"
+    },
+    {
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-i8is-infinitisoftwaresolutions/152619",
+      "company_name": "I8IS - Infiniti Software Solutions",
+      "description": "dev blockchain defi"
+    },
+    {
+      "title": "Blockchain Web3 Engineer",
+      "link": "https://web3.career/blockchain-web3-engineer-irissoftwareinc/152618",
+      "company_name": "Iris Software Inc.",
+      "description": "engineer blockchain ethereum"
     },
     {
       "title": "Blockchain Architect",
-      "link": "https://web3.career/blockchain-architect-themesoftinc/152382",
-      "company_name": "Themesoft Inc.",
+      "link": "https://web3.career/blockchain-architect-i8is-infinitisoftwaresolutions/152617",
+      "company_name": "I8IS - Infiniti Software Solutions",
       "description": "architecture blockchain bitcoin"
     },
     {
-      "title": "Senior Infrastructure Engineer Trading Systems",
-      "link": "https://web3.career/senior-infrastructure-engineer-trading-systems-falconx/152345",
-      "company_name": "Falconx",
-      "description": "infrastructure engineer senior"
-    },
-    {
-      "title": "Principal Software Development Engineer",
-      "link": "https://web3.career/principal-software-development-engineer-zscaler/99841",
-      "company_name": "Zscaler",
-      "description": "engineer executive dev"
+      "title": "Blockchain Developer Blockchain Developer Lead Java",
+      "link": "https://web3.career/blockchain-developer-blockchain-developer-lead-java-wisehead/152581",
+      "company_name": "Wisehead",
+      "description": "dev java lead"
     },
     {
       "title": "Staff Site Reliability Engineer",
@@ -47,12 +71,6 @@
       "description": "compliance non tech engineer"
     },
     {
-      "title": "SDE II AI",
-      "link": "https://web3.career/sde-ii-ai-inmobi/152277",
-      "company_name": "Inmobi",
-      "description": "ai aws docker"
-    },
-    {
       "title": "Software Engineer Java Trade Services",
       "link": "https://web3.career/software-engineer-java-trade-services-bitpanda/151990",
       "company_name": "Bitpanda",
@@ -65,34 +83,16 @@
       "description": "engineer java dev"
     },
     {
-      "title": "Software Engineer Intern Fullstack 12 Month Internship",
-      "link": "https://web3.career/software-engineer-intern-fullstack-12-month-internship-bitpanda/151423",
-      "company_name": "Bitpanda",
-      "description": "engineer full stack intern"
-    },
-    {
       "title": "Senior Software Engineer Java EVERGREEN",
       "link": "https://web3.career/senior-software-engineer-java-evergreen-bitpanda/152263",
       "company_name": "Bitpanda",
       "description": "engineer java senior"
     },
     {
-      "title": "Senior Software Engineer Trading Infrastructure",
-      "link": "https://web3.career/senior-software-engineer-trading-infrastructure-aptoslabs/152255",
-      "company_name": "Aptoslabs",
-      "description": "infrastructure engineer senior"
-    },
-    {
       "title": "Senior Software Engineer Trading",
       "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
       "company_name": "Alpaca",
       "description": "engineer senior dev"
-    },
-    {
-      "title": "Technical Lead Lending Savings",
-      "link": "https://web3.career/technical-lead-lending-savings-blockchain/152251",
-      "company_name": "Blockchain",
-      "description": "lead tech lead blockchain"
     },
     {
       "title": "Java Backend Developer",

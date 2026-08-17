@@ -2,7 +2,7 @@
   "skill": "react",
   "label": "React",
   "count": 18,
-  "updated_at": "2026-08-10T07:48:37.719984+00:00",
+  "updated_at": "2026-08-17T07:02:50.140048+00:00",
   "jobs": [
     {
       "title": "(Senior) Full-Stack Engineer (AI-Assisted 3D / CAD / BIM Development)",
@@ -23,28 +23,46 @@
       "company_name": "Small Improvements"
     },
     {
-      "title": "Head of Engineering",
-      "link": "https://web3.career/head-of-engineering-coinflowlabs/152450",
-      "company_name": "Coinflow Labs",
-      "description": "engineering manager engineer executive"
+      "title": "FullStack Software Engineer Compliance",
+      "link": "https://web3.career/full-stack-software-engineer-compliance-ondofinance/152720",
+      "company_name": "Ondo Finance",
+      "description": "compliance non tech engineer"
     },
     {
-      "title": "Full Stack Engineer",
-      "link": "https://web3.career/full-stack-engineer-flintlabs/152393",
-      "company_name": "Flint Labs",
-      "description": "engineer full stack crypto"
+      "title": "FullStack Software Engineer Growth",
+      "link": "https://web3.career/full-stack-software-engineer-growth-ondofinance/152719",
+      "company_name": "Ondo Finance",
+      "description": "growth engineer full stack"
     },
     {
-      "title": "Senior Software Engineer New Markets",
-      "link": "https://web3.career/senior-software-engineer-new-markets-alpaca/152338",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
+      "title": "Staff Principal Full Stack Blockchain Engineer",
+      "link": "https://web3.career/staff-principal-full-stack-blockchain-engineer-groma/152716",
+      "company_name": "Groma",
+      "description": "engineer full stack executive"
     },
     {
-      "title": "Senior Fullstack Engineer Operational Automations",
-      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
-      "company_name": "Alpaca",
-      "description": "engineer full stack operations"
+      "title": "Intermediate Software Engineer Fullstack",
+      "link": "https://web3.career/intermediate-software-engineer-fullstack-kast/152695",
+      "company_name": "Kast",
+      "description": "engineer full stack dev"
+    },
+    {
+      "title": "Full Stack Engineer KYC Tech fully remote!",
+      "link": "https://web3.career/full-stack-engineer-kyc-tech-fully-remote-binance/152687",
+      "company_name": "Binance",
+      "description": "kyc non tech remote"
+    },
+    {
+      "title": "Senior Web Engineer Perps",
+      "link": "https://web3.career/senior-web-engineer-perps-polymarket/152648",
+      "company_name": "Polymarket",
+      "description": "engineer senior crypto"
+    },
+    {
+      "title": "Social Media and Community Manager",
+      "link": "https://web3.career/social-media-and-community-manager-koinly/151770",
+      "company_name": "Koinly",
+      "description": "community manager non tech social media"
     },
     {
       "title": "Engineering Director Mobile Web3",
@@ -65,22 +83,16 @@
       "description": "executive front end blockchain"
     },
     {
-      "title": "SDE II AI",
-      "link": "https://web3.career/sde-ii-ai-inmobi/152277",
-      "company_name": "Inmobi",
-      "description": "ai aws docker"
-    },
-    {
-      "title": "Product Engineer",
-      "link": "https://web3.career/product-engineer-improbable/152268",
-      "company_name": "Improbable",
-      "description": "engineer blockchain javascript"
-    },
-    {
       "title": "Software Engineer React Bitpanda Broker",
       "link": "https://web3.career/software-engineer-react-bitpanda-broker-bitpanda/151991",
       "company_name": "Bitpanda",
       "description": "engineer javascript react"
+    },
+    {
+      "title": "Senior Software Engineer New Markets",
+      "link": "https://web3.career/senior-software-engineer-new-markets-alpaca/152338",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev"
     },
     {
       "title": "Senior Software Engineer New Markets",
@@ -89,28 +101,16 @@
       "description": "engineer senior dev"
     },
     {
+      "title": "Senior Fullstack Engineer Operational Automations",
+      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
+      "company_name": "Alpaca",
+      "description": "engineer full stack operations"
+    },
+    {
       "title": "FrontEnd Engineer Institutional",
       "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
       "company_name": "Blockchain",
       "description": "engineer front end blockchain"
-    },
-    {
-      "title": "UI Engineer",
-      "link": "https://web3.career/ui-engineer-taxbit/151184",
-      "company_name": "Taxbit",
-      "description": "engineer design non tech"
-    },
-    {
-      "title": "Forward Deployed Engineer",
-      "link": "https://web3.career/forward-deployed-engineer-taxbit/140543",
-      "company_name": "Taxbit",
-      "description": "engineer aws bitcoin"
-    },
-    {
-      "title": "Backend Engineer E2 Ecosystem",
-      "link": "https://web3.career/backend-engineer-e2-ecosystem-bitgo/152244",
-      "company_name": "Bitgo",
-      "description": "backend engineer bitcoin"
     }
   ]
 }

@@ -2,8 +2,14 @@
   "skill": "ruby",
   "label": "Ruby",
   "count": 15,
-  "updated_at": "2026-08-10T07:48:30.268712+00:00",
+  "updated_at": "2026-08-17T07:02:47.033244+00:00",
   "jobs": [
+    {
+      "title": "Senior Site Reliability Engineer",
+      "link": "https://web3.career/senior-site-reliability-engineer-tastylive/152521",
+      "company_name": "Tastylive",
+      "description": "engineer reliability senior"
+    },
     {
       "title": "Senior Blockchain Developer",
       "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/software-engineer-intern-lensa/144949",
       "company_name": "Lensa",
       "description": "engineer intern entry level"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-net2source-n2s/144337",
-      "company_name": "Net2Source (N2S)",
-      "description": "dev blockchain angular"
     }
   ]
 }

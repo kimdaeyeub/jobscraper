@@ -2,8 +2,38 @@
   "skill": "nextjs",
   "label": "Next.js",
   "count": 15,
-  "updated_at": "2026-08-10T07:48:51.201799+00:00",
+  "updated_at": "2026-08-17T07:03:03.625203+00:00",
   "jobs": [
+    {
+      "title": "FullStack Software Engineer Compliance",
+      "link": "https://web3.career/full-stack-software-engineer-compliance-ondofinance/152720",
+      "company_name": "Ondo Finance",
+      "description": "compliance non tech engineer"
+    },
+    {
+      "title": "FullStack Software Engineer Growth",
+      "link": "https://web3.career/full-stack-software-engineer-growth-ondofinance/152719",
+      "company_name": "Ondo Finance",
+      "description": "growth engineer full stack"
+    },
+    {
+      "title": "Intermediate Software Engineer Fullstack",
+      "link": "https://web3.career/intermediate-software-engineer-fullstack-kast/152695",
+      "company_name": "Kast",
+      "description": "engineer full stack dev"
+    },
+    {
+      "title": "Senior Web Engineer Perps",
+      "link": "https://web3.career/senior-web-engineer-perps-polymarket/152648",
+      "company_name": "Polymarket",
+      "description": "engineer senior crypto"
+    },
+    {
+      "title": "Director of Engineering Contract LATAM",
+      "link": "https://web3.career/director-of-engineering-contract-latam-nexus/152549",
+      "company_name": "Nexus",
+      "description": "executive blockchain kubernetes"
+    },
     {
       "title": "Product Engineer",
       "link": "https://web3.career/product-engineer-improbable/152268",
@@ -63,36 +93,6 @@
       "link": "https://web3.career/director-of-engineering-usa-nexus/151211",
       "company_name": "Nexus",
       "description": "executive blockchain kubernetes"
-    },
-    {
-      "title": "Graduate Software Engineer UI",
-      "link": "https://web3.career/graduate-software-engineer-ui-elwoodtechnologies/151200",
-      "company_name": "Elwoodtechnologies",
-      "description": "engineer intern entry level"
-    },
-    {
-      "title": "AI Infra Engineer",
-      "link": "https://web3.career/ai-infra-engineer-serotonin/150793",
-      "company_name": "Serotonin",
-      "description": "ai engineer crypto"
-    },
-    {
-      "title": "Software Engineer Fullstack",
-      "link": "https://web3.career/software-engineer-fullstack-kast/150761",
-      "company_name": "Kast",
-      "description": "engineer full stack dev"
-    },
-    {
-      "title": "Associate Technical Lead Fullstack",
-      "link": "https://web3.career/associate-technical-lead-fullstack-kast/150736",
-      "company_name": "Kast",
-      "description": "full stack lead tech lead"
-    },
-    {
-      "title": "Associate Technical Lead Web Development",
-      "link": "https://web3.career/associate-technical-lead-web-development-kast/150735",
-      "company_name": "Kast",
-      "description": "lead tech lead web dev"
     }
   ]
 }

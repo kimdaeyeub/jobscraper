@@ -2,14 +2,8 @@
   "skill": "terraform",
   "label": "Terraform",
   "count": 15,
-  "updated_at": "2026-08-10T07:49:18.241534+00:00",
+  "updated_at": "2026-08-17T07:03:31.484527+00:00",
   "jobs": [
-    {
-      "title": "Infrastructure Systems Operations Engineer Junior to Mid",
-      "link": "https://web3.career/infrastructure-systems-operations-engineer-junior-to-mid-zigchain/151392",
-      "company_name": "ZIGChain",
-      "description": "infrastructure engineer junior"
-    },
     {
       "title": "Senior DevOps Engineer",
       "link": "https://web3.career/senior-devops-engineer-figment/55120",
@@ -93,6 +87,12 @@
       "link": "https://web3.career/devops-architect-individual-contributor-role-binance/62497",
       "company_name": "Binance",
       "description": "architecture devops aws"
+    },
+    {
+      "title": "Senior Blockchain Engineer",
+      "link": "https://web3.career/senior-blockchain-engineer-chainalysis/62367",
+      "company_name": "Chainalysis",
+      "description": "engineer senior blockchain"
     }
   ]
 }

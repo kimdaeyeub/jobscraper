@@ -2,7 +2,7 @@
   "skill": "javascript",
   "label": "JavaScript",
   "count": 17,
-  "updated_at": "2026-08-10T07:48:17.418915+00:00",
+  "updated_at": "2026-08-17T07:02:32.601253+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -17,40 +17,34 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Security Engineer Product Security",
-      "link": "https://web3.career/senior-security-engineer-product-security-ondofinance/152420",
-      "company_name": "Ondo Finance",
-      "description": "engineer security senior"
+      "title": "Blockchain Architect and Developer",
+      "link": "https://web3.career/blockchain-architect-and-developer-techobserver/152682",
+      "company_name": "Tech Observer",
+      "description": "architecture dev blockchain"
     },
     {
-      "title": "Senior Web3 SDET",
-      "link": "https://web3.career/senior-web3-sdet-r3/152390",
-      "company_name": "R3",
-      "description": "quality assurance senior blockchain"
+      "title": "P2P Node.js Engineer Holepunch 100% Remote Worldwide",
+      "link": "https://web3.career/p2p-node-js-engineer-holepunch-100-remote-worldwide-tetheroperationslimited/152589",
+      "company_name": "Tether Operations Limited",
+      "description": "remote javascript engineer"
     },
     {
-      "title": "Senior Business IT Engineer Atlassian Cloud",
-      "link": "https://web3.career/senior-business-it-engineer-atlassian-cloud-bitpanda/152342",
-      "company_name": "Bitpanda",
-      "description": "cloud engineer engineer senior"
-    },
-    {
-      "title": "Vice President DeFi Product Engineer",
-      "link": "https://web3.career/vice-president-defi-product-engineer-fidelityinvestments/152323",
-      "company_name": "Fidelity Investments",
-      "description": "engineer blockchain crypto"
-    },
-    {
-      "title": "Product Engineer",
-      "link": "https://web3.career/product-engineer-improbable/152268",
-      "company_name": "Improbable",
-      "description": "engineer blockchain javascript"
+      "title": "Senior Node.js Software Engineer Holepunch 100% Remote Worldwide",
+      "link": "https://web3.career/senior-node-js-software-engineer-holepunch-100-remote-worldwide-tetheroperationslimited/152588",
+      "company_name": "Tether Operations Limited",
+      "description": "remote javascript engineer"
     },
     {
       "title": "Software Engineer React Bitpanda Broker",
       "link": "https://web3.career/software-engineer-react-bitpanda-broker-bitpanda/151991",
       "company_name": "Bitpanda",
       "description": "engineer javascript react"
+    },
+    {
+      "title": "Senior Business IT Engineer Atlassian Cloud",
+      "link": "https://web3.career/senior-business-it-engineer-atlassian-cloud-bitpanda/152342",
+      "company_name": "Bitpanda",
+      "description": "cloud engineer engineer senior"
     },
     {
       "title": "FrontEnd Engineer Institutional",
@@ -71,40 +65,46 @@
       "description": "dev quality assurance javascript"
     },
     {
-      "title": "SDR SDR Brave Search API",
-      "link": "https://web3.career/sdr-sdr-brave-search-api-brave/152247",
-      "company_name": "Brave",
-      "description": "api javascript remote"
-    },
-    {
       "title": "Solutions Engineer",
       "link": "https://web3.career/solutions-engineer-bitgo/149986",
       "company_name": "Bitgo",
       "description": "engineer bitcoin blockchain"
     },
     {
+      "title": "Senior Security Engineer Product Security",
+      "link": "https://web3.career/senior-security-engineer-product-security-ondofinance/152420",
+      "company_name": "Ondo Finance",
+      "description": "engineer security senior"
+    },
+    {
+      "title": "Senior Web3 SDET",
+      "link": "https://web3.career/senior-web3-sdet-r3/152390",
+      "company_name": "R3",
+      "description": "quality assurance senior blockchain"
+    },
+    {
+      "title": "Vice President DeFi Product Engineer",
+      "link": "https://web3.career/vice-president-defi-product-engineer-fidelityinvestments/152323",
+      "company_name": "Fidelity Investments",
+      "description": "engineer blockchain crypto"
+    },
+    {
+      "title": "Product Engineer",
+      "link": "https://web3.career/product-engineer-improbable/152268",
+      "company_name": "Improbable",
+      "description": "engineer blockchain javascript"
+    },
+    {
+      "title": "SDR SDR Brave Search API",
+      "link": "https://web3.career/sdr-sdr-brave-search-api-brave/152247",
+      "company_name": "Brave",
+      "description": "api javascript remote"
+    },
+    {
       "title": "Senior Blockchain Engineer With Payment And Exchange Building Experience",
       "link": "https://web3.career/senior-blockchain-engineer-with-payment-and-exchange-building-experience-y-axisglobal/152233",
       "company_name": "Y-axis Global",
       "description": "engineer senior blockchain"
-    },
-    {
-      "title": "Senior Mobile Software Engineer React Native",
-      "link": "https://web3.career/senior-mobile-software-engineer-react-native-bitso/152229",
-      "company_name": "Bitso",
-      "description": "engineer mobile react native"
-    },
-    {
-      "title": "Smart Contract Developer",
-      "link": "https://web3.career/smart-contract-developer-easiio-inc/152188",
-      "company_name": "Easiio, Inc",
-      "description": "dev ethereum aws"
-    },
-    {
-      "title": "Core Developer Node",
-      "link": "https://web3.career/core-developer-node-parity/152071",
-      "company_name": "Parity",
-      "description": "dev javascript node"
     }
   ]
 }

@@ -2,97 +2,97 @@
   "skill": "aws",
   "label": "AWS",
   "count": 15,
-  "updated_at": "2026-08-10T07:49:10.157278+00:00",
+  "updated_at": "2026-08-17T07:03:26.510769+00:00",
   "jobs": [
     {
-      "title": "Senior Infrastructure Engineer Trading Systems",
-      "link": "https://web3.career/senior-infrastructure-engineer-trading-systems-falconx/152345",
-      "company_name": "Falconx",
-      "description": "infrastructure engineer senior"
+      "title": "FullStack Software Engineer Compliance",
+      "link": "https://web3.career/full-stack-software-engineer-compliance-ondofinance/152720",
+      "company_name": "Ondo Finance",
+      "description": "compliance non tech engineer"
     },
     {
-      "title": "Head of Site Reliability Engineering SRE",
-      "link": "https://web3.career/head-of-site-reliability-engineering-sre-blockchain/152336",
-      "company_name": "Blockchain",
-      "description": "executive reliability senior"
+      "title": "FullStack Software Engineer Growth",
+      "link": "https://web3.career/full-stack-software-engineer-growth-ondofinance/152719",
+      "company_name": "Ondo Finance",
+      "description": "growth engineer full stack"
     },
     {
-      "title": "Legal Intern",
-      "link": "https://web3.career/legal-intern-impossiblecloud/152307",
-      "company_name": "Impossible Cloud",
-      "description": "intern entry level legal"
+      "title": "Business Economics Lead Strategic Finance",
+      "link": "https://web3.career/business-economics-lead-strategic-finance-kast/152718",
+      "company_name": "Kast",
+      "description": "strategy non tech economy designer"
     },
     {
-      "title": "Principal Software Development Engineer",
-      "link": "https://web3.career/principal-software-development-engineer-zscaler/99841",
+      "title": "FinCrime Analyst",
+      "link": "https://web3.career/fincrime-analyst-kast/152696",
+      "company_name": "Kast",
+      "description": "analyst aws blockchain"
+    },
+    {
+      "title": "Intermediate Software Engineer Fullstack",
+      "link": "https://web3.career/intermediate-software-engineer-fullstack-kast/152695",
+      "company_name": "Kast",
+      "description": "engineer full stack dev"
+    },
+    {
+      "title": "Recruiter Talent Acquisition Specialist 6 month Contract",
+      "link": "https://web3.career/recruiter-talent-acquisition-specialist-6-month-contract-kast/152694",
+      "company_name": "Kast",
+      "description": "recruiter non tech aws"
+    },
+    {
+      "title": "Sr. Product Marketing Manager",
+      "link": "https://web3.career/sr-product-marketing-manager-helius/152693",
+      "company_name": "Helius",
+      "description": "marketing manager marketing non tech"
+    },
+    {
+      "title": "Blockchain Architect and Developer",
+      "link": "https://web3.career/blockchain-architect-and-developer-techobserver/152682",
+      "company_name": "Tech Observer",
+      "description": "architecture dev blockchain"
+    },
+    {
+      "title": "Sr. Staff Production Engineer",
+      "link": "https://web3.career/sr-staff-production-engineer-zscaler/148835",
       "company_name": "Zscaler",
-      "description": "engineer executive dev"
+      "description": "engineer senior aws"
+    },
+    {
+      "title": "Senior Internal Auditor Technology",
+      "link": "https://web3.career/senior-internal-auditor-technology-kraken/152663",
+      "company_name": "Kraken",
+      "description": "senior aws blockchain"
+    },
+    {
+      "title": "Site Reliability Engineer Telemetry",
+      "link": "https://web3.career/site-reliability-engineer-telemetry-kraken/152660",
+      "company_name": "Kraken",
+      "description": "engineer reliability aws"
+    },
+    {
+      "title": "Director Data Platm",
+      "link": "https://web3.career/director-data-platform-polymarket/152640",
+      "company_name": "Polymarket",
+      "description": "executive aws blockchain"
+    },
+    {
+      "title": "Compliance KYC Manager",
+      "link": "https://web3.career/compliance-kyc-manager-ondofinance/152622",
+      "company_name": "Ondo Finance",
+      "description": "compliance non tech kyc"
+    },
+    {
+      "title": "Product Manager Stocks",
+      "link": "https://web3.career/product-manager-stocks-ondofinance/152621",
+      "company_name": "Ondo Finance",
+      "description": "product manager non tech aws"
     },
     {
       "title": "Staff Site Reliability Engineer",
       "link": "https://web3.career/staff-site-reliability-engineer-zscaler/106117",
       "company_name": "Zscaler",
       "description": "engineer reliability aws"
-    },
-    {
-      "title": "Sr. Production Engineer",
-      "link": "https://web3.career/sr-production-engineer-zscaler/150565",
-      "company_name": "Zscaler",
-      "description": "engineer senior aws"
-    },
-    {
-      "title": "Escalation Engineer DLP",
-      "link": "https://web3.career/escalation-engineer-dlp-zscaler/148637",
-      "company_name": "Zscaler",
-      "description": "engineer aws remote"
-    },
-    {
-      "title": "Senior Technical Success Manager",
-      "link": "https://web3.career/senior-technical-success-manager-zscaler/145190",
-      "company_name": "Zscaler",
-      "description": "sales non tech senior"
-    },
-    {
-      "title": "Quant Developer Rust Liquidity Platm Delta One Systematic Trading",
-      "link": "https://web3.career/quant-developer-rust-liquidity-platform-delta-one-systematic-trading-okx/145502",
-      "company_name": "Okx",
-      "description": "dev sales non tech"
-    },
-    {
-      "title": "Senior Security Engineer",
-      "link": "https://web3.career/senior-security-engineer-nearfoundation/149563",
-      "company_name": "Nearfoundation",
-      "description": "engineer security senior"
-    },
-    {
-      "title": "Backend Engineer",
-      "link": "https://web3.career/backend-engineer-layerzerolabs/73714",
-      "company_name": "Layerzerolabs",
-      "description": "backend engineer aws"
-    },
-    {
-      "title": "SDE II AI",
-      "link": "https://web3.career/sde-ii-ai-inmobi/152277",
-      "company_name": "Inmobi",
-      "description": "ai aws docker"
-    },
-    {
-      "title": "SDE III Devops",
-      "link": "https://web3.career/sde-iii-devops-inmobi/100181",
-      "company_name": "Inmobi",
-      "description": "devops aws docker"
-    },
-    {
-      "title": "Network Engineer Core Infrastructure",
-      "link": "https://web3.career/network-engineer-core-infrastructure-kraken/152271",
-      "company_name": "Kraken",
-      "description": "infrastructure engineer aws"
-    },
-    {
-      "title": "Senior Security Engineer",
-      "link": "https://web3.career/senior-security-engineer-copperco/151997",
-      "company_name": "Copperco",
-      "description": "engineer security senior"
     }
   ]
 }
