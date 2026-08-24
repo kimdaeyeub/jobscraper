@@ -2,7 +2,7 @@
   "skill": "docker",
   "label": "Docker",
   "count": 20,
-  "updated_at": "2026-08-17T07:03:27.235233+00:00",
+  "updated_at": "2026-08-24T07:06:15.708119+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -35,28 +35,28 @@
       "company_name": "Sourcecast"
     },
     {
-      "title": "Blockchain Architect and Developer",
-      "link": "https://web3.career/blockchain-architect-and-developer-techobserver/152682",
-      "company_name": "Tech Observer",
-      "description": "architecture dev blockchain"
-    },
-    {
-      "title": "Blockchain Web3 Java Engineer Digital Assets Platm VP",
-      "link": "https://web3.career/blockchain-web3-java-engineer-digital-assets-platform-vp-citi/152620",
+      "title": "Blockchain Senior Java Engineer Digital Assets Platm VP",
+      "link": "https://web3.career/blockchain-senior-java-engineer-digital-assets-platform-vp-citi/153083",
       "company_name": "Citi",
       "description": "finance non tech engineer"
     },
     {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-i8is-infinitisoftwaresolutions/152619",
-      "company_name": "I8IS - Infiniti Software Solutions",
-      "description": "dev blockchain defi"
+      "title": "Middle QA Engineer",
+      "link": "https://web3.career/middle-qa-engineer-opentag/153064",
+      "company_name": "OpenTag",
+      "description": "engineer quality assurance docker"
     },
     {
-      "title": "Blockchain Developer Blockchain Developer Lead Java",
-      "link": "https://web3.career/blockchain-developer-blockchain-developer-lead-java-wisehead/152581",
-      "company_name": "Wisehead",
-      "description": "dev java lead"
+      "title": "Senior Software Engineer",
+      "link": "https://web3.career/senior-software-engineer-kaleido/152952",
+      "company_name": "Kaleido",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Blockchain Engineer",
+      "link": "https://web3.career/blockchain-engineer-techneptuneconsultinginc/152910",
+      "company_name": "TechNeptune Consulting Inc.",
+      "description": "engineer blockchain docker"
     },
     {
       "title": "Sr. Software Development Engineer",
@@ -65,16 +65,16 @@
       "description": "engineer dev senior"
     },
     {
+      "title": "Senior Engineer Fiat Payment，Card",
+      "link": "https://web3.career/senior-engineer-fiat-payment-card-okx/152881",
+      "company_name": "Okx",
+      "description": "engineer senior aws"
+    },
+    {
       "title": "SDE III Devops",
       "link": "https://web3.career/sde-iii-devops-inmobi/100181",
       "company_name": "Inmobi",
       "description": "devops aws docker"
-    },
-    {
-      "title": "SRE engineer",
-      "link": "https://web3.career/sre-engineer-p2p-org/152551",
-      "company_name": "P2P. org",
-      "description": "engineer senior blockchain"
     },
     {
       "title": "DevOps Engineer",
@@ -93,6 +93,12 @@
       "link": "https://web3.career/cloud-kafka-engineer-bitpanda/149169",
       "company_name": "Bitpanda",
       "description": "cloud engineer engineer aws"
+    },
+    {
+      "title": "Software Engineer Market Data",
+      "link": "https://web3.career/software-engineer-market-data-alpaca/152866",
+      "company_name": "Alpaca",
+      "description": "engineer dev aws"
     },
     {
       "title": "Senior Software Engineer Trading",
@@ -117,12 +123,6 @@
       "link": "https://web3.career/java-backend-developer-localcoin/78924",
       "company_name": "Localcoin",
       "description": "backend dev java"
-    },
-    {
-      "title": "Senior Web3 SDET",
-      "link": "https://web3.career/senior-web3-sdet-r3/152390",
-      "company_name": "R3",
-      "description": "quality assurance senior blockchain"
     }
   ]
 }

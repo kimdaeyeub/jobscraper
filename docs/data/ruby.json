@@ -1,20 +1,26 @@
 {
   "skill": "ruby",
   "label": "Ruby",
-  "count": 15,
-  "updated_at": "2026-08-17T07:02:47.033244+00:00",
+  "count": 17,
+  "updated_at": "2026-08-24T07:05:30.477238+00:00",
   "jobs": [
+    {
+      "title": "Remote Customer Support - $20/hr+",
+      "description": "Work from home as a Customer Support Specialist - earn $20/hr+ with full-time & part-time remote opportunities.",
+      "link": "https://weworkremotely.com/listing_ads/13/click?pk=f11a61404d9b38802eb1b9dfb7a7a1faca04fd0aa48c1d5359ad23f559e57dbc&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMywiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6ImQ3ZjA2Mjc1YmYzYzAwMjA3YzdhZDc3MGM1MTY1MThmYjcyOGE1MWY5N2MzYjhmNmE4YjhiYjdkM2E5NmQwZGEiLCJwYWdlX2tleSI6ImYxMWE2MTQwNGQ5YjM4ODAyZWIxYjlkZmI3YTdhMWZhY2EwNGZkMGFhNDhjMWQ1MzU5YWQyM2Y1NTllNTdkYmMiLCJub25jZSI6IjM3OWM4MjZkZWZkNDE4ZmEyMGY2YmU2ZWE5ZmQyYzc0In0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDU6MjkuODQ3WiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--eca1ac49c82a3bf6001efb2505c7e90cbcb63fe9&target=profile",
+      "company_name": "Remote Talent Cloud"
+    },
+    {
+      "title": "Remote Tech Jobs Paying $130k to $250k",
+      "description": "Metana's partner companies are hiring AI, Web3, Software & Security talent right now.",
+      "link": "https://weworkremotely.com/listing_ads/11/click?pk=f11a61404d9b38802eb1b9dfb7a7a1faca04fd0aa48c1d5359ad23f559e57dbc&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMSwiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6ImQ3ZjA2Mjc1YmYzYzAwMjA3YzdhZDc3MGM1MTY1MThmYjcyOGE1MWY5N2MzYjhmNmE4YjhiYjdkM2E5NmQwZGEiLCJwYWdlX2tleSI6ImYxMWE2MTQwNGQ5YjM4ODAyZWIxYjlkZmI3YTdhMWZhY2EwNGZkMGFhNDhjMWQ1MzU5YWQyM2Y1NTllNTdkYmMiLCJub25jZSI6ImFmMGViY2NiOTY5YzI4YTM1ODgzNWFhYTgwNjI3NWZkIn0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDU6MjkuODUwWiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--c9bf906ede4358a950b93396c62e1504e231a576&target=profile",
+      "company_name": "Metana.io"
+    },
     {
       "title": "Senior Site Reliability Engineer",
       "link": "https://web3.career/senior-site-reliability-engineer-tastylive/152521",
       "company_name": "Tastylive",
       "description": "engineer reliability senior"
-    },
-    {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
-      "company_name": "Lemon.io",
-      "description": "dev senior blockchain"
     },
     {
       "title": "Staff Software Engineer Ruby on Rails",
@@ -93,6 +99,12 @@
       "link": "https://web3.career/software-engineer-intern-lensa/144949",
       "company_name": "Lensa",
       "description": "engineer intern entry level"
+    },
+    {
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-net2source-n2s/144337",
+      "company_name": "Net2Source (N2S)",
+      "description": "dev blockchain angular"
     }
   ]
 }

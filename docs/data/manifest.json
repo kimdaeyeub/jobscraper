@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-08-17T07:02:30.230206+00:00",
+  "updated_at": "2026-08-24T07:05:19.518357+00:00",
   "skills": [
     {
       "id": "python",
       "label": "Python",
-      "count": 20
+      "count": 21
     },
     {
       "id": "javascript",
       "label": "JavaScript",
-      "count": 17
+      "count": 19
     },
     {
       "id": "typescript",
       "label": "TypeScript",
-      "count": 21
+      "count": 23
     },
     {
       "id": "java",
@@ -24,22 +24,22 @@
     {
       "id": "go",
       "label": "Go",
-      "count": 4
+      "count": 6
     },
     {
       "id": "rust",
       "label": "Rust",
-      "count": 15
+      "count": 17
     },
     {
       "id": "php",
       "label": "PHP",
-      "count": 15
+      "count": 17
     },
     {
       "id": "ruby",
       "label": "Ruby",
-      "count": 15
+      "count": 17
     },
     {
       "id": "swift",
@@ -54,7 +54,7 @@
     {
       "id": "react",
       "label": "React",
-      "count": 18
+      "count": 19
     },
     {
       "id": "vue",
@@ -64,7 +64,7 @@
     {
       "id": "angular",
       "label": "Angular",
-      "count": 15
+      "count": 17
     },
     {
       "id": "node",
@@ -94,12 +94,12 @@
     {
       "id": "spring",
       "label": "Spring",
-      "count": 0
+      "count": 2
     },
     {
       "id": "rails",
       "label": "Rails",
-      "count": 0
+      "count": 2
     },
     {
       "id": "sql",
@@ -144,7 +144,7 @@
     {
       "id": "devops",
       "label": "DevOps",
-      "count": 16
+      "count": 18
     },
     {
       "id": "machine-learning",
@@ -159,7 +159,7 @@
     {
       "id": "android",
       "label": "Android",
-      "count": 16
+      "count": 18
     },
     {
       "id": "ios",

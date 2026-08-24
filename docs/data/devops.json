@@ -1,14 +1,32 @@
 {
   "skill": "devops",
   "label": "DevOps",
-  "count": 16,
-  "updated_at": "2026-08-17T07:03:32.523591+00:00",
+  "count": 18,
+  "updated_at": "2026-08-24T07:06:21.528242+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
       "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
       "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Remote Customer Support - $20/hr+",
+      "description": "Work from home as a Customer Support Specialist - earn $20/hr+ with full-time & part-time remote opportunities.",
+      "link": "https://weworkremotely.com/listing_ads/13/click?pk=4cb7baab2f863b41742869fc4c90ff90e1b35bf8bd487ea34377bd910a1fcdef&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMywiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6IjI1NWQ2NjFhNzdkNTY0YWRlMzNjMmE1MjQxMGYzOWRkOGY2MWJlMGMxZmVkZjk3NGViNjViMjRlMGJhYzk4YTgiLCJwYWdlX2tleSI6IjRjYjdiYWFiMmY4NjNiNDE3NDI4NjlmYzRjOTBmZjkwZTFiMzViZjhiZDQ4N2VhMzQzNzdiZDkxMGExZmNkZWYiLCJub25jZSI6IjIzOGMxODc5ZDc3MjI1ODczZWU2YjE1MmU1NDIzYTgzIn0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDY6MjAuNzUwWiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--de8f9de1f71b43acce88115059d60ce1d5144536&target=profile",
+      "company_name": "Remote Talent Cloud"
+    },
+    {
+      "title": "Remote Tech Jobs Paying $130k to $250k",
+      "description": "Metana's partner companies are hiring AI, Web3, Software & Security talent right now.",
+      "link": "https://weworkremotely.com/listing_ads/11/click?pk=4cb7baab2f863b41742869fc4c90ff90e1b35bf8bd487ea34377bd910a1fcdef&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMSwiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6IjI1NWQ2NjFhNzdkNTY0YWRlMzNjMmE1MjQxMGYzOWRkOGY2MWJlMGMxZmVkZjk3NGViNjViMjRlMGJhYzk4YTgiLCJwYWdlX2tleSI6IjRjYjdiYWFiMmY4NjNiNDE3NDI4NjlmYzRjOTBmZjkwZTFiMzViZjhiZDQ4N2VhMzQzNzdiZDkxMGExZmNkZWYiLCJub25jZSI6IjU3ZTlkMTdkMjA0NWQyNzhjZWNlNzg5MDFhOTIwNWIwIn0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDY6MjAuNzU4WiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--9272d4a44b8f11cc49afba7d24628486497adae1&target=profile",
+      "company_name": "Metana.io"
+    },
+    {
+      "title": "Technical Product Manager Infrastructure and Dev Ops",
+      "link": "https://web3.career/technical-product-manager-infrastructure-and-dev-ops-tastylive/152984",
+      "company_name": "Tastylive",
+      "description": "infrastructure devops dev"
     },
     {
       "title": "SDE III Devops",
@@ -91,12 +109,6 @@
     {
       "title": "Senior DevOps Engineer Exchange Trading Platms Singapore",
       "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-singapore-crypto-com/149819",
-      "company_name": "Crypto.com",
-      "description": "devops engineer senior"
-    },
-    {
-      "title": "Senior DevOps Engineer Exchange Trading Platms Poland",
-      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-poland-crypto-com/149818",
       "company_name": "Crypto.com",
       "description": "devops engineer senior"
     }

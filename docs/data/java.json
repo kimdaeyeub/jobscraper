@@ -2,7 +2,7 @@
   "skill": "java",
   "label": "Java",
   "count": 16,
-  "updated_at": "2026-08-17T07:02:34.801001+00:00",
+  "updated_at": "2026-08-24T07:05:23.995479+00:00",
   "jobs": [
     {
       "title": "Senior Fullstack Developer with Product Mindset",
@@ -11,52 +11,58 @@
       "company_name": "Small Improvements"
     },
     {
-      "title": "Full Stack Engineer KYC Tech fully remote!",
-      "link": "https://web3.career/full-stack-engineer-kyc-tech-fully-remote-binance/152687",
+      "title": "Binance Accelerator Program QA Content team",
+      "link": "https://web3.career/binance-accelerator-program-qa-content-team-binance/153117",
       "company_name": "Binance",
-      "description": "kyc non tech remote"
+      "description": "quality assurance blockchain crypto"
     },
     {
-      "title": "Blockchain Architect and Developer",
-      "link": "https://web3.career/blockchain-architect-and-developer-techobserver/152682",
-      "company_name": "Tech Observer",
-      "description": "architecture dev blockchain"
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-atemcorp/153110",
+      "company_name": "Atem Corp",
+      "description": "dev blockchain angular"
     },
     {
-      "title": "Blockchain Crypto Engineer",
-      "link": "https://web3.career/blockchain-crypto-engineer-irissoftwareinc/152680",
-      "company_name": "Iris Software Inc.",
-      "description": "engineer blockchain ethereum"
-    },
-    {
-      "title": "Blockchain Web3 Java Engineer Digital Assets Platm VP",
-      "link": "https://web3.career/blockchain-web3-java-engineer-digital-assets-platform-vp-citi/152620",
+      "title": "Blockchain Senior Java Engineer Digital Assets Platm VP",
+      "link": "https://web3.career/blockchain-senior-java-engineer-digital-assets-platform-vp-citi/153083",
       "company_name": "Citi",
       "description": "finance non tech engineer"
     },
     {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-i8is-infinitisoftwaresolutions/152619",
-      "company_name": "I8IS - Infiniti Software Solutions",
-      "description": "dev blockchain defi"
+      "title": "Director of Engineering Onchain",
+      "link": "https://web3.career/director-of-engineering-onchain-yoloinvestments/153042",
+      "company_name": "Yolo Investments",
+      "description": "executive blockchain crypto"
     },
     {
-      "title": "Blockchain Web3 Engineer",
-      "link": "https://web3.career/blockchain-web3-engineer-irissoftwareinc/152618",
+      "title": "Junior Software Engineer",
+      "link": "https://web3.career/junior-software-engineer-binance/153011",
+      "company_name": "Binance",
+      "description": "engineer junior entry level"
+    },
+    {
+      "title": "Software Engineer Java Asset Systems",
+      "link": "https://web3.career/software-engineer-java-asset-systems-bitpanda/152989",
+      "company_name": "Bitpanda",
+      "description": "engineer java dev"
+    },
+    {
+      "title": "Director of Engineering Onchain",
+      "link": "https://web3.career/director-of-engineering-onchain-mesh/152948",
+      "company_name": "Mesh",
+      "description": "executive blockchain crypto"
+    },
+    {
+      "title": "Crypto Engineer with Digital Assets Tokenization",
+      "link": "https://web3.career/crypto-engineer-with-digital-assets-tokenization-irissoftwareinc/152911",
       "company_name": "Iris Software Inc.",
-      "description": "engineer blockchain ethereum"
+      "description": "tokenization finance non tech"
     },
     {
-      "title": "Blockchain Architect",
-      "link": "https://web3.career/blockchain-architect-i8is-infinitisoftwaresolutions/152617",
-      "company_name": "I8IS - Infiniti Software Solutions",
-      "description": "architecture blockchain bitcoin"
-    },
-    {
-      "title": "Blockchain Developer Blockchain Developer Lead Java",
-      "link": "https://web3.career/blockchain-developer-blockchain-developer-lead-java-wisehead/152581",
-      "company_name": "Wisehead",
-      "description": "dev java lead"
+      "title": "Blockchain Engineer",
+      "link": "https://web3.career/blockchain-engineer-techneptuneconsultinginc/152910",
+      "company_name": "TechNeptune Consulting Inc.",
+      "description": "engineer blockchain docker"
     },
     {
       "title": "Staff Site Reliability Engineer",
@@ -65,10 +71,22 @@
       "description": "engineer reliability aws"
     },
     {
+      "title": "Senior Engineer Fiat Payment，Card",
+      "link": "https://web3.career/senior-engineer-fiat-payment-card-okx/152881",
+      "company_name": "Okx",
+      "description": "engineer senior aws"
+    },
+    {
       "title": "Principal Staff Engineer Compliance",
       "link": "https://web3.career/principal-staff-engineer-compliance-okx/149565",
       "company_name": "Okx",
       "description": "compliance non tech engineer"
+    },
+    {
+      "title": "Staff Engineer 1 – Salesce AI",
+      "link": "https://web3.career/staff-engineer-1-salesforce-ai-inmobi/152879",
+      "company_name": "Inmobi",
+      "description": "ai engineer salesforce"
     },
     {
       "title": "Software Engineer Java Trade Services",
@@ -81,24 +99,6 @@
       "link": "https://web3.career/software-engineer-java-digital-asset-systems-bitpanda/149242",
       "company_name": "Bitpanda",
       "description": "engineer java dev"
-    },
-    {
-      "title": "Senior Software Engineer Java EVERGREEN",
-      "link": "https://web3.career/senior-software-engineer-java-evergreen-bitpanda/152263",
-      "company_name": "Bitpanda",
-      "description": "engineer java senior"
-    },
-    {
-      "title": "Senior Software Engineer Trading",
-      "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Java Backend Developer",
-      "link": "https://web3.career/java-backend-developer-localcoin/78924",
-      "company_name": "Localcoin",
-      "description": "backend dev java"
     }
   ]
 }

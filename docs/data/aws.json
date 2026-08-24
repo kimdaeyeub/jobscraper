@@ -2,97 +2,97 @@
   "skill": "aws",
   "label": "AWS",
   "count": 15,
-  "updated_at": "2026-08-17T07:03:26.510769+00:00",
+  "updated_at": "2026-08-24T07:06:14.826265+00:00",
   "jobs": [
     {
-      "title": "FullStack Software Engineer Compliance",
-      "link": "https://web3.career/full-stack-software-engineer-compliance-ondofinance/152720",
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-atemcorp/153110",
+      "company_name": "Atem Corp",
+      "description": "dev blockchain angular"
+    },
+    {
+      "title": "Senior Product Manager Growth",
+      "link": "https://web3.career/senior-product-manager-growth-ondofinance/153095",
       "company_name": "Ondo Finance",
-      "description": "compliance non tech engineer"
+      "description": "growth product manager non tech"
     },
     {
-      "title": "FullStack Software Engineer Growth",
-      "link": "https://web3.career/full-stack-software-engineer-growth-ondofinance/152719",
+      "title": "Senior Backend Engineer",
+      "link": "https://web3.career/senior-backend-engineer-veda/153092",
+      "company_name": "Veda",
+      "description": "backend engineer senior"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "link": "https://web3.career/senior-data-engineer-ondofinance/153059",
       "company_name": "Ondo Finance",
-      "description": "growth engineer full stack"
+      "description": "data science engineer senior"
     },
     {
-      "title": "Business Economics Lead Strategic Finance",
-      "link": "https://web3.career/business-economics-lead-strategic-finance-kast/152718",
-      "company_name": "Kast",
-      "description": "strategy non tech economy designer"
-    },
-    {
-      "title": "FinCrime Analyst",
-      "link": "https://web3.career/fincrime-analyst-kast/152696",
-      "company_name": "Kast",
-      "description": "analyst aws blockchain"
-    },
-    {
-      "title": "Intermediate Software Engineer Fullstack",
-      "link": "https://web3.career/intermediate-software-engineer-fullstack-kast/152695",
-      "company_name": "Kast",
-      "description": "engineer full stack dev"
-    },
-    {
-      "title": "Recruiter Talent Acquisition Specialist 6 month Contract",
-      "link": "https://web3.career/recruiter-talent-acquisition-specialist-6-month-contract-kast/152694",
-      "company_name": "Kast",
-      "description": "recruiter non tech aws"
-    },
-    {
-      "title": "Sr. Product Marketing Manager",
-      "link": "https://web3.career/sr-product-marketing-manager-helius/152693",
+      "title": "Senior Software Engineer Backend",
+      "link": "https://web3.career/senior-software-engineer-backend-helius/153058",
       "company_name": "Helius",
-      "description": "marketing manager marketing non tech"
+      "description": "backend engineer senior"
     },
     {
-      "title": "Blockchain Architect and Developer",
-      "link": "https://web3.career/blockchain-architect-and-developer-techobserver/152682",
-      "company_name": "Tech Observer",
-      "description": "architecture dev blockchain"
+      "title": "Staff Software Engineer Backend",
+      "link": "https://web3.career/staff-software-engineer-backend-helius/153057",
+      "company_name": "Helius",
+      "description": "backend engineer dev"
     },
     {
-      "title": "Sr. Staff Production Engineer",
-      "link": "https://web3.career/sr-staff-production-engineer-zscaler/148835",
-      "company_name": "Zscaler",
-      "description": "engineer senior aws"
+      "title": "Fullstack Engineer",
+      "link": "https://web3.career/fullstack-engineer-elliptic/153052",
+      "company_name": "Elliptic",
+      "description": "engineer full stack aws"
     },
     {
-      "title": "Senior Internal Auditor Technology",
-      "link": "https://web3.career/senior-internal-auditor-technology-kraken/152663",
-      "company_name": "Kraken",
-      "description": "senior aws blockchain"
-    },
-    {
-      "title": "Site Reliability Engineer Telemetry",
-      "link": "https://web3.career/site-reliability-engineer-telemetry-kraken/152660",
-      "company_name": "Kraken",
-      "description": "engineer reliability aws"
-    },
-    {
-      "title": "Director Data Platm",
-      "link": "https://web3.career/director-data-platform-polymarket/152640",
-      "company_name": "Polymarket",
+      "title": "Director of Engineering Dynamic Platm",
+      "link": "https://web3.career/director-of-engineering-dynamic-platform-fireblocks/153047",
+      "company_name": "Fireblocks",
       "description": "executive aws blockchain"
     },
     {
-      "title": "Compliance KYC Manager",
-      "link": "https://web3.career/compliance-kyc-manager-ondofinance/152622",
-      "company_name": "Ondo Finance",
-      "description": "compliance non tech kyc"
+      "title": "Software Engineer Java Asset Systems",
+      "link": "https://web3.career/software-engineer-java-asset-systems-bitpanda/152989",
+      "company_name": "Bitpanda",
+      "description": "engineer java dev"
     },
     {
-      "title": "Product Manager Stocks",
-      "link": "https://web3.career/product-manager-stocks-ondofinance/152621",
-      "company_name": "Ondo Finance",
-      "description": "product manager non tech aws"
+      "title": "BSA Officer Money Laundering Reporting Officer MLRO",
+      "link": "https://web3.career/bsa-officer-money-laundering-reporting-officer-mlro-kast/152981",
+      "company_name": "Kast",
+      "description": "aws crypto solana"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "link": "https://web3.career/senior-software-engineer-kaleido/152952",
+      "company_name": "Kaleido",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Money Laundering Reporting Officer MLRO BSA Officer",
+      "link": "https://web3.career/money-laundering-reporting-officer-mlro-bsa-officer-kast/152916",
+      "company_name": "Kast",
+      "description": "aws crypto solana"
+    },
+    {
+      "title": "Founding Backend Engineer",
+      "link": "https://web3.career/founding-backend-engineer-arcade/152914",
+      "company_name": "Arcade",
+      "description": "founding member backend engineer"
     },
     {
       "title": "Staff Site Reliability Engineer",
       "link": "https://web3.career/staff-site-reliability-engineer-zscaler/106117",
       "company_name": "Zscaler",
       "description": "engineer reliability aws"
+    },
+    {
+      "title": "Sr. Staff Production Engineer",
+      "link": "https://web3.career/sr-staff-production-engineer-zscaler/148835",
+      "company_name": "Zscaler",
+      "description": "engineer senior aws"
     }
   ]
 }

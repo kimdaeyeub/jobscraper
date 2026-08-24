@@ -1,8 +1,8 @@
 {
   "skill": "react",
   "label": "React",
-  "count": 18,
-  "updated_at": "2026-08-17T07:02:50.140048+00:00",
+  "count": 19,
+  "updated_at": "2026-08-24T07:05:39.141987+00:00",
   "jobs": [
     {
       "title": "(Senior) Full-Stack Engineer (AI-Assisted 3D / CAD / BIM Development)",
@@ -23,46 +23,64 @@
       "company_name": "Small Improvements"
     },
     {
-      "title": "FullStack Software Engineer Compliance",
-      "link": "https://web3.career/full-stack-software-engineer-compliance-ondofinance/152720",
-      "company_name": "Ondo Finance",
-      "description": "compliance non tech engineer"
+      "title": "Remote Customer Support - $20/hr+",
+      "description": "Work from home as a Customer Support Specialist - earn $20/hr+ with full-time & part-time remote opportunities.",
+      "link": "https://weworkremotely.com/listing_ads/13/click?pk=2bd7ad465c46a7cd992810f68f3f3d206cab8b01f521df5f1f287cdcc69dffcf&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMywiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6ImM1YzFjYzE2YzU1ZWI3YTFkNGYxNWE5MTFiNDI1Mjk4MGMwNDgzNWUxYmUyZTU1NGJlYmZkODcyMDkzMGMxMGIiLCJwYWdlX2tleSI6IjJiZDdhZDQ2NWM0NmE3Y2Q5OTI4MTBmNjhmM2YzZDIwNmNhYjhiMDFmNTIxZGY1ZjFmMjg3Y2RjYzY5ZGZmY2YiLCJub25jZSI6IjhjNWExZGFiMmVkZThhZmE5NjY1ZGQwZGQ5Mjg3Mjk4In0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDU6MzguNjMzWiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--15a73dbbaf1551479133fcd45baf1ec0d93efe2c&target=profile",
+      "company_name": "Remote Talent Cloud"
     },
     {
-      "title": "FullStack Software Engineer Growth",
-      "link": "https://web3.career/full-stack-software-engineer-growth-ondofinance/152719",
-      "company_name": "Ondo Finance",
-      "description": "growth engineer full stack"
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-atemcorp/153110",
+      "company_name": "Atem Corp",
+      "description": "dev blockchain angular"
     },
     {
-      "title": "Staff Principal Full Stack Blockchain Engineer",
-      "link": "https://web3.career/staff-principal-full-stack-blockchain-engineer-groma/152716",
-      "company_name": "Groma",
-      "description": "engineer full stack executive"
+      "title": "Fullstack Engineer",
+      "link": "https://web3.career/fullstack-engineer-elliptic/153052",
+      "company_name": "Elliptic",
+      "description": "engineer full stack aws"
     },
     {
-      "title": "Intermediate Software Engineer Fullstack",
-      "link": "https://web3.career/intermediate-software-engineer-fullstack-kast/152695",
-      "company_name": "Kast",
-      "description": "engineer full stack dev"
+      "title": "Director of Engineering Onchain",
+      "link": "https://web3.career/director-of-engineering-onchain-yoloinvestments/153042",
+      "company_name": "Yolo Investments",
+      "description": "executive blockchain crypto"
     },
     {
-      "title": "Full Stack Engineer KYC Tech fully remote!",
-      "link": "https://web3.career/full-stack-engineer-kyc-tech-fully-remote-binance/152687",
+      "title": "Junior Software Engineer",
+      "link": "https://web3.career/junior-software-engineer-binance/153011",
       "company_name": "Binance",
-      "description": "kyc non tech remote"
+      "description": "engineer junior entry level"
     },
     {
-      "title": "Senior Web Engineer Perps",
-      "link": "https://web3.career/senior-web-engineer-perps-polymarket/152648",
-      "company_name": "Polymarket",
-      "description": "engineer senior crypto"
+      "title": "Lead KYC Analyst",
+      "link": "https://web3.career/lead-kyc-analyst-circle/152975",
+      "company_name": "Circle",
+      "description": "kyc non tech analyst"
     },
     {
-      "title": "Social Media and Community Manager",
-      "link": "https://web3.career/social-media-and-community-manager-koinly/151770",
-      "company_name": "Koinly",
-      "description": "community manager non tech social media"
+      "title": "Director of Engineering Onchain",
+      "link": "https://web3.career/director-of-engineering-onchain-mesh/152948",
+      "company_name": "Mesh",
+      "description": "executive blockchain crypto"
+    },
+    {
+      "title": "Product Designer Predictions OG",
+      "link": "https://web3.career/product-designer-predictions-og-crypto-com/152918",
+      "company_name": "Crypto.com",
+      "description": "product designer design non tech"
+    },
+    {
+      "title": "Founding Mobile RN Engineer",
+      "link": "https://web3.career/founding-mobile-rn-engineer-arcade/152915",
+      "company_name": "Arcade",
+      "description": "founding member engineer mobile"
+    },
+    {
+      "title": "Frontend Software Engineer 100% Remote",
+      "link": "https://web3.career/frontend-software-engineer-100-remote-tetheroperationslimited/152886",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer front end"
     },
     {
       "title": "Engineering Director Mobile Web3",
@@ -89,28 +107,16 @@
       "description": "engineer javascript react"
     },
     {
+      "title": "Graduate Frontend Engineer React TypeScript",
+      "link": "https://web3.career/graduate-frontend-engineer-react-typescript-bitpanda/152867",
+      "company_name": "Bitpanda",
+      "description": "typescript engineer front end"
+    },
+    {
       "title": "Senior Software Engineer New Markets",
       "link": "https://web3.career/senior-software-engineer-new-markets-alpaca/152338",
       "company_name": "Alpaca",
       "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior Software Engineer New Markets",
-      "link": "https://web3.career/senior-software-engineer-new-markets-alpaca/99656",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior Fullstack Engineer Operational Automations",
-      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
-      "company_name": "Alpaca",
-      "description": "engineer full stack operations"
-    },
-    {
-      "title": "FrontEnd Engineer Institutional",
-      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
-      "company_name": "Blockchain",
-      "description": "engineer front end blockchain"
     }
   ]
 }

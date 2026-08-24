@@ -2,73 +2,73 @@
   "skill": "node",
   "label": "Node.js",
   "count": 15,
-  "updated_at": "2026-08-17T07:03:00.132908+00:00",
+  "updated_at": "2026-08-24T07:05:47.569010+00:00",
   "jobs": [
     {
-      "title": "FullStack Software Engineer Compliance",
-      "link": "https://web3.career/full-stack-software-engineer-compliance-ondofinance/152720",
-      "company_name": "Ondo Finance",
-      "description": "compliance non tech engineer"
+      "title": "Digital Asset Technical Advisory Associate Director",
+      "link": "https://web3.career/digital-asset-technical-advisory-associate-director-guidehouse/153084",
+      "company_name": "Guidehouse",
+      "description": "executive blockchain node"
     },
     {
-      "title": "Senior Staff Software Engineer Blockchain Platm",
-      "link": "https://web3.career/senior-staff-software-engineer-blockchain-platform-coinbase/152715",
-      "company_name": "Coinbase",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior Product Manager Blockchain",
-      "link": "https://web3.career/senior-product-manager-blockchain-rain/152712",
-      "company_name": "Rain",
-      "description": "product manager non tech senior"
-    },
-    {
-      "title": "Intermediate Software Engineer Fullstack",
-      "link": "https://web3.career/intermediate-software-engineer-fullstack-kast/152695",
-      "company_name": "Kast",
-      "description": "engineer full stack dev"
-    },
-    {
-      "title": "Blockchain Architect and Developer",
-      "link": "https://web3.career/blockchain-architect-and-developer-techobserver/152682",
-      "company_name": "Tech Observer",
-      "description": "architecture dev blockchain"
-    },
-    {
-      "title": "Blockchain Web3 Java Engineer Digital Assets Platm VP",
-      "link": "https://web3.career/blockchain-web3-java-engineer-digital-assets-platform-vp-citi/152620",
+      "title": "Blockchain Senior Java Engineer Digital Assets Platm VP",
+      "link": "https://web3.career/blockchain-senior-java-engineer-digital-assets-platform-vp-citi/153083",
       "company_name": "Citi",
       "description": "finance non tech engineer"
     },
     {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-i8is-infinitisoftwaresolutions/152619",
-      "company_name": "I8IS - Infiniti Software Solutions",
-      "description": "dev blockchain defi"
+      "title": "Director of Engineering Onchain",
+      "link": "https://web3.career/director-of-engineering-onchain-yoloinvestments/153042",
+      "company_name": "Yolo Investments",
+      "description": "executive blockchain crypto"
     },
     {
-      "title": "Blockchain Architect",
-      "link": "https://web3.career/blockchain-architect-i8is-infinitisoftwaresolutions/152617",
-      "company_name": "I8IS - Infiniti Software Solutions",
-      "description": "architecture blockchain bitcoin"
+      "title": "Junior Software Engineer",
+      "link": "https://web3.career/junior-software-engineer-binance/153011",
+      "company_name": "Binance",
+      "description": "engineer junior entry level"
     },
     {
-      "title": "P2P Node.js Engineer Holepunch 100% Remote Worldwide",
-      "link": "https://web3.career/p2p-node-js-engineer-holepunch-100-remote-worldwide-tetheroperationslimited/152589",
-      "company_name": "Tether Operations Limited",
-      "description": "remote javascript engineer"
+      "title": "Chief Growth Officer Head of Growth",
+      "link": "https://web3.career/chief-growth-officer-head-of-growth-telegraph/153009",
+      "company_name": "Telegraph",
+      "description": "growth executive crypto"
     },
     {
-      "title": "Senior Node.js Software Engineer Holepunch 100% Remote Worldwide",
-      "link": "https://web3.career/senior-node-js-software-engineer-holepunch-100-remote-worldwide-tetheroperationslimited/152588",
-      "company_name": "Tether Operations Limited",
-      "description": "remote javascript engineer"
+      "title": "Protocol Core Engineer",
+      "link": "https://web3.career/protocol-core-engineer-charnetworklabs/152955",
+      "company_name": "Char Network Labs",
+      "description": "protocol engineer bitcoin"
     },
     {
-      "title": "Blockchain Developer Blockchain Developer Lead Java",
-      "link": "https://web3.career/blockchain-developer-blockchain-developer-lead-java-wisehead/152581",
-      "company_name": "Wisehead",
-      "description": "dev java lead"
+      "title": "Senior Software Engineer",
+      "link": "https://web3.career/senior-software-engineer-kaleido/152952",
+      "company_name": "Kaleido",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Director of Engineering Onchain",
+      "link": "https://web3.career/director-of-engineering-onchain-mesh/152948",
+      "company_name": "Mesh",
+      "description": "executive blockchain crypto"
+    },
+    {
+      "title": "Founding Backend Engineer",
+      "link": "https://web3.career/founding-backend-engineer-arcade/152914",
+      "company_name": "Arcade",
+      "description": "founding member backend engineer"
+    },
+    {
+      "title": "Crypto Engineer with Digital Assets Tokenization",
+      "link": "https://web3.career/crypto-engineer-with-digital-assets-tokenization-irissoftwareinc/152911",
+      "company_name": "Iris Software Inc.",
+      "description": "tokenization finance non tech"
+    },
+    {
+      "title": "Blockchain Engineer",
+      "link": "https://web3.career/blockchain-engineer-techneptuneconsultinginc/152910",
+      "company_name": "TechNeptune Consulting Inc.",
+      "description": "engineer blockchain docker"
     },
     {
       "title": "Senior Full Stack Engineer",
@@ -89,10 +89,10 @@
       "description": "engineer reliability blockchain"
     },
     {
-      "title": "Director of Engineering Contract LATAM",
-      "link": "https://web3.career/director-of-engineering-contract-latam-nexus/152549",
-      "company_name": "Nexus",
-      "description": "executive blockchain kubernetes"
+      "title": "Senior Site Reliability Engineer",
+      "link": "https://web3.career/senior-site-reliability-engineer-bloxstaking/148505",
+      "company_name": "Bloxstaking",
+      "description": "engineer reliability senior"
     }
   ]
 }

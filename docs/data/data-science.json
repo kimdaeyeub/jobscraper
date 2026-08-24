@@ -2,7 +2,7 @@
   "skill": "data-science",
   "label": "Data Science",
   "count": 19,
-  "updated_at": "2026-08-17T07:03:34.203415+00:00",
+  "updated_at": "2026-08-24T07:06:23.390184+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -29,64 +29,16 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Data Scientist Analyst Risk",
-      "link": "https://web3.career/senior-data-scientist-analyst-risk-polymarket/152647",
-      "company_name": "Polymarket",
-      "description": "scientist analyst data science"
-    },
-    {
-      "title": "Senior Data Scientist Analyst Product",
-      "link": "https://web3.career/senior-data-scientist-analyst-product-polymarket/152646",
-      "company_name": "Polymarket",
-      "description": "scientist analyst data science"
-    },
-    {
-      "title": "Senior Data Scientist Analyst Institutional",
-      "link": "https://web3.career/senior-data-scientist-analyst-institutional-polymarket/152645",
-      "company_name": "Polymarket",
-      "description": "scientist analyst data science"
-    },
-    {
-      "title": "Senior Data Scientist Analyst Growth",
-      "link": "https://web3.career/senior-data-scientist-analyst-growth-polymarket/152644",
-      "company_name": "Polymarket",
-      "description": "growth scientist analyst"
-    },
-    {
-      "title": "Senior Data Scientist Analyst Finance",
-      "link": "https://web3.career/senior-data-scientist-analyst-finance-polymarket/152643",
-      "company_name": "Polymarket",
-      "description": "scientist analyst data science"
-    },
-    {
       "title": "Senior Data Engineer",
-      "link": "https://web3.career/senior-data-engineer-nansen/103438",
-      "company_name": "Nansen",
+      "link": "https://web3.career/senior-data-engineer-ondofinance/153059",
+      "company_name": "Ondo Finance",
       "description": "data science engineer senior"
     },
     {
-      "title": "Staff Data Scientist Growth",
-      "link": "https://web3.career/staff-data-scientist-growth-shakepay/152633",
-      "company_name": "Shakepay",
-      "description": "growth scientist data science"
-    },
-    {
-      "title": "Senior Data Scientist Growth",
-      "link": "https://web3.career/senior-data-scientist-growth-shakepay/152632",
-      "company_name": "Shakepay",
-      "description": "growth scientist data science"
-    },
-    {
-      "title": "Data Scientist en chef Croissance",
-      "link": "https://web3.career/data-scientist-en-chef-croissance-shakepay/152631",
-      "company_name": "Shakepay",
-      "description": "scientist data science bitcoin"
-    },
-    {
-      "title": "Senior Product Data Analyst",
-      "link": "https://web3.career/senior-product-data-analyst-binance/152626",
-      "company_name": "Binance",
-      "description": "analyst data science senior"
+      "title": "Sr HR Systems Data Analyst II",
+      "link": "https://web3.career/sr-hr-systems-data-analyst-ii-consensys/153013",
+      "company_name": "Consensys",
+      "description": "analyst data science hr"
     },
     {
       "title": "Data Engineer",
@@ -116,6 +68,54 @@
       "title": "Data Analyst Associate Data Scientist",
       "link": "https://web3.career/data-analyst-associate-data-scientist-integra/107193",
       "company_name": "Integra",
+      "description": "scientist analyst data science"
+    },
+    {
+      "title": "Data Analyst Marketing",
+      "link": "https://web3.career/data-analyst-marketing-bluecubeservices/140151",
+      "company_name": "Bluecubeservices",
+      "description": "analyst data science marketing"
+    },
+    {
+      "title": "Data Engineer",
+      "link": "https://web3.career/data-engineer-bitpanda/151421",
+      "company_name": "Bitpanda",
+      "description": "data science engineer aws"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "link": "https://web3.career/senior-data-engineer-nansen/103438",
+      "company_name": "Nansen",
+      "description": "data science engineer senior"
+    },
+    {
+      "title": "Compliance Senior Data Analyst",
+      "link": "https://web3.career/compliance-senior-data-analyst-crypto-com/152815",
+      "company_name": "Crypto.com",
+      "description": "compliance non tech analyst"
+    },
+    {
+      "title": "Compliance Data Analyst Bulgaria",
+      "link": "https://web3.career/compliance-data-analyst-bulgaria-crypto-com/152814",
+      "company_name": "Crypto.com",
+      "description": "compliance non tech analyst"
+    },
+    {
+      "title": "Senior Data Scientist Analyst Risk",
+      "link": "https://web3.career/senior-data-scientist-analyst-risk-polymarket/152647",
+      "company_name": "Polymarket",
+      "description": "scientist analyst data science"
+    },
+    {
+      "title": "Senior Data Scientist Analyst Product",
+      "link": "https://web3.career/senior-data-scientist-analyst-product-polymarket/152646",
+      "company_name": "Polymarket",
+      "description": "scientist analyst data science"
+    },
+    {
+      "title": "Senior Data Scientist Analyst Institutional",
+      "link": "https://web3.career/senior-data-scientist-analyst-institutional-polymarket/152645",
+      "company_name": "Polymarket",
       "description": "scientist analyst data science"
     }
   ]

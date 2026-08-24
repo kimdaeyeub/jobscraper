@@ -1,8 +1,8 @@
 {
   "skill": "python",
   "label": "Python",
-  "count": 20,
-  "updated_at": "2026-08-17T07:02:31.480498+00:00",
+  "count": 21,
+  "updated_at": "2026-08-24T07:05:20.925483+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -33,6 +33,12 @@
       "description": "AIDAR is building the future of artist scouting. We help A&Rs and music professionals discover artists that truly fit their creative vision — using personalized AI agents that scout the global music landscape 24/7. The product is live, the beta is working, and we already have paying customers and EXIST AI Transfer funding. Role Now,...",
       "link": "https://berlinstartupjobs.com/engineering/senior-full-stack-developer-data-scientist-remote-friendly-aidar/",
       "company_name": "AIDAR"
+    },
+    {
+      "title": "Remote Customer Support - $20/hr+",
+      "description": "Work from home as a Customer Support Specialist - earn $20/hr+ with full-time & part-time remote opportunities.",
+      "link": "https://weworkremotely.com/listing_ads/13/click?pk=01c91c3699b478f30cf555224fb1f74a2f437d66f4d5b0711f80376a787d898b&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMywiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6IjNmYWFlNWM3M2YxN2UxNjFhYWI2MmJkMTgyOGJmMzNmZDJjOWE1OGFjYjk4ZjA1ZmU2ZmZkZmMxNmJhMDUxNDEiLCJwYWdlX2tleSI6IjAxYzkxYzM2OTliNDc4ZjMwY2Y1NTUyMjRmYjFmNzRhMmY0MzdkNjZmNGQ1YjA3MTFmODAzNzZhNzg3ZDg5OGIiLCJub25jZSI6IjUyMmYwYzE1MDM1ZGNmZTEwMzFmMDFhYTYzNWZkNmQ5In0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDU6MTkuOTE1WiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--22009fae884ce13fc24335a98c619731110db4f9&target=profile",
+      "company_name": "Remote Talent Cloud"
     },
     {
       "title": "Software Engineer Rust Python Asset Pricing Hedging",

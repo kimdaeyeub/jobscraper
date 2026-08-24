@@ -1,8 +1,8 @@
 {
   "skill": "javascript",
   "label": "JavaScript",
-  "count": 17,
-  "updated_at": "2026-08-17T07:02:32.601253+00:00",
+  "count": 19,
+  "updated_at": "2026-08-24T07:05:21.797210+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -17,22 +17,40 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Blockchain Architect and Developer",
-      "link": "https://web3.career/blockchain-architect-and-developer-techobserver/152682",
-      "company_name": "Tech Observer",
-      "description": "architecture dev blockchain"
+      "title": "Remote Customer Support - $20/hr+",
+      "description": "Work from home as a Customer Support Specialist - earn $20/hr+ with full-time & part-time remote opportunities.",
+      "link": "https://weworkremotely.com/listing_ads/13/click?pk=9d0f1869f6c30452b6111af1c6380a7fc1b57dd60ccfc4b6466df144a26a2dc7&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMywiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6ImM4YmI5MDEwZTU0OTQyN2MwYmQ1ZjVhNjZmZGFkMjVlNzZlZDA3NzMzNjgzZWM0OGMxOWFjODczZmMxOGQ0NjgiLCJwYWdlX2tleSI6IjlkMGYxODY5ZjZjMzA0NTJiNjExMWFmMWM2MzgwYTdmYzFiNTdkZDYwY2NmYzRiNjQ2NmRmMTQ0YTI2YTJkYzciLCJub25jZSI6ImM0Y2EwNDAyZGY5YmM4NWI0M2IzNDRlNGY5MTEyNjdiIn0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDU6MjEuMzEwWiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--7e4f469b3f343ff04e8b45f0004de582c0d35748&target=profile",
+      "company_name": "Remote Talent Cloud"
     },
     {
-      "title": "P2P Node.js Engineer Holepunch 100% Remote Worldwide",
-      "link": "https://web3.career/p2p-node-js-engineer-holepunch-100-remote-worldwide-tetheroperationslimited/152589",
-      "company_name": "Tether Operations Limited",
-      "description": "remote javascript engineer"
+      "title": "Remote Tech Jobs Paying $130k to $250k",
+      "description": "Metana's partner companies are hiring AI, Web3, Software & Security talent right now.",
+      "link": "https://weworkremotely.com/listing_ads/11/click?pk=9d0f1869f6c30452b6111af1c6380a7fc1b57dd60ccfc4b6466df144a26a2dc7&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMSwiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6ImM4YmI5MDEwZTU0OTQyN2MwYmQ1ZjVhNjZmZGFkMjVlNzZlZDA3NzMzNjgzZWM0OGMxOWFjODczZmMxOGQ0NjgiLCJwYWdlX2tleSI6IjlkMGYxODY5ZjZjMzA0NTJiNjExMWFmMWM2MzgwYTdmYzFiNTdkZDYwY2NmYzRiNjQ2NmRmMTQ0YTI2YTJkYzciLCJub25jZSI6ImNiZjRiZDFlYjVjNjM2Y2Y3NzI4ZjYyZjBhOGFkZmViIn0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDU6MjEuMzEyWiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--2d8cc1b9599eb3078c78debd1ea25b3de7fc7e53&target=profile",
+      "company_name": "Metana.io"
     },
     {
-      "title": "Senior Node.js Software Engineer Holepunch 100% Remote Worldwide",
-      "link": "https://web3.career/senior-node-js-software-engineer-holepunch-100-remote-worldwide-tetheroperationslimited/152588",
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-atemcorp/153110",
+      "company_name": "Atem Corp",
+      "description": "dev blockchain angular"
+    },
+    {
+      "title": "Middle QA Engineer",
+      "link": "https://web3.career/middle-qa-engineer-opentag/153064",
+      "company_name": "OpenTag",
+      "description": "engineer quality assurance docker"
+    },
+    {
+      "title": "Solutions Consultant San Francisco",
+      "link": "https://web3.career/solutions-consultant-san-francisco-elliptic/153053",
+      "company_name": "Elliptic",
+      "description": "consulting blockchain crypto"
+    },
+    {
+      "title": "Frontend Software Engineer 100% Remote",
+      "link": "https://web3.career/frontend-software-engineer-100-remote-tetheroperationslimited/152886",
       "company_name": "Tether Operations Limited",
-      "description": "remote javascript engineer"
+      "description": "remote engineer front end"
     },
     {
       "title": "Software Engineer React Bitpanda Broker",
@@ -45,6 +63,12 @@
       "link": "https://web3.career/senior-business-it-engineer-atlassian-cloud-bitpanda/152342",
       "company_name": "Bitpanda",
       "description": "cloud engineer engineer senior"
+    },
+    {
+      "title": "Graduate Frontend Engineer React TypeScript",
+      "link": "https://web3.career/graduate-frontend-engineer-react-typescript-bitpanda/152867",
+      "company_name": "Bitpanda",
+      "description": "typescript engineer front end"
     },
     {
       "title": "FrontEnd Engineer Institutional",
@@ -71,40 +95,28 @@
       "description": "engineer bitcoin blockchain"
     },
     {
-      "title": "Senior Security Engineer Product Security",
-      "link": "https://web3.career/senior-security-engineer-product-security-ondofinance/152420",
-      "company_name": "Ondo Finance",
-      "description": "engineer security senior"
+      "title": "Full Stack Engineer",
+      "link": "https://web3.career/full-stack-engineer-wintermute-trading/152854",
+      "company_name": "Wintermute",
+      "description": "engineer full stack aws"
     },
     {
-      "title": "Senior Web3 SDET",
-      "link": "https://web3.career/senior-web3-sdet-r3/152390",
-      "company_name": "R3",
-      "description": "quality assurance senior blockchain"
+      "title": "Blockchain Architect and Developer",
+      "link": "https://web3.career/blockchain-architect-and-developer-techobserver/152682",
+      "company_name": "Tech Observer",
+      "description": "architecture dev blockchain"
     },
     {
-      "title": "Vice President DeFi Product Engineer",
-      "link": "https://web3.career/vice-president-defi-product-engineer-fidelityinvestments/152323",
-      "company_name": "Fidelity Investments",
-      "description": "engineer blockchain crypto"
+      "title": "P2P Node.js Engineer Holepunch 100% Remote Worldwide",
+      "link": "https://web3.career/p2p-node-js-engineer-holepunch-100-remote-worldwide-tetheroperationslimited/152589",
+      "company_name": "Tether Operations Limited",
+      "description": "remote javascript engineer"
     },
     {
-      "title": "Product Engineer",
-      "link": "https://web3.career/product-engineer-improbable/152268",
-      "company_name": "Improbable",
-      "description": "engineer blockchain javascript"
-    },
-    {
-      "title": "SDR SDR Brave Search API",
-      "link": "https://web3.career/sdr-sdr-brave-search-api-brave/152247",
-      "company_name": "Brave",
-      "description": "api javascript remote"
-    },
-    {
-      "title": "Senior Blockchain Engineer With Payment And Exchange Building Experience",
-      "link": "https://web3.career/senior-blockchain-engineer-with-payment-and-exchange-building-experience-y-axisglobal/152233",
-      "company_name": "Y-axis Global",
-      "description": "engineer senior blockchain"
+      "title": "Senior Node.js Software Engineer Holepunch 100% Remote Worldwide",
+      "link": "https://web3.career/senior-node-js-software-engineer-holepunch-100-remote-worldwide-tetheroperationslimited/152588",
+      "company_name": "Tether Operations Limited",
+      "description": "remote javascript engineer"
     }
   ]
 }

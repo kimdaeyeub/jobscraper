@@ -2,8 +2,20 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-08-17T07:02:48.775082+00:00",
+  "updated_at": "2026-08-24T07:05:38.265777+00:00",
   "jobs": [
+    {
+      "title": "Founding Mobile RN Engineer",
+      "link": "https://web3.career/founding-mobile-rn-engineer-arcade/152915",
+      "company_name": "Arcade",
+      "description": "founding member engineer mobile"
+    },
+    {
+      "title": "Crypto Engineer with Digital Assets Tokenization",
+      "link": "https://web3.career/crypto-engineer-with-digital-assets-tokenization-irissoftwareinc/152911",
+      "company_name": "Iris Software Inc.",
+      "description": "tokenization finance non tech"
+    },
     {
       "title": "Staff Platm Engineer",
       "link": "https://web3.career/staff-platform-engineer-opensea/152665",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/back-end-engineer-trading-blockchain/151412",
       "company_name": "Blockchain",
       "description": "backend engineer aws"
-    },
-    {
-      "title": "Client FullStack Engineer — IM Chat Platm Android Focus",
-      "link": "https://web3.career/client-full-stack-engineer-im-chat-platform-android-focus-binance/151384",
-      "company_name": "Binance",
-      "description": "android mobile engineer"
-    },
-    {
-      "title": "Staff Software Engineer New Markets Japan JLPT N1 Fluent",
-      "link": "https://web3.career/staff-software-engineer-new-markets-japan-jlpt-n1-fluent-alpaca/151188",
-      "company_name": "Alpaca",
-      "description": "japan engineer dev"
     }
   ]
 }

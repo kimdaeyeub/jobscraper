@@ -1,9 +1,33 @@
 {
   "skill": "angular",
   "label": "Angular",
-  "count": 15,
-  "updated_at": "2026-08-17T07:02:56.943668+00:00",
+  "count": 17,
+  "updated_at": "2026-08-24T07:05:46.668763+00:00",
   "jobs": [
+    {
+      "title": "Remote Customer Support - $20/hr+",
+      "description": "Work from home as a Customer Support Specialist - earn $20/hr+ with full-time & part-time remote opportunities.",
+      "link": "https://weworkremotely.com/listing_ads/13/click?pk=f60f2ff9302877503c5018ec3e2ce2ae271b9bb61c795a6685bd4bab43f48687&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMywiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6IjAzN2RjOTI1ZWQwNDM2ODQ0MjFhZWE1YjRkZmU4NGRmZjJjOTgyZDVjNjFhMDA0OWVmNDUyZTBhZmNhZTZjZjciLCJwYWdlX2tleSI6ImY2MGYyZmY5MzAyODc3NTAzYzUwMThlYzNlMmNlMmFlMjcxYjliYjYxYzc5NWE2Njg1YmQ0YmFiNDNmNDg2ODciLCJub25jZSI6IjM2MGY5NThkNGJkZjcyOWZiNjNhZGJlMmE5YjM5NmQzIn0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDU6NDYuMDgzWiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--0efb564f8e3ec5f142fbb82d2f8997a024c044bb&target=profile",
+      "company_name": "Remote Talent Cloud"
+    },
+    {
+      "title": "Remote Tech Jobs Paying $130k to $250k",
+      "description": "Metana's partner companies are hiring AI, Web3, Software & Security talent right now.",
+      "link": "https://weworkremotely.com/listing_ads/11/click?pk=f60f2ff9302877503c5018ec3e2ce2ae271b9bb61c795a6685bd4bab43f48687&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMSwiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6IjAzN2RjOTI1ZWQwNDM2ODQ0MjFhZWE1YjRkZmU4NGRmZjJjOTgyZDVjNjFhMDA0OWVmNDUyZTBhZmNhZTZjZjciLCJwYWdlX2tleSI6ImY2MGYyZmY5MzAyODc3NTAzYzUwMThlYzNlMmNlMmFlMjcxYjliYjYxYzc5NWE2Njg1YmQ0YmFiNDNmNDg2ODciLCJub25jZSI6ImZjMDE0MTRmMmU1NDNmYTQxMDI0ODE2MTgyOGI4OTI4In0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDU6NDYuMDg2WiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--d835ed56ce48579ffe80033aeb0eeb5dab120bcd&target=profile",
+      "company_name": "Metana.io"
+    },
+    {
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-atemcorp/153110",
+      "company_name": "Atem Corp",
+      "description": "dev blockchain angular"
+    },
+    {
+      "title": "Junior Software Engineer",
+      "link": "https://web3.career/junior-software-engineer-binance/153011",
+      "company_name": "Binance",
+      "description": "engineer junior entry level"
+    },
     {
       "title": "Senior Full Stack Engineer",
       "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/152288",
@@ -33,12 +57,6 @@
       "link": "https://web3.career/blockchain-developer-infosys/151605",
       "company_name": "Infosys",
       "description": "dev blockchain angular"
-    },
-    {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-lemon-io/149705",
-      "company_name": "Lemon.io",
-      "description": "dev senior blockchain"
     },
     {
       "title": "Blockchain Engineer",
@@ -87,12 +105,6 @@
       "link": "https://web3.career/director-of-engineering-api-management-and-ciam-zinnia/149677",
       "company_name": "Zinnia",
       "description": "api executive angular"
-    },
-    {
-      "title": "Software Engineering Internship Aarhus Office",
-      "link": "https://web3.career/software-engineering-internship-aarhus-office-chainalysis/148924",
-      "company_name": "Chainalysis",
-      "description": "office intern entry level"
     }
   ]
 }

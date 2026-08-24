@@ -1,8 +1,8 @@
 {
   "skill": "typescript",
   "label": "TypeScript",
-  "count": 21,
-  "updated_at": "2026-08-17T07:02:33.508539+00:00",
+  "count": 23,
+  "updated_at": "2026-08-24T07:05:22.864956+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -41,64 +41,82 @@
       "company_name": "Climatiq"
     },
     {
-      "title": "FullStack Software Engineer Compliance",
-      "link": "https://web3.career/full-stack-software-engineer-compliance-ondofinance/152720",
-      "company_name": "Ondo Finance",
-      "description": "compliance non tech engineer"
+      "title": "Remote Customer Support - $20/hr+",
+      "description": "Work from home as a Customer Support Specialist - earn $20/hr+ with full-time & part-time remote opportunities.",
+      "link": "https://weworkremotely.com/listing_ads/13/click?pk=a93fe58149ebebe163a7423eeaaac3fbcf4b1cffb2cae7704044f62aed2edc33&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMywiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6ImIyY2ViODA2Nzg4NDc2ODIzNTU1OGYxMzJmMDcwMzRjMjQ3NmMwYTVhNmI3ZjYwYzEwYTA3ZGUwOTc4Zjc2ZmUiLCJwYWdlX2tleSI6ImE5M2ZlNTgxNDllYmViZTE2M2E3NDIzZWVhYWFjM2ZiY2Y0YjFjZmZiMmNhZTc3MDQwNDRmNjJhZWQyZWRjMzMiLCJub25jZSI6ImQ1YmIzMDZkOGI3ZWJiODcyMzljYzQzODI3YzI3MzNmIn0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDU6MjIuMTQwWiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--ceb4508e7c3c27901c3fa3978f74fc249cbd301c&target=profile",
+      "company_name": "Remote Talent Cloud"
     },
     {
-      "title": "FullStack Software Engineer Growth",
-      "link": "https://web3.career/full-stack-software-engineer-growth-ondofinance/152719",
-      "company_name": "Ondo Finance",
-      "description": "growth engineer full stack"
+      "title": "Remote Tech Jobs Paying $130k to $250k",
+      "description": "Metana's partner companies are hiring AI, Web3, Software & Security talent right now.",
+      "link": "https://weworkremotely.com/listing_ads/11/click?pk=a93fe58149ebebe163a7423eeaaac3fbcf4b1cffb2cae7704044f62aed2edc33&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMSwiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6ImIyY2ViODA2Nzg4NDc2ODIzNTU1OGYxMzJmMDcwMzRjMjQ3NmMwYTVhNmI3ZjYwYzEwYTA3ZGUwOTc4Zjc2ZmUiLCJwYWdlX2tleSI6ImE5M2ZlNTgxNDllYmViZTE2M2E3NDIzZWVhYWFjM2ZiY2Y0YjFjZmZiMmNhZTc3MDQwNDRmNjJhZWQyZWRjMzMiLCJub25jZSI6IjMxZTVlMmQ0OWVmOTUxZDIxNzZlMzE5YzQ2ZmMyMDUwIn0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDU6MjIuMTQzWiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--5be6fdf1ad46a0e163280d0c9bb651cfb0696693&target=profile",
+      "company_name": "Metana.io"
     },
     {
-      "title": "Staff Principal Full Stack Blockchain Engineer",
-      "link": "https://web3.career/staff-principal-full-stack-blockchain-engineer-groma/152716",
-      "company_name": "Groma",
-      "description": "engineer full stack executive"
+      "title": "Backend Engineer Solana",
+      "link": "https://web3.career/backend-engineer-solana-veda/153094",
+      "company_name": "Veda",
+      "description": "backend engineer blockchain"
     },
     {
-      "title": "Full Stack Engineer KYC Tech fully remote!",
-      "link": "https://web3.career/full-stack-engineer-kyc-tech-fully-remote-binance/152687",
-      "company_name": "Binance",
-      "description": "kyc non tech remote"
+      "title": "Middle QA Engineer",
+      "link": "https://web3.career/middle-qa-engineer-opentag/153064",
+      "company_name": "OpenTag",
+      "description": "engineer quality assurance docker"
     },
     {
-      "title": "Blockchain Architect and Developer",
-      "link": "https://web3.career/blockchain-architect-and-developer-techobserver/152682",
-      "company_name": "Tech Observer",
-      "description": "architecture dev blockchain"
+      "title": "Fullstack Engineer",
+      "link": "https://web3.career/fullstack-engineer-elliptic/153052",
+      "company_name": "Elliptic",
+      "description": "engineer full stack aws"
     },
     {
-      "title": "DeFi Engineer",
-      "link": "https://web3.career/de-fi-engineer-g-20group/152681",
-      "company_name": "G-20 Group",
-      "description": "engineer blockchain defi"
+      "title": "Director of Engineering Dynamic Platm",
+      "link": "https://web3.career/director-of-engineering-dynamic-platform-fireblocks/153047",
+      "company_name": "Fireblocks",
+      "description": "executive aws blockchain"
     },
     {
-      "title": "Blockchain Crypto Engineer",
-      "link": "https://web3.career/blockchain-crypto-engineer-irissoftwareinc/152680",
+      "title": "Director of Engineering Onchain",
+      "link": "https://web3.career/director-of-engineering-onchain-yoloinvestments/153042",
+      "company_name": "Yolo Investments",
+      "description": "executive blockchain crypto"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "link": "https://web3.career/senior-software-engineer-kaleido/152952",
+      "company_name": "Kaleido",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Director of Engineering Onchain",
+      "link": "https://web3.career/director-of-engineering-onchain-mesh/152948",
+      "company_name": "Mesh",
+      "description": "executive blockchain crypto"
+    },
+    {
+      "title": "Founding Mobile RN Engineer",
+      "link": "https://web3.career/founding-mobile-rn-engineer-arcade/152915",
+      "company_name": "Arcade",
+      "description": "founding member engineer mobile"
+    },
+    {
+      "title": "Founding Backend Engineer",
+      "link": "https://web3.career/founding-backend-engineer-arcade/152914",
+      "company_name": "Arcade",
+      "description": "founding member backend engineer"
+    },
+    {
+      "title": "Crypto Engineer with Digital Assets Tokenization",
+      "link": "https://web3.career/crypto-engineer-with-digital-assets-tokenization-irissoftwareinc/152911",
       "company_name": "Iris Software Inc.",
-      "description": "engineer blockchain ethereum"
+      "description": "tokenization finance non tech"
     },
     {
-      "title": "Sr. Staff Engineer",
-      "link": "https://web3.career/sr-staff-engineer-polymarket/152650",
-      "company_name": "Polymarket",
-      "description": "engineer senior golang"
-    },
-    {
-      "title": "Senior Web Engineer Perps",
-      "link": "https://web3.career/senior-web-engineer-perps-polymarket/152648",
-      "company_name": "Polymarket",
-      "description": "engineer senior crypto"
-    },
-    {
-      "title": "Blockchain Web3 Engineer",
-      "link": "https://web3.career/blockchain-web3-engineer-irissoftwareinc/152618",
-      "company_name": "Iris Software Inc.",
-      "description": "engineer blockchain ethereum"
+      "title": "Frontend Software Engineer 100% Remote",
+      "link": "https://web3.career/frontend-software-engineer-100-remote-tetheroperationslimited/152886",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer front end"
     },
     {
       "title": "Senior Full Stack Engineer",
@@ -123,12 +141,6 @@
       "link": "https://web3.career/backend-engineer-layerzerolabs/73714",
       "company_name": "Layerzerolabs",
       "description": "backend engineer aws"
-    },
-    {
-      "title": "Director of Engineering Contract LATAM",
-      "link": "https://web3.career/director-of-engineering-contract-latam-nexus/152549",
-      "company_name": "Nexus",
-      "description": "executive blockchain kubernetes"
     }
   ]
 }

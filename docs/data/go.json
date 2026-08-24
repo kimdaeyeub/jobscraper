@@ -1,8 +1,8 @@
 {
   "skill": "go",
   "label": "Go",
-  "count": 4,
-  "updated_at": "2026-08-17T07:02:37.576683+00:00",
+  "count": 6,
+  "updated_at": "2026-08-24T07:05:24.882671+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -27,6 +27,18 @@
       "description": "YGO.ai is a VC-funded AI tourism platform looking for a Team Lead for one of our product engineering pods: a hands-on engineer who uses AI to ship fast and acts as the face of their pod towards clients and leadership. IMPORTANT: This is not a traditional coding role. You’ll use Claude Code and other AI...",
       "link": "https://berlinstartupjobs.com/engineering/team-lead-product-engineering-hands-on-ygo/",
       "company_name": "YGO"
+    },
+    {
+      "title": "Remote Customer Support - $20/hr+",
+      "description": "Work from home as a Customer Support Specialist - earn $20/hr+ with full-time & part-time remote opportunities.",
+      "link": "https://weworkremotely.com/listing_ads/13/click?pk=60aa76251e24486246a5f45f50d422ba1bf4f7264cdb48915b4704aec4e40b1c&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMywiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6Ijc2YTFjYWNhZThiNDJhNTY4ZDQ5MDU4NmMwNzNiMzU1MjM3ZWFjYzFjZGMyMjhhNjAyMmZmZmI3YjhhNTMzZGMiLCJwYWdlX2tleSI6IjYwYWE3NjI1MWUyNDQ4NjI0NmE1ZjQ1ZjUwZDQyMmJhMWJmNGY3MjY0Y2RiNDg5MTViNDcwNGFlYzRlNDBiMWMiLCJub25jZSI6IjE1OTg2YjYwNTViMzM5MjM1YzViYmI4MGEzODNkM2U5In0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDU6MjQuMzgyWiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--dc2eb1594d9712e38b58763182481ca2910a2d0d&target=profile",
+      "company_name": "Remote Talent Cloud"
+    },
+    {
+      "title": "Remote Tech Jobs Paying $130k to $250k",
+      "description": "Metana's partner companies are hiring AI, Web3, Software & Security talent right now.",
+      "link": "https://weworkremotely.com/listing_ads/11/click?pk=60aa76251e24486246a5f45f50d422ba1bf4f7264cdb48915b4704aec4e40b1c&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMSwiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6Ijc2YTFjYWNhZThiNDJhNTY4ZDQ5MDU4NmMwNzNiMzU1MjM3ZWFjYzFjZGMyMjhhNjAyMmZmZmI3YjhhNTMzZGMiLCJwYWdlX2tleSI6IjYwYWE3NjI1MWUyNDQ4NjI0NmE1ZjQ1ZjUwZDQyMmJhMWJmNGY3MjY0Y2RiNDg5MTViNDcwNGFlYzRlNDBiMWMiLCJub25jZSI6ImFhOWRkNGZkMmQ1ZDQzNmMzYjYzODkyYTIxNmVlYzE4In0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDU6MjQuMzg3WiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--a845ddb724926d83f07d62eb6b499e726173ddb7&target=profile",
+      "company_name": "Metana.io"
     }
   ]
 }
