@@ -2,14 +2,8 @@
   "skill": "vue",
   "label": "Vue",
   "count": 15,
-  "updated_at": "2026-08-24T07:05:42.936147+00:00",
+  "updated_at": "2026-08-31T13:11:17.840404+00:00",
   "jobs": [
-    {
-      "title": "Junior Software Engineer",
-      "link": "https://web3.career/junior-software-engineer-binance/153011",
-      "company_name": "Binance",
-      "description": "engineer junior entry level"
-    },
     {
       "title": "Sr. Software Development Engineer",
       "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
@@ -27,6 +21,12 @@
       "link": "https://web3.career/engineering-director-frontend-okx/147551",
       "company_name": "Okx",
       "description": "executive front end blockchain"
+    },
+    {
+      "title": "Junior Software Engineer",
+      "link": "https://web3.career/junior-software-engineer-binance/153011",
+      "company_name": "Binance",
+      "description": "engineer junior entry level"
     },
     {
       "title": "Software Engineer Intern Fullstack 12 Month Internship",

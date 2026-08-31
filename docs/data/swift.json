@@ -1,15 +1,9 @@
 {
   "skill": "swift",
   "label": "Swift",
-  "count": 5,
-  "updated_at": "2026-08-24T07:05:33.884683+00:00",
+  "count": 4,
+  "updated_at": "2026-08-31T13:11:03.096076+00:00",
   "jobs": [
-    {
-      "title": "Senior iOS Engineer",
-      "description": "Tandem is the leading global language learning community, where more than 30 million members from over 200 countries practice languages together. The concept of learning from each other is not only an integral part of the Tandem community but it is also at the heart of our everyday lives at Tandem. This shared connection through...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-ios-engineer-tandem/",
-      "company_name": "Tandem"
-    },
     {
       "title": "iOS Engineer Swift Onboarding Verification",
       "link": "https://web3.career/ios-engineer-swift-onboarding-verification-bitpanda/149017",

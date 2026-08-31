@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-08-24T07:05:19.518357+00:00",
+  "updated_at": "2026-08-31T13:09:47.446707+00:00",
   "skills": [
     {
       "id": "python",
       "label": "Python",
-      "count": 21
+      "count": 5
     },
     {
       "id": "javascript",
       "label": "JavaScript",
-      "count": 19
+      "count": 2
     },
     {
       "id": "typescript",
       "label": "TypeScript",
-      "count": 23
+      "count": 6
     },
     {
       "id": "java",
@@ -24,27 +24,27 @@
     {
       "id": "go",
       "label": "Go",
-      "count": 6
+      "count": 4
     },
     {
       "id": "rust",
       "label": "Rust",
-      "count": 17
+      "count": 15
     },
     {
       "id": "php",
       "label": "PHP",
-      "count": 17
+      "count": 15
     },
     {
       "id": "ruby",
       "label": "Ruby",
-      "count": 17
+      "count": 15
     },
     {
       "id": "swift",
       "label": "Swift",
-      "count": 5
+      "count": 4
     },
     {
       "id": "kotlin",
@@ -54,7 +54,7 @@
     {
       "id": "react",
       "label": "React",
-      "count": 19
+      "count": 18
     },
     {
       "id": "vue",
@@ -64,7 +64,7 @@
     {
       "id": "angular",
       "label": "Angular",
-      "count": 17
+      "count": 15
     },
     {
       "id": "node",
@@ -94,12 +94,12 @@
     {
       "id": "spring",
       "label": "Spring",
-      "count": 2
+      "count": 0
     },
     {
       "id": "rails",
       "label": "Rails",
-      "count": 2
+      "count": 0
     },
     {
       "id": "sql",
@@ -109,7 +109,7 @@
     {
       "id": "postgres",
       "label": "PostgreSQL",
-      "count": 2
+      "count": 4
     },
     {
       "id": "mongodb",
@@ -144,7 +144,7 @@
     {
       "id": "devops",
       "label": "DevOps",
-      "count": 18
+      "count": 16
     },
     {
       "id": "machine-learning",
@@ -159,7 +159,7 @@
     {
       "id": "android",
       "label": "Android",
-      "count": 18
+      "count": 16
     },
     {
       "id": "ios",

@@ -1,20 +1,7 @@
 {
   "skill": "spring",
   "label": "Spring",
-  "count": 2,
-  "updated_at": "2026-08-24T07:06:01.833657+00:00",
-  "jobs": [
-    {
-      "title": "Remote Customer Support - $20/hr+",
-      "description": "Work from home as a Customer Support Specialist - earn $20/hr+ with full-time & part-time remote opportunities.",
-      "link": "https://weworkremotely.com/listing_ads/13/click?pk=0cc686444af6c2d8290c71449701876fdcd5832778ccdd09a989d4786a84ace7&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMywiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6ImExY2QwOTYwZjc1YjNkOWY4NzAxMDI1MzM0Zjc3NDhjNWY2ZDNjNTNlZjQyZGQ0NGFmNzI1NTgwZTkwODBiNjEiLCJwYWdlX2tleSI6IjBjYzY4NjQ0NGFmNmMyZDgyOTBjNzE0NDk3MDE4NzZmZGNkNTgzMjc3OGNjZGQwOWE5ODlkNDc4NmE4NGFjZTciLCJub25jZSI6ImVjNWNiZjhiYmNkNDlhYTRmNzcwYmE5MGQyYmFiMGMwIn0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDY6MDEuNTMzWiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--a1d9feede5b4929a59a7f4512a5f1bfdcacea5a1&target=profile",
-      "company_name": "Remote Talent Cloud"
-    },
-    {
-      "title": "Remote Tech Jobs Paying $130k to $250k",
-      "description": "Metana's partner companies are hiring AI, Web3, Software & Security talent right now.",
-      "link": "https://weworkremotely.com/listing_ads/11/click?pk=0cc686444af6c2d8290c71449701876fdcd5832778ccdd09a989d4786a84ace7&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMSwiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6ImExY2QwOTYwZjc1YjNkOWY4NzAxMDI1MzM0Zjc3NDhjNWY2ZDNjNTNlZjQyZGQ0NGFmNzI1NTgwZTkwODBiNjEiLCJwYWdlX2tleSI6IjBjYzY4NjQ0NGFmNmMyZDgyOTBjNzE0NDk3MDE4NzZmZGNkNTgzMjc3OGNjZGQwOWE5ODlkNDc4NmE4NGFjZTciLCJub25jZSI6IjI1ZDkwMmViNDY1MTY2NWFiNjBmNzBlM2Q1NzcwNGM5In0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDY6MDEuNTM1WiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--2c97665300ed356a364435fee8c28fac4e6c2aff&target=profile",
-      "company_name": "Metana.io"
-    }
-  ]
+  "count": 0,
+  "updated_at": "2026-08-31T13:12:00.862537+00:00",
+  "jobs": []
 }

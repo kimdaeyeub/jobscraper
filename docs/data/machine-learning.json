@@ -2,13 +2,19 @@
   "skill": "machine-learning",
   "label": "Machine Learning",
   "count": 16,
-  "updated_at": "2026-08-24T07:06:22.519714+00:00",
+  "updated_at": "2026-08-31T13:12:20.807047+00:00",
   "jobs": [
     {
       "title": "Senior Data Scientist – Python, ML & Signal-Processing",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Data Scientist bei uns trainierst Du Machine-Learning-Modelle auf Basis von realen Maschinen- und Sensordaten – weltweit, vom mittelständischen Fertiger bis zum DAX-Konzern. Anomalieerkennung, Predictive Maintenance und Qualitätsüberwachung in Echtzeit. Die Daten sind echt, die Maschinen stehen in laufenden Produktionen, und Deine...",
       "link": "https://berlinstartupjobs.com/engineering/senior-data-scientist-datatroniq/",
       "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Staff Machine Learning Engineer",
+      "link": "https://web3.career/staff-machine-learning-engineer-moonpay/153178",
+      "company_name": "MoonPay",
+      "description": "engineer machine learning ai"
     },
     {
       "title": "Staff ML Systems Engineer Media Intelligence",
@@ -93,12 +99,6 @@
       "link": "https://web3.career/machine-learning-engineer-100-remote-worldwide-tether/147013",
       "company_name": "Tether",
       "description": "remote engineer machine learning"
-    },
-    {
-      "title": "Statistical Machine Learning Researcher",
-      "link": "https://web3.career/statistical-machine-learning-researcher-divine/146145",
-      "company_name": "Divine",
-      "description": "research machine learning ai"
     }
   ]
 }

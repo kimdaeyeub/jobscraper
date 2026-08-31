@@ -1,8 +1,8 @@
 {
   "skill": "typescript",
   "label": "TypeScript",
-  "count": 23,
-  "updated_at": "2026-08-24T07:05:22.864956+00:00",
+  "count": 6,
+  "updated_at": "2026-08-31T13:10:19.087732+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -39,108 +39,6 @@
       "description": "About Climatiq If you’re looking for a role that has an impact on the world, and not just a balance sheet, Climatiq is the place for you. We’re a fast-growing startup embedding carbon intelligence into business decisions worldwide. Our platform—combining the world’s leading emissions database with sophisticated AI and calculation tools—helps thousands of sustainability teams...",
       "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-engineer-climatiq/",
       "company_name": "Climatiq"
-    },
-    {
-      "title": "Remote Customer Support - $20/hr+",
-      "description": "Work from home as a Customer Support Specialist - earn $20/hr+ with full-time & part-time remote opportunities.",
-      "link": "https://weworkremotely.com/listing_ads/13/click?pk=a93fe58149ebebe163a7423eeaaac3fbcf4b1cffb2cae7704044f62aed2edc33&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMywiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6ImIyY2ViODA2Nzg4NDc2ODIzNTU1OGYxMzJmMDcwMzRjMjQ3NmMwYTVhNmI3ZjYwYzEwYTA3ZGUwOTc4Zjc2ZmUiLCJwYWdlX2tleSI6ImE5M2ZlNTgxNDllYmViZTE2M2E3NDIzZWVhYWFjM2ZiY2Y0YjFjZmZiMmNhZTc3MDQwNDRmNjJhZWQyZWRjMzMiLCJub25jZSI6ImQ1YmIzMDZkOGI3ZWJiODcyMzljYzQzODI3YzI3MzNmIn0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDU6MjIuMTQwWiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--ceb4508e7c3c27901c3fa3978f74fc249cbd301c&target=profile",
-      "company_name": "Remote Talent Cloud"
-    },
-    {
-      "title": "Remote Tech Jobs Paying $130k to $250k",
-      "description": "Metana's partner companies are hiring AI, Web3, Software & Security talent right now.",
-      "link": "https://weworkremotely.com/listing_ads/11/click?pk=a93fe58149ebebe163a7423eeaaac3fbcf4b1cffb2cae7704044f62aed2edc33&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMSwiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6ImIyY2ViODA2Nzg4NDc2ODIzNTU1OGYxMzJmMDcwMzRjMjQ3NmMwYTVhNmI3ZjYwYzEwYTA3ZGUwOTc4Zjc2ZmUiLCJwYWdlX2tleSI6ImE5M2ZlNTgxNDllYmViZTE2M2E3NDIzZWVhYWFjM2ZiY2Y0YjFjZmZiMmNhZTc3MDQwNDRmNjJhZWQyZWRjMzMiLCJub25jZSI6IjMxZTVlMmQ0OWVmOTUxZDIxNzZlMzE5YzQ2ZmMyMDUwIn0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDU6MjIuMTQzWiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--5be6fdf1ad46a0e163280d0c9bb651cfb0696693&target=profile",
-      "company_name": "Metana.io"
-    },
-    {
-      "title": "Backend Engineer Solana",
-      "link": "https://web3.career/backend-engineer-solana-veda/153094",
-      "company_name": "Veda",
-      "description": "backend engineer blockchain"
-    },
-    {
-      "title": "Middle QA Engineer",
-      "link": "https://web3.career/middle-qa-engineer-opentag/153064",
-      "company_name": "OpenTag",
-      "description": "engineer quality assurance docker"
-    },
-    {
-      "title": "Fullstack Engineer",
-      "link": "https://web3.career/fullstack-engineer-elliptic/153052",
-      "company_name": "Elliptic",
-      "description": "engineer full stack aws"
-    },
-    {
-      "title": "Director of Engineering Dynamic Platm",
-      "link": "https://web3.career/director-of-engineering-dynamic-platform-fireblocks/153047",
-      "company_name": "Fireblocks",
-      "description": "executive aws blockchain"
-    },
-    {
-      "title": "Director of Engineering Onchain",
-      "link": "https://web3.career/director-of-engineering-onchain-yoloinvestments/153042",
-      "company_name": "Yolo Investments",
-      "description": "executive blockchain crypto"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "link": "https://web3.career/senior-software-engineer-kaleido/152952",
-      "company_name": "Kaleido",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Director of Engineering Onchain",
-      "link": "https://web3.career/director-of-engineering-onchain-mesh/152948",
-      "company_name": "Mesh",
-      "description": "executive blockchain crypto"
-    },
-    {
-      "title": "Founding Mobile RN Engineer",
-      "link": "https://web3.career/founding-mobile-rn-engineer-arcade/152915",
-      "company_name": "Arcade",
-      "description": "founding member engineer mobile"
-    },
-    {
-      "title": "Founding Backend Engineer",
-      "link": "https://web3.career/founding-backend-engineer-arcade/152914",
-      "company_name": "Arcade",
-      "description": "founding member backend engineer"
-    },
-    {
-      "title": "Crypto Engineer with Digital Assets Tokenization",
-      "link": "https://web3.career/crypto-engineer-with-digital-assets-tokenization-irissoftwareinc/152911",
-      "company_name": "Iris Software Inc.",
-      "description": "tokenization finance non tech"
-    },
-    {
-      "title": "Frontend Software Engineer 100% Remote",
-      "link": "https://web3.career/frontend-software-engineer-100-remote-tetheroperationslimited/152886",
-      "company_name": "Tether Operations Limited",
-      "description": "remote engineer front end"
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/152288",
-      "company_name": "Bcbgroup",
-      "description": "engineer full stack senior"
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
-      "company_name": "Bcbgroup",
-      "description": "engineer full stack senior"
-    },
-    {
-      "title": "Data Engineer",
-      "link": "https://web3.career/data-engineer-bcbgroup/140602",
-      "company_name": "Bcbgroup",
-      "description": "data science engineer crypto"
-    },
-    {
-      "title": "Backend Engineer",
-      "link": "https://web3.career/backend-engineer-layerzerolabs/73714",
-      "company_name": "Layerzerolabs",
-      "description": "backend engineer aws"
     }
   ]
 }

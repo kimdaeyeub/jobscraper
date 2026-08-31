@@ -1,26 +1,14 @@
 {
   "skill": "android",
   "label": "Android",
-  "count": 18,
-  "updated_at": "2026-08-24T07:06:24.264866+00:00",
+  "count": 16,
+  "updated_at": "2026-08-31T13:12:22.314926+00:00",
   "jobs": [
     {
       "title": "Kotlin Developer (Android / Multiplatform) (m/w/d)",
       "description": "Wir sind apprime, eine innovative Agentur für mobile Anwendungen und plattformübergreifende Lösungen. Unser Fokus liegt auf hochwertiger Softwareentwicklung mit modernsten Technologien, agilen Methoden und höchstem Qualitätsanspruch. Zur Verstärkung unseres Entwicklerteams suchen wir ab sofort einen erfahrenen Senior Kotlin Developer (Android & Multiplatform). Wir suchen dich, wenn du in Berlin wohnst, hierher ziehen möchtest oder in...",
       "link": "https://berlinstartupjobs.com/engineering/kotlin-developer-android-multiplatform-m-w-d-apprime-gmbh/",
       "company_name": "apprime"
-    },
-    {
-      "title": "Remote Customer Support - $20/hr+",
-      "description": "Work from home as a Customer Support Specialist - earn $20/hr+ with full-time & part-time remote opportunities.",
-      "link": "https://weworkremotely.com/listing_ads/13/click?pk=aacfd849a529ffe6db528eafeeecfedc1e7d5bd126aa24832deea6f644a63bf8&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMywiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6ImUyMmQ2NDQ2ZjEzNDNlNDk1YjAwOTY3NTBkMDllNTg0MzA0MTEzNTU5YTk1NTdmOWQzZmVmOWZjNTM3MTRkZGUiLCJwYWdlX2tleSI6ImFhY2ZkODQ5YTUyOWZmZTZkYjUyOGVhZmVlZWNmZWRjMWU3ZDViZDEyNmFhMjQ4MzJkZWVhNmY2NDRhNjNiZjgiLCJub25jZSI6Ijc0ZWQ0YzQyYjk3N2IyMGUyYTA5YWNiODdmOWQ3NzQ5In0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDY6MjMuNzQ3WiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--06df16d83b3931d852f12133aec178eaaa9464f1&target=profile",
-      "company_name": "Remote Talent Cloud"
-    },
-    {
-      "title": "Remote Tech Jobs Paying $130k to $250k",
-      "description": "Metana's partner companies are hiring AI, Web3, Software & Security talent right now.",
-      "link": "https://weworkremotely.com/listing_ads/11/click?pk=aacfd849a529ffe6db528eafeeecfedc1e7d5bd126aa24832deea6f644a63bf8&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMSwiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6ImUyMmQ2NDQ2ZjEzNDNlNDk1YjAwOTY3NTBkMDllNTg0MzA0MTEzNTU5YTk1NTdmOWQzZmVmOWZjNTM3MTRkZGUiLCJwYWdlX2tleSI6ImFhY2ZkODQ5YTUyOWZmZTZkYjUyOGVhZmVlZWNmZWRjMWU3ZDViZDEyNmFhMjQ4MzJkZWVhNmY2NDRhNjNiZjgiLCJub25jZSI6IjhjOThmZmZhYjk0YjIyMzBlNjMxYzdlYmZhMWQ0MDQ1In0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDY6MjMuNzQ5WiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--19563b5517170c373d078f0da8c3b1cf7eb39db3&target=profile",
-      "company_name": "Metana.io"
     },
     {
       "title": "Engineering Director Mobile iOS Android",

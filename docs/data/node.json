@@ -2,8 +2,38 @@
   "skill": "node",
   "label": "Node.js",
   "count": 15,
-  "updated_at": "2026-08-24T07:05:47.569010+00:00",
+  "updated_at": "2026-08-31T13:11:29.259960+00:00",
   "jobs": [
+    {
+      "title": "Head of Engineering Onchain",
+      "link": "https://web3.career/head-of-engineering-onchain-mesh/153373",
+      "company_name": "Mesh",
+      "description": "engineering manager engineer executive"
+    },
+    {
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-reubencooleyinc/153310",
+      "company_name": "Reuben Cooley Inc.",
+      "description": "dev blockchain ethereum"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
+      "company_name": "Layerzerolabs",
+      "description": "engineer reliability blockchain"
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "link": "https://web3.career/senior-site-reliability-engineer-bloxstaking/148505",
+      "company_name": "Bloxstaking",
+      "description": "engineer reliability senior"
+    },
+    {
+      "title": "Senior Blockchain Engineer VP – Digital Assets",
+      "link": "https://web3.career/senior-blockchain-engineer-vp-digital-assets-barclays/153208",
+      "company_name": "Barclays",
+      "description": "finance non tech engineer"
+    },
     {
       "title": "Digital Asset Technical Advisory Associate Director",
       "link": "https://web3.career/digital-asset-technical-advisory-associate-director-guidehouse/153084",
@@ -63,36 +93,6 @@
       "link": "https://web3.career/crypto-engineer-with-digital-assets-tokenization-irissoftwareinc/152911",
       "company_name": "Iris Software Inc.",
       "description": "tokenization finance non tech"
-    },
-    {
-      "title": "Blockchain Engineer",
-      "link": "https://web3.career/blockchain-engineer-techneptuneconsultinginc/152910",
-      "company_name": "TechNeptune Consulting Inc.",
-      "description": "engineer blockchain docker"
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/152288",
-      "company_name": "Bcbgroup",
-      "description": "engineer full stack senior"
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
-      "company_name": "Bcbgroup",
-      "description": "engineer full stack senior"
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
-      "company_name": "Layerzerolabs",
-      "description": "engineer reliability blockchain"
-    },
-    {
-      "title": "Senior Site Reliability Engineer",
-      "link": "https://web3.career/senior-site-reliability-engineer-bloxstaking/148505",
-      "company_name": "Bloxstaking",
-      "description": "engineer reliability senior"
     }
   ]
 }

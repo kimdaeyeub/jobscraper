@@ -1,9 +1,21 @@
 {
   "skill": "postgres",
   "label": "PostgreSQL",
-  "count": 2,
-  "updated_at": "2026-08-24T07:06:06.494180+00:00",
+  "count": 4,
+  "updated_at": "2026-08-31T13:12:07.185760+00:00",
   "jobs": [
+    {
+      "title": "Founding CTO Technical Lead – Messenger Stablecoin Payments",
+      "link": "https://web3.career/founding-cto-technical-lead-messenger-stablecoin-payments-ihsan/153411",
+      "company_name": "Ihsan",
+      "description": "cto founding member executive"
+    },
+    {
+      "title": "Founding Senior Payments Engineer – Backend Blockchain",
+      "link": "https://web3.career/founding-senior-payments-engineer-backend-blockchain-ihsan/153410",
+      "company_name": "Ihsan",
+      "description": "founding member backend engineer"
+    },
     {
       "title": "Typescript Developer",
       "link": "https://web3.career/typescript-developer-bluesky/49659",

@@ -2,7 +2,7 @@
   "skill": "java",
   "label": "Java",
   "count": 16,
-  "updated_at": "2026-08-24T07:05:23.995479+00:00",
+  "updated_at": "2026-08-31T13:10:20.107870+00:00",
   "jobs": [
     {
       "title": "Senior Fullstack Developer with Product Mindset",
@@ -11,34 +11,16 @@
       "company_name": "Small Improvements"
     },
     {
-      "title": "Binance Accelerator Program QA Content team",
-      "link": "https://web3.career/binance-accelerator-program-qa-content-team-binance/153117",
-      "company_name": "Binance",
-      "description": "quality assurance blockchain crypto"
+      "title": "Head of Engineering Onchain",
+      "link": "https://web3.career/head-of-engineering-onchain-mesh/153373",
+      "company_name": "Mesh",
+      "description": "engineering manager engineer executive"
     },
     {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-atemcorp/153110",
-      "company_name": "Atem Corp",
-      "description": "dev blockchain angular"
-    },
-    {
-      "title": "Blockchain Senior Java Engineer Digital Assets Platm VP",
-      "link": "https://web3.career/blockchain-senior-java-engineer-digital-assets-platform-vp-citi/153083",
-      "company_name": "Citi",
-      "description": "finance non tech engineer"
-    },
-    {
-      "title": "Director of Engineering Onchain",
-      "link": "https://web3.career/director-of-engineering-onchain-yoloinvestments/153042",
-      "company_name": "Yolo Investments",
-      "description": "executive blockchain crypto"
-    },
-    {
-      "title": "Junior Software Engineer",
-      "link": "https://web3.career/junior-software-engineer-binance/153011",
-      "company_name": "Binance",
-      "description": "engineer junior entry level"
+      "title": "Senior Software Engineer Graphs",
+      "link": "https://web3.career/senior-software-engineer-graphs-chainalysis/153334",
+      "company_name": "Chainalysis",
+      "description": "engineer senior dev"
     },
     {
       "title": "Software Engineer Java Asset Systems",
@@ -47,22 +29,34 @@
       "description": "engineer java dev"
     },
     {
-      "title": "Director of Engineering Onchain",
-      "link": "https://web3.career/director-of-engineering-onchain-mesh/152948",
-      "company_name": "Mesh",
-      "description": "executive blockchain crypto"
+      "title": "Team Lead Trading",
+      "link": "https://web3.career/team-lead-trading-alpaca/153323",
+      "company_name": "Alpaca",
+      "description": "lead crypto docker"
     },
     {
-      "title": "Crypto Engineer with Digital Assets Tokenization",
-      "link": "https://web3.career/crypto-engineer-with-digital-assets-tokenization-irissoftwareinc/152911",
-      "company_name": "Iris Software Inc.",
-      "description": "tokenization finance non tech"
+      "title": "Software Engineer Advisory Suite",
+      "link": "https://web3.career/software-engineer-advisory-suite-alpaca/153322",
+      "company_name": "Alpaca",
+      "description": "engineer dev aws"
     },
     {
-      "title": "Blockchain Engineer",
-      "link": "https://web3.career/blockchain-engineer-techneptuneconsultinginc/152910",
-      "company_name": "TechNeptune Consulting Inc.",
-      "description": "engineer blockchain docker"
+      "title": "Blockchain Developer",
+      "link": "https://web3.career/blockchain-developer-reubencooleyinc/153310",
+      "company_name": "Reuben Cooley Inc.",
+      "description": "dev blockchain ethereum"
+    },
+    {
+      "title": "Senior Engineer – Blockchain Platms",
+      "link": "https://web3.career/senior-engineer-blockchain-platforms-coreaiconsulting/153307",
+      "company_name": "CoreAi Consulting",
+      "description": "engineer senior blockchain"
+    },
+    {
+      "title": "Business Intelligence Data Analystics",
+      "link": "https://web3.career/business-intelligence-data-analystics-binance/153258",
+      "company_name": "Binance",
+      "description": "blockchain java"
     },
     {
       "title": "Staff Site Reliability Engineer",
@@ -71,34 +65,40 @@
       "description": "engineer reliability aws"
     },
     {
-      "title": "Senior Engineer Fiat Payment，Card",
-      "link": "https://web3.career/senior-engineer-fiat-payment-card-okx/152881",
-      "company_name": "Okx",
-      "description": "engineer senior aws"
-    },
-    {
       "title": "Principal Staff Engineer Compliance",
       "link": "https://web3.career/principal-staff-engineer-compliance-okx/149565",
       "company_name": "Okx",
       "description": "compliance non tech engineer"
     },
     {
-      "title": "Staff Engineer 1 – Salesce AI",
-      "link": "https://web3.career/staff-engineer-1-salesforce-ai-inmobi/152879",
-      "company_name": "Inmobi",
-      "description": "ai engineer salesforce"
+      "title": "Senior Software Engineer Java EVERGREEN",
+      "link": "https://web3.career/senior-software-engineer-java-evergreen-bitpanda/152263",
+      "company_name": "Bitpanda",
+      "description": "engineer java senior"
     },
     {
-      "title": "Software Engineer Java Trade Services",
-      "link": "https://web3.career/software-engineer-java-trade-services-bitpanda/151990",
-      "company_name": "Bitpanda",
-      "description": "engineer java dev"
+      "title": "Senior Software Engineer Trading",
+      "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev"
     },
     {
-      "title": "Software Engineer Java Digital Asset Systems",
-      "link": "https://web3.career/software-engineer-java-digital-asset-systems-bitpanda/149242",
-      "company_name": "Bitpanda",
-      "description": "engineer java dev"
+      "title": "Senior Product Security Engineer",
+      "link": "https://web3.career/senior-product-security-engineer-blockchain/150772",
+      "company_name": "Blockchain",
+      "description": "engineer security senior"
+    },
+    {
+      "title": "Security Engineer Institutional Trading",
+      "link": "https://web3.career/security-engineer-institutional-trading-blockchain/153222",
+      "company_name": "Blockchain",
+      "description": "engineer security aws"
+    },
+    {
+      "title": "Senior Java Developer",
+      "link": "https://web3.career/senior-java-developer-localcoin/153218",
+      "company_name": "Localcoin",
+      "description": "dev java senior"
     }
   ]
 }

@@ -1,21 +1,9 @@
 {
   "skill": "php",
   "label": "PHP",
-  "count": 17,
-  "updated_at": "2026-08-24T07:05:29.489876+00:00",
+  "count": 15,
+  "updated_at": "2026-08-31T13:10:41.988852+00:00",
   "jobs": [
-    {
-      "title": "Remote Customer Support - $20/hr+",
-      "description": "Work from home as a Customer Support Specialist - earn $20/hr+ with full-time & part-time remote opportunities.",
-      "link": "https://weworkremotely.com/listing_ads/13/click?pk=24372347ade6c71a2cfb80394a880e2f09569c16cff6aad93e40b2ef20899a36&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMywiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6Ijg1NTMzNjlkMTBlYzI3MWJjMTQ1ODRiODc4NGEzYjA3ODVkMmVjNzFjNGUxZDRiNTJmNTlkNDJkY2EwNzExMjkiLCJwYWdlX2tleSI6IjI0MzcyMzQ3YWRlNmM3MWEyY2ZiODAzOTRhODgwZTJmMDk1NjljMTZjZmY2YWFkOTNlNDBiMmVmMjA4OTlhMzYiLCJub25jZSI6IjlkMDgxNzJlYTU2OTg5MzY5NWM5MGY2MGM0NTQ4ZGIwIn0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDU6MjguODYzWiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--22dc1a066c29d3fc2c0946ee4e6a82d2d295f849&target=profile",
-      "company_name": "Remote Talent Cloud"
-    },
-    {
-      "title": "Remote Tech Jobs Paying $130k to $250k",
-      "description": "Metana's partner companies are hiring AI, Web3, Software & Security talent right now.",
-      "link": "https://weworkremotely.com/listing_ads/11/click?pk=24372347ade6c71a2cfb80394a880e2f09569c16cff6aad93e40b2ef20899a36&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxMSwiZXZlbnQiOiJjbGljayIsInRhcmdldCI6InByb2ZpbGUiLCJ0cmFja2VyX2RpZ2VzdCI6Ijg1NTMzNjlkMTBlYzI3MWJjMTQ1ODRiODc4NGEzYjA3ODVkMmVjNzFjNGUxZDRiNTJmNTlkNDJkY2EwNzExMjkiLCJwYWdlX2tleSI6IjI0MzcyMzQ3YWRlNmM3MWEyY2ZiODAzOTRhODgwZTJmMDk1NjljMTZjZmY2YWFkOTNlNDBiMmVmMjA4OTlhMzYiLCJub25jZSI6IjkzMWViM2MxZDk0NjI1OGNhZjBkY2YwMjkyNmRlOTU1In0sImV4cCI6IjIwMjYtMDgtMjRUMTk6MDU6MjguODY2WiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--38ac4e411a863363a116af99d323b0bd8e09445a&target=profile",
-      "company_name": "Metana.io"
-    },
     {
       "title": "Software Engineer Intern Fullstack 12 Month Internship",
       "link": "https://web3.career/software-engineer-intern-fullstack-12-month-internship-bitpanda/151423",

@@ -2,55 +2,37 @@
   "skill": "aws",
   "label": "AWS",
   "count": 15,
-  "updated_at": "2026-08-24T07:06:14.826265+00:00",
+  "updated_at": "2026-08-31T13:12:14.472990+00:00",
   "jobs": [
     {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-atemcorp/153110",
-      "company_name": "Atem Corp",
-      "description": "dev blockchain angular"
-    },
-    {
-      "title": "Senior Product Manager Growth",
-      "link": "https://web3.career/senior-product-manager-growth-ondofinance/153095",
+      "title": "Strategic Finance Lead",
+      "link": "https://web3.career/strategic-finance-lead-ondofinance/153444",
       "company_name": "Ondo Finance",
-      "description": "growth product manager non tech"
+      "description": "strategy non tech finance"
     },
     {
-      "title": "Senior Backend Engineer",
-      "link": "https://web3.career/senior-backend-engineer-veda/153092",
-      "company_name": "Veda",
-      "description": "backend engineer senior"
+      "title": "Blockchain Backend Engineer Vice President",
+      "link": "https://web3.career/blockchain-backend-engineer-vice-president-icapital/153438",
+      "company_name": "iCapital",
+      "description": "backend engineer blockchain"
     },
     {
-      "title": "Senior Data Engineer",
-      "link": "https://web3.career/senior-data-engineer-ondofinance/153059",
+      "title": "Head of Strategic Finance",
+      "link": "https://web3.career/head-of-strategic-finance-ondofinance/153409",
       "company_name": "Ondo Finance",
-      "description": "data science engineer senior"
+      "description": "executive strategy non tech"
     },
     {
-      "title": "Senior Software Engineer Backend",
-      "link": "https://web3.career/senior-software-engineer-backend-helius/153058",
-      "company_name": "Helius",
-      "description": "backend engineer senior"
+      "title": "Lead Data Engineer",
+      "link": "https://web3.career/lead-data-engineer-immutable/153346",
+      "company_name": "Immutable",
+      "description": "data science engineer lead"
     },
     {
-      "title": "Staff Software Engineer Backend",
-      "link": "https://web3.career/staff-software-engineer-backend-helius/153057",
-      "company_name": "Helius",
-      "description": "backend engineer dev"
-    },
-    {
-      "title": "Fullstack Engineer",
-      "link": "https://web3.career/fullstack-engineer-elliptic/153052",
-      "company_name": "Elliptic",
-      "description": "engineer full stack aws"
-    },
-    {
-      "title": "Director of Engineering Dynamic Platm",
-      "link": "https://web3.career/director-of-engineering-dynamic-platform-fireblocks/153047",
-      "company_name": "Fireblocks",
-      "description": "executive aws blockchain"
+      "title": "Senior Software Engineer Graphs",
+      "link": "https://web3.career/senior-software-engineer-graphs-chainalysis/153334",
+      "company_name": "Chainalysis",
+      "description": "engineer senior dev"
     },
     {
       "title": "Software Engineer Java Asset Systems",
@@ -59,28 +41,28 @@
       "description": "engineer java dev"
     },
     {
-      "title": "BSA Officer Money Laundering Reporting Officer MLRO",
-      "link": "https://web3.career/bsa-officer-money-laundering-reporting-officer-mlro-kast/152981",
+      "title": "Software Engineer Advisory Suite",
+      "link": "https://web3.career/software-engineer-advisory-suite-alpaca/153322",
+      "company_name": "Alpaca",
+      "description": "engineer dev aws"
+    },
+    {
+      "title": "Senior Ecosystem Marketing Manager",
+      "link": "https://web3.career/senior-ecosystem-marketing-manager-alchemy/153315",
+      "company_name": "Alchemy",
+      "description": "marketing manager marketing non tech"
+    },
+    {
+      "title": "Risk Governance Manager",
+      "link": "https://web3.career/risk-governance-manager-ondofinance/153312",
+      "company_name": "Ondo Finance",
+      "description": "aws blockchain crypto"
+    },
+    {
+      "title": "Risk Audit Lead",
+      "link": "https://web3.career/risk-audit-lead-kast/153278",
       "company_name": "Kast",
-      "description": "aws crypto solana"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "link": "https://web3.career/senior-software-engineer-kaleido/152952",
-      "company_name": "Kaleido",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Money Laundering Reporting Officer MLRO BSA Officer",
-      "link": "https://web3.career/money-laundering-reporting-officer-mlro-bsa-officer-kast/152916",
-      "company_name": "Kast",
-      "description": "aws crypto solana"
-    },
-    {
-      "title": "Founding Backend Engineer",
-      "link": "https://web3.career/founding-backend-engineer-arcade/152914",
-      "company_name": "Arcade",
-      "description": "founding member backend engineer"
+      "description": "lead aws crypto"
     },
     {
       "title": "Staff Site Reliability Engineer",
@@ -89,10 +71,28 @@
       "description": "engineer reliability aws"
     },
     {
-      "title": "Sr. Staff Production Engineer",
-      "link": "https://web3.career/sr-staff-production-engineer-zscaler/148835",
+      "title": "Sr. Production Engineer",
+      "link": "https://web3.career/sr-production-engineer-zscaler/150565",
       "company_name": "Zscaler",
       "description": "engineer senior aws"
+    },
+    {
+      "title": "Product Support Engineer III Cloud",
+      "link": "https://web3.career/product-support-engineer-iii-cloud-zscaler/153251",
+      "company_name": "Zscaler",
+      "description": "cloud engineer engineer customer support"
+    },
+    {
+      "title": "Escalation Engineer DLP",
+      "link": "https://web3.career/escalation-engineer-dlp-zscaler/148637",
+      "company_name": "Zscaler",
+      "description": "engineer aws remote"
+    },
+    {
+      "title": "Senior Professional Services Consultant Zero Trust Cloud Specialist",
+      "link": "https://web3.career/senior-professional-services-consultant-zero-trust-cloud-specialist-zscaler/153250",
+      "company_name": "Zscaler",
+      "description": "cloud engineer engineer consulting"
     }
   ]
 }

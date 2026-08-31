@@ -2,8 +2,20 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-08-24T07:05:38.265777+00:00",
+  "updated_at": "2026-08-31T13:11:06.540847+00:00",
   "jobs": [
+    {
+      "title": "Senior Product Security Engineer",
+      "link": "https://web3.career/senior-product-security-engineer-blockchain/150772",
+      "company_name": "Blockchain",
+      "description": "engineer security senior"
+    },
+    {
+      "title": "Security Engineer Institutional Trading",
+      "link": "https://web3.career/security-engineer-institutional-trading-blockchain/153222",
+      "company_name": "Blockchain",
+      "description": "engineer security aws"
+    },
     {
       "title": "Founding Mobile RN Engineer",
       "link": "https://web3.career/founding-mobile-rn-engineer-arcade/152915",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/software-engineer-data-dune/151685",
       "company_name": "Dune",
       "description": "engineer dev bitcoin"
-    },
-    {
-      "title": "Staff Engineer Solana",
-      "link": "https://web3.career/staff-engineer-solana-r3/151611",
-      "company_name": "R3",
-      "description": "engineer crypto defi"
-    },
-    {
-      "title": "BackEnd Engineer Trading",
-      "link": "https://web3.career/back-end-engineer-trading-blockchain/151412",
-      "company_name": "Blockchain",
-      "description": "backend engineer aws"
     }
   ]
 }
