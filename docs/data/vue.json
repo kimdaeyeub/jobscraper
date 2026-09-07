@@ -2,8 +2,14 @@
   "skill": "vue",
   "label": "Vue",
   "count": 15,
-  "updated_at": "2026-08-31T13:11:17.840404+00:00",
+  "updated_at": "2026-09-07T12:01:21.846108+00:00",
   "jobs": [
+    {
+      "title": "Senior Blockchain Engineer",
+      "link": "https://web3.career/senior-blockchain-engineer-brightvisiontechnologies/153802",
+      "company_name": "Bright Vision Technologies",
+      "description": "engineer senior blockchain"
+    },
     {
       "title": "Sr. Software Development Engineer",
       "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
@@ -21,6 +27,12 @@
       "link": "https://web3.career/engineering-director-frontend-okx/147551",
       "company_name": "Okx",
       "description": "executive front end blockchain"
+    },
+    {
+      "title": "Software Engineering Talent Community",
+      "link": "https://web3.career/software-engineering-talent-community-launchpadtechnologiesinc/153539",
+      "company_name": "Launchpadtechnologiesinc",
+      "description": "community manager non tech dev"
     },
     {
       "title": "Junior Software Engineer",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/frontend-engineer-coins/150516",
       "company_name": "Coins.ph",
       "description": "engineer front end crypto"
-    },
-    {
-      "title": "Backend Engineer BE + LLM",
-      "link": "https://web3.career/backend-engineer-be-llm-binance/150513",
-      "company_name": "Binance",
-      "description": "backend engineer angular"
-    },
-    {
-      "title": "Senior Frontend Engineer Trading Systems",
-      "link": "https://web3.career/senior-frontend-engineer-trading-systems-binance/150426",
-      "company_name": "Binance",
-      "description": "engineer front end senior"
     }
   ]
 }

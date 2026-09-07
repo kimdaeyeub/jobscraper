@@ -1,8 +1,8 @@
 {
   "skill": "javascript",
   "label": "JavaScript",
-  "count": 2,
-  "updated_at": "2026-08-31T13:10:08.707131+00:00",
+  "count": 17,
+  "updated_at": "2026-09-07T12:00:48.178633+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -15,6 +15,96 @@
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
       "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
       "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Software Engineer II React Native Krak",
+      "link": "https://web3.career/software-engineer-ii-react-native-krak-kraken/153649",
+      "company_name": "Kraken",
+      "description": "engineer react native mobile"
+    },
+    {
+      "title": "DevOps Engineer 100% remote",
+      "link": "https://web3.career/devops-engineer-100-remote-tetheroperationslimited/153592",
+      "company_name": "Tether Operations Limited",
+      "description": "remote devops engineer"
+    },
+    {
+      "title": "Solutions Consultant New York",
+      "link": "https://web3.career/solutions-consultant-new-york-elliptic/153572",
+      "company_name": "Elliptic",
+      "description": "consulting blockchain crypto"
+    },
+    {
+      "title": "Senior Software Engineer: Social AI MetaMask",
+      "link": "https://web3.career/senior-software-engineer-social-ai-metamask-consensys/153555",
+      "company_name": "Consensys",
+      "description": "ai engineer senior"
+    },
+    {
+      "title": "Software Engineering Talent Community",
+      "link": "https://web3.career/software-engineering-talent-community-launchpadtechnologiesinc/153539",
+      "company_name": "Launchpadtechnologiesinc",
+      "description": "community manager non tech dev"
+    },
+    {
+      "title": "Senior Business IT Engineer Atlassian Cloud",
+      "link": "https://web3.career/senior-business-it-engineer-atlassian-cloud-bitpanda/152342",
+      "company_name": "Bitpanda",
+      "description": "cloud engineer engineer senior"
+    },
+    {
+      "title": "Graduate Frontend Engineer React TypeScript",
+      "link": "https://web3.career/graduate-frontend-engineer-react-typescript-bitpanda/152867",
+      "company_name": "Bitpanda",
+      "description": "typescript engineer front end"
+    },
+    {
+      "title": "FrontEnd Engineer Institutional",
+      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
+      "company_name": "Blockchain",
+      "description": "engineer front end blockchain"
+    },
+    {
+      "title": "UI Engineer",
+      "link": "https://web3.career/ui-engineer-taxbit/151184",
+      "company_name": "Taxbit",
+      "description": "engineer design non tech"
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "link": "https://web3.career/quality-assurance-engineer-brave/46151",
+      "company_name": "Brave",
+      "description": "dev quality assurance javascript"
+    },
+    {
+      "title": "Solutions Engineer",
+      "link": "https://web3.career/solutions-engineer-bitgo/149986",
+      "company_name": "Bitgo",
+      "description": "engineer bitcoin blockchain"
+    },
+    {
+      "title": "Creative Operations Manager Media Trafficking",
+      "link": "https://web3.career/creative-operations-manager-media-trafficking-polymarket/153325",
+      "company_name": "Polymarket",
+      "description": "operations gaming javascript"
+    },
+    {
+      "title": "AI Systems Researcher Engineer",
+      "link": "https://web3.career/ai-systems-researcher-engineer-brave/153316",
+      "company_name": "Brave",
+      "description": "research ai engineer"
+    },
+    {
+      "title": "Client Account Services Lead",
+      "link": "https://web3.career/client-account-services-lead-zinnia/153246",
+      "company_name": "Zinnia",
+      "description": "sales non tech lead"
+    },
+    {
+      "title": "Partner support agent",
+      "link": "https://web3.career/partner-support-agent-wert/138262",
+      "company_name": "Wert",
+      "description": "customer support blockchain crypto"
     }
   ]
 }

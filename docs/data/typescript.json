@@ -1,8 +1,8 @@
 {
   "skill": "typescript",
   "label": "TypeScript",
-  "count": 6,
-  "updated_at": "2026-08-31T13:10:19.087732+00:00",
+  "count": 21,
+  "updated_at": "2026-09-07T12:00:49.481662+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -39,6 +39,96 @@
       "description": "About Climatiq If you’re looking for a role that has an impact on the world, and not just a balance sheet, Climatiq is the place for you. We’re a fast-growing startup embedding carbon intelligence into business decisions worldwide. Our platform—combining the world’s leading emissions database with sophisticated AI and calculation tools—helps thousands of sustainability teams...",
       "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-engineer-climatiq/",
       "company_name": "Climatiq"
+    },
+    {
+      "title": "ForwardDeployed Engineer",
+      "link": "https://web3.career/forward-deployed-engineer-josephanthonygroup/153670",
+      "company_name": "Joseph Anthony Group",
+      "description": "engineer blockchain crypto"
+    },
+    {
+      "title": "Sr. Backend Engineer",
+      "link": "https://web3.career/sr-backend-engineer-cream-llc/153669",
+      "company_name": "CREAM, LLC",
+      "description": "backend engineer senior"
+    },
+    {
+      "title": "Software Engineer II React Native Krak",
+      "link": "https://web3.career/software-engineer-ii-react-native-krak-kraken/153649",
+      "company_name": "Kraken",
+      "description": "engineer react native mobile"
+    },
+    {
+      "title": "Senior FullStack Engineer Trading API",
+      "link": "https://web3.career/senior-full-stack-engineer-trading-api-alpaca/153638",
+      "company_name": "Alpaca",
+      "description": "ai api engineer"
+    },
+    {
+      "title": "Senior FullStack Engineer Alpaca Connect",
+      "link": "https://web3.career/senior-full-stack-engineer-alpaca-connect-alpaca/153637",
+      "company_name": "Alpaca",
+      "description": "engineer full stack senior"
+    },
+    {
+      "title": "Engineering Manager Identity Compliance Risk NYC MIA",
+      "link": "https://web3.career/engineering-manager-identity-compliance-risk-nyc-mia-crossmint/153623",
+      "company_name": "Crossmint",
+      "description": "compliance non tech engineering manager"
+    },
+    {
+      "title": "Backend Engineer EVM",
+      "link": "https://web3.career/backend-engineer-evm-trojantrading/153621",
+      "company_name": "Trojan Trading",
+      "description": "evm ethereum backend"
+    },
+    {
+      "title": "Head of Product Engineering",
+      "link": "https://web3.career/head-of-product-engineering-reflect/153620",
+      "company_name": "Reflect",
+      "description": "executive product manager non tech"
+    },
+    {
+      "title": "DevOps Engineer 100% remote",
+      "link": "https://web3.career/devops-engineer-100-remote-tetheroperationslimited/153592",
+      "company_name": "Tether Operations Limited",
+      "description": "remote devops engineer"
+    },
+    {
+      "title": "Sr. Blockchain Engineer Blockchain Engineer Smart Contract Engineer",
+      "link": "https://web3.career/sr-blockchain-engineer-blockchain-engineer-smart-contract-engineer-cream-llc/153571",
+      "company_name": "CREAM, LLC",
+      "description": "engineer senior blockchain"
+    },
+    {
+      "title": "Senior Software Engineer: Social AI MetaMask",
+      "link": "https://web3.career/senior-software-engineer-social-ai-metamask-consensys/153555",
+      "company_name": "Consensys",
+      "description": "ai engineer senior"
+    },
+    {
+      "title": "Data Engineer",
+      "link": "https://web3.career/data-engineer-bcbgroup/140602",
+      "company_name": "Bcbgroup",
+      "description": "data science engineer crypto"
+    },
+    {
+      "title": "Backend Engineer",
+      "link": "https://web3.career/backend-engineer-layerzerolabs/73714",
+      "company_name": "Layerzerolabs",
+      "description": "backend engineer aws"
+    },
+    {
+      "title": "Software Engineering Talent Community",
+      "link": "https://web3.career/software-engineering-talent-community-launchpadtechnologiesinc/153539",
+      "company_name": "Launchpadtechnologiesinc",
+      "description": "community manager non tech dev"
+    },
+    {
+      "title": "Graduate Frontend Engineer React TypeScript",
+      "link": "https://web3.career/graduate-frontend-engineer-react-typescript-bitpanda/152867",
+      "company_name": "Bitpanda",
+      "description": "typescript engineer front end"
     }
   ]
 }

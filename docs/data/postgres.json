@@ -1,9 +1,15 @@
 {
   "skill": "postgres",
   "label": "PostgreSQL",
-  "count": 4,
-  "updated_at": "2026-08-31T13:12:07.185760+00:00",
+  "count": 5,
+  "updated_at": "2026-09-07T12:01:52.869428+00:00",
   "jobs": [
+    {
+      "title": "Senior PostgreSQL Database Administrator Database Engineer",
+      "link": "https://web3.career/senior-postgresql-database-administrator-database-engineer-tastylive/153522",
+      "company_name": "Tastylive",
+      "description": "admin engineer postgres"
+    },
     {
       "title": "Founding CTO Technical Lead – Messenger Stablecoin Payments",
       "link": "https://web3.career/founding-cto-technical-lead-messenger-stablecoin-payments-ihsan/153411",

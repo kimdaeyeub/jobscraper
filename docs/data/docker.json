@@ -2,7 +2,7 @@
   "skill": "docker",
   "label": "Docker",
   "count": 20,
-  "updated_at": "2026-08-31T13:12:15.157823+00:00",
+  "updated_at": "2026-09-07T12:02:04.453314+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -35,10 +35,34 @@
       "company_name": "Sourcecast"
     },
     {
-      "title": "Team Lead Trading",
-      "link": "https://web3.career/team-lead-trading-alpaca/153323",
+      "title": "Senior Blockchain Engineer",
+      "link": "https://web3.career/senior-blockchain-engineer-brightvisiontechnologies/153802",
+      "company_name": "Bright Vision Technologies",
+      "description": "engineer senior blockchain"
+    },
+    {
+      "title": "Cloud DevOps Platm Engineering Talent Community",
+      "link": "https://web3.career/cloud-devops-platform-engineering-talent-community-launchpadtechnologiesinc/153652",
+      "company_name": "Launchpadtechnologiesinc",
+      "description": "cloud engineer engineer community manager"
+    },
+    {
+      "title": "Senior FullStack Engineer Trading API",
+      "link": "https://web3.career/senior-full-stack-engineer-trading-api-alpaca/153638",
       "company_name": "Alpaca",
-      "description": "lead crypto docker"
+      "description": "ai api engineer"
+    },
+    {
+      "title": "Senior FullStack Engineer Alpaca Connect",
+      "link": "https://web3.career/senior-full-stack-engineer-alpaca-connect-alpaca/153637",
+      "company_name": "Alpaca",
+      "description": "engineer full stack senior"
+    },
+    {
+      "title": "DevOps Engineer 100% remote",
+      "link": "https://web3.career/devops-engineer-100-remote-tetheroperationslimited/153592",
+      "company_name": "Tether Operations Limited",
+      "description": "remote devops engineer"
     },
     {
       "title": "Sr. Software Development Engineer",
@@ -47,16 +71,16 @@
       "description": "engineer dev senior"
     },
     {
+      "title": "Technical Support Engineer",
+      "link": "https://web3.career/technical-support-engineer-hyperboliclabs/153540",
+      "company_name": "Hyperbolic Labs",
+      "description": "engineer customer support docker"
+    },
+    {
       "title": "SDE III Devops",
       "link": "https://web3.career/sde-iii-devops-inmobi/100181",
       "company_name": "Inmobi",
       "description": "devops aws docker"
-    },
-    {
-      "title": "Staff Infrastructure Engineer US",
-      "link": "https://web3.career/staff-infrastructure-engineer-us-polymarket/153227",
-      "company_name": "Polymarket",
-      "description": "infrastructure engineer aws"
     },
     {
       "title": "Software Engineer Market Data",
@@ -83,46 +107,22 @@
       "description": "devops engineer senior"
     },
     {
+      "title": "Team Lead Trading",
+      "link": "https://web3.career/team-lead-trading-alpaca/153323",
+      "company_name": "Alpaca",
+      "description": "lead crypto docker"
+    },
+    {
+      "title": "Staff Infrastructure Engineer US",
+      "link": "https://web3.career/staff-infrastructure-engineer-us-polymarket/153227",
+      "company_name": "Polymarket",
+      "description": "infrastructure engineer aws"
+    },
+    {
       "title": "Senior Java Developer",
       "link": "https://web3.career/senior-java-developer-localcoin/153218",
       "company_name": "Localcoin",
       "description": "dev java senior"
-    },
-    {
-      "title": "Blockchain Senior Java Engineer Digital Assets Platm VP",
-      "link": "https://web3.career/blockchain-senior-java-engineer-digital-assets-platform-vp-citi/153083",
-      "company_name": "Citi",
-      "description": "finance non tech engineer"
-    },
-    {
-      "title": "Middle QA Engineer",
-      "link": "https://web3.career/middle-qa-engineer-opentag/153064",
-      "company_name": "OpenTag",
-      "description": "engineer quality assurance docker"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "link": "https://web3.career/senior-software-engineer-kaleido/152952",
-      "company_name": "Kaleido",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Blockchain Engineer",
-      "link": "https://web3.career/blockchain-engineer-techneptuneconsultinginc/152910",
-      "company_name": "TechNeptune Consulting Inc.",
-      "description": "engineer blockchain docker"
-    },
-    {
-      "title": "Senior Engineer Fiat Payment，Card",
-      "link": "https://web3.career/senior-engineer-fiat-payment-card-okx/152881",
-      "company_name": "Okx",
-      "description": "engineer senior aws"
-    },
-    {
-      "title": "DevOps Engineer",
-      "link": "https://web3.career/devops-engineer-copperco/104236",
-      "company_name": "Copperco",
-      "description": "devops engineer aws"
     }
   ]
 }

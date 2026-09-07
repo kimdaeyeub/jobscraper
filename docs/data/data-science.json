@@ -2,7 +2,7 @@
   "skill": "data-science",
   "label": "Data Science",
   "count": 19,
-  "updated_at": "2026-08-31T13:12:21.623218+00:00",
+  "updated_at": "2026-09-07T12:02:12.294739+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -29,10 +29,28 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Lead Data Engineer",
-      "link": "https://web3.career/lead-data-engineer-immutable/153346",
-      "company_name": "Immutable",
-      "description": "data science engineer lead"
+      "title": "Data Engineer III",
+      "link": "https://web3.career/data-engineer-iii-zinnia/93917",
+      "company_name": "Zinnia",
+      "description": "data science engineer aws"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "link": "https://web3.career/senior-data-analyst-falconx/153647",
+      "company_name": "Falconx",
+      "description": "analyst data science senior"
+    },
+    {
+      "title": "Data Engineer Revenue and Reconciliation",
+      "link": "https://web3.career/data-engineer-revenue-and-reconciliation-temporal/153615",
+      "company_name": "Temporal",
+      "description": "data science engineer blockchain"
+    },
+    {
+      "title": "Junior Data Analyst",
+      "link": "https://web3.career/junior-data-analyst-swissborg/153589",
+      "company_name": "SwissBorg",
+      "description": "analyst data science junior"
     },
     {
       "title": "Data Engineer",
@@ -47,10 +65,28 @@
       "description": "data science engineer senior"
     },
     {
-      "title": "FALL Data Scientist Intern PhD",
-      "link": "https://web3.career/fall-data-scientist-intern-phd-integra/95747",
+      "title": "SUMMER Data Scientist Intern PhD",
+      "link": "https://web3.career/summer-data-scientist-intern-phd-integra/112059",
       "company_name": "Integra",
       "description": "scientist data science intern"
+    },
+    {
+      "title": "SUMMER Data Analyst Intern",
+      "link": "https://web3.career/summer-data-analyst-intern-integra/153537",
+      "company_name": "Integra",
+      "description": "analyst data science intern"
+    },
+    {
+      "title": "SPRING Data Scientist Intern PhD",
+      "link": "https://web3.career/spring-data-scientist-intern-phd-integra/109178",
+      "company_name": "Integra",
+      "description": "scientist data science intern"
+    },
+    {
+      "title": "SPRING Data Analyst Intern",
+      "link": "https://web3.career/spring-data-analyst-intern-integra/153535",
+      "company_name": "Integra",
+      "description": "analyst data science intern"
     },
     {
       "title": "Data Scientist Senior Data Analyst",
@@ -77,46 +113,10 @@
       "description": "data science engineer senior"
     },
     {
-      "title": "Senior Data Engineer",
-      "link": "https://web3.career/senior-data-engineer-ondofinance/153059",
-      "company_name": "Ondo Finance",
-      "description": "data science engineer senior"
-    },
-    {
-      "title": "Sr HR Systems Data Analyst II",
-      "link": "https://web3.career/sr-hr-systems-data-analyst-ii-consensys/153013",
-      "company_name": "Consensys",
-      "description": "analyst data science hr"
-    },
-    {
-      "title": "Data Engineer",
-      "link": "https://web3.career/data-engineer-bitpanda/151421",
-      "company_name": "Bitpanda",
-      "description": "data science engineer aws"
-    },
-    {
-      "title": "Compliance Senior Data Analyst",
-      "link": "https://web3.career/compliance-senior-data-analyst-crypto-com/152815",
-      "company_name": "Crypto.com",
-      "description": "compliance non tech analyst"
-    },
-    {
-      "title": "Compliance Data Analyst Bulgaria",
-      "link": "https://web3.career/compliance-data-analyst-bulgaria-crypto-com/152814",
-      "company_name": "Crypto.com",
-      "description": "compliance non tech analyst"
-    },
-    {
-      "title": "Senior Data Scientist Analyst Risk",
-      "link": "https://web3.career/senior-data-scientist-analyst-risk-polymarket/152647",
-      "company_name": "Polymarket",
-      "description": "scientist analyst data science"
-    },
-    {
-      "title": "Senior Data Scientist Analyst Product",
-      "link": "https://web3.career/senior-data-scientist-analyst-product-polymarket/152646",
-      "company_name": "Polymarket",
-      "description": "scientist analyst data science"
+      "title": "Lead Data Engineer",
+      "link": "https://web3.career/lead-data-engineer-immutable/153346",
+      "company_name": "Immutable",
+      "description": "data science engineer lead"
     }
   ]
 }

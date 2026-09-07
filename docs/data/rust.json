@@ -2,55 +2,73 @@
   "skill": "rust",
   "label": "Rust",
   "count": 15,
-  "updated_at": "2026-08-31T13:10:37.625200+00:00",
+  "updated_at": "2026-09-07T12:01:04.485063+00:00",
   "jobs": [
     {
-      "title": "Staff Backend Engineer",
-      "link": "https://web3.career/staff-backend-engineer-fomo/153408",
-      "company_name": "Fomo",
-      "description": "backend engineer crypto"
+      "title": "Staff Software Engineer AI Security Go Rust Python",
+      "link": "https://web3.career/staff-software-engineer-ai-security-go-rust-python-zscaler/153659",
+      "company_name": "Zscaler",
+      "description": "ai engineer golang"
     },
     {
-      "title": "Head of Engineering Onchain",
-      "link": "https://web3.career/head-of-engineering-onchain-mesh/153373",
-      "company_name": "Mesh",
-      "description": "engineering manager engineer executive"
-    },
-    {
-      "title": "Systems Engineer Contract LATAM",
-      "link": "https://web3.career/systems-engineer-contract-latam-nexus/153342",
-      "company_name": "Nexus",
-      "description": "engineer blockchain rust"
-    },
-    {
-      "title": "Engineering Manager Pro",
-      "link": "https://web3.career/engineering-manager-pro-kraken/153340",
+      "title": "Software Engineer II React Native Krak",
+      "link": "https://web3.career/software-engineer-ii-react-native-krak-kraken/153649",
       "company_name": "Kraken",
-      "description": "engineering manager engineer blockchain"
+      "description": "engineer react native mobile"
     },
     {
-      "title": "Team Lead Trading",
-      "link": "https://web3.career/team-lead-trading-alpaca/153323",
-      "company_name": "Alpaca",
-      "description": "lead crypto docker"
+      "title": "Senior Security Engineer",
+      "link": "https://web3.career/senior-security-engineer-jitolabs/153624",
+      "company_name": "Jito Labs",
+      "description": "engineer security senior"
     },
     {
-      "title": "Software Engineer Advisory Suite",
-      "link": "https://web3.career/software-engineer-advisory-suite-alpaca/153322",
-      "company_name": "Alpaca",
-      "description": "engineer dev aws"
+      "title": "Senior Backend Engineer Trading Infrastructure",
+      "link": "https://web3.career/senior-backend-engineer-trading-infrastructure-ondofinance/153622",
+      "company_name": "Ondo Finance",
+      "description": "infrastructure backend engineer"
     },
     {
-      "title": "AI Systems Researcher Engineer",
-      "link": "https://web3.career/ai-systems-researcher-engineer-brave/153316",
-      "company_name": "Brave",
-      "description": "research ai engineer"
+      "title": "Head of Product Engineering",
+      "link": "https://web3.career/head-of-product-engineering-reflect/153620",
+      "company_name": "Reflect",
+      "description": "executive product manager non tech"
     },
     {
-      "title": "Senior Engineer – Blockchain Platms",
-      "link": "https://web3.career/senior-engineer-blockchain-platforms-coreaiconsulting/153307",
-      "company_name": "CoreAi Consulting",
-      "description": "engineer senior blockchain"
+      "title": "Platm Engineer Core Systems",
+      "link": "https://web3.career/platform-engineer-core-systems-temporal/153618",
+      "company_name": "Temporal",
+      "description": "engineer blockchain crypto"
+    },
+    {
+      "title": "Systems Engineer Transaction Landing",
+      "link": "https://web3.career/systems-engineer-transaction-landing-temporal/153617",
+      "company_name": "Temporal",
+      "description": "engineer blockchain crypto"
+    },
+    {
+      "title": "Senior MEV Research Engineer",
+      "link": "https://web3.career/senior-mev-research-engineer-temporal/153616",
+      "company_name": "Temporal",
+      "description": "mev research engineer"
+    },
+    {
+      "title": "Data Engineer Revenue and Reconciliation",
+      "link": "https://web3.career/data-engineer-revenue-and-reconciliation-temporal/153615",
+      "company_name": "Temporal",
+      "description": "data science engineer blockchain"
+    },
+    {
+      "title": "Quantitative Trader – Crypto Market Making",
+      "link": "https://web3.career/quantitative-trader-crypto-market-making-alexanderchapman/153614",
+      "company_name": "Alexander Chapman",
+      "description": "quantitative quantitative trader trader"
+    },
+    {
+      "title": "Senior Software Engineer JTX",
+      "link": "https://web3.career/senior-software-engineer-jtx-jitolabs/153584",
+      "company_name": "Jito Labs",
+      "description": "engineer senior dev"
     },
     {
       "title": "Staff Site Reliability Engineer",
@@ -65,34 +83,16 @@
       "description": "dev sales non tech"
     },
     {
+      "title": "Engineering Manager Frontend Consumer",
+      "link": "https://web3.career/engineering-manager-frontend-consumer-kraken/153543",
+      "company_name": "Kraken",
+      "description": "engineering manager engineer front end"
+    },
+    {
       "title": "Crypto Production Engineer",
       "link": "https://web3.career/crypto-production-engineer-jumpcrypto/89562",
       "company_name": "Jumpcrypto",
       "description": "engineer blockchain crypto"
-    },
-    {
-      "title": "Software Engineer Rust Python Asset Pricing Hedging",
-      "link": "https://web3.career/software-engineer-rust-python-asset-pricing-hedging-bitpanda/150010",
-      "company_name": "Bitpanda",
-      "description": "engineer python rust"
-    },
-    {
-      "title": "Senior Software Engineer Trading",
-      "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior Software Engineer Market Data",
-      "link": "https://web3.career/senior-software-engineer-market-data-alpaca/99655",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior BackEnd Engineer Trading Platm",
-      "link": "https://web3.career/senior-back-end-engineer-trading-platform-blockchain/98044",
-      "company_name": "Blockchain",
-      "description": "backend engineer senior"
     }
   ]
 }

@@ -2,8 +2,14 @@
   "skill": "ruby",
   "label": "Ruby",
   "count": 15,
-  "updated_at": "2026-08-31T13:10:52.579294+00:00",
+  "updated_at": "2026-09-07T12:01:09.649449+00:00",
   "jobs": [
+    {
+      "title": "Senior PostgreSQL Database Administrator Database Engineer",
+      "link": "https://web3.career/senior-postgresql-database-administrator-database-engineer-tastylive/153522",
+      "company_name": "Tastylive",
+      "description": "admin engineer postgres"
+    },
     {
       "title": "Staff Software Engineer Order Handling and Ledger Team",
       "link": "https://web3.career/staff-software-engineer-order-handling-and-ledger-team-tastylive/153318",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/backend-engineer-wallets-100-remote-tether/145107",
       "company_name": "Tether",
       "description": "remote backend engineer"
-    },
-    {
-      "title": "Software Engineer Intern",
-      "link": "https://web3.career/software-engineer-intern-lensa/144949",
-      "company_name": "Lensa",
-      "description": "engineer intern entry level"
     }
   ]
 }

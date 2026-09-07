@@ -2,8 +2,50 @@
   "skill": "node",
   "label": "Node.js",
   "count": 15,
-  "updated_at": "2026-08-31T13:11:29.259960+00:00",
+  "updated_at": "2026-09-07T12:01:26.400711+00:00",
   "jobs": [
+    {
+      "title": "Senior Blockchain Engineer",
+      "link": "https://web3.career/senior-blockchain-engineer-brightvisiontechnologies/153802",
+      "company_name": "Bright Vision Technologies",
+      "description": "engineer senior blockchain"
+    },
+    {
+      "title": "ForwardDeployed Engineer",
+      "link": "https://web3.career/forward-deployed-engineer-josephanthonygroup/153670",
+      "company_name": "Joseph Anthony Group",
+      "description": "engineer blockchain crypto"
+    },
+    {
+      "title": "Backend Engineer EVM",
+      "link": "https://web3.career/backend-engineer-evm-trojantrading/153621",
+      "company_name": "Trojan Trading",
+      "description": "evm ethereum backend"
+    },
+    {
+      "title": "Head of Product Engineering",
+      "link": "https://web3.career/head-of-product-engineering-reflect/153620",
+      "company_name": "Reflect",
+      "description": "executive product manager non tech"
+    },
+    {
+      "title": "Platm Engineer Core Systems",
+      "link": "https://web3.career/platform-engineer-core-systems-temporal/153618",
+      "company_name": "Temporal",
+      "description": "engineer blockchain crypto"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
+      "company_name": "Layerzerolabs",
+      "description": "engineer reliability blockchain"
+    },
+    {
+      "title": "Software Engineering Talent Community",
+      "link": "https://web3.career/software-engineering-talent-community-launchpadtechnologiesinc/153539",
+      "company_name": "Launchpadtechnologiesinc",
+      "description": "community manager non tech dev"
+    },
     {
       "title": "Head of Engineering Onchain",
       "link": "https://web3.career/head-of-engineering-onchain-mesh/153373",
@@ -15,12 +57,6 @@
       "link": "https://web3.career/blockchain-developer-reubencooleyinc/153310",
       "company_name": "Reuben Cooley Inc.",
       "description": "dev blockchain ethereum"
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
-      "company_name": "Layerzerolabs",
-      "description": "engineer reliability blockchain"
     },
     {
       "title": "Senior Site Reliability Engineer",
@@ -57,42 +93,6 @@
       "link": "https://web3.career/junior-software-engineer-binance/153011",
       "company_name": "Binance",
       "description": "engineer junior entry level"
-    },
-    {
-      "title": "Chief Growth Officer Head of Growth",
-      "link": "https://web3.career/chief-growth-officer-head-of-growth-telegraph/153009",
-      "company_name": "Telegraph",
-      "description": "growth executive crypto"
-    },
-    {
-      "title": "Protocol Core Engineer",
-      "link": "https://web3.career/protocol-core-engineer-charnetworklabs/152955",
-      "company_name": "Char Network Labs",
-      "description": "protocol engineer bitcoin"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "link": "https://web3.career/senior-software-engineer-kaleido/152952",
-      "company_name": "Kaleido",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Director of Engineering Onchain",
-      "link": "https://web3.career/director-of-engineering-onchain-mesh/152948",
-      "company_name": "Mesh",
-      "description": "executive blockchain crypto"
-    },
-    {
-      "title": "Founding Backend Engineer",
-      "link": "https://web3.career/founding-backend-engineer-arcade/152914",
-      "company_name": "Arcade",
-      "description": "founding member backend engineer"
-    },
-    {
-      "title": "Crypto Engineer with Digital Assets Tokenization",
-      "link": "https://web3.career/crypto-engineer-with-digital-assets-tokenization-irissoftwareinc/152911",
-      "company_name": "Iris Software Inc.",
-      "description": "tokenization finance non tech"
     }
   ]
 }

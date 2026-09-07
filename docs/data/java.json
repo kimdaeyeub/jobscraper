@@ -2,7 +2,7 @@
   "skill": "java",
   "label": "Java",
   "count": 16,
-  "updated_at": "2026-08-31T13:10:20.107870+00:00",
+  "updated_at": "2026-09-07T12:00:52.703859+00:00",
   "jobs": [
     {
       "title": "Senior Fullstack Developer with Product Mindset",
@@ -11,16 +11,28 @@
       "company_name": "Small Improvements"
     },
     {
-      "title": "Head of Engineering Onchain",
-      "link": "https://web3.career/head-of-engineering-onchain-mesh/153373",
-      "company_name": "Mesh",
-      "description": "engineering manager engineer executive"
+      "title": "Senior Blockchain Engineer",
+      "link": "https://web3.career/senior-blockchain-engineer-brightvisiontechnologies/153802",
+      "company_name": "Bright Vision Technologies",
+      "description": "engineer senior blockchain"
     },
     {
-      "title": "Senior Software Engineer Graphs",
-      "link": "https://web3.career/senior-software-engineer-graphs-chainalysis/153334",
-      "company_name": "Chainalysis",
-      "description": "engineer senior dev"
+      "title": "Content Governance Engineer Java Go",
+      "link": "https://web3.career/content-governance-engineer-java-go-binance/153675",
+      "company_name": "Binance",
+      "description": "engineer golang java"
+    },
+    {
+      "title": "Data Engineer III",
+      "link": "https://web3.career/data-engineer-iii-zinnia/93917",
+      "company_name": "Zinnia",
+      "description": "data science engineer aws"
+    },
+    {
+      "title": "Staff Backend Engineer Services",
+      "link": "https://web3.career/staff-backend-engineer-services-polymarket/153642",
+      "company_name": "Polymarket",
+      "description": "backend engineer aws"
     },
     {
       "title": "Software Engineer Java Asset Systems",
@@ -29,34 +41,16 @@
       "description": "engineer java dev"
     },
     {
-      "title": "Team Lead Trading",
-      "link": "https://web3.career/team-lead-trading-alpaca/153323",
-      "company_name": "Alpaca",
-      "description": "lead crypto docker"
-    },
-    {
-      "title": "Software Engineer Advisory Suite",
-      "link": "https://web3.career/software-engineer-advisory-suite-alpaca/153322",
-      "company_name": "Alpaca",
-      "description": "engineer dev aws"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-reubencooleyinc/153310",
-      "company_name": "Reuben Cooley Inc.",
-      "description": "dev blockchain ethereum"
-    },
-    {
-      "title": "Senior Engineer – Blockchain Platms",
-      "link": "https://web3.career/senior-engineer-blockchain-platforms-coreaiconsulting/153307",
-      "company_name": "CoreAi Consulting",
-      "description": "engineer senior blockchain"
-    },
-    {
-      "title": "Business Intelligence Data Analystics",
-      "link": "https://web3.career/business-intelligence-data-analystics-binance/153258",
+      "title": "Binance Accelerator Programm Software Engineer Reconciliation",
+      "link": "https://web3.career/binance-accelerator-programm-software-engineer-reconciliation-binance/153630",
       "company_name": "Binance",
-      "description": "blockchain java"
+      "description": "engineer dev blockchain"
+    },
+    {
+      "title": "Binance Accelerator Programm Software Engineer Ledger",
+      "link": "https://web3.career/binance-accelerator-programm-software-engineer-ledger-binance/153629",
+      "company_name": "Binance",
+      "description": "engineer dev blockchain"
     },
     {
       "title": "Staff Site Reliability Engineer",
@@ -69,6 +63,24 @@
       "link": "https://web3.career/principal-staff-engineer-compliance-okx/149565",
       "company_name": "Okx",
       "description": "compliance non tech engineer"
+    },
+    {
+      "title": "Software Engineering Talent Community",
+      "link": "https://web3.career/software-engineering-talent-community-launchpadtechnologiesinc/153539",
+      "company_name": "Launchpadtechnologiesinc",
+      "description": "community manager non tech dev"
+    },
+    {
+      "title": "Senior Backend Engineer Services",
+      "link": "https://web3.career/senior-backend-engineer-services-polymarket/153527",
+      "company_name": "Polymarket",
+      "description": "backend engineer senior"
+    },
+    {
+      "title": "Software Engineer Java Margin Trading",
+      "link": "https://web3.career/software-engineer-java-margin-trading-bitpanda/153524",
+      "company_name": "Bitpanda",
+      "description": "engineer java dev"
     },
     {
       "title": "Senior Software Engineer Java EVERGREEN",
@@ -87,18 +99,6 @@
       "link": "https://web3.career/senior-product-security-engineer-blockchain/150772",
       "company_name": "Blockchain",
       "description": "engineer security senior"
-    },
-    {
-      "title": "Security Engineer Institutional Trading",
-      "link": "https://web3.career/security-engineer-institutional-trading-blockchain/153222",
-      "company_name": "Blockchain",
-      "description": "engineer security aws"
-    },
-    {
-      "title": "Senior Java Developer",
-      "link": "https://web3.career/senior-java-developer-localcoin/153218",
-      "company_name": "Localcoin",
-      "description": "dev java senior"
     }
   ]
 }

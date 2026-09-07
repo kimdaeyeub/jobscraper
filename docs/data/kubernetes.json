@@ -2,7 +2,7 @@
   "skill": "kubernetes",
   "label": "Kubernetes",
   "count": 19,
-  "updated_at": "2026-08-31T13:12:16.115193+00:00",
+  "updated_at": "2026-09-07T12:02:07.597077+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -29,10 +29,16 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Software Engineer Graphs",
-      "link": "https://web3.career/senior-software-engineer-graphs-chainalysis/153334",
-      "company_name": "Chainalysis",
-      "description": "engineer senior dev"
+      "title": "Senior Blockchain Engineer",
+      "link": "https://web3.career/senior-blockchain-engineer-brightvisiontechnologies/153802",
+      "company_name": "Bright Vision Technologies",
+      "description": "engineer senior blockchain"
+    },
+    {
+      "title": "Cloud DevOps Platm Engineering Talent Community",
+      "link": "https://web3.career/cloud-devops-platform-engineering-talent-community-launchpadtechnologiesinc/153652",
+      "company_name": "Launchpadtechnologiesinc",
+      "description": "cloud engineer engineer community manager"
     },
     {
       "title": "Software Engineer Java Asset Systems",
@@ -41,16 +47,34 @@
       "description": "engineer java dev"
     },
     {
-      "title": "Team Lead Trading",
-      "link": "https://web3.career/team-lead-trading-alpaca/153323",
+      "title": "Senior FullStack Engineer Trading API",
+      "link": "https://web3.career/senior-full-stack-engineer-trading-api-alpaca/153638",
       "company_name": "Alpaca",
-      "description": "lead crypto docker"
+      "description": "ai api engineer"
     },
     {
-      "title": "Sr. Software Development Engineer",
-      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
+      "title": "Senior FullStack Engineer Alpaca Connect",
+      "link": "https://web3.career/senior-full-stack-engineer-alpaca-connect-alpaca/153637",
+      "company_name": "Alpaca",
+      "description": "engineer full stack senior"
+    },
+    {
+      "title": "Senior Linux Infrastructure Engineer",
+      "link": "https://web3.career/senior-linux-infrastructure-engineer-tastylive/153635",
+      "company_name": "Tastylive",
+      "description": "infrastructure engineer linux"
+    },
+    {
+      "title": "Platm Engineer Core Systems",
+      "link": "https://web3.career/platform-engineer-core-systems-temporal/153618",
+      "company_name": "Temporal",
+      "description": "engineer blockchain crypto"
+    },
+    {
+      "title": "Staff Site Reliability Engineer Linux Network troubleshooting Scripting",
+      "link": "https://web3.career/staff-site-reliability-engineer-linux-network-troubleshooting-scripting-zscaler/153553",
       "company_name": "Zscaler",
-      "description": "engineer dev senior"
+      "description": "engineer linux reliability"
     },
     {
       "title": "Staff Software Development Engineer",
@@ -59,10 +83,22 @@
       "description": "engineer dev kubernetes"
     },
     {
+      "title": "Sr. Software Development Engineer",
+      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
+      "company_name": "Zscaler",
+      "description": "engineer dev senior"
+    },
+    {
       "title": "Site Reliability Engineer",
       "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
       "company_name": "Layerzerolabs",
       "description": "engineer reliability blockchain"
+    },
+    {
+      "title": "Technical Support Engineer",
+      "link": "https://web3.career/technical-support-engineer-hyperboliclabs/153540",
+      "company_name": "Hyperbolic Labs",
+      "description": "engineer customer support docker"
     },
     {
       "title": "Crypto Production Engineer",
@@ -77,46 +113,10 @@
       "description": "devops aws docker"
     },
     {
-      "title": "Staff Infrastructure Engineer US",
-      "link": "https://web3.career/staff-infrastructure-engineer-us-polymarket/153227",
-      "company_name": "Polymarket",
-      "description": "infrastructure engineer aws"
-    },
-    {
-      "title": "Senior Site Reliability Engineer",
-      "link": "https://web3.career/senior-site-reliability-engineer-bloxstaking/148505",
-      "company_name": "Bloxstaking",
-      "description": "engineer reliability senior"
-    },
-    {
-      "title": "Senior Software Engineer Java EVERGREEN",
-      "link": "https://web3.career/senior-software-engineer-java-evergreen-bitpanda/152263",
+      "title": "Software Engineer Java Margin Trading",
+      "link": "https://web3.career/software-engineer-java-margin-trading-bitpanda/153524",
       "company_name": "Bitpanda",
-      "description": "engineer java senior"
-    },
-    {
-      "title": "Software Engineer Market Data",
-      "link": "https://web3.career/software-engineer-market-data-alpaca/152866",
-      "company_name": "Alpaca",
-      "description": "engineer dev aws"
-    },
-    {
-      "title": "Senior Software Engineer Trading",
-      "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior Software Engineer Payments Treasury",
-      "link": "https://web3.career/senior-software-engineer-payments-treasury-alpaca/99657",
-      "company_name": "Alpaca",
-      "description": "treasury finance engineer"
-    },
-    {
-      "title": "Senior Software Engineer Market Data",
-      "link": "https://web3.career/senior-software-engineer-market-data-alpaca/99655",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
+      "description": "engineer java dev"
     }
   ]
 }

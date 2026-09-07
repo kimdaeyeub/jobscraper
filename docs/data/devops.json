@@ -2,13 +2,25 @@
   "skill": "devops",
   "label": "DevOps",
   "count": 16,
-  "updated_at": "2026-08-31T13:12:20.017778+00:00",
+  "updated_at": "2026-09-07T12:02:11.015584+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
       "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
       "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Cloud DevOps Platm Engineering Talent Community",
+      "link": "https://web3.career/cloud-devops-platform-engineering-talent-community-launchpadtechnologiesinc/153652",
+      "company_name": "Launchpadtechnologiesinc",
+      "description": "cloud engineer engineer community manager"
+    },
+    {
+      "title": "DevOps Engineer 100% remote",
+      "link": "https://web3.career/devops-engineer-100-remote-tetheroperationslimited/153592",
+      "company_name": "Tether Operations Limited",
+      "description": "remote devops engineer"
     },
     {
       "title": "SDE III Devops",
@@ -85,18 +97,6 @@
     {
       "title": "Senior DevOps Engineer Exchange Trading Platms United Kingdom",
       "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-united-kingdom-crypto-com/149821",
-      "company_name": "Crypto.com",
-      "description": "devops engineer senior"
-    },
-    {
-      "title": "Senior DevOps Engineer Exchange Trading Platms Taiwan",
-      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-taiwan-crypto-com/149820",
-      "company_name": "Crypto.com",
-      "description": "devops engineer senior"
-    },
-    {
-      "title": "Senior DevOps Engineer Exchange Trading Platms Singapore",
-      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-singapore-crypto-com/149819",
       "company_name": "Crypto.com",
       "description": "devops engineer senior"
     }

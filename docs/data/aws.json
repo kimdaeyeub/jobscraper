@@ -2,37 +2,55 @@
   "skill": "aws",
   "label": "AWS",
   "count": 15,
-  "updated_at": "2026-08-31T13:12:14.472990+00:00",
+  "updated_at": "2026-09-07T12:02:02.935968+00:00",
   "jobs": [
     {
-      "title": "Strategic Finance Lead",
-      "link": "https://web3.career/strategic-finance-lead-ondofinance/153444",
-      "company_name": "Ondo Finance",
-      "description": "strategy non tech finance"
+      "title": "Senior Blockchain Engineer",
+      "link": "https://web3.career/senior-blockchain-engineer-brightvisiontechnologies/153802",
+      "company_name": "Bright Vision Technologies",
+      "description": "engineer senior blockchain"
     },
     {
-      "title": "Blockchain Backend Engineer Vice President",
-      "link": "https://web3.career/blockchain-backend-engineer-vice-president-icapital/153438",
+      "title": "Backend Engineer Blockchain Assistant Vice President",
+      "link": "https://web3.career/backend-engineer-blockchain-assistant-vice-president-icapital/153705",
       "company_name": "iCapital",
-      "description": "backend engineer blockchain"
+      "description": "virtual assistant backend engineer"
     },
     {
-      "title": "Head of Strategic Finance",
-      "link": "https://web3.career/head-of-strategic-finance-ondofinance/153409",
-      "company_name": "Ondo Finance",
-      "description": "executive strategy non tech"
+      "title": "Sr. Backend Engineer",
+      "link": "https://web3.career/sr-backend-engineer-cream-llc/153669",
+      "company_name": "CREAM, LLC",
+      "description": "backend engineer senior"
     },
     {
-      "title": "Lead Data Engineer",
-      "link": "https://web3.career/lead-data-engineer-immutable/153346",
-      "company_name": "Immutable",
-      "description": "data science engineer lead"
+      "title": "Staff Software Engineer AI Security Go Rust Python",
+      "link": "https://web3.career/staff-software-engineer-ai-security-go-rust-python-zscaler/153659",
+      "company_name": "Zscaler",
+      "description": "ai engineer golang"
     },
     {
-      "title": "Senior Software Engineer Graphs",
-      "link": "https://web3.career/senior-software-engineer-graphs-chainalysis/153334",
-      "company_name": "Chainalysis",
-      "description": "engineer senior dev"
+      "title": "Senior Network Analyst II",
+      "link": "https://web3.career/senior-network-analyst-ii-zinnia/153657",
+      "company_name": "Zinnia",
+      "description": "analyst senior aws"
+    },
+    {
+      "title": "Data Engineer III",
+      "link": "https://web3.career/data-engineer-iii-zinnia/93917",
+      "company_name": "Zinnia",
+      "description": "data science engineer aws"
+    },
+    {
+      "title": "Cloud DevOps Platm Engineering Talent Community",
+      "link": "https://web3.career/cloud-devops-platform-engineering-talent-community-launchpadtechnologiesinc/153652",
+      "company_name": "Launchpadtechnologiesinc",
+      "description": "cloud engineer engineer community manager"
+    },
+    {
+      "title": "Staff Backend Engineer Services",
+      "link": "https://web3.career/staff-backend-engineer-services-polymarket/153642",
+      "company_name": "Polymarket",
+      "description": "backend engineer aws"
     },
     {
       "title": "Software Engineer Java Asset Systems",
@@ -41,58 +59,40 @@
       "description": "engineer java dev"
     },
     {
-      "title": "Software Engineer Advisory Suite",
-      "link": "https://web3.career/software-engineer-advisory-suite-alpaca/153322",
-      "company_name": "Alpaca",
-      "description": "engineer dev aws"
+      "title": "Senior SOC Analyst Security Operations",
+      "link": "https://web3.career/senior-soc-analyst-security-operations-bitpanda/153640",
+      "company_name": "Bitpanda",
+      "description": "analyst operations security"
     },
     {
-      "title": "Senior Ecosystem Marketing Manager",
-      "link": "https://web3.career/senior-ecosystem-marketing-manager-alchemy/153315",
-      "company_name": "Alchemy",
-      "description": "marketing manager marketing non tech"
-    },
-    {
-      "title": "Risk Governance Manager",
-      "link": "https://web3.career/risk-governance-manager-ondofinance/153312",
+      "title": "Senior Backend Engineer Trading Infrastructure",
+      "link": "https://web3.career/senior-backend-engineer-trading-infrastructure-ondofinance/153622",
       "company_name": "Ondo Finance",
-      "description": "aws blockchain crypto"
+      "description": "infrastructure backend engineer"
     },
     {
-      "title": "Risk Audit Lead",
-      "link": "https://web3.career/risk-audit-lead-kast/153278",
-      "company_name": "Kast",
-      "description": "lead aws crypto"
+      "title": "Head of Product Engineering",
+      "link": "https://web3.career/head-of-product-engineering-reflect/153620",
+      "company_name": "Reflect",
+      "description": "executive product manager non tech"
     },
     {
-      "title": "Staff Site Reliability Engineer",
-      "link": "https://web3.career/staff-site-reliability-engineer-zscaler/106117",
+      "title": "DevOps Engineer 100% remote",
+      "link": "https://web3.career/devops-engineer-100-remote-tetheroperationslimited/153592",
+      "company_name": "Tether Operations Limited",
+      "description": "remote devops engineer"
+    },
+    {
+      "title": "Sr. Blockchain Engineer Blockchain Engineer Smart Contract Engineer",
+      "link": "https://web3.career/sr-blockchain-engineer-blockchain-engineer-smart-contract-engineer-cream-llc/153571",
+      "company_name": "CREAM, LLC",
+      "description": "engineer senior blockchain"
+    },
+    {
+      "title": "Staff Site Reliability Engineer Linux Network troubleshooting Scripting",
+      "link": "https://web3.career/staff-site-reliability-engineer-linux-network-troubleshooting-scripting-zscaler/153553",
       "company_name": "Zscaler",
-      "description": "engineer reliability aws"
-    },
-    {
-      "title": "Sr. Production Engineer",
-      "link": "https://web3.career/sr-production-engineer-zscaler/150565",
-      "company_name": "Zscaler",
-      "description": "engineer senior aws"
-    },
-    {
-      "title": "Product Support Engineer III Cloud",
-      "link": "https://web3.career/product-support-engineer-iii-cloud-zscaler/153251",
-      "company_name": "Zscaler",
-      "description": "cloud engineer engineer customer support"
-    },
-    {
-      "title": "Escalation Engineer DLP",
-      "link": "https://web3.career/escalation-engineer-dlp-zscaler/148637",
-      "company_name": "Zscaler",
-      "description": "engineer aws remote"
-    },
-    {
-      "title": "Senior Professional Services Consultant Zero Trust Cloud Specialist",
-      "link": "https://web3.career/senior-professional-services-consultant-zero-trust-cloud-specialist-zscaler/153250",
-      "company_name": "Zscaler",
-      "description": "cloud engineer engineer consulting"
+      "description": "engineer linux reliability"
     }
   ]
 }
