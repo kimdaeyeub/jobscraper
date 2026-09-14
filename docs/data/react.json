@@ -2,7 +2,7 @@
   "skill": "react",
   "label": "React",
   "count": 18,
-  "updated_at": "2026-09-07T12:01:17.782176+00:00",
+  "updated_at": "2026-09-14T12:16:50.743255+00:00",
   "jobs": [
     {
       "title": "(Senior) Full-Stack Engineer (AI-Assisted 3D / CAD / BIM Development)",
@@ -23,52 +23,52 @@
       "company_name": "Small Improvements"
     },
     {
-      "title": "Senior Blockchain Engineer",
-      "link": "https://web3.career/senior-blockchain-engineer-brightvisiontechnologies/153802",
-      "company_name": "Bright Vision Technologies",
-      "description": "engineer senior blockchain"
+      "title": "Social Media and Community Manager",
+      "link": "https://web3.career/social-media-and-community-manager-koinly/151770",
+      "company_name": "Koinly",
+      "description": "community manager non tech social media"
     },
     {
-      "title": "Sr. Backend Engineer",
-      "link": "https://web3.career/sr-backend-engineer-cream-llc/153669",
-      "company_name": "CREAM, LLC",
-      "description": "backend engineer senior"
+      "title": "Technical Lead GPU Infrastructure 100% Remote Worldwide",
+      "link": "https://web3.career/technical-lead-gpu-infrastructure-100-remote-worldwide-tetheroperationslimited/154012",
+      "company_name": "Tether Operations Limited",
+      "description": "gpu cuda ai"
     },
     {
-      "title": "Software Engineer II React Native Krak",
-      "link": "https://web3.career/software-engineer-ii-react-native-krak-kraken/153649",
+      "title": "Senior Software Engineer Blockchain",
+      "link": "https://web3.career/senior-software-engineer-blockchain-mastercard/154000",
+      "company_name": "Mastercard",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Software Engineer III",
+      "link": "https://web3.career/software-engineer-iii-zinnia/153974",
+      "company_name": "Zinnia",
+      "description": "engineer dev angular"
+    },
+    {
+      "title": "Staff Engineer Growth Verifications",
+      "link": "https://web3.career/staff-engineer-growth-verifications-kraken/153971",
       "company_name": "Kraken",
-      "description": "engineer react native mobile"
+      "description": "growth engineer crypto"
     },
     {
-      "title": "Senior FullStack Engineer Trading API",
-      "link": "https://web3.career/senior-full-stack-engineer-trading-api-alpaca/153638",
-      "company_name": "Alpaca",
-      "description": "ai api engineer"
+      "title": "Founding Senior Messenger Engineer — React Native Go RealTime Systems",
+      "link": "https://web3.career/founding-senior-messenger-engineer-react-native-go-real-time-systems-ihsan/153908",
+      "company_name": "Ihsan",
+      "description": "founding member engineer golang"
     },
     {
-      "title": "Senior FullStack Engineer Alpaca Connect",
-      "link": "https://web3.career/senior-full-stack-engineer-alpaca-connect-alpaca/153637",
-      "company_name": "Alpaca",
-      "description": "engineer full stack senior"
+      "title": "Crypto Intelligence Engineer Full Stack",
+      "link": "https://web3.career/crypto-intelligence-engineer-full-stack-elliptic/153900",
+      "company_name": "Elliptic",
+      "description": "engineer full stack aws"
     },
     {
-      "title": "Product Designer Senior Product Designer Predictions OG",
-      "link": "https://web3.career/product-designer-senior-product-designer-predictions-og-crypto-com/153588",
-      "company_name": "Crypto.com",
-      "description": "product designer design non tech"
-    },
-    {
-      "title": "Sr. Blockchain Engineer Blockchain Engineer Smart Contract Engineer",
-      "link": "https://web3.career/sr-blockchain-engineer-blockchain-engineer-smart-contract-engineer-cream-llc/153571",
-      "company_name": "CREAM, LLC",
-      "description": "engineer senior blockchain"
-    },
-    {
-      "title": "Senior Software Engineer: Social AI MetaMask",
-      "link": "https://web3.career/senior-software-engineer-social-ai-metamask-consensys/153555",
-      "company_name": "Consensys",
-      "description": "ai engineer senior"
+      "title": "Founding Senior Fraud Risk Engineer — Stablecoin Neobank",
+      "link": "https://web3.career/founding-senior-fraud-risk-engineer-stablecoin-neobank-ihsan/153884",
+      "company_name": "Ihsan",
+      "description": "founding member engineer security"
     },
     {
       "title": "Engineering Director Mobile Web3",
@@ -89,28 +89,28 @@
       "description": "executive front end blockchain"
     },
     {
-      "title": "Engineering Manager Frontend Consumer",
-      "link": "https://web3.career/engineering-manager-frontend-consumer-kraken/153543",
-      "company_name": "Kraken",
-      "description": "engineering manager engineer front end"
-    },
-    {
-      "title": "Software Engineering Talent Community",
-      "link": "https://web3.career/software-engineering-talent-community-launchpadtechnologiesinc/153539",
+      "title": "Senior FullStack Developer – Java Integrations",
+      "link": "https://web3.career/senior-full-stack-developer-java-integrations-launchpadtechnologiesinc/153874",
       "company_name": "Launchpadtechnologiesinc",
-      "description": "community manager non tech dev"
-    },
-    {
-      "title": "Graduate Frontend Engineer React TypeScript",
-      "link": "https://web3.career/graduate-frontend-engineer-react-typescript-bitpanda/152867",
-      "company_name": "Bitpanda",
-      "description": "typescript engineer front end"
+      "description": "integration dev full stack"
     },
     {
       "title": "Senior Software Engineer New Markets",
       "link": "https://web3.career/senior-software-engineer-new-markets-alpaca/152338",
       "company_name": "Alpaca",
       "description": "engineer senior dev"
+    },
+    {
+      "title": "Senior Fullstack Engineer Operational Automations",
+      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
+      "company_name": "Alpaca",
+      "description": "engineer full stack operations"
+    },
+    {
+      "title": "FrontEnd Engineer Institutional",
+      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
+      "company_name": "Blockchain",
+      "description": "engineer front end blockchain"
     }
   ]
 }

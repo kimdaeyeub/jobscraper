@@ -2,7 +2,7 @@
   "skill": "java",
   "label": "Java",
   "count": 16,
-  "updated_at": "2026-09-07T12:00:52.703859+00:00",
+  "updated_at": "2026-09-14T12:16:41.915549+00:00",
   "jobs": [
     {
       "title": "Senior Fullstack Developer with Product Mindset",
@@ -11,52 +11,52 @@
       "company_name": "Small Improvements"
     },
     {
-      "title": "Senior Blockchain Engineer",
-      "link": "https://web3.career/senior-blockchain-engineer-brightvisiontechnologies/153802",
-      "company_name": "Bright Vision Technologies",
-      "description": "engineer senior blockchain"
+      "title": "Senior Technical Product Manager",
+      "link": "https://web3.career/senior-technical-product-manager-therawdenimbarlimited/154039",
+      "company_name": "The Raw Denim Bar Limited",
+      "description": "product manager non tech senior"
     },
     {
-      "title": "Content Governance Engineer Java Go",
-      "link": "https://web3.career/content-governance-engineer-java-go-binance/153675",
-      "company_name": "Binance",
-      "description": "engineer golang java"
+      "title": "Senior Software Engineer Blockchain",
+      "link": "https://web3.career/senior-software-engineer-blockchain-mastercard/154000",
+      "company_name": "Mastercard",
+      "description": "engineer senior dev"
     },
     {
-      "title": "Data Engineer III",
-      "link": "https://web3.career/data-engineer-iii-zinnia/93917",
-      "company_name": "Zinnia",
-      "description": "data science engineer aws"
+      "title": "Quantitative Trader D1 Liquidity",
+      "link": "https://web3.career/quantitative-trader-d1-liquidity-okx/153970",
+      "company_name": "Okx",
+      "description": "quantitative quantitative trader trader"
     },
     {
-      "title": "Staff Backend Engineer Services",
-      "link": "https://web3.career/staff-backend-engineer-services-polymarket/153642",
-      "company_name": "Polymarket",
-      "description": "backend engineer aws"
+      "title": "Senior Platm Engineer Foundations",
+      "link": "https://web3.career/senior-platform-engineer-foundations-chainalysis/153954",
+      "company_name": "Chainalysis",
+      "description": "engineer senior aws"
     },
     {
-      "title": "Software Engineer Java Asset Systems",
-      "link": "https://web3.career/software-engineer-java-asset-systems-bitpanda/152989",
-      "company_name": "Bitpanda",
-      "description": "engineer java dev"
+      "title": "Technology Lead Mandarin Speaking",
+      "link": "https://web3.career/technology-lead-mandarin-speaking-coins/153944",
+      "company_name": "Coins.ph",
+      "description": "china lead blockchain"
     },
     {
-      "title": "Binance Accelerator Programm Software Engineer Reconciliation",
-      "link": "https://web3.career/binance-accelerator-programm-software-engineer-reconciliation-binance/153630",
-      "company_name": "Binance",
-      "description": "engineer dev blockchain"
-    },
-    {
-      "title": "Binance Accelerator Programm Software Engineer Ledger",
-      "link": "https://web3.career/binance-accelerator-programm-software-engineer-ledger-binance/153629",
+      "title": "Binance Accelerator Programm Software Engineer Stocks",
+      "link": "https://web3.career/binance-accelerator-programm-software-engineer-stocks-binance/153910",
       "company_name": "Binance",
       "description": "engineer dev blockchain"
     },
     {
-      "title": "Staff Site Reliability Engineer",
-      "link": "https://web3.career/staff-site-reliability-engineer-zscaler/106117",
-      "company_name": "Zscaler",
-      "description": "engineer reliability aws"
+      "title": "Binance Accelerator Programm Software Engineer Convert",
+      "link": "https://web3.career/binance-accelerator-programm-software-engineer-convert-binance/153909",
+      "company_name": "Binance",
+      "description": "engineer dev blockchain"
+    },
+    {
+      "title": "BLOCKCHAIN DEVELOPER CITI BANK",
+      "link": "https://web3.career/blockchain-developer-citi-bank-sidramtechnologies/153904",
+      "company_name": "SIDRAM TECHNOLOGIES",
+      "description": "finance non tech dev"
     },
     {
       "title": "Principal Staff Engineer Compliance",
@@ -65,28 +65,10 @@
       "description": "compliance non tech engineer"
     },
     {
-      "title": "Software Engineering Talent Community",
-      "link": "https://web3.career/software-engineering-talent-community-launchpadtechnologiesinc/153539",
+      "title": "Senior FullStack Developer – Java Integrations",
+      "link": "https://web3.career/senior-full-stack-developer-java-integrations-launchpadtechnologiesinc/153874",
       "company_name": "Launchpadtechnologiesinc",
-      "description": "community manager non tech dev"
-    },
-    {
-      "title": "Senior Backend Engineer Services",
-      "link": "https://web3.career/senior-backend-engineer-services-polymarket/153527",
-      "company_name": "Polymarket",
-      "description": "backend engineer senior"
-    },
-    {
-      "title": "Software Engineer Java Margin Trading",
-      "link": "https://web3.career/software-engineer-java-margin-trading-bitpanda/153524",
-      "company_name": "Bitpanda",
-      "description": "engineer java dev"
-    },
-    {
-      "title": "Senior Software Engineer Java EVERGREEN",
-      "link": "https://web3.career/senior-software-engineer-java-evergreen-bitpanda/152263",
-      "company_name": "Bitpanda",
-      "description": "engineer java senior"
+      "description": "integration dev full stack"
     },
     {
       "title": "Senior Software Engineer Trading",
@@ -99,6 +81,24 @@
       "link": "https://web3.career/senior-product-security-engineer-blockchain/150772",
       "company_name": "Blockchain",
       "description": "engineer security senior"
+    },
+    {
+      "title": "Trading Quant Trader Junior Mid Level Brazil",
+      "link": "https://web3.career/trading-quant-trader-junior-mid-level-brazil-b2c2/151177",
+      "company_name": "B2c2",
+      "description": "junior entry level trader"
+    },
+    {
+      "title": "Senior Software Engineer Global Banking Markets Digital Assets Technology Multichain Tokenization",
+      "link": "https://web3.career/senior-software-engineer-global-banking-markets-digital-assets-technology-multi-chain-tokenization-goldmansachs/153836",
+      "company_name": "Goldman Sachs",
+      "description": "tokenization finance non tech"
+    },
+    {
+      "title": "Senior Protocol Engineer",
+      "link": "https://web3.career/senior-protocol-engineer-globalsettlementnetwork/153834",
+      "company_name": "Global Settlement Network",
+      "description": "protocol engineer senior"
     }
   ]
 }

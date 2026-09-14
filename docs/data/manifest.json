@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-07T12:00:45.664277+00:00",
+  "updated_at": "2026-09-14T12:16:37.514364+00:00",
   "skills": [
     {
       "id": "python",
       "label": "Python",
-      "count": 20
+      "count": 19
     },
     {
       "id": "javascript",
@@ -109,7 +109,7 @@
     {
       "id": "postgres",
       "label": "PostgreSQL",
-      "count": 5
+      "count": 7
     },
     {
       "id": "mongodb",
@@ -129,7 +129,7 @@
     {
       "id": "docker",
       "label": "Docker",
-      "count": 20
+      "count": 19
     },
     {
       "id": "kubernetes",
@@ -184,12 +184,12 @@
     {
       "id": "linux",
       "label": "Linux",
-      "count": 17
+      "count": 16
     },
     {
       "id": "git",
       "label": "Git",
-      "count": 1
+      "count": 0
     },
     {
       "id": "html",

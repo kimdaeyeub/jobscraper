@@ -2,7 +2,7 @@
   "skill": "devops",
   "label": "DevOps",
   "count": 16,
-  "updated_at": "2026-09-07T12:02:11.015584+00:00",
+  "updated_at": "2026-09-14T12:17:24.145684+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
@@ -11,16 +11,10 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Cloud DevOps Platm Engineering Talent Community",
-      "link": "https://web3.career/cloud-devops-platform-engineering-talent-community-launchpadtechnologiesinc/153652",
-      "company_name": "Launchpadtechnologiesinc",
-      "description": "cloud engineer engineer community manager"
-    },
-    {
-      "title": "DevOps Engineer 100% remote",
-      "link": "https://web3.career/devops-engineer-100-remote-tetheroperationslimited/153592",
-      "company_name": "Tether Operations Limited",
-      "description": "remote devops engineer"
+      "title": "DevOps Engineer Intern Summer 2027",
+      "link": "https://web3.career/devops-engineer-intern-summer-2027-dvtrading/153947",
+      "company_name": "Dvtrading",
+      "description": "devops engineer intern"
     },
     {
       "title": "SDE III Devops",
@@ -39,6 +33,18 @@
       "link": "https://web3.career/senior-devops-engineer-dvtrading/150456",
       "company_name": "Dvtrading",
       "description": "devops engineer senior"
+    },
+    {
+      "title": "Cloud DevOps Platm Engineering Talent Community",
+      "link": "https://web3.career/cloud-devops-platform-engineering-talent-community-launchpadtechnologiesinc/153652",
+      "company_name": "Launchpadtechnologiesinc",
+      "description": "cloud engineer engineer community manager"
+    },
+    {
+      "title": "DevOps Engineer 100% remote",
+      "link": "https://web3.career/devops-engineer-100-remote-tetheroperationslimited/153592",
+      "company_name": "Tether Operations Limited",
+      "description": "remote devops engineer"
     },
     {
       "title": "Technical Product Manager Infrastructure and Dev Ops",
@@ -93,12 +99,6 @@
       "link": "https://web3.career/devops-site-reliability-engineer-okx/150381",
       "company_name": "Okx",
       "description": "devops engineer reliability"
-    },
-    {
-      "title": "Senior DevOps Engineer Exchange Trading Platms United Kingdom",
-      "link": "https://web3.career/senior-devops-engineer-exchange-trading-platforms-united-kingdom-crypto-com/149821",
-      "company_name": "Crypto.com",
-      "description": "devops engineer senior"
     }
   ]
 }

@@ -2,8 +2,26 @@
   "skill": "angular",
   "label": "Angular",
   "count": 15,
-  "updated_at": "2026-09-07T12:01:23.132683+00:00",
+  "updated_at": "2026-09-14T12:16:55.581333+00:00",
   "jobs": [
+    {
+      "title": "Senior Software Engineer Blockchain",
+      "link": "https://web3.career/senior-software-engineer-blockchain-mastercard/154000",
+      "company_name": "Mastercard",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Software Engineer III",
+      "link": "https://web3.career/software-engineer-iii-zinnia/153974",
+      "company_name": "Zinnia",
+      "description": "engineer dev angular"
+    },
+    {
+      "title": "Senior FullStack Developer – Java Integrations",
+      "link": "https://web3.career/senior-full-stack-developer-java-integrations-launchpadtechnologiesinc/153874",
+      "company_name": "Launchpadtechnologiesinc",
+      "description": "integration dev full stack"
+    },
     {
       "title": "Senior Blockchain Engineer",
       "link": "https://web3.career/senior-blockchain-engineer-brightvisiontechnologies/153802",
@@ -75,24 +93,6 @@
       "link": "https://web3.career/blockchain-engineer-infosys/151334",
       "company_name": "Infosys",
       "description": "engineer blockchain angular"
-    },
-    {
-      "title": "Staff FullStack Software Engineer .NET Azure",
-      "link": "https://web3.career/staff-full-stack-software-engineer-net-azure-ripple/150927",
-      "company_name": "Ripple",
-      "description": "dot net engineer full stack"
-    },
-    {
-      "title": "Backend Engineer BE + LLM",
-      "link": "https://web3.career/backend-engineer-be-llm-binance/150513",
-      "company_name": "Binance",
-      "description": "backend engineer angular"
-    },
-    {
-      "title": "Staff Software Engineer Graphs",
-      "link": "https://web3.career/staff-software-engineer-graphs-chainalysis/150362",
-      "company_name": "Chainalysis",
-      "description": "engineer dev angular"
     }
   ]
 }

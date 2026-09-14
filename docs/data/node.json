@@ -2,8 +2,68 @@
   "skill": "node",
   "label": "Node.js",
   "count": 15,
-  "updated_at": "2026-09-07T12:01:26.400711+00:00",
+  "updated_at": "2026-09-14T12:16:56.249442+00:00",
   "jobs": [
+    {
+      "title": "Technical Lead GPU Infrastructure 100% Remote Worldwide",
+      "link": "https://web3.career/technical-lead-gpu-infrastructure-100-remote-worldwide-tetheroperationslimited/154012",
+      "company_name": "Tether Operations Limited",
+      "description": "gpu cuda ai"
+    },
+    {
+      "title": "Founding Platm Engineer",
+      "link": "https://web3.career/founding-platform-engineer-arcade/154003",
+      "company_name": "Arcade",
+      "description": "founding member engineer remote"
+    },
+    {
+      "title": "Bitcoin Security Engineer",
+      "link": "https://web3.career/bitcoin-security-engineer-strategy/154001",
+      "company_name": "Strategy",
+      "description": "engineer security bitcoin"
+    },
+    {
+      "title": "Backend Engineer Wallets 100% Remote Worldwide",
+      "link": "https://web3.career/backend-engineer-wallets-100-remote-worldwide-tetheroperationslimited/153977",
+      "company_name": "Tether Operations Limited",
+      "description": "remote backend engineer"
+    },
+    {
+      "title": "Manager Site Reliability Engineering",
+      "link": "https://web3.career/manager-site-reliability-engineering-layerzerolabs/153957",
+      "company_name": "Layerzerolabs",
+      "description": "reliability blockchain golang"
+    },
+    {
+      "title": "BLOCKCHAIN DEVELOPER CITI BANK",
+      "link": "https://web3.career/blockchain-developer-citi-bank-sidramtechnologies/153904",
+      "company_name": "SIDRAM TECHNOLOGIES",
+      "description": "finance non tech dev"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
+      "company_name": "Layerzerolabs",
+      "description": "engineer reliability blockchain"
+    },
+    {
+      "title": "Director Engineering Business Systems",
+      "link": "https://web3.career/director-engineering-business-systems-chainalysis/153858",
+      "company_name": "Chainalysis",
+      "description": "executive aws blockchain"
+    },
+    {
+      "title": "Senior Software Engineer Global Banking Markets Digital Assets Technology Multichain Tokenization",
+      "link": "https://web3.career/senior-software-engineer-global-banking-markets-digital-assets-technology-multi-chain-tokenization-goldmansachs/153836",
+      "company_name": "Goldman Sachs",
+      "description": "tokenization finance non tech"
+    },
+    {
+      "title": "Senior Protocol Engineer",
+      "link": "https://web3.career/senior-protocol-engineer-globalsettlementnetwork/153834",
+      "company_name": "Global Settlement Network",
+      "description": "protocol engineer senior"
+    },
     {
       "title": "Senior Blockchain Engineer",
       "link": "https://web3.career/senior-blockchain-engineer-brightvisiontechnologies/153802",
@@ -33,66 +93,6 @@
       "link": "https://web3.career/platform-engineer-core-systems-temporal/153618",
       "company_name": "Temporal",
       "description": "engineer blockchain crypto"
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
-      "company_name": "Layerzerolabs",
-      "description": "engineer reliability blockchain"
-    },
-    {
-      "title": "Software Engineering Talent Community",
-      "link": "https://web3.career/software-engineering-talent-community-launchpadtechnologiesinc/153539",
-      "company_name": "Launchpadtechnologiesinc",
-      "description": "community manager non tech dev"
-    },
-    {
-      "title": "Head of Engineering Onchain",
-      "link": "https://web3.career/head-of-engineering-onchain-mesh/153373",
-      "company_name": "Mesh",
-      "description": "engineering manager engineer executive"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-reubencooleyinc/153310",
-      "company_name": "Reuben Cooley Inc.",
-      "description": "dev blockchain ethereum"
-    },
-    {
-      "title": "Senior Site Reliability Engineer",
-      "link": "https://web3.career/senior-site-reliability-engineer-bloxstaking/148505",
-      "company_name": "Bloxstaking",
-      "description": "engineer reliability senior"
-    },
-    {
-      "title": "Senior Blockchain Engineer VP – Digital Assets",
-      "link": "https://web3.career/senior-blockchain-engineer-vp-digital-assets-barclays/153208",
-      "company_name": "Barclays",
-      "description": "finance non tech engineer"
-    },
-    {
-      "title": "Digital Asset Technical Advisory Associate Director",
-      "link": "https://web3.career/digital-asset-technical-advisory-associate-director-guidehouse/153084",
-      "company_name": "Guidehouse",
-      "description": "executive blockchain node"
-    },
-    {
-      "title": "Blockchain Senior Java Engineer Digital Assets Platm VP",
-      "link": "https://web3.career/blockchain-senior-java-engineer-digital-assets-platform-vp-citi/153083",
-      "company_name": "Citi",
-      "description": "finance non tech engineer"
-    },
-    {
-      "title": "Director of Engineering Onchain",
-      "link": "https://web3.career/director-of-engineering-onchain-yoloinvestments/153042",
-      "company_name": "Yolo Investments",
-      "description": "executive blockchain crypto"
-    },
-    {
-      "title": "Junior Software Engineer",
-      "link": "https://web3.career/junior-software-engineer-binance/153011",
-      "company_name": "Binance",
-      "description": "engineer junior entry level"
     }
   ]
 }

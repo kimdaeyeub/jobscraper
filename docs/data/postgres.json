@@ -1,9 +1,27 @@
 {
   "skill": "postgres",
   "label": "PostgreSQL",
-  "count": 5,
-  "updated_at": "2026-09-07T12:01:52.869428+00:00",
+  "count": 7,
+  "updated_at": "2026-09-14T12:17:11.332187+00:00",
   "jobs": [
+    {
+      "title": "Founding Senior Messenger Engineer — React Native Go RealTime Systems",
+      "link": "https://web3.career/founding-senior-messenger-engineer-react-native-go-real-time-systems-ihsan/153908",
+      "company_name": "Ihsan",
+      "description": "founding member engineer golang"
+    },
+    {
+      "title": "Founding Senior Fraud Risk Engineer — Stablecoin Neobank",
+      "link": "https://web3.career/founding-senior-fraud-risk-engineer-stablecoin-neobank-ihsan/153884",
+      "company_name": "Ihsan",
+      "description": "founding member engineer security"
+    },
+    {
+      "title": "Founding Senior Payments Engineer – Backend Blockchain",
+      "link": "https://web3.career/founding-senior-payments-engineer-backend-blockchain-ihsan/153410",
+      "company_name": "Ihsan",
+      "description": "founding member backend engineer"
+    },
     {
       "title": "Senior PostgreSQL Database Administrator Database Engineer",
       "link": "https://web3.career/senior-postgresql-database-administrator-database-engineer-tastylive/153522",
@@ -15,12 +33,6 @@
       "link": "https://web3.career/founding-cto-technical-lead-messenger-stablecoin-payments-ihsan/153411",
       "company_name": "Ihsan",
       "description": "cto founding member executive"
-    },
-    {
-      "title": "Founding Senior Payments Engineer – Backend Blockchain",
-      "link": "https://web3.career/founding-senior-payments-engineer-backend-blockchain-ihsan/153410",
-      "company_name": "Ihsan",
-      "description": "founding member backend engineer"
     },
     {
       "title": "Typescript Developer",

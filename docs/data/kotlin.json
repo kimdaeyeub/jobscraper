@@ -2,19 +2,25 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-09-07T12:01:16.525149+00:00",
+  "updated_at": "2026-09-14T12:16:50.033406+00:00",
   "jobs": [
     {
-      "title": "Senior Android Engineer",
-      "link": "https://web3.career/senior-android-engineer-polymarket/153641",
-      "company_name": "Polymarket",
-      "description": "android mobile engineer"
+      "title": "Staff Software Engineer Data",
+      "link": "https://web3.career/staff-software-engineer-data-dune/153871",
+      "company_name": "Dune",
+      "description": "engineer dev bitcoin"
     },
     {
       "title": "Senior Product Security Engineer",
       "link": "https://web3.career/senior-product-security-engineer-blockchain/150772",
       "company_name": "Blockchain",
       "description": "engineer security senior"
+    },
+    {
+      "title": "Senior Android Engineer",
+      "link": "https://web3.career/senior-android-engineer-polymarket/153641",
+      "company_name": "Polymarket",
+      "description": "android mobile engineer"
     },
     {
       "title": "Security Engineer Institutional Trading",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/android-engineer-bluecubeservices/103709",
       "company_name": "Bluecubeservices",
       "description": "android mobile engineer"
-    },
-    {
-      "title": "Software Engineers KYC Eligibility",
-      "link": "https://web3.career/software-engineers-kyc-eligibility-bluecubeservices/139456",
-      "company_name": "Bluecubeservices",
-      "description": "kyc non tech dev"
     }
   ]
 }

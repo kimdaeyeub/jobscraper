@@ -2,8 +2,14 @@
   "skill": "ios",
   "label": "iOS",
   "count": 15,
-  "updated_at": "2026-09-07T12:02:16.772161+00:00",
+  "updated_at": "2026-09-14T12:17:29.223314+00:00",
   "jobs": [
+    {
+      "title": "Founding Senior Messenger Engineer — React Native Go RealTime Systems",
+      "link": "https://web3.career/founding-senior-messenger-engineer-react-native-go-real-time-systems-ihsan/153908",
+      "company_name": "Ihsan",
+      "description": "founding member engineer golang"
+    },
     {
       "title": "Engineering Director Mobile iOS Android",
       "link": "https://web3.career/engineering-director-mobile-ios-android-okx/150697",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/ios-developer-okx/145493",
       "company_name": "Okx",
       "description": "dev ios mobile"
-    },
-    {
-      "title": "Engineering Director Mobile [iOS Android]",
-      "link": "https://web3.career/engineering-director-mobile-ios-android-okx/145482",
-      "company_name": "Okx",
-      "description": "android mobile executive"
     }
   ]
 }

@@ -2,14 +2,8 @@
   "skill": "vue",
   "label": "Vue",
   "count": 15,
-  "updated_at": "2026-09-07T12:01:21.846108+00:00",
+  "updated_at": "2026-09-14T12:16:53.194108+00:00",
   "jobs": [
-    {
-      "title": "Senior Blockchain Engineer",
-      "link": "https://web3.career/senior-blockchain-engineer-brightvisiontechnologies/153802",
-      "company_name": "Bright Vision Technologies",
-      "description": "engineer senior blockchain"
-    },
     {
       "title": "Sr. Software Development Engineer",
       "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
@@ -27,6 +21,12 @@
       "link": "https://web3.career/engineering-director-frontend-okx/147551",
       "company_name": "Okx",
       "description": "executive front end blockchain"
+    },
+    {
+      "title": "Senior Blockchain Engineer",
+      "link": "https://web3.career/senior-blockchain-engineer-brightvisiontechnologies/153802",
+      "company_name": "Bright Vision Technologies",
+      "description": "engineer senior blockchain"
     },
     {
       "title": "Software Engineering Talent Community",

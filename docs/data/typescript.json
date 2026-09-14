@@ -2,18 +2,18 @@
   "skill": "typescript",
   "label": "TypeScript",
   "count": 21,
-  "updated_at": "2026-09-07T12:00:49.481662+00:00",
+  "updated_at": "2026-09-14T12:16:41.063095+00:00",
   "jobs": [
-    {
-      "title": "Senior Backend Developer – Go & Kubernetes",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
-      "company_name": "DATATRONiQ"
-    },
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
       "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Senior Backend Developer – Go & Kubernetes",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
       "company_name": "DATATRONiQ"
     },
     {
@@ -41,70 +41,58 @@
       "company_name": "Climatiq"
     },
     {
-      "title": "ForwardDeployed Engineer",
-      "link": "https://web3.career/forward-deployed-engineer-josephanthonygroup/153670",
-      "company_name": "Joseph Anthony Group",
-      "description": "engineer blockchain crypto"
+      "title": "Senior Technical Product Manager",
+      "link": "https://web3.career/senior-technical-product-manager-therawdenimbarlimited/154039",
+      "company_name": "The Raw Denim Bar Limited",
+      "description": "product manager non tech senior"
     },
     {
-      "title": "Sr. Backend Engineer",
-      "link": "https://web3.career/sr-backend-engineer-cream-llc/153669",
-      "company_name": "CREAM, LLC",
-      "description": "backend engineer senior"
+      "title": "Blockchain Engineer",
+      "link": "https://web3.career/blockchain-engineer-ondofinance/154004",
+      "company_name": "Ondo Finance",
+      "description": "engineer blockchain aws"
     },
     {
-      "title": "Software Engineer II React Native Krak",
-      "link": "https://web3.career/software-engineer-ii-react-native-krak-kraken/153649",
+      "title": "Founding Platm Engineer",
+      "link": "https://web3.career/founding-platform-engineer-arcade/154003",
+      "company_name": "Arcade",
+      "description": "founding member engineer remote"
+    },
+    {
+      "title": "Senior Software Engineer Blockchain",
+      "link": "https://web3.career/senior-software-engineer-blockchain-mastercard/154000",
+      "company_name": "Mastercard",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Staff Engineer Growth Verifications",
+      "link": "https://web3.career/staff-engineer-growth-verifications-kraken/153971",
       "company_name": "Kraken",
-      "description": "engineer react native mobile"
+      "description": "growth engineer crypto"
     },
     {
-      "title": "Senior FullStack Engineer Trading API",
-      "link": "https://web3.career/senior-full-stack-engineer-trading-api-alpaca/153638",
-      "company_name": "Alpaca",
-      "description": "ai api engineer"
+      "title": "Manager Site Reliability Engineering",
+      "link": "https://web3.career/manager-site-reliability-engineering-layerzerolabs/153957",
+      "company_name": "Layerzerolabs",
+      "description": "reliability blockchain golang"
     },
     {
-      "title": "Senior FullStack Engineer Alpaca Connect",
-      "link": "https://web3.career/senior-full-stack-engineer-alpaca-connect-alpaca/153637",
-      "company_name": "Alpaca",
-      "description": "engineer full stack senior"
+      "title": "Founding Senior Messenger Engineer — React Native Go RealTime Systems",
+      "link": "https://web3.career/founding-senior-messenger-engineer-react-native-go-real-time-systems-ihsan/153908",
+      "company_name": "Ihsan",
+      "description": "founding member engineer golang"
     },
     {
-      "title": "Engineering Manager Identity Compliance Risk NYC MIA",
-      "link": "https://web3.career/engineering-manager-identity-compliance-risk-nyc-mia-crossmint/153623",
-      "company_name": "Crossmint",
-      "description": "compliance non tech engineering manager"
+      "title": "Crypto Intelligence Engineer Full Stack",
+      "link": "https://web3.career/crypto-intelligence-engineer-full-stack-elliptic/153900",
+      "company_name": "Elliptic",
+      "description": "engineer full stack aws"
     },
     {
-      "title": "Backend Engineer EVM",
-      "link": "https://web3.career/backend-engineer-evm-trojantrading/153621",
-      "company_name": "Trojan Trading",
-      "description": "evm ethereum backend"
-    },
-    {
-      "title": "Head of Product Engineering",
-      "link": "https://web3.career/head-of-product-engineering-reflect/153620",
-      "company_name": "Reflect",
-      "description": "executive product manager non tech"
-    },
-    {
-      "title": "DevOps Engineer 100% remote",
-      "link": "https://web3.career/devops-engineer-100-remote-tetheroperationslimited/153592",
-      "company_name": "Tether Operations Limited",
-      "description": "remote devops engineer"
-    },
-    {
-      "title": "Sr. Blockchain Engineer Blockchain Engineer Smart Contract Engineer",
-      "link": "https://web3.career/sr-blockchain-engineer-blockchain-engineer-smart-contract-engineer-cream-llc/153571",
-      "company_name": "CREAM, LLC",
-      "description": "engineer senior blockchain"
-    },
-    {
-      "title": "Senior Software Engineer: Social AI MetaMask",
-      "link": "https://web3.career/senior-software-engineer-social-ai-metamask-consensys/153555",
-      "company_name": "Consensys",
-      "description": "ai engineer senior"
+      "title": "Founding Senior Fraud Risk Engineer — Stablecoin Neobank",
+      "link": "https://web3.career/founding-senior-fraud-risk-engineer-stablecoin-neobank-ihsan/153884",
+      "company_name": "Ihsan",
+      "description": "founding member engineer security"
     },
     {
       "title": "Data Engineer",
@@ -119,16 +107,28 @@
       "description": "backend engineer aws"
     },
     {
-      "title": "Software Engineering Talent Community",
-      "link": "https://web3.career/software-engineering-talent-community-launchpadtechnologiesinc/153539",
-      "company_name": "Launchpadtechnologiesinc",
-      "description": "community manager non tech dev"
+      "title": "Director Engineering Business Systems",
+      "link": "https://web3.career/director-engineering-business-systems-chainalysis/153858",
+      "company_name": "Chainalysis",
+      "description": "executive aws blockchain"
     },
     {
-      "title": "Graduate Frontend Engineer React TypeScript",
-      "link": "https://web3.career/graduate-frontend-engineer-react-typescript-bitpanda/152867",
-      "company_name": "Bitpanda",
-      "description": "typescript engineer front end"
+      "title": "Senior Fullstack Engineer Operational Automations",
+      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
+      "company_name": "Alpaca",
+      "description": "engineer full stack operations"
+    },
+    {
+      "title": "Senior Product Security Engineer",
+      "link": "https://web3.career/senior-product-security-engineer-blockchain/150772",
+      "company_name": "Blockchain",
+      "description": "engineer security senior"
+    },
+    {
+      "title": "FrontEnd Engineer Institutional",
+      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
+      "company_name": "Blockchain",
+      "description": "engineer front end blockchain"
     }
   ]
 }
