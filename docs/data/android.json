@@ -2,7 +2,7 @@
   "skill": "android",
   "label": "Android",
   "count": 16,
-  "updated_at": "2026-09-14T12:17:26.418087+00:00",
+  "updated_at": "2026-09-21T12:25:07.575001+00:00",
   "jobs": [
     {
       "title": "Kotlin Developer (Android / Multiplatform) (m/w/d)",
@@ -11,16 +11,34 @@
       "company_name": "apprime"
     },
     {
-      "title": "Founding Senior Messenger Engineer — React Native Go RealTime Systems",
-      "link": "https://web3.career/founding-senior-messenger-engineer-react-native-go-real-time-systems-ihsan/153908",
-      "company_name": "Ihsan",
-      "description": "founding member engineer golang"
+      "title": "Android Engineer C++",
+      "link": "https://web3.career/android-engineer-c-binance/154294",
+      "company_name": "Binance",
+      "description": "c c plus plus android"
+    },
+    {
+      "title": "Android Engineer",
+      "link": "https://web3.career/android-engineer-binance/154293",
+      "company_name": "Binance",
+      "description": "android mobile engineer"
     },
     {
       "title": "Engineering Director Mobile iOS Android",
       "link": "https://web3.career/engineering-director-mobile-ios-android-okx/150697",
       "company_name": "Okx",
       "description": "android mobile executive"
+    },
+    {
+      "title": "Staff Android Engineer",
+      "link": "https://web3.career/staff-android-engineer-polymarket/154158",
+      "company_name": "Polymarket",
+      "description": "android mobile engineer"
+    },
+    {
+      "title": "Founding Senior Messenger Engineer — React Native Go RealTime Systems",
+      "link": "https://web3.career/founding-senior-messenger-engineer-react-native-go-real-time-systems-ihsan/153908",
+      "company_name": "Ihsan",
+      "description": "founding member engineer golang"
     },
     {
       "title": "Senior Android Engineer",
@@ -81,24 +99,6 @@
       "link": "https://web3.career/android-engineer-sdks-contract-spain-or-us-crossmint/147243",
       "company_name": "Crossmint",
       "description": "spain android mobile"
-    },
-    {
-      "title": "Android Engineer",
-      "link": "https://web3.career/android-engineer-blockchain/146874",
-      "company_name": "Blockchain",
-      "description": "android mobile engineer"
-    },
-    {
-      "title": "Android Developer",
-      "link": "https://web3.career/android-developer-binance/146159",
-      "company_name": "Binance",
-      "description": "android mobile dev"
-    },
-    {
-      "title": "Engineering Director Mobile [iOS Android]",
-      "link": "https://web3.career/engineering-director-mobile-ios-android-okx/145482",
-      "company_name": "Okx",
-      "description": "android mobile executive"
     }
   ]
 }

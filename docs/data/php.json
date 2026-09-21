@@ -2,8 +2,14 @@
   "skill": "php",
   "label": "PHP",
   "count": 15,
-  "updated_at": "2026-09-14T12:16:46.051650+00:00",
+  "updated_at": "2026-09-21T12:24:24.012317+00:00",
   "jobs": [
+    {
+      "title": "Engineering Manager QA",
+      "link": "https://web3.career/engineering-manager-qa-binance/154295",
+      "company_name": "Binance",
+      "description": "engineering manager engineer quality assurance"
+    },
     {
       "title": "Software Engineer Intern Fullstack 12 Month Internship",
       "link": "https://web3.career/software-engineer-intern-fullstack-12-month-internship-bitpanda/151423",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/senior-backend-engineer-solana-blockworks/140143",
       "company_name": "Blockworks",
       "description": "backend engineer senior"
-    },
-    {
-      "title": "FX and NDF Trader",
-      "link": "https://web3.career/fx-and-ndf-trader-coins/139788",
-      "company_name": "Coins.ph",
-      "description": "trader php"
     }
   ]
 }

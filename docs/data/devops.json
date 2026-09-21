@@ -2,7 +2,7 @@
   "skill": "devops",
   "label": "DevOps",
   "count": 16,
-  "updated_at": "2026-09-14T12:17:24.145684+00:00",
+  "updated_at": "2026-09-21T12:25:05.888313+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
@@ -11,10 +11,16 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "DevOps Engineer Intern Summer 2027",
-      "link": "https://web3.career/devops-engineer-intern-summer-2027-dvtrading/153947",
-      "company_name": "Dvtrading",
-      "description": "devops engineer intern"
+      "title": "DevOps Engineer Infra",
+      "link": "https://web3.career/devops-engineer-infra-binance/154292",
+      "company_name": "Binance",
+      "description": "devops engineer aws"
+    },
+    {
+      "title": "DevOps Engineer Cloud Infra",
+      "link": "https://web3.career/devops-engineer-cloud-infra-binance/154291",
+      "company_name": "Binance",
+      "description": "cloud engineer engineer devops"
     },
     {
       "title": "SDE III Devops",
@@ -33,6 +39,12 @@
       "link": "https://web3.career/senior-devops-engineer-dvtrading/150456",
       "company_name": "Dvtrading",
       "description": "devops engineer senior"
+    },
+    {
+      "title": "DevOps Engineer Intern Summer 2027",
+      "link": "https://web3.career/devops-engineer-intern-summer-2027-dvtrading/153947",
+      "company_name": "Dvtrading",
+      "description": "devops engineer intern"
     },
     {
       "title": "Cloud DevOps Platm Engineering Talent Community",
@@ -87,18 +99,6 @@
       "link": "https://web3.career/junior-product-manager-devops-and-ai-okx/150699",
       "company_name": "Okx",
       "description": "ai devops junior"
-    },
-    {
-      "title": "Staff DevOps Engineer",
-      "link": "https://web3.career/staff-devops-engineer-alchemy/150425",
-      "company_name": "Alchemy",
-      "description": "devops engineer blockchain"
-    },
-    {
-      "title": "DevOps Site Reliability Engineer",
-      "link": "https://web3.career/devops-site-reliability-engineer-okx/150381",
-      "company_name": "Okx",
-      "description": "devops engineer reliability"
     }
   ]
 }

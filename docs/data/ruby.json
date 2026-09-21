@@ -2,8 +2,14 @@
   "skill": "ruby",
   "label": "Ruby",
   "count": 15,
-  "updated_at": "2026-09-14T12:16:46.823194+00:00",
+  "updated_at": "2026-09-21T12:24:24.683876+00:00",
   "jobs": [
+    {
+      "title": "Software Engineer Ruby",
+      "link": "https://web3.career/software-engineer-ruby-tastylive/154247",
+      "company_name": "Tastylive",
+      "description": "engineer ruby dev"
+    },
     {
       "title": "Senior PostgreSQL Database Administrator Database Engineer",
       "link": "https://web3.career/senior-postgresql-database-administrator-database-engineer-tastylive/153522",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/software-engineer-full-stack-eaa-compliance-coinbase/145305",
       "company_name": "Coinbase",
       "description": "compliance non tech engineer"
-    },
-    {
-      "title": "Backend Engineer Wallets 100% Remote",
-      "link": "https://web3.career/backend-engineer-wallets-100-remote-tether/145107",
-      "company_name": "Tether",
-      "description": "remote backend engineer"
     }
   ]
 }

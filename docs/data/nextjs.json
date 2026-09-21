@@ -2,8 +2,26 @@
   "skill": "nextjs",
   "label": "Next.js",
   "count": 15,
-  "updated_at": "2026-09-14T12:16:58.869652+00:00",
+  "updated_at": "2026-09-21T12:24:37.587342+00:00",
   "jobs": [
+    {
+      "title": "Blockchain Consultant",
+      "link": "https://web3.career/blockchain-consultant-elementtechnologies/154331",
+      "company_name": "Element Technologies",
+      "description": "consulting blockchain erc 20"
+    },
+    {
+      "title": "Full Stack Engineer Web3",
+      "link": "https://web3.career/full-stack-engineer-web3-vaneck/154235",
+      "company_name": "VanEck",
+      "description": "engineer full stack aws"
+    },
+    {
+      "title": "Blockchain Lead",
+      "link": "https://web3.career/blockchain-lead-irissoftwareinc/154234",
+      "company_name": "Iris Software Inc.",
+      "description": "lead blockchain erc 20"
+    },
     {
       "title": "Software Engineer II React Native Krak",
       "link": "https://web3.career/software-engineer-ii-react-native-krak-kraken/153649",
@@ -75,24 +93,6 @@
       "link": "https://web3.career/full-stack-engineer-launchpadtechnologiesinc/151800",
       "company_name": "Launchpadtechnologiesinc",
       "description": "engineer full stack javascript"
-    },
-    {
-      "title": "Remote Founding Engineer Backend",
-      "link": "https://web3.career/remote-founding-engineer-backend-lssolutions/151524",
-      "company_name": "LS Solutions",
-      "description": "founding engineer engineer founding member"
-    },
-    {
-      "title": "Client FullStack Engineer — IM Chat Platm Android Focus",
-      "link": "https://web3.career/client-full-stack-engineer-im-chat-platform-android-focus-binance/151384",
-      "company_name": "Binance",
-      "description": "android mobile engineer"
-    },
-    {
-      "title": "Director of Engineering USA",
-      "link": "https://web3.career/director-of-engineering-usa-nexus/151211",
-      "company_name": "Nexus",
-      "description": "executive blockchain kubernetes"
     }
   ]
 }

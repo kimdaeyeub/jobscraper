@@ -2,7 +2,7 @@
   "skill": "kubernetes",
   "label": "Kubernetes",
   "count": 19,
-  "updated_at": "2026-09-14T12:17:20.830194+00:00",
+  "updated_at": "2026-09-21T12:25:02.777746+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
@@ -29,82 +29,52 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Technical Lead GPU Infrastructure 100% Remote Worldwide",
-      "link": "https://web3.career/technical-lead-gpu-infrastructure-100-remote-worldwide-tetheroperationslimited/154012",
-      "company_name": "Tether Operations Limited",
-      "description": "gpu cuda ai"
+      "title": "Site Reliability Engineer LowLatency Trading Systems",
+      "link": "https://web3.career/site-reliability-engineer-low-latency-trading-systems-ondofinance/154395",
+      "company_name": "Ondo Finance",
+      "description": "engineer reliability aws"
     },
     {
-      "title": "Senior Software Engineer Blockchain",
-      "link": "https://web3.career/senior-software-engineer-blockchain-mastercard/154000",
-      "company_name": "Mastercard",
-      "description": "engineer senior dev"
+      "title": "QA Engineer Blockchain",
+      "link": "https://web3.career/qa-engineer-blockchain-binance/154296",
+      "company_name": "Binance",
+      "description": "engineer quality assurance blockchain"
     },
     {
-      "title": "AWS Data Engineer Data Platm",
-      "link": "https://web3.career/aws-data-engineer-data-platform-zinnia/153973",
-      "company_name": "Zinnia",
-      "description": "data science engineer aws"
+      "title": "DevOps Engineer Infra",
+      "link": "https://web3.career/devops-engineer-infra-binance/154292",
+      "company_name": "Binance",
+      "description": "devops engineer aws"
     },
     {
-      "title": "Staff Engineer Growth Verifications",
-      "link": "https://web3.career/staff-engineer-growth-verifications-kraken/153971",
-      "company_name": "Kraken",
-      "description": "growth engineer crypto"
+      "title": "DevOps Engineer Cloud Infra",
+      "link": "https://web3.career/devops-engineer-cloud-infra-binance/154291",
+      "company_name": "Binance",
+      "description": "cloud engineer engineer devops"
     },
     {
-      "title": "Inference Engineer",
-      "link": "https://web3.career/inference-engineer-hyperboliclabs/153960",
-      "company_name": "Hyperbolic Labs",
-      "description": "engineer kubernetes"
-    },
-    {
-      "title": "Manager Site Reliability Engineering",
-      "link": "https://web3.career/manager-site-reliability-engineering-layerzerolabs/153957",
-      "company_name": "Layerzerolabs",
-      "description": "reliability blockchain golang"
-    },
-    {
-      "title": "Senior Platm Engineer Foundations",
-      "link": "https://web3.career/senior-platform-engineer-foundations-chainalysis/153954",
-      "company_name": "Chainalysis",
-      "description": "engineer senior aws"
-    },
-    {
-      "title": "Senior Data Engineer",
-      "link": "https://web3.career/senior-data-engineer-alpaca/151988",
+      "title": "Software Engineer Core Trading",
+      "link": "https://web3.career/software-engineer-core-trading-alpaca/154258",
       "company_name": "Alpaca",
-      "description": "data science engineer senior"
+      "description": "engineer dev aws"
     },
     {
-      "title": "DevOps Engineer Intern Summer 2027",
-      "link": "https://web3.career/devops-engineer-intern-summer-2027-dvtrading/153947",
-      "company_name": "Dvtrading",
-      "description": "devops engineer intern"
-    },
-    {
-      "title": "AI Engineer Intern Summer 2027",
-      "link": "https://web3.career/ai-engineer-intern-summer-2027-dvtrading/153945",
-      "company_name": "Dvtrading",
-      "description": "ai engineer intern"
-    },
-    {
-      "title": "BLOCKCHAIN DEVELOPER CITI BANK",
-      "link": "https://web3.career/blockchain-developer-citi-bank-sidramtechnologies/153904",
-      "company_name": "SIDRAM TECHNOLOGIES",
-      "description": "finance non tech dev"
-    },
-    {
-      "title": "Crypto Intelligence Engineer Full Stack",
-      "link": "https://web3.career/crypto-intelligence-engineer-full-stack-elliptic/153900",
-      "company_name": "Elliptic",
+      "title": "Full Stack Engineer Web3",
+      "link": "https://web3.career/full-stack-engineer-web3-vaneck/154235",
+      "company_name": "VanEck",
       "description": "engineer full stack aws"
     },
     {
-      "title": "Sr. Software Development Engineer",
-      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
-      "company_name": "Zscaler",
-      "description": "engineer dev senior"
+      "title": "Senior Software Engineer",
+      "link": "https://web3.career/senior-software-engineer-akashnetwork/154205",
+      "company_name": "Overclock Labs",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "link": "https://web3.career/site-reliability-engineer-rain/154199",
+      "company_name": "Rain",
+      "description": "engineer reliability aws"
     },
     {
       "title": "Staff Software Development Engineer",
@@ -113,10 +83,40 @@
       "description": "engineer dev kubernetes"
     },
     {
+      "title": "Sr. Software Development Engineer",
+      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
+      "company_name": "Zscaler",
+      "description": "engineer dev senior"
+    },
+    {
+      "title": "AWS Data Engineer Data Platm",
+      "link": "https://web3.career/aws-data-engineer-data-platform-zinnia/153973",
+      "company_name": "Zinnia",
+      "description": "data science engineer aws"
+    },
+    {
       "title": "Site Reliability Engineer",
       "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
       "company_name": "Layerzerolabs",
       "description": "engineer reliability blockchain"
+    },
+    {
+      "title": "Crypto Production Engineer",
+      "link": "https://web3.career/crypto-production-engineer-jumpcrypto/89562",
+      "company_name": "Jumpcrypto",
+      "description": "engineer blockchain crypto"
+    },
+    {
+      "title": "SDE III Devops",
+      "link": "https://web3.career/sde-iii-devops-inmobi/100181",
+      "company_name": "Inmobi",
+      "description": "devops aws docker"
+    },
+    {
+      "title": "Machine Learning Engineer – Ad Sciences",
+      "link": "https://web3.career/machine-learning-engineer-ad-sciences-inmobi/154172",
+      "company_name": "Inmobi",
+      "description": "engineer machine learning ai"
     }
   ]
 }

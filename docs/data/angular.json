@@ -2,8 +2,14 @@
   "skill": "angular",
   "label": "Angular",
   "count": 15,
-  "updated_at": "2026-09-14T12:16:55.581333+00:00",
+  "updated_at": "2026-09-21T12:24:34.331097+00:00",
   "jobs": [
+    {
+      "title": "Software Engineer II Blockchain",
+      "link": "https://web3.career/software-engineer-ii-blockchain-mastercard/154233",
+      "company_name": "Mastercard",
+      "description": "engineer dev blockchain"
+    },
     {
       "title": "Senior Software Engineer Blockchain",
       "link": "https://web3.career/senior-software-engineer-blockchain-mastercard/154000",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/blockchain-developer-infosys/151605",
       "company_name": "Infosys",
       "description": "dev blockchain angular"
-    },
-    {
-      "title": "Blockchain Engineer",
-      "link": "https://web3.career/blockchain-engineer-infosys/151334",
-      "company_name": "Infosys",
-      "description": "engineer blockchain angular"
     }
   ]
 }

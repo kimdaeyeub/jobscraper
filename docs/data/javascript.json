@@ -2,7 +2,7 @@
   "skill": "javascript",
   "label": "JavaScript",
   "count": 17,
-  "updated_at": "2026-09-14T12:16:40.155073+00:00",
+  "updated_at": "2026-09-21T12:24:18.687722+00:00",
   "jobs": [
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
@@ -15,6 +15,66 @@
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
       "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
       "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "QA Engineer Blockchain",
+      "link": "https://web3.career/qa-engineer-blockchain-binance/154296",
+      "company_name": "Binance",
+      "description": "engineer quality assurance blockchain"
+    },
+    {
+      "title": "Android Engineer C++",
+      "link": "https://web3.career/android-engineer-c-binance/154294",
+      "company_name": "Binance",
+      "description": "c c plus plus android"
+    },
+    {
+      "title": "Software Engineer Ruby",
+      "link": "https://web3.career/software-engineer-ruby-tastylive/154247",
+      "company_name": "Tastylive",
+      "description": "engineer ruby dev"
+    },
+    {
+      "title": "Full Stack Engineer Web3",
+      "link": "https://web3.career/full-stack-engineer-web3-vaneck/154235",
+      "company_name": "VanEck",
+      "description": "engineer full stack aws"
+    },
+    {
+      "title": "Software Engineer II Blockchain",
+      "link": "https://web3.career/software-engineer-ii-blockchain-mastercard/154233",
+      "company_name": "Mastercard",
+      "description": "engineer dev blockchain"
+    },
+    {
+      "title": "Senior Business IT Engineer Atlassian Cloud",
+      "link": "https://web3.career/senior-business-it-engineer-atlassian-cloud-bitpanda/152342",
+      "company_name": "Bitpanda",
+      "description": "cloud engineer engineer senior"
+    },
+    {
+      "title": "FrontEnd Engineer Institutional",
+      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
+      "company_name": "Blockchain",
+      "description": "engineer front end blockchain"
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "link": "https://web3.career/quality-assurance-engineer-brave/46151",
+      "company_name": "Brave",
+      "description": "dev quality assurance javascript"
+    },
+    {
+      "title": "Solutions Engineer",
+      "link": "https://web3.career/solutions-engineer-bitgo/149986",
+      "company_name": "Bitgo",
+      "description": "engineer bitcoin blockchain"
+    },
+    {
+      "title": "Technical Lead GPU Infrastructure",
+      "link": "https://web3.career/technical-lead-gpu-infrastructure-tetheroperationslimited/154115",
+      "company_name": "Tether Operations Limited",
+      "description": "gpu cuda ai"
     },
     {
       "title": "Technical Lead GPU Infrastructure 100% Remote Worldwide",
@@ -41,70 +101,10 @@
       "description": "executive aws blockchain"
     },
     {
-      "title": "Senior Business IT Engineer Atlassian Cloud",
-      "link": "https://web3.career/senior-business-it-engineer-atlassian-cloud-bitpanda/152342",
-      "company_name": "Bitpanda",
-      "description": "cloud engineer engineer senior"
-    },
-    {
-      "title": "FrontEnd Engineer Institutional",
-      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
-      "company_name": "Blockchain",
-      "description": "engineer front end blockchain"
-    },
-    {
       "title": "Software Engineering Intern Waterloo University",
       "link": "https://web3.career/software-engineering-intern-waterloo-university-brave/153843",
       "company_name": "Brave",
       "description": "intern entry level dev"
-    },
-    {
-      "title": "Quality Assurance Engineer",
-      "link": "https://web3.career/quality-assurance-engineer-brave/46151",
-      "company_name": "Brave",
-      "description": "dev quality assurance javascript"
-    },
-    {
-      "title": "Solutions Engineer",
-      "link": "https://web3.career/solutions-engineer-bitgo/149986",
-      "company_name": "Bitgo",
-      "description": "engineer bitcoin blockchain"
-    },
-    {
-      "title": "Software Engineer II React Native Krak",
-      "link": "https://web3.career/software-engineer-ii-react-native-krak-kraken/153649",
-      "company_name": "Kraken",
-      "description": "engineer react native mobile"
-    },
-    {
-      "title": "DevOps Engineer 100% remote",
-      "link": "https://web3.career/devops-engineer-100-remote-tetheroperationslimited/153592",
-      "company_name": "Tether Operations Limited",
-      "description": "remote devops engineer"
-    },
-    {
-      "title": "Solutions Consultant New York",
-      "link": "https://web3.career/solutions-consultant-new-york-elliptic/153572",
-      "company_name": "Elliptic",
-      "description": "consulting blockchain crypto"
-    },
-    {
-      "title": "Senior Software Engineer: Social AI MetaMask",
-      "link": "https://web3.career/senior-software-engineer-social-ai-metamask-consensys/153555",
-      "company_name": "Consensys",
-      "description": "ai engineer senior"
-    },
-    {
-      "title": "Software Engineering Talent Community",
-      "link": "https://web3.career/software-engineering-talent-community-launchpadtechnologiesinc/153539",
-      "company_name": "Launchpadtechnologiesinc",
-      "description": "community manager non tech dev"
-    },
-    {
-      "title": "Graduate Frontend Engineer React TypeScript",
-      "link": "https://web3.career/graduate-frontend-engineer-react-typescript-bitpanda/152867",
-      "company_name": "Bitpanda",
-      "description": "typescript engineer front end"
     }
   ]
 }

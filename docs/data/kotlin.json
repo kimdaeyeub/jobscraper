@@ -2,19 +2,43 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-09-14T12:16:50.033406+00:00",
+  "updated_at": "2026-09-21T12:24:27.879643+00:00",
   "jobs": [
     {
-      "title": "Staff Software Engineer Data",
-      "link": "https://web3.career/staff-software-engineer-data-dune/153871",
+      "title": "Android Engineer",
+      "link": "https://web3.career/android-engineer-binance/154293",
+      "company_name": "Binance",
+      "description": "android mobile engineer"
+    },
+    {
+      "title": "Senior Software Engineer New Markets Japan JLPT N1 Fluent",
+      "link": "https://web3.career/senior-software-engineer-new-markets-japan-jlpt-n1-fluent-alpaca/154257",
+      "company_name": "Alpaca",
+      "description": "japan engineer senior"
+    },
+    {
+      "title": "Staff Software Engineer Curated Data",
+      "link": "https://web3.career/staff-software-engineer-curated-data-dune/154169",
       "company_name": "Dune",
-      "description": "engineer dev bitcoin"
+      "description": "engineer dev blockchain"
+    },
+    {
+      "title": "Staff Android Engineer",
+      "link": "https://web3.career/staff-android-engineer-polymarket/154158",
+      "company_name": "Polymarket",
+      "description": "android mobile engineer"
     },
     {
       "title": "Senior Product Security Engineer",
       "link": "https://web3.career/senior-product-security-engineer-blockchain/150772",
       "company_name": "Blockchain",
       "description": "engineer security senior"
+    },
+    {
+      "title": "Staff Software Engineer Data",
+      "link": "https://web3.career/staff-software-engineer-data-dune/153871",
+      "company_name": "Dune",
+      "description": "engineer dev bitcoin"
     },
     {
       "title": "Senior Android Engineer",
@@ -69,30 +93,6 @@
       "link": "https://web3.career/smart-contract-developer-easiio-inc/152188",
       "company_name": "Easiio, Inc",
       "description": "dev ethereum aws"
-    },
-    {
-      "title": "Blockchain Platm Engineer [211940]",
-      "link": "https://web3.career/blockchain-platform-engineer-211940-aquent/152185",
-      "company_name": "Aquent",
-      "description": "engineer blockchain erc 20"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-anviktechnologies/152184",
-      "company_name": "Anvik Technologies",
-      "description": "dev blockchain erc 20"
-    },
-    {
-      "title": "Blockchain Engineer Digital Assets Tokenization",
-      "link": "https://web3.career/blockchain-engineer-digital-assets-tokenization-mindlance/152048",
-      "company_name": "Mindlance",
-      "description": "tokenization finance non tech"
-    },
-    {
-      "title": "Android Engineer",
-      "link": "https://web3.career/android-engineer-bluecubeservices/103709",
-      "company_name": "Bluecubeservices",
-      "description": "android mobile engineer"
     }
   ]
 }

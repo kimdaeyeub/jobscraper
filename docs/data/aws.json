@@ -2,97 +2,97 @@
   "skill": "aws",
   "label": "AWS",
   "count": 15,
-  "updated_at": "2026-09-14T12:17:19.429041+00:00",
+  "updated_at": "2026-09-21T12:24:59.408286+00:00",
   "jobs": [
     {
-      "title": "Blockchain Engineer",
-      "link": "https://web3.career/blockchain-engineer-ondofinance/154004",
+      "title": "Site Reliability Engineer LowLatency Trading Systems",
+      "link": "https://web3.career/site-reliability-engineer-low-latency-trading-systems-ondofinance/154395",
       "company_name": "Ondo Finance",
-      "description": "engineer blockchain aws"
+      "description": "engineer reliability aws"
     },
     {
-      "title": "Founding Platm Engineer",
-      "link": "https://web3.career/founding-platform-engineer-arcade/154003",
-      "company_name": "Arcade",
-      "description": "founding member engineer remote"
+      "title": "IT Engineer",
+      "link": "https://web3.career/it-engineer-ondofinance/154366",
+      "company_name": "Ondo Finance",
+      "description": "engineer aws blockchain"
     },
     {
-      "title": "Software Engineer III",
-      "link": "https://web3.career/software-engineer-iii-zinnia/153974",
-      "company_name": "Zinnia",
-      "description": "engineer dev angular"
+      "title": "Senior Commercial Counsel",
+      "link": "https://web3.career/senior-commercial-counsel-ondofinance/154365",
+      "company_name": "Ondo Finance",
+      "description": "legal senior aws"
     },
     {
-      "title": "AWS Data Engineer Data Platm",
-      "link": "https://web3.career/aws-data-engineer-data-platform-zinnia/153973",
-      "company_name": "Zinnia",
-      "description": "data science engineer aws"
+      "title": "QA Engineer Blockchain",
+      "link": "https://web3.career/qa-engineer-blockchain-binance/154296",
+      "company_name": "Binance",
+      "description": "engineer quality assurance blockchain"
     },
     {
-      "title": "Senior Platm Engineer Foundations",
-      "link": "https://web3.career/senior-platform-engineer-foundations-chainalysis/153954",
-      "company_name": "Chainalysis",
-      "description": "engineer senior aws"
+      "title": "DevOps Engineer Infra",
+      "link": "https://web3.career/devops-engineer-infra-binance/154292",
+      "company_name": "Binance",
+      "description": "devops engineer aws"
     },
     {
-      "title": "Senior SOC Analyst Security Operations",
-      "link": "https://web3.career/senior-soc-analyst-security-operations-bitpanda/153640",
-      "company_name": "Bitpanda",
-      "description": "analyst operations security"
+      "title": "DevOps Engineer Cloud Infra",
+      "link": "https://web3.career/devops-engineer-cloud-infra-binance/154291",
+      "company_name": "Binance",
+      "description": "cloud engineer engineer devops"
     },
     {
-      "title": "DevOps Engineer Intern Summer 2027",
-      "link": "https://web3.career/devops-engineer-intern-summer-2027-dvtrading/153947",
-      "company_name": "Dvtrading",
-      "description": "devops engineer intern"
+      "title": "Development Lead",
+      "link": "https://web3.career/development-lead-binance/154290",
+      "company_name": "Binance",
+      "description": "lead aws java"
     },
     {
-      "title": "AI Engineer Intern Summer 2027",
-      "link": "https://web3.career/ai-engineer-intern-summer-2027-dvtrading/153945",
-      "company_name": "Dvtrading",
-      "description": "ai engineer intern"
+      "title": "Professional Services Consultant",
+      "link": "https://web3.career/professional-services-consultant-zscaler/154284",
+      "company_name": "Zscaler",
+      "description": "consulting aws remote"
     },
     {
-      "title": "Head of Blockchain Security",
-      "link": "https://web3.career/head-of-blockchain-security-bullish/153943",
-      "company_name": "Bullish",
-      "description": "executive security blockchain"
+      "title": "Director Professional Services Consulting",
+      "link": "https://web3.career/director-professional-services-consulting-zscaler/154283",
+      "company_name": "Zscaler",
+      "description": "consulting executive aws"
     },
     {
-      "title": "Head of Blockchain Security",
-      "link": "https://web3.career/head-of-blockchain-security-coindesk/153937",
-      "company_name": "CoinDesk",
-      "description": "executive security blockchain"
+      "title": "Staff Engineer I",
+      "link": "https://web3.career/staff-engineer-i-inmobi/151206",
+      "company_name": "Inmobi",
+      "description": "engineer aws react"
     },
     {
-      "title": "AI Security Engineer Offensive Defensive",
-      "link": "https://web3.career/ai-security-engineer-offensive-defensive-coins/153916",
-      "company_name": "Coins.ph",
-      "description": "ai engineer security"
+      "title": "DevSecOps Staff Engineer",
+      "link": "https://web3.career/devsecops-staff-engineer-grayscaleinvestments/154268",
+      "company_name": "Grayscaleinvestments",
+      "description": "engineer aws crypto"
     },
     {
-      "title": "Crypto Intelligence Engineer Full Stack",
-      "link": "https://web3.career/crypto-intelligence-engineer-full-stack-elliptic/153900",
-      "company_name": "Elliptic",
+      "title": "Software Engineer Core Trading",
+      "link": "https://web3.career/software-engineer-core-trading-alpaca/154258",
+      "company_name": "Alpaca",
+      "description": "engineer dev aws"
+    },
+    {
+      "title": "Business Development Manager APAC",
+      "link": "https://web3.career/business-development-manager-apac-ondofinance/154242",
+      "company_name": "Ondo Finance",
+      "description": "business development sales non tech"
+    },
+    {
+      "title": "Full Stack Engineer Web3",
+      "link": "https://web3.career/full-stack-engineer-web3-vaneck/154235",
+      "company_name": "VanEck",
       "description": "engineer full stack aws"
     },
     {
-      "title": "Sr. Production Engineer",
-      "link": "https://web3.career/sr-production-engineer-zscaler/150565",
-      "company_name": "Zscaler",
-      "description": "engineer senior aws"
-    },
-    {
-      "title": "Escalation Engineer DLP",
-      "link": "https://web3.career/escalation-engineer-dlp-zscaler/148637",
-      "company_name": "Zscaler",
-      "description": "engineer aws remote"
-    },
-    {
-      "title": "Senior Technical Success Manager",
-      "link": "https://web3.career/senior-technical-success-manager-zscaler/145190",
-      "company_name": "Zscaler",
-      "description": "sales non tech senior"
+      "title": "Software Engineer II Blockchain",
+      "link": "https://web3.career/software-engineer-ii-blockchain-mastercard/154233",
+      "company_name": "Mastercard",
+      "description": "engineer dev blockchain"
     }
   ]
 }

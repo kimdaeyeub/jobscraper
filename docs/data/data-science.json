@@ -2,7 +2,7 @@
   "skill": "data-science",
   "label": "Data Science",
   "count": 19,
-  "updated_at": "2026-09-14T12:17:25.622537+00:00",
+  "updated_at": "2026-09-21T12:25:07.018325+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
@@ -29,34 +29,34 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "AWS Data Engineer Data Platm",
-      "link": "https://web3.career/aws-data-engineer-data-platform-zinnia/153973",
-      "company_name": "Zinnia",
-      "description": "data science engineer aws"
+      "title": "Data Analyst Team Lead",
+      "link": "https://web3.career/data-analyst-team-lead-binance/154287",
+      "company_name": "Binance",
+      "description": "analyst data science lead"
     },
     {
-      "title": "Data Analyst Intern Finance January to May 2027",
-      "link": "https://web3.career/data-analyst-intern-finance-january-to-may-2027-coinhako/153956",
-      "company_name": "Coinhako",
-      "description": "analyst data science finance"
+      "title": "Financial Data Engineer AI LLM",
+      "link": "https://web3.career/financial-data-engineer-ai-llm-binance/154243",
+      "company_name": "Binance",
+      "description": "data science engineer ai"
     },
     {
-      "title": "Senior Data Engineer",
-      "link": "https://web3.career/senior-data-engineer-alpaca/151988",
-      "company_name": "Alpaca",
-      "description": "data science engineer senior"
-    },
-    {
-      "title": "Staff Data Scientist Growth Marketing $400k $500k",
-      "link": "https://web3.career/staff-data-scientist-growth-marketing-400k-500k-batoncorporation/153913",
-      "company_name": "Baton Corporation",
-      "description": "growth scientist data science"
+      "title": "Senior Financial Data Engineer",
+      "link": "https://web3.career/senior-financial-data-engineer-binance/154194",
+      "company_name": "Binance",
+      "description": "data science engineer finance"
     },
     {
       "title": "Data Engineer",
       "link": "https://web3.career/data-engineer-bcbgroup/140602",
       "company_name": "Bcbgroup",
       "description": "data science engineer crypto"
+    },
+    {
+      "title": "AWS Data Engineer Data Platm",
+      "link": "https://web3.career/aws-data-engineer-data-platform-zinnia/153973",
+      "company_name": "Zinnia",
+      "description": "data science engineer aws"
     },
     {
       "title": "Senior Data Engineer",
@@ -89,10 +89,22 @@
       "description": "scientist analyst data science"
     },
     {
+      "title": "Staff Data Scientist",
+      "link": "https://web3.career/staff-data-scientist-chainalysis/154166",
+      "company_name": "Chainalysis",
+      "description": "scientist data science blockchain"
+    },
+    {
       "title": "Data Analyst Marketing",
       "link": "https://web3.career/data-analyst-marketing-bluecubeservices/140151",
       "company_name": "Bluecubeservices",
       "description": "analyst data science marketing"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "link": "https://web3.career/senior-data-engineer-alpaca/151988",
+      "company_name": "Alpaca",
+      "description": "data science engineer senior"
     },
     {
       "title": "Senior Data Engineer",
@@ -101,22 +113,10 @@
       "description": "data science engineer senior"
     },
     {
-      "title": "Finance AI Data Scientist",
-      "link": "https://web3.career/finance-ai-data-scientist-binance/153839",
-      "company_name": "Binance",
-      "description": "scientist ai data science"
-    },
-    {
-      "title": "Data Engineer III",
-      "link": "https://web3.career/data-engineer-iii-zinnia/93917",
-      "company_name": "Zinnia",
-      "description": "data science engineer aws"
-    },
-    {
-      "title": "Senior Data Analyst",
-      "link": "https://web3.career/senior-data-analyst-falconx/153647",
-      "company_name": "Falconx",
-      "description": "analyst data science senior"
+      "title": "Data Analyst Intern Finance January to May 2027",
+      "link": "https://web3.career/data-analyst-intern-finance-january-to-may-2027-coinhako/153956",
+      "company_name": "Coinhako",
+      "description": "analyst data science finance"
     }
   ]
 }

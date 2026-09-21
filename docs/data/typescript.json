@@ -2,7 +2,7 @@
   "skill": "typescript",
   "label": "TypeScript",
   "count": 21,
-  "updated_at": "2026-09-14T12:16:41.063095+00:00",
+  "updated_at": "2026-09-21T12:24:19.308142+00:00",
   "jobs": [
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
@@ -41,58 +41,28 @@
       "company_name": "Climatiq"
     },
     {
-      "title": "Senior Technical Product Manager",
-      "link": "https://web3.career/senior-technical-product-manager-therawdenimbarlimited/154039",
-      "company_name": "The Raw Denim Bar Limited",
-      "description": "product manager non tech senior"
+      "title": "Head of Onchain Engineering",
+      "link": "https://web3.career/head-of-onchain-engineering-mesh/154330",
+      "company_name": "Mesh",
+      "description": "executive blockchain crypto"
     },
     {
-      "title": "Blockchain Engineer",
-      "link": "https://web3.career/blockchain-engineer-ondofinance/154004",
-      "company_name": "Ondo Finance",
-      "description": "engineer blockchain aws"
-    },
-    {
-      "title": "Founding Platm Engineer",
-      "link": "https://web3.career/founding-platform-engineer-arcade/154003",
-      "company_name": "Arcade",
-      "description": "founding member engineer remote"
-    },
-    {
-      "title": "Senior Software Engineer Blockchain",
-      "link": "https://web3.career/senior-software-engineer-blockchain-mastercard/154000",
-      "company_name": "Mastercard",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Staff Engineer Growth Verifications",
-      "link": "https://web3.career/staff-engineer-growth-verifications-kraken/153971",
-      "company_name": "Kraken",
-      "description": "growth engineer crypto"
-    },
-    {
-      "title": "Manager Site Reliability Engineering",
-      "link": "https://web3.career/manager-site-reliability-engineering-layerzerolabs/153957",
-      "company_name": "Layerzerolabs",
-      "description": "reliability blockchain golang"
-    },
-    {
-      "title": "Founding Senior Messenger Engineer — React Native Go RealTime Systems",
-      "link": "https://web3.career/founding-senior-messenger-engineer-react-native-go-real-time-systems-ihsan/153908",
-      "company_name": "Ihsan",
-      "description": "founding member engineer golang"
-    },
-    {
-      "title": "Crypto Intelligence Engineer Full Stack",
-      "link": "https://web3.career/crypto-intelligence-engineer-full-stack-elliptic/153900",
-      "company_name": "Elliptic",
+      "title": "Full Stack Engineer Web3",
+      "link": "https://web3.career/full-stack-engineer-web3-vaneck/154235",
+      "company_name": "VanEck",
       "description": "engineer full stack aws"
     },
     {
-      "title": "Founding Senior Fraud Risk Engineer — Stablecoin Neobank",
-      "link": "https://web3.career/founding-senior-fraud-risk-engineer-stablecoin-neobank-ihsan/153884",
-      "company_name": "Ihsan",
-      "description": "founding member engineer security"
+      "title": "Software Engineer II Blockchain",
+      "link": "https://web3.career/software-engineer-ii-blockchain-mastercard/154233",
+      "company_name": "Mastercard",
+      "description": "engineer dev blockchain"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "link": "https://web3.career/site-reliability-engineer-rain/154199",
+      "company_name": "Rain",
+      "description": "engineer reliability aws"
     },
     {
       "title": "Data Engineer",
@@ -101,16 +71,22 @@
       "description": "data science engineer crypto"
     },
     {
+      "title": "Forward Deployed Engineer",
+      "link": "https://web3.career/forward-deployed-engineer-matterlabs/154180",
+      "company_name": "Matter Labs",
+      "description": "engineer blockchain crypto"
+    },
+    {
       "title": "Backend Engineer",
       "link": "https://web3.career/backend-engineer-layerzerolabs/73714",
       "company_name": "Layerzerolabs",
       "description": "backend engineer aws"
     },
     {
-      "title": "Director Engineering Business Systems",
-      "link": "https://web3.career/director-engineering-business-systems-chainalysis/153858",
-      "company_name": "Chainalysis",
-      "description": "executive aws blockchain"
+      "title": "Engineering Operations Specialist Consumer",
+      "link": "https://web3.career/engineering-operations-specialist-consumer-kraken/154174",
+      "company_name": "Kraken",
+      "description": "operations crypto typescript"
     },
     {
       "title": "Senior Fullstack Engineer Operational Automations",
@@ -129,6 +105,30 @@
       "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
       "company_name": "Blockchain",
       "description": "engineer front end blockchain"
+    },
+    {
+      "title": "Staff Software Engineer Cloud Infrastructure Systems Engineering",
+      "link": "https://web3.career/staff-software-engineer-cloud-infrastructure-systems-engineering-taxbit/154148",
+      "company_name": "Taxbit",
+      "description": "cloud engineer engineer infrastructure"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "link": "https://web3.career/forward-deployed-engineer-taxbit/140543",
+      "company_name": "Taxbit",
+      "description": "engineer aws bitcoin"
+    },
+    {
+      "title": "Agentic AI Engineer",
+      "link": "https://web3.career/agentic-ai-engineer-taxbit/151183",
+      "company_name": "Taxbit",
+      "description": "ai engineer aws"
+    },
+    {
+      "title": "Solutions Engineer",
+      "link": "https://web3.career/solutions-engineer-bitgo/149986",
+      "company_name": "Bitgo",
+      "description": "engineer bitcoin blockchain"
     }
   ]
 }

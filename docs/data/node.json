@@ -2,8 +2,68 @@
   "skill": "node",
   "label": "Node.js",
   "count": 15,
-  "updated_at": "2026-09-14T12:16:56.249442+00:00",
+  "updated_at": "2026-09-21T12:24:34.884243+00:00",
   "jobs": [
+    {
+      "title": "Blockchain Consultant",
+      "link": "https://web3.career/blockchain-consultant-elementtechnologies/154331",
+      "company_name": "Element Technologies",
+      "description": "consulting blockchain erc 20"
+    },
+    {
+      "title": "Head of Onchain Engineering",
+      "link": "https://web3.career/head-of-onchain-engineering-mesh/154330",
+      "company_name": "Mesh",
+      "description": "executive blockchain crypto"
+    },
+    {
+      "title": "Development Lead",
+      "link": "https://web3.career/development-lead-binance/154290",
+      "company_name": "Binance",
+      "description": "lead aws java"
+    },
+    {
+      "title": "Full Stack Engineer Web3",
+      "link": "https://web3.career/full-stack-engineer-web3-vaneck/154235",
+      "company_name": "VanEck",
+      "description": "engineer full stack aws"
+    },
+    {
+      "title": "Blockchain Lead",
+      "link": "https://web3.career/blockchain-lead-irissoftwareinc/154234",
+      "company_name": "Iris Software Inc.",
+      "description": "lead blockchain erc 20"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "link": "https://web3.career/senior-software-engineer-akashnetwork/154205",
+      "company_name": "Overclock Labs",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "link": "https://web3.career/forward-deployed-engineer-matterlabs/154180",
+      "company_name": "Matter Labs",
+      "description": "engineer blockchain crypto"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
+      "company_name": "Layerzerolabs",
+      "description": "engineer reliability blockchain"
+    },
+    {
+      "title": "Senior Staff Software Engineer Moonpay Enterprise",
+      "link": "https://web3.career/senior-staff-software-engineer-moonpay-enterprise-moonpay/154144",
+      "company_name": "MoonPay",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Technical Lead GPU Infrastructure",
+      "link": "https://web3.career/technical-lead-gpu-infrastructure-tetheroperationslimited/154115",
+      "company_name": "Tether Operations Limited",
+      "description": "gpu cuda ai"
+    },
     {
       "title": "Technical Lead GPU Infrastructure 100% Remote Worldwide",
       "link": "https://web3.career/technical-lead-gpu-infrastructure-100-remote-worldwide-tetheroperationslimited/154012",
@@ -33,66 +93,6 @@
       "link": "https://web3.career/manager-site-reliability-engineering-layerzerolabs/153957",
       "company_name": "Layerzerolabs",
       "description": "reliability blockchain golang"
-    },
-    {
-      "title": "BLOCKCHAIN DEVELOPER CITI BANK",
-      "link": "https://web3.career/blockchain-developer-citi-bank-sidramtechnologies/153904",
-      "company_name": "SIDRAM TECHNOLOGIES",
-      "description": "finance non tech dev"
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
-      "company_name": "Layerzerolabs",
-      "description": "engineer reliability blockchain"
-    },
-    {
-      "title": "Director Engineering Business Systems",
-      "link": "https://web3.career/director-engineering-business-systems-chainalysis/153858",
-      "company_name": "Chainalysis",
-      "description": "executive aws blockchain"
-    },
-    {
-      "title": "Senior Software Engineer Global Banking Markets Digital Assets Technology Multichain Tokenization",
-      "link": "https://web3.career/senior-software-engineer-global-banking-markets-digital-assets-technology-multi-chain-tokenization-goldmansachs/153836",
-      "company_name": "Goldman Sachs",
-      "description": "tokenization finance non tech"
-    },
-    {
-      "title": "Senior Protocol Engineer",
-      "link": "https://web3.career/senior-protocol-engineer-globalsettlementnetwork/153834",
-      "company_name": "Global Settlement Network",
-      "description": "protocol engineer senior"
-    },
-    {
-      "title": "Senior Blockchain Engineer",
-      "link": "https://web3.career/senior-blockchain-engineer-brightvisiontechnologies/153802",
-      "company_name": "Bright Vision Technologies",
-      "description": "engineer senior blockchain"
-    },
-    {
-      "title": "ForwardDeployed Engineer",
-      "link": "https://web3.career/forward-deployed-engineer-josephanthonygroup/153670",
-      "company_name": "Joseph Anthony Group",
-      "description": "engineer blockchain crypto"
-    },
-    {
-      "title": "Backend Engineer EVM",
-      "link": "https://web3.career/backend-engineer-evm-trojantrading/153621",
-      "company_name": "Trojan Trading",
-      "description": "evm ethereum backend"
-    },
-    {
-      "title": "Head of Product Engineering",
-      "link": "https://web3.career/head-of-product-engineering-reflect/153620",
-      "company_name": "Reflect",
-      "description": "executive product manager non tech"
-    },
-    {
-      "title": "Platm Engineer Core Systems",
-      "link": "https://web3.career/platform-engineer-core-systems-temporal/153618",
-      "company_name": "Temporal",
-      "description": "engineer blockchain crypto"
     }
   ]
 }
