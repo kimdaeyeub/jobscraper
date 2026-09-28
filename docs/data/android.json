@@ -1,104 +1,14 @@
 {
   "skill": "android",
   "label": "Android",
-  "count": 16,
-  "updated_at": "2026-09-21T12:25:07.575001+00:00",
+  "count": 1,
+  "updated_at": "2026-09-28T13:22:24.772630+00:00",
   "jobs": [
     {
       "title": "Kotlin Developer (Android / Multiplatform) (m/w/d)",
       "description": "Wir sind apprime, eine innovative Agentur für mobile Anwendungen und plattformübergreifende Lösungen. Unser Fokus liegt auf hochwertiger Softwareentwicklung mit modernsten Technologien, agilen Methoden und höchstem Qualitätsanspruch. Zur Verstärkung unseres Entwicklerteams suchen wir ab sofort einen erfahrenen Senior Kotlin Developer (Android & Multiplatform). Wir suchen dich, wenn du in Berlin wohnst, hierher ziehen möchtest oder in...",
       "link": "https://berlinstartupjobs.com/engineering/kotlin-developer-android-multiplatform-m-w-d-apprime-gmbh/",
       "company_name": "apprime"
-    },
-    {
-      "title": "Android Engineer C++",
-      "link": "https://web3.career/android-engineer-c-binance/154294",
-      "company_name": "Binance",
-      "description": "c c plus plus android"
-    },
-    {
-      "title": "Android Engineer",
-      "link": "https://web3.career/android-engineer-binance/154293",
-      "company_name": "Binance",
-      "description": "android mobile engineer"
-    },
-    {
-      "title": "Engineering Director Mobile iOS Android",
-      "link": "https://web3.career/engineering-director-mobile-ios-android-okx/150697",
-      "company_name": "Okx",
-      "description": "android mobile executive"
-    },
-    {
-      "title": "Staff Android Engineer",
-      "link": "https://web3.career/staff-android-engineer-polymarket/154158",
-      "company_name": "Polymarket",
-      "description": "android mobile engineer"
-    },
-    {
-      "title": "Founding Senior Messenger Engineer — React Native Go RealTime Systems",
-      "link": "https://web3.career/founding-senior-messenger-engineer-react-native-go-real-time-systems-ihsan/153908",
-      "company_name": "Ihsan",
-      "description": "founding member engineer golang"
-    },
-    {
-      "title": "Senior Android Engineer",
-      "link": "https://web3.career/senior-android-engineer-polymarket/153641",
-      "company_name": "Polymarket",
-      "description": "android mobile engineer"
-    },
-    {
-      "title": "Android Engineer",
-      "link": "https://web3.career/android-engineer-bluecubeservices/103709",
-      "company_name": "Bluecubeservices",
-      "description": "android mobile engineer"
-    },
-    {
-      "title": "Android Engineer Camera Video Image Recognition",
-      "link": "https://web3.career/android-engineer-camera-video-image-recognition-binance/151389",
-      "company_name": "Binance",
-      "description": "android mobile engineer"
-    },
-    {
-      "title": "Client FullStack Engineer — IM Chat Platm Android Focus",
-      "link": "https://web3.career/client-full-stack-engineer-im-chat-platform-android-focus-binance/151384",
-      "company_name": "Binance",
-      "description": "android mobile engineer"
-    },
-    {
-      "title": "Binance Accelerator Program APP iOS Android Engineer Fresh Grad",
-      "link": "https://web3.career/binance-accelerator-program-app-ios-android-engineer-fresh-grad-binance/150333",
-      "company_name": "Binance",
-      "description": "android mobile engineer"
-    },
-    {
-      "title": "Lead Android Engineer",
-      "link": "https://web3.career/lead-android-engineer-polymarket/149544",
-      "company_name": "Polymarket",
-      "description": "android mobile engineer"
-    },
-    {
-      "title": "Android Engineer Kotlin Earn Experience",
-      "link": "https://web3.career/android-engineer-kotlin-earn-experience-bitpanda/142185",
-      "company_name": "Bitpanda",
-      "description": "kotlin android mobile"
-    },
-    {
-      "title": "Senior Staff Android Developer",
-      "link": "https://web3.career/senior-staff-android-developer-okx/148343",
-      "company_name": "Okx",
-      "description": "android mobile dev"
-    },
-    {
-      "title": "Android Engineer",
-      "link": "https://web3.career/android-engineer-rain/147940",
-      "company_name": "Rain",
-      "description": "android mobile engineer"
-    },
-    {
-      "title": "Android Engineer SDKs Contract Spain or US",
-      "link": "https://web3.career/android-engineer-sdks-contract-spain-or-us-crossmint/147243",
-      "company_name": "Crossmint",
-      "description": "spain android mobile"
     }
   ]
 }

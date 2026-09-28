@@ -1,8 +1,8 @@
 {
   "skill": "docker",
   "label": "Docker",
-  "count": 19,
-  "updated_at": "2026-09-21T12:25:02.243396+00:00",
+  "count": 4,
+  "updated_at": "2026-09-28T13:22:15.102650+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
@@ -27,96 +27,6 @@
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
       "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
       "company_name": "DATATRONiQ"
-    },
-    {
-      "title": "QA Engineer Blockchain",
-      "link": "https://web3.career/qa-engineer-blockchain-binance/154296",
-      "company_name": "Binance",
-      "description": "engineer quality assurance blockchain"
-    },
-    {
-      "title": "DevOps Engineer Infra",
-      "link": "https://web3.career/devops-engineer-infra-binance/154292",
-      "company_name": "Binance",
-      "description": "devops engineer aws"
-    },
-    {
-      "title": "DevOps Engineer Cloud Infra",
-      "link": "https://web3.career/devops-engineer-cloud-infra-binance/154291",
-      "company_name": "Binance",
-      "description": "cloud engineer engineer devops"
-    },
-    {
-      "title": "DevSecOps Staff Engineer",
-      "link": "https://web3.career/devsecops-staff-engineer-grayscaleinvestments/154268",
-      "company_name": "Grayscaleinvestments",
-      "description": "engineer aws crypto"
-    },
-    {
-      "title": "Software Engineer Core Trading",
-      "link": "https://web3.career/software-engineer-core-trading-alpaca/154258",
-      "company_name": "Alpaca",
-      "description": "engineer dev aws"
-    },
-    {
-      "title": "Full Stack Engineer Web3",
-      "link": "https://web3.career/full-stack-engineer-web3-vaneck/154235",
-      "company_name": "VanEck",
-      "description": "engineer full stack aws"
-    },
-    {
-      "title": "Software Engineer II Blockchain",
-      "link": "https://web3.career/software-engineer-ii-blockchain-mastercard/154233",
-      "company_name": "Mastercard",
-      "description": "engineer dev blockchain"
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "link": "https://web3.career/site-reliability-engineer-rain/154199",
-      "company_name": "Rain",
-      "description": "engineer reliability aws"
-    },
-    {
-      "title": "Sr. Software Development Engineer",
-      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
-      "company_name": "Zscaler",
-      "description": "engineer dev senior"
-    },
-    {
-      "title": "AWS Data Engineer Data Platm",
-      "link": "https://web3.career/aws-data-engineer-data-platform-zinnia/153973",
-      "company_name": "Zinnia",
-      "description": "data science engineer aws"
-    },
-    {
-      "title": "SDE III Devops",
-      "link": "https://web3.career/sde-iii-devops-inmobi/100181",
-      "company_name": "Inmobi",
-      "description": "devops aws docker"
-    },
-    {
-      "title": "Team Lead Engineer Crypto",
-      "link": "https://web3.career/team-lead-engineer-crypto-alpaca/154157",
-      "company_name": "Alpaca",
-      "description": "engineer lead aws"
-    },
-    {
-      "title": "Software Engineer Market Data",
-      "link": "https://web3.career/software-engineer-market-data-alpaca/152866",
-      "company_name": "Alpaca",
-      "description": "engineer dev aws"
-    },
-    {
-      "title": "Senior Software Engineer Trading",
-      "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior Fullstack Engineer Operational Automations",
-      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
-      "company_name": "Alpaca",
-      "description": "engineer full stack operations"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "skill": "kubernetes",
   "label": "Kubernetes",
-  "count": 19,
-  "updated_at": "2026-09-21T12:25:02.777746+00:00",
+  "count": 4,
+  "updated_at": "2026-09-28T13:22:15.739615+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
@@ -27,96 +27,6 @@
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
       "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
       "company_name": "DATATRONiQ"
-    },
-    {
-      "title": "Site Reliability Engineer LowLatency Trading Systems",
-      "link": "https://web3.career/site-reliability-engineer-low-latency-trading-systems-ondofinance/154395",
-      "company_name": "Ondo Finance",
-      "description": "engineer reliability aws"
-    },
-    {
-      "title": "QA Engineer Blockchain",
-      "link": "https://web3.career/qa-engineer-blockchain-binance/154296",
-      "company_name": "Binance",
-      "description": "engineer quality assurance blockchain"
-    },
-    {
-      "title": "DevOps Engineer Infra",
-      "link": "https://web3.career/devops-engineer-infra-binance/154292",
-      "company_name": "Binance",
-      "description": "devops engineer aws"
-    },
-    {
-      "title": "DevOps Engineer Cloud Infra",
-      "link": "https://web3.career/devops-engineer-cloud-infra-binance/154291",
-      "company_name": "Binance",
-      "description": "cloud engineer engineer devops"
-    },
-    {
-      "title": "Software Engineer Core Trading",
-      "link": "https://web3.career/software-engineer-core-trading-alpaca/154258",
-      "company_name": "Alpaca",
-      "description": "engineer dev aws"
-    },
-    {
-      "title": "Full Stack Engineer Web3",
-      "link": "https://web3.career/full-stack-engineer-web3-vaneck/154235",
-      "company_name": "VanEck",
-      "description": "engineer full stack aws"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "link": "https://web3.career/senior-software-engineer-akashnetwork/154205",
-      "company_name": "Overclock Labs",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "link": "https://web3.career/site-reliability-engineer-rain/154199",
-      "company_name": "Rain",
-      "description": "engineer reliability aws"
-    },
-    {
-      "title": "Staff Software Development Engineer",
-      "link": "https://web3.career/staff-software-development-engineer-zscaler/104108",
-      "company_name": "Zscaler",
-      "description": "engineer dev kubernetes"
-    },
-    {
-      "title": "Sr. Software Development Engineer",
-      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
-      "company_name": "Zscaler",
-      "description": "engineer dev senior"
-    },
-    {
-      "title": "AWS Data Engineer Data Platm",
-      "link": "https://web3.career/aws-data-engineer-data-platform-zinnia/153973",
-      "company_name": "Zinnia",
-      "description": "data science engineer aws"
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
-      "company_name": "Layerzerolabs",
-      "description": "engineer reliability blockchain"
-    },
-    {
-      "title": "Crypto Production Engineer",
-      "link": "https://web3.career/crypto-production-engineer-jumpcrypto/89562",
-      "company_name": "Jumpcrypto",
-      "description": "engineer blockchain crypto"
-    },
-    {
-      "title": "SDE III Devops",
-      "link": "https://web3.career/sde-iii-devops-inmobi/100181",
-      "company_name": "Inmobi",
-      "description": "devops aws docker"
-    },
-    {
-      "title": "Machine Learning Engineer – Ad Sciences",
-      "link": "https://web3.career/machine-learning-engineer-ad-sciences-inmobi/154172",
-      "company_name": "Inmobi",
-      "description": "engineer machine learning ai"
     }
   ]
 }

@@ -1,104 +1,14 @@
 {
   "skill": "java",
   "label": "Java",
-  "count": 16,
-  "updated_at": "2026-09-21T12:24:19.809903+00:00",
+  "count": 1,
+  "updated_at": "2026-09-28T13:21:41.050933+00:00",
   "jobs": [
     {
       "title": "Senior Fullstack Developer with Product Mindset",
       "description": "We’re looking for a Developer with 6+ years of experience building complex products. Projects range from small to large across the whole stack (Java, TypeScript, React, CSS). This is a “remote-first hybrid position” based in Berlin: You can work remotely a lot, but should be based in Berlin or nearby. It’s a full-time position,  after...",
       "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-with-product-mindset-small-improvements/",
       "company_name": "Small Improvements"
-    },
-    {
-      "title": "Head of Onchain Engineering",
-      "link": "https://web3.career/head-of-onchain-engineering-mesh/154330",
-      "company_name": "Mesh",
-      "description": "executive blockchain crypto"
-    },
-    {
-      "title": "QA Engineer Blockchain",
-      "link": "https://web3.career/qa-engineer-blockchain-binance/154296",
-      "company_name": "Binance",
-      "description": "engineer quality assurance blockchain"
-    },
-    {
-      "title": "Engineering Manager QA",
-      "link": "https://web3.career/engineering-manager-qa-binance/154295",
-      "company_name": "Binance",
-      "description": "engineering manager engineer quality assurance"
-    },
-    {
-      "title": "Android Engineer",
-      "link": "https://web3.career/android-engineer-binance/154293",
-      "company_name": "Binance",
-      "description": "android mobile engineer"
-    },
-    {
-      "title": "DevOps Engineer Infra",
-      "link": "https://web3.career/devops-engineer-infra-binance/154292",
-      "company_name": "Binance",
-      "description": "devops engineer aws"
-    },
-    {
-      "title": "DevOps Engineer Cloud Infra",
-      "link": "https://web3.career/devops-engineer-cloud-infra-binance/154291",
-      "company_name": "Binance",
-      "description": "cloud engineer engineer devops"
-    },
-    {
-      "title": "Development Lead",
-      "link": "https://web3.career/development-lead-binance/154290",
-      "company_name": "Binance",
-      "description": "lead aws java"
-    },
-    {
-      "title": "Backend Engineer Trading",
-      "link": "https://web3.career/backend-engineer-trading-binance/154289",
-      "company_name": "Binance",
-      "description": "backend engineer java"
-    },
-    {
-      "title": "Backend Engineer Spot",
-      "link": "https://web3.career/backend-engineer-spot-binance/154288",
-      "company_name": "Binance",
-      "description": "backend engineer blockchain"
-    },
-    {
-      "title": "Data Analyst Team Lead",
-      "link": "https://web3.career/data-analyst-team-lead-binance/154287",
-      "company_name": "Binance",
-      "description": "analyst data science lead"
-    },
-    {
-      "title": "Senior Trading Systems Developer",
-      "link": "https://web3.career/senior-trading-systems-developer-falconx/154266",
-      "company_name": "Falconx",
-      "description": "dev senior crypto"
-    },
-    {
-      "title": "Senior Software Engineer New Markets Japan JLPT N1 Fluent",
-      "link": "https://web3.career/senior-software-engineer-new-markets-japan-jlpt-n1-fluent-alpaca/154257",
-      "company_name": "Alpaca",
-      "description": "japan engineer senior"
-    },
-    {
-      "title": "Software Engineer Ruby",
-      "link": "https://web3.career/software-engineer-ruby-tastylive/154247",
-      "company_name": "Tastylive",
-      "description": "engineer ruby dev"
-    },
-    {
-      "title": "Financial Data Engineer AI LLM",
-      "link": "https://web3.career/financial-data-engineer-ai-llm-binance/154243",
-      "company_name": "Binance",
-      "description": "data science engineer ai"
-    },
-    {
-      "title": "Software Engineer II Blockchain",
-      "link": "https://web3.career/software-engineer-ii-blockchain-mastercard/154233",
-      "company_name": "Mastercard",
-      "description": "engineer dev blockchain"
     }
   ]
 }

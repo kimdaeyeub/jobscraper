@@ -1,8 +1,8 @@
 {
   "skill": "react",
   "label": "React",
-  "count": 18,
-  "updated_at": "2026-09-21T12:24:28.549591+00:00",
+  "count": 3,
+  "updated_at": "2026-09-28T13:21:49.185144+00:00",
   "jobs": [
     {
       "title": "(Senior) Full-Stack Engineer (AI-Assisted 3D / CAD / BIM Development)",
@@ -21,96 +21,6 @@
       "description": "We’re looking for a Developer with 6+ years of experience building complex products. Projects range from small to large across the whole stack (Java, TypeScript, React, CSS). This is a “remote-first hybrid position” based in Berlin: You can work remotely a lot, but should be based in Berlin or nearby. It’s a full-time position,  after...",
       "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-with-product-mindset-small-improvements/",
       "company_name": "Small Improvements"
-    },
-    {
-      "title": "Blockchain Consultant",
-      "link": "https://web3.career/blockchain-consultant-elementtechnologies/154331",
-      "company_name": "Element Technologies",
-      "description": "consulting blockchain erc 20"
-    },
-    {
-      "title": "Head of Onchain Engineering",
-      "link": "https://web3.career/head-of-onchain-engineering-mesh/154330",
-      "company_name": "Mesh",
-      "description": "executive blockchain crypto"
-    },
-    {
-      "title": "Staff Engineer I",
-      "link": "https://web3.career/staff-engineer-i-inmobi/151206",
-      "company_name": "Inmobi",
-      "description": "engineer aws react"
-    },
-    {
-      "title": "Full Stack Engineer Web3",
-      "link": "https://web3.career/full-stack-engineer-web3-vaneck/154235",
-      "company_name": "VanEck",
-      "description": "engineer full stack aws"
-    },
-    {
-      "title": "Blockchain Lead",
-      "link": "https://web3.career/blockchain-lead-irissoftwareinc/154234",
-      "company_name": "Iris Software Inc.",
-      "description": "lead blockchain erc 20"
-    },
-    {
-      "title": "Software Engineer II Blockchain",
-      "link": "https://web3.career/software-engineer-ii-blockchain-mastercard/154233",
-      "company_name": "Mastercard",
-      "description": "engineer dev blockchain"
-    },
-    {
-      "title": "Engineering Director Mobile Web3",
-      "link": "https://web3.career/engineering-director-mobile-web3-okx/150698",
-      "company_name": "Okx",
-      "description": "executive mobile blockchain"
-    },
-    {
-      "title": "Engineering Director Frontend Business Lead",
-      "link": "https://web3.career/engineering-director-frontend-business-lead-okx/147552",
-      "company_name": "Okx",
-      "description": "executive front end lead"
-    },
-    {
-      "title": "Engineering Director Frontend",
-      "link": "https://web3.career/engineering-director-frontend-okx/147551",
-      "company_name": "Okx",
-      "description": "executive front end blockchain"
-    },
-    {
-      "title": "Senior Software Engineer New Markets",
-      "link": "https://web3.career/senior-software-engineer-new-markets-alpaca/152338",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior Fullstack Engineer Operational Automations",
-      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
-      "company_name": "Alpaca",
-      "description": "engineer full stack operations"
-    },
-    {
-      "title": "FrontEnd Engineer Institutional",
-      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
-      "company_name": "Blockchain",
-      "description": "engineer front end blockchain"
-    },
-    {
-      "title": "Forward Deployed Engineer",
-      "link": "https://web3.career/forward-deployed-engineer-taxbit/140543",
-      "company_name": "Taxbit",
-      "description": "engineer aws bitcoin"
-    },
-    {
-      "title": "Technical Lead GPU Infrastructure",
-      "link": "https://web3.career/technical-lead-gpu-infrastructure-tetheroperationslimited/154115",
-      "company_name": "Tether Operations Limited",
-      "description": "gpu cuda ai"
-    },
-    {
-      "title": "Social Media and Community Manager",
-      "link": "https://web3.career/social-media-and-community-manager-koinly/151770",
-      "company_name": "Koinly",
-      "description": "community manager non tech social media"
     }
   ]
 }

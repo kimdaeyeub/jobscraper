@@ -1,20 +1,7 @@
 {
   "skill": "sql",
   "label": "SQL",
-  "count": 2,
-  "updated_at": "2026-09-21T12:24:51.043082+00:00",
-  "jobs": [
-    {
-      "title": "FrontEnd Engineer",
-      "link": "https://web3.career/front-end-engineer-starkware/45494",
-      "company_name": "Starkware",
-      "description": "dev front end blockchain"
-    },
-    {
-      "title": "Software Engineer Crypto",
-      "link": "https://web3.career/software-engineer-crypto-paypal/29818",
-      "company_name": "PayPal",
-      "description": "dev crypto java"
-    }
-  ]
+  "count": 0,
+  "updated_at": "2026-09-28T13:22:05.059497+00:00",
+  "jobs": []
 }
