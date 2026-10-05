@@ -1,7 +1,98 @@
 {
   "skill": "kotlin",
   "label": "Kotlin",
-  "count": 0,
-  "updated_at": "2026-09-28T13:21:48.604828+00:00",
-  "jobs": []
+  "count": 15,
+  "updated_at": "2026-10-05T14:04:52.652879+00:00",
+  "jobs": [
+    {
+      "title": "Senior Mobile Engineer Card Payment",
+      "link": "https://web3.career/senior-mobile-engineer-card-payment-okx/154735",
+      "company_name": "Okx",
+      "description": "engineer mobile senior"
+    },
+    {
+      "title": "Senior Engineer Solana",
+      "link": "https://web3.career/senior-engineer-solana-r3/154536",
+      "company_name": "R3",
+      "description": "engineer senior crypto"
+    },
+    {
+      "title": "Android Engineer",
+      "link": "https://web3.career/android-engineer-binance/154293",
+      "company_name": "Binance",
+      "description": "android mobile engineer"
+    },
+    {
+      "title": "Senior Software Engineer New Markets Japan JLPT N1 Fluent",
+      "link": "https://web3.career/senior-software-engineer-new-markets-japan-jlpt-n1-fluent-alpaca/154257",
+      "company_name": "Alpaca",
+      "description": "japan engineer senior"
+    },
+    {
+      "title": "Staff Software Engineer Curated Data",
+      "link": "https://web3.career/staff-software-engineer-curated-data-dune/154169",
+      "company_name": "Dune",
+      "description": "engineer dev blockchain"
+    },
+    {
+      "title": "Staff Android Engineer",
+      "link": "https://web3.career/staff-android-engineer-polymarket/154158",
+      "company_name": "Polymarket",
+      "description": "android mobile engineer"
+    },
+    {
+      "title": "Senior Product Security Engineer",
+      "link": "https://web3.career/senior-product-security-engineer-blockchain/150772",
+      "company_name": "Blockchain",
+      "description": "engineer security senior"
+    },
+    {
+      "title": "Staff Software Engineer Data",
+      "link": "https://web3.career/staff-software-engineer-data-dune/153871",
+      "company_name": "Dune",
+      "description": "engineer dev bitcoin"
+    },
+    {
+      "title": "Senior Android Engineer",
+      "link": "https://web3.career/senior-android-engineer-polymarket/153641",
+      "company_name": "Polymarket",
+      "description": "android mobile engineer"
+    },
+    {
+      "title": "Security Engineer Institutional Trading",
+      "link": "https://web3.career/security-engineer-institutional-trading-blockchain/153222",
+      "company_name": "Blockchain",
+      "description": "engineer security aws"
+    },
+    {
+      "title": "Founding Mobile RN Engineer",
+      "link": "https://web3.career/founding-mobile-rn-engineer-arcade/152915",
+      "company_name": "Arcade",
+      "description": "founding member engineer mobile"
+    },
+    {
+      "title": "Crypto Engineer with Digital Assets Tokenization",
+      "link": "https://web3.career/crypto-engineer-with-digital-assets-tokenization-irissoftwareinc/152911",
+      "company_name": "Iris Software Inc.",
+      "description": "tokenization finance non tech"
+    },
+    {
+      "title": "Staff Platm Engineer",
+      "link": "https://web3.career/staff-platform-engineer-opensea/152665",
+      "company_name": "OpenSea",
+      "description": "engineer crypto kotlin"
+    },
+    {
+      "title": "Lead Mobile Engineer Permance",
+      "link": "https://web3.career/lead-mobile-engineer-performance-polymarket/152529",
+      "company_name": "Polymarket",
+      "description": "engineer lead mobile"
+    },
+    {
+      "title": "Senior Web3 SDET",
+      "link": "https://web3.career/senior-web3-sdet-r3/152390",
+      "company_name": "R3",
+      "description": "quality assurance senior blockchain"
+    }
+  ]
 }

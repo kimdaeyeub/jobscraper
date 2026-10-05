@@ -1,7 +1,44 @@
 {
   "skill": "postgres",
   "label": "PostgreSQL",
-  "count": 0,
-  "updated_at": "2026-09-28T13:22:05.789873+00:00",
-  "jobs": []
+  "count": 6,
+  "updated_at": "2026-10-05T14:05:19.169639+00:00",
+  "jobs": [
+    {
+      "title": "Founding Senior Payments Engineer – Backend Blockchain",
+      "link": "https://web3.career/founding-senior-payments-engineer-backend-blockchain-ihsan/154633",
+      "company_name": "Ihsan",
+      "description": "founding member backend engineer"
+    },
+    {
+      "title": "Founding Senior Messenger Engineer — React Native Go RealTime Systems",
+      "link": "https://web3.career/founding-senior-messenger-engineer-react-native-go-real-time-systems-ihsan/153908",
+      "company_name": "Ihsan",
+      "description": "founding member engineer golang"
+    },
+    {
+      "title": "Founding Senior Fraud Risk Engineer — Stablecoin Neobank",
+      "link": "https://web3.career/founding-senior-fraud-risk-engineer-stablecoin-neobank-ihsan/153884",
+      "company_name": "Ihsan",
+      "description": "founding member engineer security"
+    },
+    {
+      "title": "Senior PostgreSQL Database Administrator Database Engineer",
+      "link": "https://web3.career/senior-postgresql-database-administrator-database-engineer-tastylive/153522",
+      "company_name": "Tastylive",
+      "description": "admin engineer postgres"
+    },
+    {
+      "title": "Typescript Developer",
+      "link": "https://web3.career/typescript-developer-bluesky/49659",
+      "company_name": "Bluesky",
+      "description": "typescript dev api"
+    },
+    {
+      "title": "Software Engineer Crypto",
+      "link": "https://web3.career/software-engineer-crypto-paypal/29818",
+      "company_name": "PayPal",
+      "description": "dev crypto java"
+    }
+  ]
 }

@@ -1,7 +1,98 @@
 {
   "skill": "aws",
   "label": "AWS",
-  "count": 0,
-  "updated_at": "2026-09-28T13:22:14.527531+00:00",
-  "jobs": []
+  "count": 15,
+  "updated_at": "2026-10-05T14:05:31.250250+00:00",
+  "jobs": [
+    {
+      "title": "Senior iOS Engineer",
+      "link": "https://web3.career/senior-ios-engineer-ondofinance/154896",
+      "company_name": "Ondo Finance",
+      "description": "engineer ios mobile"
+    },
+    {
+      "title": "Network Security Engineer Senior Network Security Engineer",
+      "link": "https://web3.career/network-security-engineer-senior-network-security-engineer-crypto-com/154780",
+      "company_name": "Crypto.com",
+      "description": "engineer security senior"
+    },
+    {
+      "title": "Platm Engineer Infrastructure",
+      "link": "https://web3.career/platform-engineer-infrastructure-helius/154765",
+      "company_name": "Helius",
+      "description": "infrastructure engineer aws"
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "link": "https://web3.career/senior-software-development-engineer-candydigital/154753",
+      "company_name": "Candy Digital",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Senior Technical Success Manager",
+      "link": "https://web3.career/senior-technical-success-manager-zscaler/145190",
+      "company_name": "Zscaler",
+      "description": "sales non tech senior"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "link": "https://web3.career/staff-software-engineer-zinnia/144788",
+      "company_name": "Zinnia",
+      "description": "engineer dev aws"
+    },
+    {
+      "title": "Backend Engineer",
+      "link": "https://web3.career/backend-engineer-layerzerolabs/73714",
+      "company_name": "Layerzerolabs",
+      "description": "backend engineer aws"
+    },
+    {
+      "title": "Staff Engineer I",
+      "link": "https://web3.career/staff-engineer-i-inmobi/151206",
+      "company_name": "Inmobi",
+      "description": "engineer aws react"
+    },
+    {
+      "title": "SDE III Devops",
+      "link": "https://web3.career/sde-iii-devops-inmobi/100181",
+      "company_name": "Inmobi",
+      "description": "devops aws docker"
+    },
+    {
+      "title": "Founding Technical Account Executive",
+      "link": "https://web3.career/founding-technical-account-executive-doublezero/154715",
+      "company_name": "DoubleZero",
+      "description": "account manager sales non tech"
+    },
+    {
+      "title": "Platm Engineer II Foundation",
+      "link": "https://web3.career/platform-engineer-ii-foundation-chainalysis/154712",
+      "company_name": "Chainalysis",
+      "description": "engineer aws blockchain"
+    },
+    {
+      "title": "Senior SOC Analyst Security Operations",
+      "link": "https://web3.career/senior-soc-analyst-security-operations-bitpanda/153640",
+      "company_name": "Bitpanda",
+      "description": "analyst operations security"
+    },
+    {
+      "title": "Software Engineer Market Data",
+      "link": "https://web3.career/software-engineer-market-data-alpaca/152866",
+      "company_name": "Alpaca",
+      "description": "engineer dev aws"
+    },
+    {
+      "title": "Site Reliability Engineer Core",
+      "link": "https://web3.career/site-reliability-engineer-core-blockchain/98053",
+      "company_name": "Blockchain",
+      "description": "engineer reliability aws"
+    },
+    {
+      "title": "Infrastructure Security Engineer",
+      "link": "https://web3.career/infrastructure-security-engineer-blockchain/148496",
+      "company_name": "Blockchain",
+      "description": "infrastructure engineer security"
+    }
+  ]
 }

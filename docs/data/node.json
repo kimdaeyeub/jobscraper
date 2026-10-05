@@ -1,7 +1,98 @@
 {
   "skill": "node",
   "label": "Node.js",
-  "count": 0,
-  "updated_at": "2026-09-28T13:21:52.807027+00:00",
-  "jobs": []
+  "count": 15,
+  "updated_at": "2026-10-05T14:05:02.348316+00:00",
+  "jobs": [
+    {
+      "title": "Senior Software Engineer Go",
+      "link": "https://web3.career/senior-software-engineer-go-quicknode/154764",
+      "company_name": "QuickNode",
+      "description": "engineer golang senior"
+    },
+    {
+      "title": "Senior Software Engineer Go Rust Blockchain Infrastructure",
+      "link": "https://web3.career/senior-software-engineer-go-rust-blockchain-infrastructure-quicknode/154763",
+      "company_name": "QuickNode",
+      "description": "infrastructure engineer golang"
+    },
+    {
+      "title": "Blockchain Architect Full Stack – Digital Assets Tokenization",
+      "link": "https://web3.career/blockchain-architect-full-stack-digital-assets-tokenization-maximaconsulting/154756",
+      "company_name": "Maxima Consulting",
+      "description": "tokenization architecture finance"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
+      "company_name": "Layerzerolabs",
+      "description": "engineer reliability blockchain"
+    },
+    {
+      "title": "Platm Engineer II Foundation",
+      "link": "https://web3.career/platform-engineer-ii-foundation-chainalysis/154712",
+      "company_name": "Chainalysis",
+      "description": "engineer aws blockchain"
+    },
+    {
+      "title": "Crypto Blockchain Architect",
+      "link": "https://web3.career/crypto-blockchain-architect-irissoftwareinc/154660",
+      "company_name": "Iris Software Inc.",
+      "description": "architecture blockchain aws"
+    },
+    {
+      "title": "Senior Software Engineer Flow Protocol Execution",
+      "link": "https://web3.career/senior-software-engineer-flow-protocol-execution-flowfoundation/154540",
+      "company_name": "Flow Foundation",
+      "description": "protocol engineer senior"
+    },
+    {
+      "title": "Senior Engineer Solana",
+      "link": "https://web3.career/senior-engineer-solana-r3/154536",
+      "company_name": "R3",
+      "description": "engineer senior crypto"
+    },
+    {
+      "title": "Senior Blockchain Engineer Settlement",
+      "link": "https://web3.career/senior-blockchain-engineer-settlement-globalsettlementnetwork/154529",
+      "company_name": "Global Settlement Network",
+      "description": "engineer senior blockchain"
+    },
+    {
+      "title": "Senior Software Engineer React Native Business Services",
+      "link": "https://web3.career/senior-software-engineer-react-native-business-services-kraken/154485",
+      "company_name": "Kraken",
+      "description": "engineer react native mobile"
+    },
+    {
+      "title": "Blockchain Consultant",
+      "link": "https://web3.career/blockchain-consultant-elementtechnologies/154331",
+      "company_name": "Element Technologies",
+      "description": "consulting blockchain erc 20"
+    },
+    {
+      "title": "Head of Onchain Engineering",
+      "link": "https://web3.career/head-of-onchain-engineering-mesh/154330",
+      "company_name": "Mesh",
+      "description": "executive blockchain crypto"
+    },
+    {
+      "title": "Development Lead",
+      "link": "https://web3.career/development-lead-binance/154290",
+      "company_name": "Binance",
+      "description": "lead aws java"
+    },
+    {
+      "title": "Full Stack Engineer Web3",
+      "link": "https://web3.career/full-stack-engineer-web3-vaneck/154235",
+      "company_name": "VanEck",
+      "description": "engineer full stack aws"
+    },
+    {
+      "title": "Blockchain Lead",
+      "link": "https://web3.career/blockchain-lead-irissoftwareinc/154234",
+      "company_name": "Iris Software Inc.",
+      "description": "lead blockchain erc 20"
+    }
+  ]
 }

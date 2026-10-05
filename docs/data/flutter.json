@@ -1,14 +1,104 @@
 {
   "skill": "flutter",
   "label": "Flutter",
-  "count": 1,
-  "updated_at": "2026-09-28T13:22:29.806210+00:00",
+  "count": 16,
+  "updated_at": "2026-10-05T14:05:57.840445+00:00",
   "jobs": [
     {
       "title": "Senior Full-Stack Developer / Data Scientist (remote-friendly)",
       "description": "AIDAR is building the future of artist scouting. We help A&Rs and music professionals discover artists that truly fit their creative vision — using personalized AI agents that scout the global music landscape 24/7. The product is live, the beta is working, and we already have paying customers and EXIST AI Transfer funding. Role Now,...",
       "link": "https://berlinstartupjobs.com/engineering/senior-full-stack-developer-data-scientist-remote-friendly-aidar/",
       "company_name": "AIDAR"
+    },
+    {
+      "title": "Frontend Developer Flutter; DeFi",
+      "link": "https://web3.career/frontend-developer-flutter-defi-kast/151974",
+      "company_name": "Kast",
+      "description": "dev flutter front end"
+    },
+    {
+      "title": "Flutter Developer DeFi",
+      "link": "https://web3.career/flutter-developer-defi-kast/151405",
+      "company_name": "Kast",
+      "description": "dev flutter aws"
+    },
+    {
+      "title": "Flutter Developer",
+      "link": "https://web3.career/flutter-developer-kast/147507",
+      "company_name": "Kast",
+      "description": "dev flutter aws"
+    },
+    {
+      "title": "Lead Flutter Developer",
+      "link": "https://web3.career/lead-flutter-developer-kast/147506",
+      "company_name": "Kast",
+      "description": "dev flutter lead"
+    },
+    {
+      "title": "Senior Mobile Engineer Flutter Consumer App",
+      "link": "https://web3.career/senior-mobile-engineer-flutter-consumer-app-moonshot-money/147437",
+      "company_name": "moonshot.money",
+      "description": "engineer flutter mobile"
+    },
+    {
+      "title": "Staff Mobile Engineer Flutter Consumer App",
+      "link": "https://web3.career/staff-mobile-engineer-flutter-consumer-app-moonshot-money/147434",
+      "company_name": "moonshot.money",
+      "description": "engineer flutter mobile"
+    },
+    {
+      "title": "Senior Mobile Engineer iOS Android Flutter",
+      "link": "https://web3.career/senior-mobile-engineer-ios-android-flutter-binance/143584",
+      "company_name": "Binance",
+      "description": "android mobile engineer"
+    },
+    {
+      "title": "Flutterdeveloper Crypto Wallet Web3",
+      "link": "https://web3.career/flutter-developer-crypto-wallet-web3-gomining/108433",
+      "company_name": "GoMining",
+      "description": "dev flutter bitcoin"
+    },
+    {
+      "title": "Senior Flutter Mobile Engineer",
+      "link": "https://web3.career/senior-flutter-mobile-engineer-busha/106119",
+      "company_name": "Busha",
+      "description": "engineer flutter mobile"
+    },
+    {
+      "title": "Senior Flutter Engineer",
+      "link": "https://web3.career/senior-flutter-engineer-windrangerlabs/105600",
+      "company_name": "Windranger Labs",
+      "description": "engineer flutter senior"
+    },
+    {
+      "title": "QA Engineer Mobile + Web Flutter",
+      "link": "https://web3.career/qa-engineer-mobile-web-flutter-emperia/103651",
+      "company_name": "Emperia",
+      "description": "engineer flutter mobile"
+    },
+    {
+      "title": "Flutter Developer",
+      "link": "https://web3.career/flutter-developer-unlimit/102385",
+      "company_name": "Unlimit",
+      "description": "dev flutter crypto"
+    },
+    {
+      "title": "Flutter Mobile Engineer",
+      "link": "https://web3.career/flutter-mobile-engineer-woo/95670",
+      "company_name": "Woo",
+      "description": "engineer flutter mobile"
+    },
+    {
+      "title": "Senior APP Developer Flutter",
+      "link": "https://web3.career/senior-app-developer-flutter-gate-io/98400",
+      "company_name": "Gate.io",
+      "description": "dev flutter senior"
+    },
+    {
+      "title": "Experienced Flutter Engineer",
+      "link": "https://web3.career/experienced-flutter-engineer-bitso/92783",
+      "company_name": "Bitso",
+      "description": "engineer flutter crypto"
     }
   ]
 }

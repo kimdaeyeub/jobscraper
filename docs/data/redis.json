@@ -1,7 +1,20 @@
 {
   "skill": "redis",
   "label": "Redis",
-  "count": 0,
-  "updated_at": "2026-09-28T13:22:10.992129+00:00",
-  "jobs": []
+  "count": 2,
+  "updated_at": "2026-10-05T14:05:23.923958+00:00",
+  "jobs": [
+    {
+      "title": "Senior DevOps Engineer Redis Kafka",
+      "link": "https://web3.career/senior-devops-engineer-redis-kafka-binance/100025",
+      "company_name": "Binance",
+      "description": "devops engineer redis"
+    },
+    {
+      "title": "Binance Accelerator Program DevOps Engineer Redis",
+      "link": "https://web3.career/binance-accelerator-program-devops-engineer-redis-binance/69551",
+      "company_name": "Binance",
+      "description": "devops engineer redis"
+    }
+  ]
 }

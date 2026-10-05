@@ -1,7 +1,98 @@
 {
   "skill": "rust",
   "label": "Rust",
-  "count": 0,
-  "updated_at": "2026-09-28T13:21:42.320797+00:00",
-  "jobs": []
+  "count": 15,
+  "updated_at": "2026-10-05T14:04:44.286313+00:00",
+  "jobs": [
+    {
+      "title": "Senior Security Engineer Product",
+      "link": "https://web3.career/senior-security-engineer-product-jitolabs/154895",
+      "company_name": "Jito Labs",
+      "description": "engineer security senior"
+    },
+    {
+      "title": "Platm Engineer Infrastructure",
+      "link": "https://web3.career/platform-engineer-infrastructure-helius/154765",
+      "company_name": "Helius",
+      "description": "infrastructure engineer aws"
+    },
+    {
+      "title": "Senior Software Engineer Go Rust Blockchain Infrastructure",
+      "link": "https://web3.career/senior-software-engineer-go-rust-blockchain-infrastructure-quicknode/154763",
+      "company_name": "QuickNode",
+      "description": "infrastructure engineer golang"
+    },
+    {
+      "title": "Blockchain Architect Full Stack – Digital Assets Tokenization",
+      "link": "https://web3.career/blockchain-architect-full-stack-digital-assets-tokenization-maximaconsulting/154756",
+      "company_name": "Maxima Consulting",
+      "description": "tokenization architecture finance"
+    },
+    {
+      "title": "Senior Mobile Engineer Card Payment",
+      "link": "https://web3.career/senior-mobile-engineer-card-payment-okx/154735",
+      "company_name": "Okx",
+      "description": "engineer mobile senior"
+    },
+    {
+      "title": "Crypto Production Engineer",
+      "link": "https://web3.career/crypto-production-engineer-jumpcrypto/89562",
+      "company_name": "Jumpcrypto",
+      "description": "engineer blockchain crypto"
+    },
+    {
+      "title": "Quant Developer",
+      "link": "https://web3.career/quant-developer-gsrmarkets/154269",
+      "company_name": "Gsrmarkets",
+      "description": "dev crypto rust"
+    },
+    {
+      "title": "Senior Low Latency Engineer",
+      "link": "https://web3.career/senior-low-latency-engineer-gsrmarkets/154728",
+      "company_name": "Gsrmarkets",
+      "description": "engineer senior crypto"
+    },
+    {
+      "title": "Senior Software Engineer Rust Consumer",
+      "link": "https://web3.career/senior-software-engineer-rust-consumer-kraken/154721",
+      "company_name": "Kraken",
+      "description": "engineer rust senior"
+    },
+    {
+      "title": "Graduate Junior Software Engineer",
+      "link": "https://web3.career/graduate-junior-software-engineer-elwoodtechnologies/154718",
+      "company_name": "Elwoodtechnologies",
+      "description": "engineer intern entry level"
+    },
+    {
+      "title": "Senior Software Engineer Market Data",
+      "link": "https://web3.career/senior-software-engineer-market-data-alpaca/99655",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Senior BackEnd Engineer Trading Platm",
+      "link": "https://web3.career/senior-back-end-engineer-trading-platform-blockchain/98044",
+      "company_name": "Blockchain",
+      "description": "backend engineer senior"
+    },
+    {
+      "title": "Protocol Engineer",
+      "link": "https://web3.career/protocol-engineer-swissnexus/154661",
+      "company_name": "Swiss Nexus",
+      "description": "protocol engineer blockchain"
+    },
+    {
+      "title": "Crypto Blockchain Architect",
+      "link": "https://web3.career/crypto-blockchain-architect-irissoftwareinc/154660",
+      "company_name": "Iris Software Inc.",
+      "description": "architecture blockchain aws"
+    },
+    {
+      "title": "Senior Security Engineer DeFi",
+      "link": "https://web3.career/senior-security-engineer-defi-mystenlabs/154607",
+      "company_name": "Mysten Labs",
+      "description": "engineer security senior"
+    }
+  ]
 }

@@ -1,7 +1,26 @@
 {
   "skill": "graphql",
   "label": "GraphQL",
-  "count": 0,
-  "updated_at": "2026-09-28T13:22:32.493568+00:00",
-  "jobs": []
+  "count": 3,
+  "updated_at": "2026-10-05T14:06:00.547055+00:00",
+  "jobs": [
+    {
+      "title": "GraphQL GCP Blockchain",
+      "link": "https://web3.career/graphql-gcp-blockchain-vytwotechnologiesinc/149301",
+      "company_name": "Vytwo Technologies Inc.",
+      "description": "gcp graphql blockchain"
+    },
+    {
+      "title": "Senior Python Developer Financial Data Systems",
+      "link": "https://web3.career/senior-python-developer-financial-data-systems-truflation/86048",
+      "company_name": "Truflation",
+      "description": "dev finance non tech"
+    },
+    {
+      "title": "Senior Frontend Web Developer Financial Data Visualization",
+      "link": "https://web3.career/senior-front-end-web-developer-financial-data-visualization-truflation/86047",
+      "company_name": "Truflation",
+      "description": "dev finance non tech"
+    }
+  ]
 }

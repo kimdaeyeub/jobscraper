@@ -1,7 +1,98 @@
 {
   "skill": "nextjs",
   "label": "Next.js",
-  "count": 0,
-  "updated_at": "2026-09-28T13:21:53.407139+00:00",
-  "jobs": []
+  "count": 15,
+  "updated_at": "2026-10-05T14:05:05.393771+00:00",
+  "jobs": [
+    {
+      "title": "Blockchain Architect Full Stack – Digital Assets Tokenization",
+      "link": "https://web3.career/blockchain-architect-full-stack-digital-assets-tokenization-maximaconsulting/154756",
+      "company_name": "Maxima Consulting",
+      "description": "tokenization architecture finance"
+    },
+    {
+      "title": "Crypto Blockchain Architect",
+      "link": "https://web3.career/crypto-blockchain-architect-irissoftwareinc/154660",
+      "company_name": "Iris Software Inc.",
+      "description": "architecture blockchain aws"
+    },
+    {
+      "title": "Applied ML Engineer",
+      "link": "https://web3.career/applied-ml-engineer-sentient/154608",
+      "company_name": "Sentient",
+      "description": "engineer machine learning ai"
+    },
+    {
+      "title": "Blockchain Consultant",
+      "link": "https://web3.career/blockchain-consultant-elementtechnologies/154331",
+      "company_name": "Element Technologies",
+      "description": "consulting blockchain erc 20"
+    },
+    {
+      "title": "Full Stack Engineer Web3",
+      "link": "https://web3.career/full-stack-engineer-web3-vaneck/154235",
+      "company_name": "VanEck",
+      "description": "engineer full stack aws"
+    },
+    {
+      "title": "Blockchain Lead",
+      "link": "https://web3.career/blockchain-lead-irissoftwareinc/154234",
+      "company_name": "Iris Software Inc.",
+      "description": "lead blockchain erc 20"
+    },
+    {
+      "title": "Software Engineer II React Native Krak",
+      "link": "https://web3.career/software-engineer-ii-react-native-krak-kraken/153649",
+      "company_name": "Kraken",
+      "description": "engineer react native mobile"
+    },
+    {
+      "title": "FullStack Software Engineer Compliance",
+      "link": "https://web3.career/full-stack-software-engineer-compliance-ondofinance/152720",
+      "company_name": "Ondo Finance",
+      "description": "compliance non tech engineer"
+    },
+    {
+      "title": "FullStack Software Engineer Growth",
+      "link": "https://web3.career/full-stack-software-engineer-growth-ondofinance/152719",
+      "company_name": "Ondo Finance",
+      "description": "growth engineer full stack"
+    },
+    {
+      "title": "Intermediate Software Engineer Fullstack",
+      "link": "https://web3.career/intermediate-software-engineer-fullstack-kast/152695",
+      "company_name": "Kast",
+      "description": "engineer full stack dev"
+    },
+    {
+      "title": "Senior Web Engineer Perps",
+      "link": "https://web3.career/senior-web-engineer-perps-polymarket/152648",
+      "company_name": "Polymarket",
+      "description": "engineer senior crypto"
+    },
+    {
+      "title": "Director of Engineering Contract LATAM",
+      "link": "https://web3.career/director-of-engineering-contract-latam-nexus/152549",
+      "company_name": "Nexus",
+      "description": "executive blockchain kubernetes"
+    },
+    {
+      "title": "Product Engineer",
+      "link": "https://web3.career/product-engineer-improbable/152268",
+      "company_name": "Improbable",
+      "description": "engineer blockchain javascript"
+    },
+    {
+      "title": "Full Stack Architect Digital Assets Tokenization",
+      "link": "https://web3.career/full-stack-architect-digital-assets-tokenization-td/152118",
+      "company_name": "TD",
+      "description": "tokenization architecture finance"
+    },
+    {
+      "title": "Senior Frontend Engineer JTX",
+      "link": "https://web3.career/senior-frontend-engineer-jtx-jito-wtf/152040",
+      "company_name": "Jito Labs",
+      "description": "engineer front end senior"
+    }
+  ]
 }

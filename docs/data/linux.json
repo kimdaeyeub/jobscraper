@@ -1,14 +1,104 @@
 {
   "skill": "linux",
   "label": "Linux",
-  "count": 1,
-  "updated_at": "2026-09-28T13:22:34.341973+00:00",
+  "count": 16,
+  "updated_at": "2026-10-05T14:06:01.379480+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
       "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
       "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Senior Linux Infrastructure Engineer",
+      "link": "https://web3.career/senior-linux-infrastructure-engineer-tastylive/153635",
+      "company_name": "Tastylive",
+      "description": "infrastructure engineer linux"
+    },
+    {
+      "title": "Staff Site Reliability Engineer Linux Network troubleshooting Scripting",
+      "link": "https://web3.career/staff-site-reliability-engineer-linux-network-troubleshooting-scripting-zscaler/153553",
+      "company_name": "Zscaler",
+      "description": "engineer linux reliability"
+    },
+    {
+      "title": "Sr. Staff Site Reliability Engineer Linux Network troubleshooting Scripting",
+      "link": "https://web3.career/sr-staff-site-reliability-engineer-linux-network-troubleshooting-scripting-zscaler/151216",
+      "company_name": "Zscaler",
+      "description": "engineer linux reliability"
+    },
+    {
+      "title": "Senior Site Reliability Engineer Linux Network troubleshooting Scripting",
+      "link": "https://web3.career/senior-site-reliability-engineer-linux-network-troubleshooting-scripting-zscaler/141718",
+      "company_name": "Zscaler",
+      "description": "engineer linux reliability"
+    },
+    {
+      "title": "Staff Site Reliability Engineer Staff Site Reliability Engineer Linux Network troubleshooting Scripting",
+      "link": "https://web3.career/staff-site-reliability-engineer-staff-site-reliability-engineer-linux-network-troubleshooting-scripting-zscaler/139562",
+      "company_name": "Zscaler",
+      "description": "engineer linux reliability"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138575",
+      "company_name": "Tether",
+      "description": "remote lead linux"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138574",
+      "company_name": "Tether",
+      "description": "remote lead linux"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138573",
+      "company_name": "Tether",
+      "description": "remote lead linux"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138572",
+      "company_name": "Tether",
+      "description": "remote lead linux"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138571",
+      "company_name": "Tether",
+      "description": "remote lead linux"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138570",
+      "company_name": "Tether",
+      "description": "remote lead linux"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138569",
+      "company_name": "Tether",
+      "description": "remote lead linux"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138568",
+      "company_name": "Tether",
+      "description": "remote lead linux"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138567",
+      "company_name": "Tether",
+      "description": "remote lead linux"
+    },
+    {
+      "title": "Technical Lead Linux 100% Remote",
+      "link": "https://web3.career/technical-lead-linux-100-remote-tether/138566",
+      "company_name": "Tether",
+      "description": "remote lead linux"
     }
   ]
 }

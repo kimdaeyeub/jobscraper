@@ -1,7 +1,62 @@
 {
   "skill": "css",
   "label": "CSS",
-  "count": 0,
-  "updated_at": "2026-09-28T13:22:40.236619+00:00",
-  "jobs": []
+  "count": 9,
+  "updated_at": "2026-10-05T14:06:08.487922+00:00",
+  "jobs": [
+    {
+      "title": "Web App Developer HTML JavaScript CSS Go",
+      "link": "https://web3.career/web-app-developer-html-javascript-css-go-crypto-banter/138798",
+      "company_name": "Crypto Banter",
+      "description": "css dev golang"
+    },
+    {
+      "title": "Senior Product Engineer",
+      "link": "https://web3.career/senior-product-engineer-polymarket/70227",
+      "company_name": "Polymarket",
+      "description": "engineer senior crypto"
+    },
+    {
+      "title": "CSS P2P",
+      "link": "https://web3.career/css-p2p-wallet/70347",
+      "company_name": "Wallet",
+      "description": "css blockchain crypto"
+    },
+    {
+      "title": "CSS Styling focused FrontEnd Engineer",
+      "link": "https://web3.career/css-styling-focused-front-end-engineer-multiversx/67673",
+      "company_name": "MultiversX",
+      "description": "engineer css front end"
+    },
+    {
+      "title": "Web Developer",
+      "link": "https://web3.career/web-developer-bluesky/49660",
+      "company_name": "Bluesky",
+      "description": "dev css front end"
+    },
+    {
+      "title": "FrontEnd Engineer",
+      "link": "https://web3.career/front-end-engineer-starkware/45494",
+      "company_name": "Starkware",
+      "description": "dev front end blockchain"
+    },
+    {
+      "title": "Frontend UI Web Developer",
+      "link": "https://web3.career/frontend-ui-web-developer-etherscan/43160",
+      "company_name": "Etherscan",
+      "description": "dev front end design"
+    },
+    {
+      "title": "UI Developer HTML5 CSS3",
+      "link": "https://web3.career/ui-developer-html5-css3-polysynth/35430",
+      "company_name": "Polysynth (Defi)",
+      "description": "css dev html"
+    },
+    {
+      "title": "Frontend Developer HTML5 CSS3",
+      "link": "https://web3.career/frontend-developer-html5-css3-polysynth/32080",
+      "company_name": "Polysynth (Defi)",
+      "description": "css dev front end"
+    }
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "skill": "javascript",
   "label": "JavaScript",
-  "count": 2,
-  "updated_at": "2026-09-28T13:21:39.464451+00:00",
+  "count": 17,
+  "updated_at": "2026-10-05T14:04:37.379826+00:00",
   "jobs": [
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
@@ -15,6 +15,96 @@
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
       "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
       "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Partner support agent",
+      "link": "https://web3.career/partner-support-agent-wert/138262",
+      "company_name": "Wert",
+      "description": "customer support blockchain crypto"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "link": "https://web3.career/staff-software-engineer-zinnia/144788",
+      "company_name": "Zinnia",
+      "description": "engineer dev aws"
+    },
+    {
+      "title": "Senior Business IT Engineer Atlassian Cloud",
+      "link": "https://web3.career/senior-business-it-engineer-atlassian-cloud-bitpanda/152342",
+      "company_name": "Bitpanda",
+      "description": "cloud engineer engineer senior"
+    },
+    {
+      "title": "FrontEnd Engineer Institutional",
+      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
+      "company_name": "Blockchain",
+      "description": "engineer front end blockchain"
+    },
+    {
+      "title": "UI Engineer Salt Lake City",
+      "link": "https://web3.career/ui-engineer-salt-lake-city-taxbit/154703",
+      "company_name": "Taxbit",
+      "description": "engineer design non tech"
+    },
+    {
+      "title": "Solutions Engineer",
+      "link": "https://web3.career/solutions-engineer-bitgo/149986",
+      "company_name": "Bitgo",
+      "description": "engineer bitcoin blockchain"
+    },
+    {
+      "title": "Binance Accelerator Programm Software Engineer Fullstack AIoriented",
+      "link": "https://web3.career/binance-accelerator-programm-software-engineer-full-stack-ai-oriented-binance/154694",
+      "company_name": "Binance",
+      "description": "ai engineer full stack"
+    },
+    {
+      "title": "AI Harness Engineer 100% Remote Worldwide",
+      "link": "https://web3.career/ai-harness-engineer-100-remote-worldwide-tetheroperationslimited/154638",
+      "company_name": "Tether Operations Limited",
+      "description": "remote ai engineer"
+    },
+    {
+      "title": "Sr. Software Engineer I API",
+      "link": "https://web3.career/sr-software-engineer-i-api-zinnia/154609",
+      "company_name": "Zinnia",
+      "description": "api engineer dev"
+    },
+    {
+      "title": "Solution Consulting Manager",
+      "link": "https://web3.career/solution-consulting-manager-elliptic/154566",
+      "company_name": "Elliptic",
+      "description": "solution engineer consulting"
+    },
+    {
+      "title": "Senior Software Engineer React Native Business Services",
+      "link": "https://web3.career/senior-software-engineer-react-native-business-services-kraken/154485",
+      "company_name": "Kraken",
+      "description": "engineer react native mobile"
+    },
+    {
+      "title": "QA Engineer Blockchain",
+      "link": "https://web3.career/qa-engineer-blockchain-binance/154296",
+      "company_name": "Binance",
+      "description": "engineer quality assurance blockchain"
+    },
+    {
+      "title": "Android Engineer C++",
+      "link": "https://web3.career/android-engineer-c-binance/154294",
+      "company_name": "Binance",
+      "description": "c c plus plus android"
+    },
+    {
+      "title": "Software Engineer Ruby",
+      "link": "https://web3.career/software-engineer-ruby-tastylive/154247",
+      "company_name": "Tastylive",
+      "description": "engineer ruby dev"
+    },
+    {
+      "title": "Full Stack Engineer Web3",
+      "link": "https://web3.career/full-stack-engineer-web3-vaneck/154235",
+      "company_name": "VanEck",
+      "description": "engineer full stack aws"
     }
   ]
 }

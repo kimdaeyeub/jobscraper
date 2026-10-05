@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-28T13:21:35.478092+00:00",
+  "updated_at": "2026-10-05T14:04:35.025912+00:00",
   "skills": [
     {
       "id": "python",
       "label": "Python",
-      "count": 4
+      "count": 19
     },
     {
       "id": "javascript",
       "label": "JavaScript",
-      "count": 2
+      "count": 17
     },
     {
       "id": "typescript",
       "label": "TypeScript",
-      "count": 6
+      "count": 20
     },
     {
       "id": "java",
       "label": "Java",
-      "count": 1
+      "count": 15
     },
     {
       "id": "go",
@@ -29,52 +29,52 @@
     {
       "id": "rust",
       "label": "Rust",
-      "count": 0
+      "count": 15
     },
     {
       "id": "php",
       "label": "PHP",
-      "count": 0
+      "count": 15
     },
     {
       "id": "ruby",
       "label": "Ruby",
-      "count": 0
+      "count": 15
     },
     {
       "id": "swift",
       "label": "Swift",
-      "count": 1
+      "count": 5
     },
     {
       "id": "kotlin",
       "label": "Kotlin",
-      "count": 0
+      "count": 15
     },
     {
       "id": "react",
       "label": "React",
-      "count": 3
+      "count": 17
     },
     {
       "id": "vue",
       "label": "Vue",
-      "count": 0
+      "count": 15
     },
     {
       "id": "angular",
       "label": "Angular",
-      "count": 0
+      "count": 15
     },
     {
       "id": "node",
       "label": "Node.js",
-      "count": 0
+      "count": 15
     },
     {
       "id": "nextjs",
       "label": "Next.js",
-      "count": 0
+      "count": 15
     },
     {
       "id": "django",
@@ -104,12 +104,12 @@
     {
       "id": "sql",
       "label": "SQL",
-      "count": 0
+      "count": 2
     },
     {
       "id": "postgres",
       "label": "PostgreSQL",
-      "count": 0
+      "count": 6
     },
     {
       "id": "mongodb",
@@ -119,62 +119,62 @@
     {
       "id": "redis",
       "label": "Redis",
-      "count": 0
+      "count": 2
     },
     {
       "id": "aws",
       "label": "AWS",
-      "count": 0
+      "count": 15
     },
     {
       "id": "docker",
       "label": "Docker",
-      "count": 4
+      "count": 19
     },
     {
       "id": "kubernetes",
       "label": "Kubernetes",
-      "count": 4
+      "count": 19
     },
     {
       "id": "terraform",
       "label": "Terraform",
-      "count": 0
+      "count": 15
     },
     {
       "id": "devops",
       "label": "DevOps",
-      "count": 1
+      "count": 16
     },
     {
       "id": "machine-learning",
       "label": "Machine Learning",
-      "count": 1
+      "count": 16
     },
     {
       "id": "data-science",
       "label": "Data Science",
-      "count": 4
+      "count": 19
     },
     {
       "id": "android",
       "label": "Android",
-      "count": 1
+      "count": 16
     },
     {
       "id": "ios",
       "label": "iOS",
-      "count": 0
+      "count": 15
     },
     {
       "id": "flutter",
       "label": "Flutter",
-      "count": 1
+      "count": 16
     },
     {
       "id": "graphql",
       "label": "GraphQL",
-      "count": 0
+      "count": 3
     },
     {
       "id": "elasticsearch",
@@ -184,7 +184,7 @@
     {
       "id": "linux",
       "label": "Linux",
-      "count": 1
+      "count": 16
     },
     {
       "id": "git",
@@ -194,12 +194,12 @@
     {
       "id": "html",
       "label": "HTML",
-      "count": 0
+      "count": 3
     },
     {
       "id": "css",
       "label": "CSS",
-      "count": 0
+      "count": 9
     }
   ]
 }

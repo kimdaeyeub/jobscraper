@@ -1,14 +1,104 @@
 {
   "skill": "machine-learning",
   "label": "Machine Learning",
-  "count": 1,
-  "updated_at": "2026-09-28T13:22:21.496984+00:00",
+  "count": 16,
+  "updated_at": "2026-10-05T14:05:50.939286+00:00",
   "jobs": [
     {
       "title": "Senior Data Scientist – Python, ML & Signal-Processing",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Data Scientist bei uns trainierst Du Machine-Learning-Modelle auf Basis von realen Maschinen- und Sensordaten – weltweit, vom mittelständischen Fertiger bis zum DAX-Konzern. Anomalieerkennung, Predictive Maintenance und Qualitätsüberwachung in Echtzeit. Die Daten sind echt, die Maschinen stehen in laufenden Produktionen, und Deine...",
       "link": "https://berlinstartupjobs.com/engineering/senior-data-scientist-datatroniq/",
       "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Applied ML Engineer",
+      "link": "https://web3.career/applied-ml-engineer-sentient/154608",
+      "company_name": "Sentient",
+      "description": "engineer machine learning ai"
+    },
+    {
+      "title": "SDE IV ML Engineering",
+      "link": "https://web3.career/sde-iv-ml-engineering-inmobi/154273",
+      "company_name": "Inmobi",
+      "description": "machine learning ai remote"
+    },
+    {
+      "title": "Staff Machine Learning Engineer",
+      "link": "https://web3.career/staff-machine-learning-engineer-phantom/154183",
+      "company_name": "Phantom",
+      "description": "engineer machine learning ai"
+    },
+    {
+      "title": "Machine Learning Engineer – Ad Sciences",
+      "link": "https://web3.career/machine-learning-engineer-ad-sciences-inmobi/154172",
+      "company_name": "Inmobi",
+      "description": "engineer machine learning ai"
+    },
+    {
+      "title": "Staff Machine Learning Engineer",
+      "link": "https://web3.career/staff-machine-learning-engineer-moonpay/153178",
+      "company_name": "MoonPay",
+      "description": "engineer machine learning ai"
+    },
+    {
+      "title": "Staff ML Systems Engineer Media Intelligence",
+      "link": "https://web3.career/staff-ml-systems-engineer-media-intelligence-tetheroperationslimited/151474",
+      "company_name": "Tether Operations Limited",
+      "description": "engineer machine learning ai"
+    },
+    {
+      "title": "Senior Machine Learning Engineer Agentic AI",
+      "link": "https://web3.career/senior-machine-learning-engineer-agentic-ai-zscaler/151435",
+      "company_name": "Zscaler",
+      "description": "ai engineer machine learning"
+    },
+    {
+      "title": "Machine Learning Researcher",
+      "link": "https://web3.career/machine-learning-researcher-kronosresearch/100438",
+      "company_name": "Kronosresearch",
+      "description": "research machine learning ai"
+    },
+    {
+      "title": "Machine Learning Systems Engineer",
+      "link": "https://web3.career/machine-learning-systems-engineer-tetheroperationslimited/149835",
+      "company_name": "Tether Operations Limited",
+      "description": "engineer machine learning ai"
+    },
+    {
+      "title": "Product Manager ML Decision Systems Demand Side Platm",
+      "link": "https://web3.career/product-manager-ml-decision-systems-demand-side-platform-inmobi/149671",
+      "company_name": "Inmobi",
+      "description": "machine learning ai product manager"
+    },
+    {
+      "title": "AI ML Engineer",
+      "link": "https://web3.career/ai-ml-engineer-improbable/149558",
+      "company_name": "Improbable",
+      "description": "ai engineer machine learning"
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "link": "https://web3.career/senior-machine-learning-engineer-spexi/149181",
+      "company_name": "Spexi",
+      "description": "engineer machine learning ai"
+    },
+    {
+      "title": "Software Engineer I AI and ML",
+      "link": "https://web3.career/software-engineer-i-ai-and-ml-zinnia/148938",
+      "company_name": "Zinnia",
+      "description": "ai engineer machine learning"
+    },
+    {
+      "title": "Principal Machine Learning Engineer",
+      "link": "https://web3.career/principal-machine-learning-engineer-zscaler/104113",
+      "company_name": "Zscaler",
+      "description": "engineer machine learning ai"
+    },
+    {
+      "title": "Machine Learning Engineer Intern 100% Remote",
+      "link": "https://web3.career/machine-learning-engineer-intern-100-remote-tetheroperationslimited/148379",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer intern"
     }
   ]
 }

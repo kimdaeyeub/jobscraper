@@ -1,7 +1,26 @@
 {
   "skill": "html",
   "label": "HTML",
-  "count": 0,
-  "updated_at": "2026-09-28T13:22:37.568284+00:00",
-  "jobs": []
+  "count": 3,
+  "updated_at": "2026-10-05T14:06:04.424966+00:00",
+  "jobs": [
+    {
+      "title": "Web App Developer HTML JavaScript CSS Go",
+      "link": "https://web3.career/web-app-developer-html-javascript-css-go-crypto-banter/138798",
+      "company_name": "Crypto Banter",
+      "description": "css dev golang"
+    },
+    {
+      "title": "UI Developer HTML5 CSS3",
+      "link": "https://web3.career/ui-developer-html5-css3-polysynth/35430",
+      "company_name": "Polysynth (Defi)",
+      "description": "css dev html"
+    },
+    {
+      "title": "Frontend Developer HTML5 CSS3",
+      "link": "https://web3.career/frontend-developer-html5-css3-polysynth/32080",
+      "company_name": "Polysynth (Defi)",
+      "description": "css dev front end"
+    }
+  ]
 }

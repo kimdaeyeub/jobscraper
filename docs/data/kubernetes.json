@@ -1,8 +1,8 @@
 {
   "skill": "kubernetes",
   "label": "Kubernetes",
-  "count": 4,
-  "updated_at": "2026-09-28T13:22:15.739615+00:00",
+  "count": 19,
+  "updated_at": "2026-10-05T14:05:42.440331+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
@@ -27,6 +27,96 @@
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
       "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
       "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Staff Software Development Engineer",
+      "link": "https://web3.career/staff-software-development-engineer-zscaler/104108",
+      "company_name": "Zscaler",
+      "description": "engineer dev kubernetes"
+    },
+    {
+      "title": "Sr. Software Development Engineer",
+      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
+      "company_name": "Zscaler",
+      "description": "engineer dev senior"
+    },
+    {
+      "title": "Senior Java Backend Engineer — Asset Earn",
+      "link": "https://web3.career/senior-java-backend-engineer-asset-earn-okx/151703",
+      "company_name": "Okx",
+      "description": "backend engineer java"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
+      "company_name": "Layerzerolabs",
+      "description": "engineer reliability blockchain"
+    },
+    {
+      "title": "Crypto Production Engineer",
+      "link": "https://web3.career/crypto-production-engineer-jumpcrypto/89562",
+      "company_name": "Jumpcrypto",
+      "description": "engineer blockchain crypto"
+    },
+    {
+      "title": "SDE III Devops",
+      "link": "https://web3.career/sde-iii-devops-inmobi/100181",
+      "company_name": "Inmobi",
+      "description": "devops aws docker"
+    },
+    {
+      "title": "Platm Engineer II Foundation",
+      "link": "https://web3.career/platform-engineer-ii-foundation-chainalysis/154712",
+      "company_name": "Chainalysis",
+      "description": "engineer aws blockchain"
+    },
+    {
+      "title": "Software Engineer Market Data",
+      "link": "https://web3.career/software-engineer-market-data-alpaca/152866",
+      "company_name": "Alpaca",
+      "description": "engineer dev aws"
+    },
+    {
+      "title": "Senior Software Engineer Payments Treasury",
+      "link": "https://web3.career/senior-software-engineer-payments-treasury-alpaca/99657",
+      "company_name": "Alpaca",
+      "description": "treasury finance engineer"
+    },
+    {
+      "title": "Senior Software Engineer Market Data",
+      "link": "https://web3.career/senior-software-engineer-market-data-alpaca/99655",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Senior Software Engineer Clearing",
+      "link": "https://web3.career/senior-software-engineer-clearing-alpaca/99653",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Senior Fullstack Engineer Operational Automations",
+      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
+      "company_name": "Alpaca",
+      "description": "engineer full stack operations"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-alpaca/99650",
+      "company_name": "Alpaca",
+      "description": "devops engineer senior"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "link": "https://web3.career/senior-data-engineer-alpaca/151988",
+      "company_name": "Alpaca",
+      "description": "data science engineer senior"
+    },
+    {
+      "title": "Senior AI Engineer",
+      "link": "https://web3.career/senior-ai-engineer-dvtrading/150771",
+      "company_name": "Dvtrading",
+      "description": "ai engineer senior"
     }
   ]
 }

@@ -1,14 +1,104 @@
 {
   "skill": "devops",
   "label": "DevOps",
-  "count": 1,
-  "updated_at": "2026-09-28T13:22:20.888774+00:00",
+  "count": 16,
+  "updated_at": "2026-10-05T14:05:46.349974+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
       "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
       "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "SDE III Devops",
+      "link": "https://web3.career/sde-iii-devops-inmobi/100181",
+      "company_name": "Inmobi",
+      "description": "devops aws docker"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-alpaca/99650",
+      "company_name": "Alpaca",
+      "description": "devops engineer senior"
+    },
+    {
+      "title": "Infrastructure Engineer DevOps",
+      "link": "https://web3.career/infrastructure-engineer-devops-ondofinance/154631",
+      "company_name": "Ondo Finance",
+      "description": "infrastructure devops engineer"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-dvtrading/150456",
+      "company_name": "Dvtrading",
+      "description": "devops engineer senior"
+    },
+    {
+      "title": "DevOps Engineer Infra",
+      "link": "https://web3.career/devops-engineer-infra-binance/154292",
+      "company_name": "Binance",
+      "description": "devops engineer aws"
+    },
+    {
+      "title": "DevOps Engineer Cloud Infra",
+      "link": "https://web3.career/devops-engineer-cloud-infra-binance/154291",
+      "company_name": "Binance",
+      "description": "cloud engineer engineer devops"
+    },
+    {
+      "title": "DevOps Engineer Intern Summer 2027",
+      "link": "https://web3.career/devops-engineer-intern-summer-2027-dvtrading/153947",
+      "company_name": "Dvtrading",
+      "description": "devops engineer intern"
+    },
+    {
+      "title": "Cloud DevOps Platm Engineering Talent Community",
+      "link": "https://web3.career/cloud-devops-platform-engineering-talent-community-launchpadtechnologiesinc/153652",
+      "company_name": "Launchpadtechnologiesinc",
+      "description": "cloud engineer engineer community manager"
+    },
+    {
+      "title": "DevOps Engineer 100% remote",
+      "link": "https://web3.career/devops-engineer-100-remote-tetheroperationslimited/153592",
+      "company_name": "Tether Operations Limited",
+      "description": "remote devops engineer"
+    },
+    {
+      "title": "Technical Product Manager Infrastructure and Dev Ops",
+      "link": "https://web3.career/technical-product-manager-infrastructure-and-dev-ops-tastylive/152984",
+      "company_name": "Tastylive",
+      "description": "infrastructure devops dev"
+    },
+    {
+      "title": "DevOps Engineer",
+      "link": "https://web3.career/devops-engineer-copperco/104236",
+      "company_name": "Copperco",
+      "description": "devops engineer aws"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-bitpanda/75931",
+      "company_name": "Bitpanda",
+      "description": "devops engineer senior"
+    },
+    {
+      "title": "DevOps Engineer",
+      "link": "https://web3.career/devops-engineer-confirmo/151836",
+      "company_name": "Confirmo",
+      "description": "devops engineer aws"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-copperco/96368",
+      "company_name": "Copperco",
+      "description": "devops engineer senior"
+    },
+    {
+      "title": "Senior Staff DevOps Engineer",
+      "link": "https://web3.career/senior-staff-devops-engineer-ripple/150918",
+      "company_name": "Ripple",
+      "description": "devops engineer senior"
     }
   ]
 }
