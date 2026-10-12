@@ -2,8 +2,20 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-10-05T14:04:52.652879+00:00",
+  "updated_at": "2026-10-12T14:53:30.391008+00:00",
   "jobs": [
+    {
+      "title": "Senior Mobile Engineer Consumer App",
+      "link": "https://web3.career/senior-mobile-engineer-consumer-app-moonshot/155066",
+      "company_name": "Moonshot",
+      "description": "engineer mobile senior"
+    },
+    {
+      "title": "Staff Mobile Engineer Consumer App",
+      "link": "https://web3.career/staff-mobile-engineer-consumer-app-moonshot/155065",
+      "company_name": "Moonshot",
+      "description": "engineer mobile crypto"
+    },
     {
       "title": "Senior Mobile Engineer Card Payment",
       "link": "https://web3.career/senior-mobile-engineer-card-payment-okx/154735",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/staff-platform-engineer-opensea/152665",
       "company_name": "OpenSea",
       "description": "engineer crypto kotlin"
-    },
-    {
-      "title": "Lead Mobile Engineer Permance",
-      "link": "https://web3.career/lead-mobile-engineer-performance-polymarket/152529",
-      "company_name": "Polymarket",
-      "description": "engineer lead mobile"
-    },
-    {
-      "title": "Senior Web3 SDET",
-      "link": "https://web3.career/senior-web3-sdet-r3/152390",
-      "company_name": "R3",
-      "description": "quality assurance senior blockchain"
     }
   ]
 }

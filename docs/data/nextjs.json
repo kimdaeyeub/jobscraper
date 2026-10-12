@@ -2,8 +2,14 @@
   "skill": "nextjs",
   "label": "Next.js",
   "count": 15,
-  "updated_at": "2026-10-05T14:05:05.393771+00:00",
+  "updated_at": "2026-10-12T14:53:39.470156+00:00",
   "jobs": [
+    {
+      "title": "Enterprise Blockchain Architect Digital Assets Tokenization",
+      "link": "https://web3.career/enterprise-blockchain-architect-digital-assets-tokenization-maximaconsulting/155026",
+      "company_name": "Maxima Consulting",
+      "description": "tokenization architecture finance"
+    },
     {
       "title": "Blockchain Architect Full Stack – Digital Assets Tokenization",
       "link": "https://web3.career/blockchain-architect-full-stack-digital-assets-tokenization-maximaconsulting/154756",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/full-stack-architect-digital-assets-tokenization-td/152118",
       "company_name": "TD",
       "description": "tokenization architecture finance"
-    },
-    {
-      "title": "Senior Frontend Engineer JTX",
-      "link": "https://web3.career/senior-frontend-engineer-jtx-jito-wtf/152040",
-      "company_name": "Jito Labs",
-      "description": "engineer front end senior"
     }
   ]
 }

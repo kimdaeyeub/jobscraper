@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T14:04:35.025912+00:00",
+  "updated_at": "2026-10-12T14:53:19.802133+00:00",
   "skills": [
     {
       "id": "python",
@@ -109,7 +109,7 @@
     {
       "id": "postgres",
       "label": "PostgreSQL",
-      "count": 6
+      "count": 4
     },
     {
       "id": "mongodb",

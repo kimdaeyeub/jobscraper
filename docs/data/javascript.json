@@ -2,7 +2,7 @@
   "skill": "javascript",
   "label": "JavaScript",
   "count": 17,
-  "updated_at": "2026-10-05T14:04:37.379826+00:00",
+  "updated_at": "2026-10-12T14:53:21.364792+00:00",
   "jobs": [
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
@@ -17,10 +17,34 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Partner support agent",
-      "link": "https://web3.career/partner-support-agent-wert/138262",
-      "company_name": "Wert",
-      "description": "customer support blockchain crypto"
+      "title": "Junior Project Manager Keet P2P 100% remote",
+      "link": "https://web3.career/junior-project-manager-keet-p2p-100-remote-tetheroperationslimited/155221",
+      "company_name": "Tether Operations Limited",
+      "description": "remote junior entry level"
+    },
+    {
+      "title": "Product Engineering Lead QVAC 100% remote",
+      "link": "https://web3.career/product-engineering-lead-qvac-100-remote-tetheroperationslimited/155220",
+      "company_name": "Tether Operations Limited",
+      "description": "remote lead bitcoin"
+    },
+    {
+      "title": "Frontend Software Engineer 100% Remote worldwide",
+      "link": "https://web3.career/frontend-software-engineer-100-remote-worldwide-tetheroperationslimited/155162",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer front end"
+    },
+    {
+      "title": "Frontend Engineer Earn",
+      "link": "https://web3.career/frontend-engineer-earn-binance/155088",
+      "company_name": "Binance",
+      "description": "engineer front end blockchain"
+    },
+    {
+      "title": "Product Engineering Lead Keet 100% Remote Worldwide",
+      "link": "https://web3.career/product-engineering-lead-keet-100-remote-worldwide-tetheroperationslimited/155050",
+      "company_name": "Tether Operations Limited",
+      "description": "remote lead bitcoin"
     },
     {
       "title": "Staff Software Engineer",
@@ -41,16 +65,34 @@
       "description": "engineer front end blockchain"
     },
     {
-      "title": "UI Engineer Salt Lake City",
-      "link": "https://web3.career/ui-engineer-salt-lake-city-taxbit/154703",
-      "company_name": "Taxbit",
-      "description": "engineer design non tech"
+      "title": "Risk Developer",
+      "link": "https://web3.career/risk-developer-dvtrading/154971",
+      "company_name": "Dvtrading",
+      "description": "dev angular docker"
     },
     {
       "title": "Solutions Engineer",
       "link": "https://web3.career/solutions-engineer-bitgo/149986",
       "company_name": "Bitgo",
       "description": "engineer bitcoin blockchain"
+    },
+    {
+      "title": "Senior Technical Product Manager Keet 100% Remote",
+      "link": "https://web3.career/senior-technical-product-manager-keet-100-remote-tetheroperationslimited/154930",
+      "company_name": "Tether Operations Limited",
+      "description": "remote product manager non tech"
+    },
+    {
+      "title": "Partner support agent",
+      "link": "https://web3.career/partner-support-agent-wert/138262",
+      "company_name": "Wert",
+      "description": "customer support blockchain crypto"
+    },
+    {
+      "title": "UI Engineer Salt Lake City",
+      "link": "https://web3.career/ui-engineer-salt-lake-city-taxbit/154703",
+      "company_name": "Taxbit",
+      "description": "engineer design non tech"
     },
     {
       "title": "Binance Accelerator Programm Software Engineer Fullstack AIoriented",
@@ -63,48 +105,6 @@
       "link": "https://web3.career/ai-harness-engineer-100-remote-worldwide-tetheroperationslimited/154638",
       "company_name": "Tether Operations Limited",
       "description": "remote ai engineer"
-    },
-    {
-      "title": "Sr. Software Engineer I API",
-      "link": "https://web3.career/sr-software-engineer-i-api-zinnia/154609",
-      "company_name": "Zinnia",
-      "description": "api engineer dev"
-    },
-    {
-      "title": "Solution Consulting Manager",
-      "link": "https://web3.career/solution-consulting-manager-elliptic/154566",
-      "company_name": "Elliptic",
-      "description": "solution engineer consulting"
-    },
-    {
-      "title": "Senior Software Engineer React Native Business Services",
-      "link": "https://web3.career/senior-software-engineer-react-native-business-services-kraken/154485",
-      "company_name": "Kraken",
-      "description": "engineer react native mobile"
-    },
-    {
-      "title": "QA Engineer Blockchain",
-      "link": "https://web3.career/qa-engineer-blockchain-binance/154296",
-      "company_name": "Binance",
-      "description": "engineer quality assurance blockchain"
-    },
-    {
-      "title": "Android Engineer C++",
-      "link": "https://web3.career/android-engineer-c-binance/154294",
-      "company_name": "Binance",
-      "description": "c c plus plus android"
-    },
-    {
-      "title": "Software Engineer Ruby",
-      "link": "https://web3.career/software-engineer-ruby-tastylive/154247",
-      "company_name": "Tastylive",
-      "description": "engineer ruby dev"
-    },
-    {
-      "title": "Full Stack Engineer Web3",
-      "link": "https://web3.career/full-stack-engineer-web3-vaneck/154235",
-      "company_name": "VanEck",
-      "description": "engineer full stack aws"
     }
   ]
 }

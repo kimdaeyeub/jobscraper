@@ -2,7 +2,7 @@
   "skill": "typescript",
   "label": "TypeScript",
   "count": 20,
-  "updated_at": "2026-10-05T14:04:37.929414+00:00",
+  "updated_at": "2026-10-12T14:53:22.118810+00:00",
   "jobs": [
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
@@ -35,16 +35,46 @@
       "company_name": "Climatiq"
     },
     {
-      "title": "AntiFraud Engineer Spain",
-      "link": "https://web3.career/anti-fraud-engineer-spain-crossmint/154792",
-      "company_name": "Crossmint",
-      "description": "spain engineer security"
+      "title": "Blockchain Engineer Architect Crypto Specialist",
+      "link": "https://web3.career/blockchain-engineer-architect-crypto-specialist-cafemomentumpittsburgh/155188",
+      "company_name": "Café Momentum Pittsburgh",
+      "description": "architecture engineer blockchain"
     },
     {
-      "title": "Data Engineer",
-      "link": "https://web3.career/data-engineer-bcbgroup/140602",
-      "company_name": "Bcbgroup",
-      "description": "data science engineer crypto"
+      "title": "Frontend Software Engineer 100% Remote worldwide",
+      "link": "https://web3.career/frontend-software-engineer-100-remote-worldwide-tetheroperationslimited/155162",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer front end"
+    },
+    {
+      "title": "Founding Software Engineer",
+      "link": "https://web3.career/founding-software-engineer-equanetwork/155132",
+      "company_name": "Equa Network",
+      "description": "founding member engineer dev"
+    },
+    {
+      "title": "Senior Software Engineer Developer Experience",
+      "link": "https://web3.career/senior-software-engineer-developer-experience-alchemy/155127",
+      "company_name": "Alchemy",
+      "description": "dev engineer senior"
+    },
+    {
+      "title": "Solutions Architect US",
+      "link": "https://web3.career/solutions-architect-us-blockdaemon/155102",
+      "company_name": "Blockdaemon",
+      "description": "architecture aws bitcoin"
+    },
+    {
+      "title": "Frontend Engineer Earn",
+      "link": "https://web3.career/frontend-engineer-earn-binance/155088",
+      "company_name": "Binance",
+      "description": "engineer front end blockchain"
+    },
+    {
+      "title": "Senior Security Engineer Product Infrastructure",
+      "link": "https://web3.career/senior-security-engineer-product-infrastructure-squads/155069",
+      "company_name": "Squads",
+      "description": "infrastructure engineer security"
     },
     {
       "title": "Staff Software Engineer",
@@ -59,12 +89,6 @@
       "description": "backend engineer aws"
     },
     {
-      "title": "Senior Software Engineer Rust Consumer",
-      "link": "https://web3.career/senior-software-engineer-rust-consumer-kraken/154721",
-      "company_name": "Kraken",
-      "description": "engineer rust senior"
-    },
-    {
       "title": "Senior Fullstack Engineer Operational Automations",
       "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
       "company_name": "Alpaca",
@@ -77,52 +101,28 @@
       "description": "engineer front end blockchain"
     },
     {
-      "title": "UI Engineer Salt Lake City",
-      "link": "https://web3.career/ui-engineer-salt-lake-city-taxbit/154703",
-      "company_name": "Taxbit",
-      "description": "engineer design non tech"
-    },
-    {
-      "title": "Staff Software Engineer Cloud Infrastructure Systems Engineering Salt Lake City",
-      "link": "https://web3.career/staff-software-engineer-cloud-infrastructure-systems-engineering-salt-lake-city-taxbit/154702",
-      "company_name": "Taxbit",
-      "description": "cloud engineer engineer infrastructure"
-    },
-    {
       "title": "Solutions Engineer",
       "link": "https://web3.career/solutions-engineer-bitgo/149986",
       "company_name": "Bitgo",
       "description": "engineer bitcoin blockchain"
     },
     {
-      "title": "AI Harness Engineer 100% Remote Worldwide",
-      "link": "https://web3.career/ai-harness-engineer-100-remote-worldwide-tetheroperationslimited/154638",
-      "company_name": "Tether Operations Limited",
-      "description": "remote ai engineer"
+      "title": "Security Engineer AppSec",
+      "link": "https://web3.career/security-engineer-appsec-rain/154961",
+      "company_name": "Rain",
+      "description": "engineer security blockchain"
     },
     {
-      "title": "Founding Senior Payments Engineer – Backend Blockchain",
-      "link": "https://web3.career/founding-senior-payments-engineer-backend-blockchain-ihsan/154633",
-      "company_name": "Ihsan",
-      "description": "founding member backend engineer"
+      "title": "AntiFraud Engineer Spain",
+      "link": "https://web3.career/anti-fraud-engineer-spain-crossmint/154792",
+      "company_name": "Crossmint",
+      "description": "spain engineer security"
     },
     {
-      "title": "Applied ML Engineer",
-      "link": "https://web3.career/applied-ml-engineer-sentient/154608",
-      "company_name": "Sentient",
-      "description": "engineer machine learning ai"
-    },
-    {
-      "title": "Senior Security Engineer DeFi",
-      "link": "https://web3.career/senior-security-engineer-defi-mystenlabs/154607",
-      "company_name": "Mysten Labs",
-      "description": "engineer security senior"
-    },
-    {
-      "title": "Forward Deployed Engineer Madrid",
-      "link": "https://web3.career/forward-deployed-engineer-madrid-taxbit/154587",
-      "company_name": "Taxbit",
-      "description": "engineer aws react"
+      "title": "Data Engineer",
+      "link": "https://web3.career/data-engineer-bcbgroup/140602",
+      "company_name": "Bcbgroup",
+      "description": "data science engineer crypto"
     }
   ]
 }

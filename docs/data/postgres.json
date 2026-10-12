@@ -1,26 +1,14 @@
 {
   "skill": "postgres",
   "label": "PostgreSQL",
-  "count": 6,
-  "updated_at": "2026-10-05T14:05:19.169639+00:00",
+  "count": 4,
+  "updated_at": "2026-10-12T14:53:52.330608+00:00",
   "jobs": [
     {
       "title": "Founding Senior Payments Engineer – Backend Blockchain",
       "link": "https://web3.career/founding-senior-payments-engineer-backend-blockchain-ihsan/154633",
       "company_name": "Ihsan",
       "description": "founding member backend engineer"
-    },
-    {
-      "title": "Founding Senior Messenger Engineer — React Native Go RealTime Systems",
-      "link": "https://web3.career/founding-senior-messenger-engineer-react-native-go-real-time-systems-ihsan/153908",
-      "company_name": "Ihsan",
-      "description": "founding member engineer golang"
-    },
-    {
-      "title": "Founding Senior Fraud Risk Engineer — Stablecoin Neobank",
-      "link": "https://web3.career/founding-senior-fraud-risk-engineer-stablecoin-neobank-ihsan/153884",
-      "company_name": "Ihsan",
-      "description": "founding member engineer security"
     },
     {
       "title": "Senior PostgreSQL Database Administrator Database Engineer",

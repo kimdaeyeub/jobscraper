@@ -2,7 +2,7 @@
   "skill": "vue",
   "label": "Vue",
   "count": 15,
-  "updated_at": "2026-10-05T14:04:55.896539+00:00",
+  "updated_at": "2026-10-12T14:53:33.815439+00:00",
   "jobs": [
     {
       "title": "Sr. Software Development Engineer",
@@ -21,6 +21,12 @@
       "link": "https://web3.career/engineering-director-frontend-okx/147551",
       "company_name": "Okx",
       "description": "executive front end blockchain"
+    },
+    {
+      "title": "Risk Developer",
+      "link": "https://web3.career/risk-developer-dvtrading/154971",
+      "company_name": "Dvtrading",
+      "description": "dev angular docker"
     },
     {
       "title": "Binance Accelerator Programm Software Engineer Fullstack AIoriented",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/staff-design-engineer-shakepay/150847",
       "company_name": "Shakepay",
       "description": "design non tech engineer"
-    },
-    {
-      "title": "Binance Accelerator Program Analytics Engineer",
-      "link": "https://web3.career/binance-accelerator-program-analytics-engineer-binance/150818",
-      "company_name": "Binance",
-      "description": "stats engineer aws"
     }
   ]
 }

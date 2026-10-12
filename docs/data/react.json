@@ -2,7 +2,7 @@
   "skill": "react",
   "label": "React",
   "count": 17,
-  "updated_at": "2026-10-05T14:04:53.080697+00:00",
+  "updated_at": "2026-10-12T14:53:31.080621+00:00",
   "jobs": [
     {
       "title": "(Senior) Full-Stack Engineer (AI-Assisted 3D / CAD / BIM Development)",
@@ -17,8 +17,62 @@
       "company_name": "EMS Press"
     },
     {
-      "title": "Blockchain Architect Full Stack – Digital Assets Tokenization",
-      "link": "https://web3.career/blockchain-architect-full-stack-digital-assets-tokenization-maximaconsulting/154756",
+      "title": "Product Engineering Lead QVAC 100% remote",
+      "link": "https://web3.career/product-engineering-lead-qvac-100-remote-tetheroperationslimited/155220",
+      "company_name": "Tether Operations Limited",
+      "description": "remote lead bitcoin"
+    },
+    {
+      "title": "Frontend Software Engineer 100% Remote worldwide",
+      "link": "https://web3.career/frontend-software-engineer-100-remote-worldwide-tetheroperationslimited/155162",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer front end"
+    },
+    {
+      "title": "Senior Software Engineer Developer Experience",
+      "link": "https://web3.career/senior-software-engineer-developer-experience-alchemy/155127",
+      "company_name": "Alchemy",
+      "description": "dev engineer senior"
+    },
+    {
+      "title": "Senior Mobile Engineer Wallets",
+      "link": "https://web3.career/senior-mobile-engineer-wallets-trilitech/155107",
+      "company_name": "Trilitech",
+      "description": "engineer mobile senior"
+    },
+    {
+      "title": "Senior Software Engineer New Markets UK Remote",
+      "link": "https://web3.career/senior-software-engineer-new-markets-uk-remote-alpaca/155098",
+      "company_name": "Alpaca",
+      "description": "remote engineer senior"
+    },
+    {
+      "title": "Frontend Engineer Earn",
+      "link": "https://web3.career/frontend-engineer-earn-binance/155088",
+      "company_name": "Binance",
+      "description": "engineer front end blockchain"
+    },
+    {
+      "title": "Senior Mobile Engineer Consumer App",
+      "link": "https://web3.career/senior-mobile-engineer-consumer-app-moonshot/155066",
+      "company_name": "Moonshot",
+      "description": "engineer mobile senior"
+    },
+    {
+      "title": "Staff Mobile Engineer Consumer App",
+      "link": "https://web3.career/staff-mobile-engineer-consumer-app-moonshot/155065",
+      "company_name": "Moonshot",
+      "description": "engineer mobile crypto"
+    },
+    {
+      "title": "Product Engineering Lead Keet 100% Remote Worldwide",
+      "link": "https://web3.career/product-engineering-lead-keet-100-remote-worldwide-tetheroperationslimited/155050",
+      "company_name": "Tether Operations Limited",
+      "description": "remote lead bitcoin"
+    },
+    {
+      "title": "Enterprise Blockchain Architect Digital Assets Tokenization",
+      "link": "https://web3.career/enterprise-blockchain-architect-digital-assets-tokenization-maximaconsulting/155026",
       "company_name": "Maxima Consulting",
       "description": "tokenization architecture finance"
     },
@@ -41,70 +95,16 @@
       "description": "executive front end blockchain"
     },
     {
+      "title": "Creative Strategist Producer Consumer",
+      "link": "https://web3.career/creative-strategist-producer-consumer-kraken/155001",
+      "company_name": "Kraken",
+      "description": "producer non tech crypto"
+    },
+    {
       "title": "Staff Engineer I",
       "link": "https://web3.career/staff-engineer-i-inmobi/151206",
       "company_name": "Inmobi",
       "description": "engineer aws react"
-    },
-    {
-      "title": "Senior Software Engineer Rust Consumer",
-      "link": "https://web3.career/senior-software-engineer-rust-consumer-kraken/154721",
-      "company_name": "Kraken",
-      "description": "engineer rust senior"
-    },
-    {
-      "title": "Senior Software Engineer New Markets",
-      "link": "https://web3.career/senior-software-engineer-new-markets-alpaca/152338",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior Fullstack Engineer Operational Automations",
-      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
-      "company_name": "Alpaca",
-      "description": "engineer full stack operations"
-    },
-    {
-      "title": "FrontEnd Engineer Institutional",
-      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
-      "company_name": "Blockchain",
-      "description": "engineer front end blockchain"
-    },
-    {
-      "title": "UI Engineer Salt Lake City",
-      "link": "https://web3.career/ui-engineer-salt-lake-city-taxbit/154703",
-      "company_name": "Taxbit",
-      "description": "engineer design non tech"
-    },
-    {
-      "title": "Binance Accelerator Programm Software Engineer Fullstack AIoriented",
-      "link": "https://web3.career/binance-accelerator-programm-software-engineer-full-stack-ai-oriented-binance/154694",
-      "company_name": "Binance",
-      "description": "ai engineer full stack"
-    },
-    {
-      "title": "Crypto Blockchain Architect",
-      "link": "https://web3.career/crypto-blockchain-architect-irissoftwareinc/154660",
-      "company_name": "Iris Software Inc.",
-      "description": "architecture blockchain aws"
-    },
-    {
-      "title": "Founding Senior Payments Engineer – Backend Blockchain",
-      "link": "https://web3.career/founding-senior-payments-engineer-backend-blockchain-ihsan/154633",
-      "company_name": "Ihsan",
-      "description": "founding member backend engineer"
-    },
-    {
-      "title": "Sr. Software Engineer I API",
-      "link": "https://web3.career/sr-software-engineer-i-api-zinnia/154609",
-      "company_name": "Zinnia",
-      "description": "api engineer dev"
-    },
-    {
-      "title": "Applied ML Engineer",
-      "link": "https://web3.career/applied-ml-engineer-sentient/154608",
-      "company_name": "Sentient",
-      "description": "engineer machine learning ai"
     }
   ]
 }

@@ -2,8 +2,14 @@
   "skill": "angular",
   "label": "Angular",
   "count": 15,
-  "updated_at": "2026-10-05T14:04:56.461616+00:00",
+  "updated_at": "2026-10-12T14:53:36.056252+00:00",
   "jobs": [
+    {
+      "title": "Risk Developer",
+      "link": "https://web3.career/risk-developer-dvtrading/154971",
+      "company_name": "Dvtrading",
+      "description": "dev angular docker"
+    },
     {
       "title": "Software Engineer II Blockchain",
       "link": "https://web3.career/software-engineer-ii-blockchain-mastercard/154233",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
       "company_name": "Bitpanda",
       "description": "c c plus plus javascript"
-    },
-    {
-      "title": "Blockchain Developer",
-      "link": "https://web3.career/blockchain-developer-infosys/151605",
-      "company_name": "Infosys",
-      "description": "dev blockchain angular"
     }
   ]
 }

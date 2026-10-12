@@ -2,7 +2,7 @@
   "skill": "docker",
   "label": "Docker",
   "count": 19,
-  "updated_at": "2026-10-05T14:05:41.076995+00:00",
+  "updated_at": "2026-10-12T14:54:00.290684+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
@@ -29,10 +29,22 @@
       "company_name": "DATATRONiQ"
     },
     {
+      "title": "Blockchain Engineer",
+      "link": "https://web3.career/blockchain-engineer-globalsettlementnetwork/155057",
+      "company_name": "Global Settlement Network",
+      "description": "engineer blockchain aws"
+    },
+    {
       "title": "Sr. Software Development Engineer",
       "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
       "company_name": "Zscaler",
       "description": "engineer dev senior"
+    },
+    {
+      "title": "Staff Machine Learning Engineer",
+      "link": "https://web3.career/staff-machine-learning-engineer-zscaler/103862",
+      "company_name": "Zscaler",
+      "description": "engineer machine learning ai"
     },
     {
       "title": "Staff Software Engineer",
@@ -41,16 +53,16 @@
       "description": "engineer dev aws"
     },
     {
+      "title": "Senior Backend Engineer",
+      "link": "https://web3.career/senior-backend-engineer-sentient/155007",
+      "company_name": "Sentient",
+      "description": "backend engineer senior"
+    },
+    {
       "title": "SDE III Devops",
       "link": "https://web3.career/sde-iii-devops-inmobi/100181",
       "company_name": "Inmobi",
       "description": "devops aws docker"
-    },
-    {
-      "title": "Software Engineer Market Data",
-      "link": "https://web3.career/software-engineer-market-data-alpaca/152866",
-      "company_name": "Alpaca",
-      "description": "engineer dev aws"
     },
     {
       "title": "Senior Fullstack Engineer Operational Automations",
@@ -63,6 +75,24 @@
       "link": "https://web3.career/senior-devops-engineer-alpaca/99650",
       "company_name": "Alpaca",
       "description": "devops engineer senior"
+    },
+    {
+      "title": "Senior Data Platm Engineer",
+      "link": "https://web3.career/senior-data-platform-engineer-alpaca/107788",
+      "company_name": "Alpaca",
+      "description": "engineer senior crypto"
+    },
+    {
+      "title": "Risk Developer",
+      "link": "https://web3.career/risk-developer-dvtrading/154971",
+      "company_name": "Dvtrading",
+      "description": "dev angular docker"
+    },
+    {
+      "title": "Software Engineer Market Data",
+      "link": "https://web3.career/software-engineer-market-data-alpaca/152866",
+      "company_name": "Alpaca",
+      "description": "engineer dev aws"
     },
     {
       "title": "Senior Data Engineer",
@@ -87,36 +117,6 @@
       "link": "https://web3.career/senior-blockchain-engineer-settlement-globalsettlementnetwork/154529",
       "company_name": "Global Settlement Network",
       "description": "engineer senior blockchain"
-    },
-    {
-      "title": "Software Engineer Crypto",
-      "link": "https://web3.career/software-engineer-crypto-alpaca/154475",
-      "company_name": "Alpaca",
-      "description": "engineer dev aws"
-    },
-    {
-      "title": "QA Engineer Blockchain",
-      "link": "https://web3.career/qa-engineer-blockchain-binance/154296",
-      "company_name": "Binance",
-      "description": "engineer quality assurance blockchain"
-    },
-    {
-      "title": "DevOps Engineer Infra",
-      "link": "https://web3.career/devops-engineer-infra-binance/154292",
-      "company_name": "Binance",
-      "description": "devops engineer aws"
-    },
-    {
-      "title": "DevOps Engineer Cloud Infra",
-      "link": "https://web3.career/devops-engineer-cloud-infra-binance/154291",
-      "company_name": "Binance",
-      "description": "cloud engineer engineer devops"
-    },
-    {
-      "title": "DevSecOps Staff Engineer",
-      "link": "https://web3.career/devsecops-staff-engineer-grayscaleinvestments/154268",
-      "company_name": "Grayscaleinvestments",
-      "description": "engineer aws crypto"
     }
   ]
 }

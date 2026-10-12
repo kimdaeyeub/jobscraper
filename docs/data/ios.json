@@ -2,14 +2,8 @@
   "skill": "ios",
   "label": "iOS",
   "count": 15,
-  "updated_at": "2026-10-05T14:05:52.694036+00:00",
+  "updated_at": "2026-10-12T14:54:06.691225+00:00",
   "jobs": [
-    {
-      "title": "Senior iOS Engineer",
-      "link": "https://web3.career/senior-ios-engineer-ondofinance/154896",
-      "company_name": "Ondo Finance",
-      "description": "engineer ios mobile"
-    },
     {
       "title": "Engineering Director Mobile iOS Android",
       "link": "https://web3.career/engineering-director-mobile-ios-android-okx/150697",
@@ -17,10 +11,10 @@
       "description": "android mobile executive"
     },
     {
-      "title": "Founding Senior Messenger Engineer — React Native Go RealTime Systems",
-      "link": "https://web3.career/founding-senior-messenger-engineer-react-native-go-real-time-systems-ihsan/153908",
-      "company_name": "Ihsan",
-      "description": "founding member engineer golang"
+      "title": "Senior iOS Engineer",
+      "link": "https://web3.career/senior-ios-engineer-ondofinance/154896",
+      "company_name": "Ondo Finance",
+      "description": "engineer ios mobile"
     },
     {
       "title": "Senior Software Engineer iOS Paris",
@@ -93,6 +87,12 @@
       "link": "https://web3.career/senior-ios-engineer-web3-binance/147375",
       "company_name": "Binance",
       "description": "engineer ios mobile"
+    },
+    {
+      "title": "iOS Developer",
+      "link": "https://web3.career/ios-developer-okx/145493",
+      "company_name": "Okx",
+      "description": "dev ios mobile"
     }
   ]
 }

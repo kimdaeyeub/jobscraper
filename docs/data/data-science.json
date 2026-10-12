@@ -2,7 +2,7 @@
   "skill": "data-science",
   "label": "Data Science",
   "count": 19,
-  "updated_at": "2026-10-05T14:05:51.682003+00:00",
+  "updated_at": "2026-10-12T14:54:05.300952+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
@@ -29,10 +29,22 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Data Engineer",
-      "link": "https://web3.career/data-engineer-bcbgroup/140602",
-      "company_name": "Bcbgroup",
-      "description": "data science engineer crypto"
+      "title": "数据分析负责人 Lead Data Analyst",
+      "link": "https://web3.career/lead-data-analyst-animocabrands/155133",
+      "company_name": "Animoca Brands Limited",
+      "description": "analyst data science lead"
+    },
+    {
+      "title": "Senior Data Scientist AI Evaluation",
+      "link": "https://web3.career/senior-data-scientist-ai-evaluation-alpaca/155097",
+      "company_name": "Alpaca",
+      "description": "scientist ai data science"
+    },
+    {
+      "title": "Pioneer Talent Program Applied Data Scientist",
+      "link": "https://web3.career/pioneer-talent-program-applied-data-scientist-binance/155054",
+      "company_name": "Binance",
+      "description": "scientist data science recruiter"
     },
     {
       "title": "Senior Data Engineer",
@@ -66,6 +78,24 @@
     },
     {
       "title": "Senior Data Engineer",
+      "link": "https://web3.career/senior-data-engineer-hyperboliclabs/154996",
+      "company_name": "Hyperbolic Labs",
+      "description": "data science engineer senior"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "link": "https://web3.career/senior-data-engineer-nansen/103438",
+      "company_name": "Nansen",
+      "description": "data science engineer senior"
+    },
+    {
+      "title": "Data Engineer",
+      "link": "https://web3.career/data-engineer-bcbgroup/140602",
+      "company_name": "Bcbgroup",
+      "description": "data science engineer crypto"
+    },
+    {
+      "title": "Senior Data Engineer",
       "link": "https://web3.career/senior-data-engineer-alpaca/151988",
       "company_name": "Alpaca",
       "description": "data science engineer senior"
@@ -83,40 +113,10 @@
       "description": "data science engineer remote"
     },
     {
-      "title": "Senior Data Engineer",
-      "link": "https://web3.career/senior-data-engineer-nansen/103438",
-      "company_name": "Nansen",
-      "description": "data science engineer senior"
-    },
-    {
       "title": "Binance Accelerator Program Data Scientist Analytics copy",
       "link": "https://web3.career/binance-accelerator-program-data-scientist-analytics-copy-binance/154546",
       "company_name": "Binance",
       "description": "scientist stats data science"
-    },
-    {
-      "title": "Data Analyst Marketing",
-      "link": "https://web3.career/data-analyst-marketing-bluecubeservices/140151",
-      "company_name": "Bluecubeservices",
-      "description": "analyst data science marketing"
-    },
-    {
-      "title": "Data Analyst Team Lead",
-      "link": "https://web3.career/data-analyst-team-lead-binance/154287",
-      "company_name": "Binance",
-      "description": "analyst data science lead"
-    },
-    {
-      "title": "Financial Data Engineer AI LLM",
-      "link": "https://web3.career/financial-data-engineer-ai-llm-binance/154243",
-      "company_name": "Binance",
-      "description": "data science engineer ai"
-    },
-    {
-      "title": "Senior Financial Data Engineer",
-      "link": "https://web3.career/senior-financial-data-engineer-binance/154194",
-      "company_name": "Binance",
-      "description": "data science engineer finance"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "skill": "python",
   "label": "Python",
   "count": 19,
-  "updated_at": "2026-10-05T14:04:36.029612+00:00",
+  "updated_at": "2026-10-12T14:53:20.727798+00:00",
   "jobs": [
     {
       "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
@@ -27,6 +27,12 @@
       "description": "AIDAR is building the future of artist scouting. We help A&Rs and music professionals discover artists that truly fit their creative vision — using personalized AI agents that scout the global music landscape 24/7. The product is live, the beta is working, and we already have paying customers and EXIST AI Transfer funding. Role Now,...",
       "link": "https://berlinstartupjobs.com/engineering/senior-full-stack-developer-data-scientist-remote-friendly-aidar/",
       "company_name": "AIDAR"
+    },
+    {
+      "title": "Robotics Lead",
+      "link": "https://web3.career/robotics-lead-telegraph/155257",
+      "company_name": "Telegraph",
+      "description": "robotics lead ai"
     },
     {
       "title": "Staff Software Engineer AI Security Go Rust Python",
@@ -111,12 +117,6 @@
       "link": "https://web3.career/security-engineer-python-binance/144925",
       "company_name": "Binance",
       "description": "engineer python security"
-    },
-    {
-      "title": "Principal Software Engineer Backend Python Golang",
-      "link": "https://web3.career/principal-software-engineer-backend-python-golang-zscaler/143950",
-      "company_name": "Zscaler",
-      "description": "backend engineer golang"
     }
   ]
 }

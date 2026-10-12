@@ -2,31 +2,67 @@
   "skill": "aws",
   "label": "AWS",
   "count": 15,
-  "updated_at": "2026-10-05T14:05:31.250250+00:00",
+  "updated_at": "2026-10-12T14:53:59.774644+00:00",
   "jobs": [
     {
-      "title": "Senior iOS Engineer",
-      "link": "https://web3.career/senior-ios-engineer-ondofinance/154896",
-      "company_name": "Ondo Finance",
-      "description": "engineer ios mobile"
+      "title": "Senior Sales Manager DACH AI Inference",
+      "link": "https://web3.career/senior-sales-manager-dach-ai-inference-impossiblecloud/155157",
+      "company_name": "Impossible Cloud",
+      "description": "ai sales non tech"
     },
     {
-      "title": "Network Security Engineer Senior Network Security Engineer",
-      "link": "https://web3.career/network-security-engineer-senior-network-security-engineer-crypto-com/154780",
-      "company_name": "Crypto.com",
-      "description": "engineer security senior"
+      "title": "Senior Software Engineer Developer Experience",
+      "link": "https://web3.career/senior-software-engineer-developer-experience-alchemy/155127",
+      "company_name": "Alchemy",
+      "description": "dev engineer senior"
     },
     {
-      "title": "Platm Engineer Infrastructure",
-      "link": "https://web3.career/platform-engineer-infrastructure-helius/154765",
-      "company_name": "Helius",
-      "description": "infrastructure engineer aws"
+      "title": "Escalation Engineer DLP",
+      "link": "https://web3.career/escalation-engineer-dlp-zscaler/148637",
+      "company_name": "Zscaler",
+      "description": "engineer aws remote"
     },
     {
-      "title": "Senior Software Development Engineer",
-      "link": "https://web3.career/senior-software-development-engineer-candydigital/154753",
-      "company_name": "Candy Digital",
-      "description": "engineer senior dev"
+      "title": "Manager Professional Services Consulting",
+      "link": "https://web3.career/manager-professional-services-consulting-zscaler/155108",
+      "company_name": "Zscaler",
+      "description": "consulting aws remote"
+    },
+    {
+      "title": "Solutions Architect US",
+      "link": "https://web3.career/solutions-architect-us-blockdaemon/155102",
+      "company_name": "Blockdaemon",
+      "description": "architecture aws bitcoin"
+    },
+    {
+      "title": "Data Platm Engineer",
+      "link": "https://web3.career/data-platform-engineer-alpaca/155096",
+      "company_name": "Alpaca",
+      "description": "engineer aws crypto"
+    },
+    {
+      "title": "Senior Security Engineer Product Infrastructure",
+      "link": "https://web3.career/senior-security-engineer-product-infrastructure-squads/155069",
+      "company_name": "Squads",
+      "description": "infrastructure engineer security"
+    },
+    {
+      "title": "Blockchain Engineer",
+      "link": "https://web3.career/blockchain-engineer-globalsettlementnetwork/155057",
+      "company_name": "Global Settlement Network",
+      "description": "engineer blockchain aws"
+    },
+    {
+      "title": "Professional Services Consultant EMEA",
+      "link": "https://web3.career/professional-services-consultant-emea-zscaler/155010",
+      "company_name": "Zscaler",
+      "description": "consulting aws remote"
+    },
+    {
+      "title": "Professional Services Consultant",
+      "link": "https://web3.career/professional-services-consultant-zscaler/154284",
+      "company_name": "Zscaler",
+      "description": "consulting aws remote"
     },
     {
       "title": "Senior Technical Success Manager",
@@ -35,64 +71,28 @@
       "description": "sales non tech senior"
     },
     {
+      "title": "Staff Machine Learning Engineer",
+      "link": "https://web3.career/staff-machine-learning-engineer-zscaler/103862",
+      "company_name": "Zscaler",
+      "description": "engineer machine learning ai"
+    },
+    {
       "title": "Staff Software Engineer",
       "link": "https://web3.career/staff-software-engineer-zinnia/144788",
       "company_name": "Zinnia",
       "description": "engineer dev aws"
     },
     {
+      "title": "Senior Backend Engineer",
+      "link": "https://web3.career/senior-backend-engineer-sentient/155007",
+      "company_name": "Sentient",
+      "description": "backend engineer senior"
+    },
+    {
       "title": "Backend Engineer",
       "link": "https://web3.career/backend-engineer-layerzerolabs/73714",
       "company_name": "Layerzerolabs",
       "description": "backend engineer aws"
-    },
-    {
-      "title": "Staff Engineer I",
-      "link": "https://web3.career/staff-engineer-i-inmobi/151206",
-      "company_name": "Inmobi",
-      "description": "engineer aws react"
-    },
-    {
-      "title": "SDE III Devops",
-      "link": "https://web3.career/sde-iii-devops-inmobi/100181",
-      "company_name": "Inmobi",
-      "description": "devops aws docker"
-    },
-    {
-      "title": "Founding Technical Account Executive",
-      "link": "https://web3.career/founding-technical-account-executive-doublezero/154715",
-      "company_name": "DoubleZero",
-      "description": "account manager sales non tech"
-    },
-    {
-      "title": "Platm Engineer II Foundation",
-      "link": "https://web3.career/platform-engineer-ii-foundation-chainalysis/154712",
-      "company_name": "Chainalysis",
-      "description": "engineer aws blockchain"
-    },
-    {
-      "title": "Senior SOC Analyst Security Operations",
-      "link": "https://web3.career/senior-soc-analyst-security-operations-bitpanda/153640",
-      "company_name": "Bitpanda",
-      "description": "analyst operations security"
-    },
-    {
-      "title": "Software Engineer Market Data",
-      "link": "https://web3.career/software-engineer-market-data-alpaca/152866",
-      "company_name": "Alpaca",
-      "description": "engineer dev aws"
-    },
-    {
-      "title": "Site Reliability Engineer Core",
-      "link": "https://web3.career/site-reliability-engineer-core-blockchain/98053",
-      "company_name": "Blockchain",
-      "description": "engineer reliability aws"
-    },
-    {
-      "title": "Infrastructure Security Engineer",
-      "link": "https://web3.career/infrastructure-security-engineer-blockchain/148496",
-      "company_name": "Blockchain",
-      "description": "infrastructure engineer security"
     }
   ]
 }
