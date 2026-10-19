@@ -2,8 +2,26 @@
   "skill": "nextjs",
   "label": "Next.js",
   "count": 15,
-  "updated_at": "2026-10-12T14:53:39.470156+00:00",
+  "updated_at": "2026-10-19T12:38:43.143808+00:00",
   "jobs": [
+    {
+      "title": "AI Native Developer",
+      "link": "https://web3.career/ai-native-developer-impossible/155424",
+      "company_name": "IMPOSSIBLE",
+      "description": "ai dev remote"
+    },
+    {
+      "title": "Software Engineer Growth Foundations",
+      "link": "https://web3.career/software-engineer-growth-foundations-kraken/155401",
+      "company_name": "Kraken",
+      "description": "growth engineer dev"
+    },
+    {
+      "title": "Staff Software Engineer Mission Control",
+      "link": "https://web3.career/staff-software-engineer-mission-control-polymarket/155384",
+      "company_name": "Polymarket",
+      "description": "engineer dev blockchain"
+    },
     {
       "title": "Enterprise Blockchain Architect Digital Assets Tokenization",
       "link": "https://web3.career/enterprise-blockchain-architect-digital-assets-tokenization-maximaconsulting/155026",
@@ -75,24 +93,6 @@
       "link": "https://web3.career/senior-web-engineer-perps-polymarket/152648",
       "company_name": "Polymarket",
       "description": "engineer senior crypto"
-    },
-    {
-      "title": "Director of Engineering Contract LATAM",
-      "link": "https://web3.career/director-of-engineering-contract-latam-nexus/152549",
-      "company_name": "Nexus",
-      "description": "executive blockchain kubernetes"
-    },
-    {
-      "title": "Product Engineer",
-      "link": "https://web3.career/product-engineer-improbable/152268",
-      "company_name": "Improbable",
-      "description": "engineer blockchain javascript"
-    },
-    {
-      "title": "Full Stack Architect Digital Assets Tokenization",
-      "link": "https://web3.career/full-stack-architect-digital-assets-tokenization-td/152118",
-      "company_name": "TD",
-      "description": "tokenization architecture finance"
     }
   ]
 }

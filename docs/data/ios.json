@@ -2,13 +2,25 @@
   "skill": "ios",
   "label": "iOS",
   "count": 15,
-  "updated_at": "2026-10-12T14:54:06.691225+00:00",
+  "updated_at": "2026-10-19T12:39:31.628057+00:00",
   "jobs": [
+    {
+      "title": "Senior iOS Engineer Crypto Perpetuals",
+      "link": "https://web3.career/senior-ios-engineer-crypto-perpetuals-robinhood/155532",
+      "company_name": "Robinhood",
+      "description": "engineer ios mobile"
+    },
     {
       "title": "Engineering Director Mobile iOS Android",
       "link": "https://web3.career/engineering-director-mobile-ios-android-okx/150697",
       "company_name": "Okx",
       "description": "android mobile executive"
+    },
+    {
+      "title": "Senior Software Engineer Mobile React Native iOS Android",
+      "link": "https://web3.career/senior-software-engineer-mobile-react-native-ios-android-bitgo/155364",
+      "company_name": "Bitgo",
+      "description": "android mobile engineer"
     },
     {
       "title": "Senior iOS Engineer",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/ios-engineer-rain/147936",
       "company_name": "Rain",
       "description": "engineer ios mobile"
-    },
-    {
-      "title": "Senior iOS Engineer Web3",
-      "link": "https://web3.career/senior-ios-engineer-web3-binance/147375",
-      "company_name": "Binance",
-      "description": "engineer ios mobile"
-    },
-    {
-      "title": "iOS Developer",
-      "link": "https://web3.career/ios-developer-okx/145493",
-      "company_name": "Okx",
-      "description": "dev ios mobile"
     }
   ]
 }

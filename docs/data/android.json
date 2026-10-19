@@ -2,7 +2,7 @@
   "skill": "android",
   "label": "Android",
   "count": 16,
-  "updated_at": "2026-10-12T14:54:06.097513+00:00",
+  "updated_at": "2026-10-19T12:39:28.171887+00:00",
   "jobs": [
     {
       "title": "Kotlin Developer (Android / Multiplatform) (m/w/d)",
@@ -15,6 +15,12 @@
       "link": "https://web3.career/engineering-director-mobile-ios-android-okx/150697",
       "company_name": "Okx",
       "description": "android mobile executive"
+    },
+    {
+      "title": "Senior Software Engineer Mobile React Native iOS Android",
+      "link": "https://web3.career/senior-software-engineer-mobile-react-native-ios-android-bitgo/155364",
+      "company_name": "Bitgo",
+      "description": "android mobile engineer"
     },
     {
       "title": "Android Engineer C++",
@@ -93,12 +99,6 @@
       "link": "https://web3.career/android-engineer-sdks-contract-spain-or-us-crossmint/147243",
       "company_name": "Crossmint",
       "description": "spain android mobile"
-    },
-    {
-      "title": "Android Engineer",
-      "link": "https://web3.career/android-engineer-blockchain/146874",
-      "company_name": "Blockchain",
-      "description": "android mobile engineer"
     }
   ]
 }

@@ -2,18 +2,18 @@
   "skill": "typescript",
   "label": "TypeScript",
   "count": 20,
-  "updated_at": "2026-10-12T14:53:22.118810+00:00",
+  "updated_at": "2026-10-19T12:38:03.558574+00:00",
   "jobs": [
-    {
-      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
-      "company_name": "DATATRONiQ"
-    },
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
       "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
       "company_name": "DATATRONiQ"
     },
     {
@@ -35,46 +35,58 @@
       "company_name": "Climatiq"
     },
     {
-      "title": "Blockchain Engineer Architect Crypto Specialist",
-      "link": "https://web3.career/blockchain-engineer-architect-crypto-specialist-cafemomentumpittsburgh/155188",
-      "company_name": "Café Momentum Pittsburgh",
-      "description": "architecture engineer blockchain"
+      "title": "Engineering Lead Wallets NYC",
+      "link": "https://web3.career/engineering-lead-wallets-nyc-crossmint/155528",
+      "company_name": "Crossmint",
+      "description": "lead aws blockchain"
     },
     {
-      "title": "Frontend Software Engineer 100% Remote worldwide",
-      "link": "https://web3.career/frontend-software-engineer-100-remote-worldwide-tetheroperationslimited/155162",
+      "title": "Founding Senior Payments Engineer – Backend Blockchain",
+      "link": "https://web3.career/founding-senior-payments-engineer-backend-blockchain-ihsan/154633",
+      "company_name": "Ihsan",
+      "description": "founding member backend engineer"
+    },
+    {
+      "title": "Developer Productivity Engineer 100% Remote",
+      "link": "https://web3.career/developer-productivity-engineer-100-remote-tetheroperationslimited/155501",
       "company_name": "Tether Operations Limited",
-      "description": "remote engineer front end"
+      "description": "remote dev engineer"
     },
     {
-      "title": "Founding Software Engineer",
-      "link": "https://web3.career/founding-software-engineer-equanetwork/155132",
-      "company_name": "Equa Network",
-      "description": "founding member engineer dev"
+      "title": "Fullstack Engineer AgenticOps 100% Remote",
+      "link": "https://web3.career/fullstack-engineer-agenticops-100-remote-tetheroperationslimited/155499",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer full stack"
     },
     {
-      "title": "Senior Software Engineer Developer Experience",
-      "link": "https://web3.career/senior-software-engineer-developer-experience-alchemy/155127",
-      "company_name": "Alchemy",
-      "description": "dev engineer senior"
+      "title": "Staff Fullstack Engineer",
+      "link": "https://web3.career/staff-fullstack-engineer-alpaca/155469",
+      "company_name": "Alpaca",
+      "description": "engineer full stack crypto"
     },
     {
-      "title": "Solutions Architect US",
-      "link": "https://web3.career/solutions-architect-us-blockdaemon/155102",
-      "company_name": "Blockdaemon",
-      "description": "architecture aws bitcoin"
+      "title": "Software Engineer Trade",
+      "link": "https://web3.career/software-engineer-trade-bitgo/140687",
+      "company_name": "Bitgo",
+      "description": "engineer dev bitcoin"
     },
     {
-      "title": "Frontend Engineer Earn",
-      "link": "https://web3.career/frontend-engineer-earn-binance/155088",
-      "company_name": "Binance",
-      "description": "engineer front end blockchain"
+      "title": "Frontend Desktop Engineer",
+      "link": "https://web3.career/frontend-desktop-engineer-tetheroperationslimited/155430",
+      "company_name": "Tether Operations Limited",
+      "description": "engineer front end bitcoin"
     },
     {
-      "title": "Senior Security Engineer Product Infrastructure",
-      "link": "https://web3.career/senior-security-engineer-product-infrastructure-squads/155069",
-      "company_name": "Squads",
-      "description": "infrastructure engineer security"
+      "title": "Automation QA Engineer QVAC 100% remote",
+      "link": "https://web3.career/automation-qa-engineer-qvac-100-remote-tetheroperationslimited/155427",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer quality assurance"
+    },
+    {
+      "title": "AI Native Developer",
+      "link": "https://web3.career/ai-native-developer-impossible/155424",
+      "company_name": "IMPOSSIBLE",
+      "description": "ai dev remote"
     },
     {
       "title": "Staff Software Engineer",
@@ -83,46 +95,34 @@
       "description": "engineer dev aws"
     },
     {
+      "title": "Software Engineer Growth Foundations",
+      "link": "https://web3.career/software-engineer-growth-foundations-kraken/155401",
+      "company_name": "Kraken",
+      "description": "growth engineer dev"
+    },
+    {
       "title": "Backend Engineer",
       "link": "https://web3.career/backend-engineer-layerzerolabs/73714",
       "company_name": "Layerzerolabs",
       "description": "backend engineer aws"
     },
     {
+      "title": "Staff Software Engineer Mission Control",
+      "link": "https://web3.career/staff-software-engineer-mission-control-polymarket/155384",
+      "company_name": "Polymarket",
+      "description": "engineer dev blockchain"
+    },
+    {
+      "title": "Associate AI Engineer",
+      "link": "https://web3.career/associate-ai-engineer-figure/155382",
+      "company_name": "Figure",
+      "description": "ai engineer blockchain"
+    },
+    {
       "title": "Senior Fullstack Engineer Operational Automations",
       "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
       "company_name": "Alpaca",
       "description": "engineer full stack operations"
-    },
-    {
-      "title": "FrontEnd Engineer Institutional",
-      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
-      "company_name": "Blockchain",
-      "description": "engineer front end blockchain"
-    },
-    {
-      "title": "Solutions Engineer",
-      "link": "https://web3.career/solutions-engineer-bitgo/149986",
-      "company_name": "Bitgo",
-      "description": "engineer bitcoin blockchain"
-    },
-    {
-      "title": "Security Engineer AppSec",
-      "link": "https://web3.career/security-engineer-appsec-rain/154961",
-      "company_name": "Rain",
-      "description": "engineer security blockchain"
-    },
-    {
-      "title": "AntiFraud Engineer Spain",
-      "link": "https://web3.career/anti-fraud-engineer-spain-crossmint/154792",
-      "company_name": "Crossmint",
-      "description": "spain engineer security"
-    },
-    {
-      "title": "Data Engineer",
-      "link": "https://web3.career/data-engineer-bcbgroup/140602",
-      "company_name": "Bcbgroup",
-      "description": "data science engineer crypto"
     }
   ]
 }

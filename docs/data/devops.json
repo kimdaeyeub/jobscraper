@@ -2,13 +2,25 @@
   "skill": "devops",
   "label": "DevOps",
   "count": 16,
-  "updated_at": "2026-10-12T14:54:04.054002+00:00",
+  "updated_at": "2026-10-19T12:39:23.651099+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
       "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
       "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-localcoin/148996",
+      "company_name": "Localcoin",
+      "description": "devops engineer senior"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-woo/95674",
+      "company_name": "Woo",
+      "description": "devops engineer senior"
     },
     {
       "title": "SDE III Devops",
@@ -86,18 +98,6 @@
       "title": "Senior DevOps Engineer",
       "link": "https://web3.career/senior-devops-engineer-bitpanda/75931",
       "company_name": "Bitpanda",
-      "description": "devops engineer senior"
-    },
-    {
-      "title": "DevOps Engineer",
-      "link": "https://web3.career/devops-engineer-confirmo/151836",
-      "company_name": "Confirmo",
-      "description": "devops engineer aws"
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-copperco/96368",
-      "company_name": "Copperco",
       "description": "devops engineer senior"
     }
   ]

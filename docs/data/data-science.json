@@ -2,8 +2,20 @@
   "skill": "data-science",
   "label": "Data Science",
   "count": 19,
-  "updated_at": "2026-10-12T14:54:05.300952+00:00",
+  "updated_at": "2026-10-19T12:39:24.529487+00:00",
   "jobs": [
+    {
+      "title": "Senior Backend Developer – Go & Kubernetes",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Senior Data Scientist – Python, ML & Signal-Processing",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Data Scientist bei uns trainierst Du Machine-Learning-Modelle auf Basis von realen Maschinen- und Sensordaten – weltweit, vom mittelständischen Fertiger bis zum DAX-Konzern. Anomalieerkennung, Predictive Maintenance und Qualitätsüberwachung in Echtzeit. Die Daten sind echt, die Maschinen stehen in laufenden Produktionen, und Deine...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-data-scientist-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
@@ -17,34 +29,16 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Data Scientist – Python, ML & Signal-Processing",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Data Scientist bei uns trainierst Du Machine-Learning-Modelle auf Basis von realen Maschinen- und Sensordaten – weltweit, vom mittelständischen Fertiger bis zum DAX-Konzern. Anomalieerkennung, Predictive Maintenance und Qualitätsüberwachung in Echtzeit. Die Daten sind echt, die Maschinen stehen in laufenden Produktionen, und Deine...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-data-scientist-datatroniq/",
-      "company_name": "DATATRONiQ"
+      "title": "Intern Data Engineer",
+      "link": "https://web3.career/intern-data-engineer-bitpanda/155471",
+      "company_name": "Bitpanda",
+      "description": "data science engineer intern"
     },
     {
-      "title": "Senior Backend Developer – Go & Kubernetes",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
-      "company_name": "DATATRONiQ"
-    },
-    {
-      "title": "数据分析负责人 Lead Data Analyst",
-      "link": "https://web3.career/lead-data-analyst-animocabrands/155133",
-      "company_name": "Animoca Brands Limited",
-      "description": "analyst data science lead"
-    },
-    {
-      "title": "Senior Data Scientist AI Evaluation",
-      "link": "https://web3.career/senior-data-scientist-ai-evaluation-alpaca/155097",
-      "company_name": "Alpaca",
-      "description": "scientist ai data science"
-    },
-    {
-      "title": "Pioneer Talent Program Applied Data Scientist",
-      "link": "https://web3.career/pioneer-talent-program-applied-data-scientist-binance/155054",
-      "company_name": "Binance",
-      "description": "scientist data science recruiter"
+      "title": "Senior Data Engineer",
+      "link": "https://web3.career/senior-data-engineer-alchemy/155465",
+      "company_name": "Alchemy",
+      "description": "data science engineer senior"
     },
     {
       "title": "Senior Data Engineer",
@@ -77,9 +71,15 @@
       "description": "scientist analyst data science"
     },
     {
+      "title": "Senior Data Analyst",
+      "link": "https://web3.career/senior-data-analyst-figure/155383",
+      "company_name": "Figure",
+      "description": "analyst data science senior"
+    },
+    {
       "title": "Senior Data Engineer",
-      "link": "https://web3.career/senior-data-engineer-hyperboliclabs/154996",
-      "company_name": "Hyperbolic Labs",
+      "link": "https://web3.career/senior-data-engineer-woo/155372",
+      "company_name": "Woo",
       "description": "data science engineer senior"
     },
     {
@@ -89,34 +89,34 @@
       "description": "data science engineer senior"
     },
     {
-      "title": "Data Engineer",
-      "link": "https://web3.career/data-engineer-bcbgroup/140602",
-      "company_name": "Bcbgroup",
-      "description": "data science engineer crypto"
-    },
-    {
       "title": "Senior Data Engineer",
-      "link": "https://web3.career/senior-data-engineer-alpaca/151988",
-      "company_name": "Alpaca",
+      "link": "https://web3.career/senior-data-engineer-bitgo/155363",
+      "company_name": "Bitgo",
       "description": "data science engineer senior"
     },
     {
-      "title": "Staff Data Scientist Growth",
-      "link": "https://web3.career/staff-data-scientist-growth-alpaca/154705",
+      "title": "数据分析负责人 Lead Data Analyst",
+      "link": "https://web3.career/lead-data-analyst-animocabrands/155133",
+      "company_name": "Animoca Brands Limited",
+      "description": "analyst data science lead"
+    },
+    {
+      "title": "Senior Data Scientist AI Evaluation",
+      "link": "https://web3.career/senior-data-scientist-ai-evaluation-alpaca/155097",
       "company_name": "Alpaca",
-      "description": "growth scientist data science"
+      "description": "scientist ai data science"
     },
     {
-      "title": "Data Engineer DV Equities",
-      "link": "https://web3.career/data-engineer-dv-equities-dvtrading/154704",
-      "company_name": "Dvtrading",
-      "description": "data science engineer remote"
-    },
-    {
-      "title": "Binance Accelerator Program Data Scientist Analytics copy",
-      "link": "https://web3.career/binance-accelerator-program-data-scientist-analytics-copy-binance/154546",
+      "title": "Pioneer Talent Program Applied Data Scientist",
+      "link": "https://web3.career/pioneer-talent-program-applied-data-scientist-binance/155054",
       "company_name": "Binance",
-      "description": "scientist stats data science"
+      "description": "scientist data science recruiter"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "link": "https://web3.career/senior-data-engineer-hyperboliclabs/154996",
+      "company_name": "Hyperbolic Labs",
+      "description": "data science engineer senior"
     }
   ]
 }

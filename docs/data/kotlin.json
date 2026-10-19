@@ -2,8 +2,56 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-10-12T14:53:30.391008+00:00",
+  "updated_at": "2026-10-19T12:38:32.327788+00:00",
   "jobs": [
+    {
+      "title": "Engineering Lead Wallets NYC",
+      "link": "https://web3.career/engineering-lead-wallets-nyc-crossmint/155528",
+      "company_name": "Crossmint",
+      "description": "lead aws blockchain"
+    },
+    {
+      "title": "Staff Fullstack Engineer",
+      "link": "https://web3.career/staff-fullstack-engineer-alpaca/155469",
+      "company_name": "Alpaca",
+      "description": "engineer full stack crypto"
+    },
+    {
+      "title": "Mobile Engineer React Native 100% Remote Worldwide",
+      "link": "https://web3.career/mobile-engineer-react-native-100-remote-worldwide-tetheroperationslimited/155429",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer mobile"
+    },
+    {
+      "title": "Mobile Engineer React Native 100% Remote",
+      "link": "https://web3.career/mobile-engineer-react-native-100-remote-tetheroperationslimited/155428",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer mobile"
+    },
+    {
+      "title": "Senior Software Engineer React Native Consumer Asian Markets",
+      "link": "https://web3.career/senior-software-engineer-react-native-consumer-asian-markets-kraken/155398",
+      "company_name": "Kraken",
+      "description": "engineer react native mobile"
+    },
+    {
+      "title": "Senior Software Engineer React Native Consumer Asian Markets",
+      "link": "https://web3.career/senior-software-engineer-react-native-consumer-asian-markets-kraken/155397",
+      "company_name": "Kraken",
+      "description": "engineer react native mobile"
+    },
+    {
+      "title": "Senior Software Engineer Mobile React Native iOS Android",
+      "link": "https://web3.career/senior-software-engineer-mobile-react-native-ios-android-bitgo/155364",
+      "company_name": "Bitgo",
+      "description": "android mobile engineer"
+    },
+    {
+      "title": "Mobile Engineer E2 React Native",
+      "link": "https://web3.career/mobile-engineer-e2-react-native-bitgo/155362",
+      "company_name": "Bitgo",
+      "description": "engineer mobile react native"
+    },
     {
       "title": "Senior Mobile Engineer Consumer App",
       "link": "https://web3.career/senior-mobile-engineer-consumer-app-moonshot/155066",
@@ -45,54 +93,6 @@
       "link": "https://web3.career/staff-software-engineer-curated-data-dune/154169",
       "company_name": "Dune",
       "description": "engineer dev blockchain"
-    },
-    {
-      "title": "Staff Android Engineer",
-      "link": "https://web3.career/staff-android-engineer-polymarket/154158",
-      "company_name": "Polymarket",
-      "description": "android mobile engineer"
-    },
-    {
-      "title": "Senior Product Security Engineer",
-      "link": "https://web3.career/senior-product-security-engineer-blockchain/150772",
-      "company_name": "Blockchain",
-      "description": "engineer security senior"
-    },
-    {
-      "title": "Staff Software Engineer Data",
-      "link": "https://web3.career/staff-software-engineer-data-dune/153871",
-      "company_name": "Dune",
-      "description": "engineer dev bitcoin"
-    },
-    {
-      "title": "Senior Android Engineer",
-      "link": "https://web3.career/senior-android-engineer-polymarket/153641",
-      "company_name": "Polymarket",
-      "description": "android mobile engineer"
-    },
-    {
-      "title": "Security Engineer Institutional Trading",
-      "link": "https://web3.career/security-engineer-institutional-trading-blockchain/153222",
-      "company_name": "Blockchain",
-      "description": "engineer security aws"
-    },
-    {
-      "title": "Founding Mobile RN Engineer",
-      "link": "https://web3.career/founding-mobile-rn-engineer-arcade/152915",
-      "company_name": "Arcade",
-      "description": "founding member engineer mobile"
-    },
-    {
-      "title": "Crypto Engineer with Digital Assets Tokenization",
-      "link": "https://web3.career/crypto-engineer-with-digital-assets-tokenization-irissoftwareinc/152911",
-      "company_name": "Iris Software Inc.",
-      "description": "tokenization finance non tech"
-    },
-    {
-      "title": "Staff Platm Engineer",
-      "link": "https://web3.career/staff-platform-engineer-opensea/152665",
-      "company_name": "OpenSea",
-      "description": "engineer crypto kotlin"
     }
   ]
 }

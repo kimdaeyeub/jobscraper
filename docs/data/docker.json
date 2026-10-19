@@ -2,8 +2,20 @@
   "skill": "docker",
   "label": "Docker",
   "count": 19,
-  "updated_at": "2026-10-12T14:54:00.290684+00:00",
+  "updated_at": "2026-10-19T12:39:17.214920+00:00",
   "jobs": [
+    {
+      "title": "Senior Backend Developer – Go & Kubernetes",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Senior Data Scientist – Python, ML & Signal-Processing",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Data Scientist bei uns trainierst Du Machine-Learning-Modelle auf Basis von realen Maschinen- und Sensordaten – weltweit, vom mittelständischen Fertiger bis zum DAX-Konzern. Anomalieerkennung, Predictive Maintenance und Qualitätsüberwachung in Echtzeit. Die Daten sind echt, die Maschinen stehen in laufenden Produktionen, und Deine...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-data-scientist-datatroniq/",
+      "company_name": "DATATRONiQ"
+    },
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
@@ -17,22 +29,22 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Data Scientist – Python, ML & Signal-Processing",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Data Scientist bei uns trainierst Du Machine-Learning-Modelle auf Basis von realen Maschinen- und Sensordaten – weltweit, vom mittelständischen Fertiger bis zum DAX-Konzern. Anomalieerkennung, Predictive Maintenance und Qualitätsüberwachung in Echtzeit. Die Daten sind echt, die Maschinen stehen in laufenden Produktionen, und Deine...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-data-scientist-datatroniq/",
-      "company_name": "DATATRONiQ"
+      "title": "Staff Software Engineer SRE",
+      "link": "https://web3.career/staff-software-engineer-sre-phantom/155493",
+      "company_name": "Phantom",
+      "description": "engineer dev senior"
     },
     {
-      "title": "Senior Backend Developer – Go & Kubernetes",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/",
-      "company_name": "DATATRONiQ"
+      "title": "Software Engineer Securities Finance",
+      "link": "https://web3.career/software-engineer-securities-finance-alpaca/155468",
+      "company_name": "Alpaca",
+      "description": "engineer finance non tech"
     },
     {
-      "title": "Blockchain Engineer",
-      "link": "https://web3.career/blockchain-engineer-globalsettlementnetwork/155057",
-      "company_name": "Global Settlement Network",
-      "description": "engineer blockchain aws"
+      "title": "Software Engineer II Compliance Core",
+      "link": "https://web3.career/software-engineer-ii-compliance-core-chainalysis/155451",
+      "company_name": "Chainalysis",
+      "description": "compliance non tech engineer"
     },
     {
       "title": "Sr. Software Development Engineer",
@@ -41,16 +53,46 @@
       "description": "engineer dev senior"
     },
     {
-      "title": "Staff Machine Learning Engineer",
-      "link": "https://web3.career/staff-machine-learning-engineer-zscaler/103862",
-      "company_name": "Zscaler",
-      "description": "engineer machine learning ai"
-    },
-    {
       "title": "Staff Software Engineer",
       "link": "https://web3.career/staff-software-engineer-zinnia/144788",
       "company_name": "Zinnia",
       "description": "engineer dev aws"
+    },
+    {
+      "title": "Associate AI Engineer",
+      "link": "https://web3.career/associate-ai-engineer-figure/155382",
+      "company_name": "Figure",
+      "description": "ai engineer blockchain"
+    },
+    {
+      "title": "Senior Fullstack Engineer Operational Automations",
+      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
+      "company_name": "Alpaca",
+      "description": "engineer full stack operations"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-woo/95674",
+      "company_name": "Woo",
+      "description": "devops engineer senior"
+    },
+    {
+      "title": "Risk Developer",
+      "link": "https://web3.career/risk-developer-dvtrading/154971",
+      "company_name": "Dvtrading",
+      "description": "dev angular docker"
+    },
+    {
+      "title": "Blockchain Engineer",
+      "link": "https://web3.career/blockchain-engineer-globalsettlementnetwork/155057",
+      "company_name": "Global Settlement Network",
+      "description": "engineer blockchain aws"
+    },
+    {
+      "title": "Staff Machine Learning Engineer",
+      "link": "https://web3.career/staff-machine-learning-engineer-zscaler/103862",
+      "company_name": "Zscaler",
+      "description": "engineer machine learning ai"
     },
     {
       "title": "Senior Backend Engineer",
@@ -65,12 +107,6 @@
       "description": "devops aws docker"
     },
     {
-      "title": "Senior Fullstack Engineer Operational Automations",
-      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
-      "company_name": "Alpaca",
-      "description": "engineer full stack operations"
-    },
-    {
       "title": "Senior DevOps Engineer",
       "link": "https://web3.career/senior-devops-engineer-alpaca/99650",
       "company_name": "Alpaca",
@@ -81,42 +117,6 @@
       "link": "https://web3.career/senior-data-platform-engineer-alpaca/107788",
       "company_name": "Alpaca",
       "description": "engineer senior crypto"
-    },
-    {
-      "title": "Risk Developer",
-      "link": "https://web3.career/risk-developer-dvtrading/154971",
-      "company_name": "Dvtrading",
-      "description": "dev angular docker"
-    },
-    {
-      "title": "Software Engineer Market Data",
-      "link": "https://web3.career/software-engineer-market-data-alpaca/152866",
-      "company_name": "Alpaca",
-      "description": "engineer dev aws"
-    },
-    {
-      "title": "Senior Data Engineer",
-      "link": "https://web3.career/senior-data-engineer-alpaca/151988",
-      "company_name": "Alpaca",
-      "description": "data science engineer senior"
-    },
-    {
-      "title": "Senior Backend Engineer",
-      "link": "https://web3.career/senior-backend-engineer-offchainlabs/154583",
-      "company_name": "Offchain",
-      "description": "backend engineer senior"
-    },
-    {
-      "title": "Backend Engineer Junior to MidLevel",
-      "link": "https://web3.career/backend-engineer-junior-to-mid-level-coins/154542",
-      "company_name": "Coins.ph",
-      "description": "backend engineer junior"
-    },
-    {
-      "title": "Senior Blockchain Engineer Settlement",
-      "link": "https://web3.career/senior-blockchain-engineer-settlement-globalsettlementnetwork/154529",
-      "company_name": "Global Settlement Network",
-      "description": "engineer senior blockchain"
     }
   ]
 }

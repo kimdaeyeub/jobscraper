@@ -2,14 +2,8 @@
   "skill": "javascript",
   "label": "JavaScript",
   "count": 17,
-  "updated_at": "2026-10-12T14:53:21.364792+00:00",
+  "updated_at": "2026-10-19T12:38:02.889435+00:00",
   "jobs": [
-    {
-      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
-      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
-      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
-      "company_name": "DATATRONiQ"
-    },
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
@@ -17,40 +11,88 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Junior Project Manager Keet P2P 100% remote",
-      "link": "https://web3.career/junior-project-manager-keet-p2p-100-remote-tetheroperationslimited/155221",
-      "company_name": "Tether Operations Limited",
-      "description": "remote junior entry level"
+      "title": "Senior Frontend Developer – TypeScript, React & Design-Gespür",
+      "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
+      "company_name": "DATATRONiQ"
     },
     {
-      "title": "Product Engineering Lead QVAC 100% remote",
-      "link": "https://web3.career/product-engineering-lead-qvac-100-remote-tetheroperationslimited/155220",
+      "title": "Developer Productivity Engineer 100% Remote",
+      "link": "https://web3.career/developer-productivity-engineer-100-remote-tetheroperationslimited/155501",
       "company_name": "Tether Operations Limited",
-      "description": "remote lead bitcoin"
+      "description": "remote dev engineer"
     },
     {
-      "title": "Frontend Software Engineer 100% Remote worldwide",
-      "link": "https://web3.career/frontend-software-engineer-100-remote-worldwide-tetheroperationslimited/155162",
+      "title": "Fullstack Engineer AgenticOps 100% Remote",
+      "link": "https://web3.career/fullstack-engineer-agenticops-100-remote-tetheroperationslimited/155499",
       "company_name": "Tether Operations Limited",
-      "description": "remote engineer front end"
+      "description": "remote engineer full stack"
     },
     {
-      "title": "Frontend Engineer Earn",
-      "link": "https://web3.career/frontend-engineer-earn-binance/155088",
-      "company_name": "Binance",
-      "description": "engineer front end blockchain"
+      "title": "Frontend Desktop Engineer",
+      "link": "https://web3.career/frontend-desktop-engineer-tetheroperationslimited/155430",
+      "company_name": "Tether Operations Limited",
+      "description": "engineer front end bitcoin"
     },
     {
-      "title": "Product Engineering Lead Keet 100% Remote Worldwide",
-      "link": "https://web3.career/product-engineering-lead-keet-100-remote-worldwide-tetheroperationslimited/155050",
+      "title": "Mobile Engineer React Native 100% Remote Worldwide",
+      "link": "https://web3.career/mobile-engineer-react-native-100-remote-worldwide-tetheroperationslimited/155429",
       "company_name": "Tether Operations Limited",
-      "description": "remote lead bitcoin"
+      "description": "remote engineer mobile"
+    },
+    {
+      "title": "Mobile Engineer React Native 100% Remote",
+      "link": "https://web3.career/mobile-engineer-react-native-100-remote-tetheroperationslimited/155428",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer mobile"
+    },
+    {
+      "title": "Automation QA Engineer QVAC 100% remote",
+      "link": "https://web3.career/automation-qa-engineer-qvac-100-remote-tetheroperationslimited/155427",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer quality assurance"
+    },
+    {
+      "title": "AI Native Developer",
+      "link": "https://web3.career/ai-native-developer-impossible/155424",
+      "company_name": "IMPOSSIBLE",
+      "description": "ai dev remote"
     },
     {
       "title": "Staff Software Engineer",
       "link": "https://web3.career/staff-software-engineer-zinnia/144788",
       "company_name": "Zinnia",
       "description": "engineer dev aws"
+    },
+    {
+      "title": "Software Engineer Growth Foundations",
+      "link": "https://web3.career/software-engineer-growth-foundations-kraken/155401",
+      "company_name": "Kraken",
+      "description": "growth engineer dev"
+    },
+    {
+      "title": "Senior Software Engineer React Native Consumer Asian Markets",
+      "link": "https://web3.career/senior-software-engineer-react-native-consumer-asian-markets-kraken/155398",
+      "company_name": "Kraken",
+      "description": "engineer react native mobile"
+    },
+    {
+      "title": "Senior Software Engineer React Native Consumer Asian Markets",
+      "link": "https://web3.career/senior-software-engineer-react-native-consumer-asian-markets-kraken/155397",
+      "company_name": "Kraken",
+      "description": "engineer react native mobile"
+    },
+    {
+      "title": "Sr. Web Designer Growth Foundations",
+      "link": "https://web3.career/sr-web-designer-growth-foundations-kraken/155396",
+      "company_name": "Kraken",
+      "description": "growth web designer design"
+    },
+    {
+      "title": "Staff Software Engineer Mission Control",
+      "link": "https://web3.career/staff-software-engineer-mission-control-polymarket/155384",
+      "company_name": "Polymarket",
+      "description": "engineer dev blockchain"
     },
     {
       "title": "Senior Business IT Engineer Atlassian Cloud",
@@ -63,48 +105,6 @@
       "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
       "company_name": "Blockchain",
       "description": "engineer front end blockchain"
-    },
-    {
-      "title": "Risk Developer",
-      "link": "https://web3.career/risk-developer-dvtrading/154971",
-      "company_name": "Dvtrading",
-      "description": "dev angular docker"
-    },
-    {
-      "title": "Solutions Engineer",
-      "link": "https://web3.career/solutions-engineer-bitgo/149986",
-      "company_name": "Bitgo",
-      "description": "engineer bitcoin blockchain"
-    },
-    {
-      "title": "Senior Technical Product Manager Keet 100% Remote",
-      "link": "https://web3.career/senior-technical-product-manager-keet-100-remote-tetheroperationslimited/154930",
-      "company_name": "Tether Operations Limited",
-      "description": "remote product manager non tech"
-    },
-    {
-      "title": "Partner support agent",
-      "link": "https://web3.career/partner-support-agent-wert/138262",
-      "company_name": "Wert",
-      "description": "customer support blockchain crypto"
-    },
-    {
-      "title": "UI Engineer Salt Lake City",
-      "link": "https://web3.career/ui-engineer-salt-lake-city-taxbit/154703",
-      "company_name": "Taxbit",
-      "description": "engineer design non tech"
-    },
-    {
-      "title": "Binance Accelerator Programm Software Engineer Fullstack AIoriented",
-      "link": "https://web3.career/binance-accelerator-programm-software-engineer-full-stack-ai-oriented-binance/154694",
-      "company_name": "Binance",
-      "description": "ai engineer full stack"
-    },
-    {
-      "title": "AI Harness Engineer 100% Remote Worldwide",
-      "link": "https://web3.career/ai-harness-engineer-100-remote-worldwide-tetheroperationslimited/154638",
-      "company_name": "Tether Operations Limited",
-      "description": "remote ai engineer"
     }
   ]
 }

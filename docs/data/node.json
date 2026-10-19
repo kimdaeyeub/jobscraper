@@ -2,55 +2,37 @@
   "skill": "node",
   "label": "Node.js",
   "count": 15,
-  "updated_at": "2026-10-12T14:53:36.681317+00:00",
+  "updated_at": "2026-10-19T12:38:42.617645+00:00",
   "jobs": [
     {
-      "title": "Junior Project Manager Keet P2P 100% remote",
-      "link": "https://web3.career/junior-project-manager-keet-p2p-100-remote-tetheroperationslimited/155221",
+      "title": "Developer Productivity Engineer 100% Remote",
+      "link": "https://web3.career/developer-productivity-engineer-100-remote-tetheroperationslimited/155501",
       "company_name": "Tether Operations Limited",
-      "description": "remote junior entry level"
+      "description": "remote dev engineer"
     },
     {
-      "title": "Blockchain Engineer Architect Crypto Specialist",
-      "link": "https://web3.career/blockchain-engineer-architect-crypto-specialist-cafemomentumpittsburgh/155188",
-      "company_name": "Café Momentum Pittsburgh",
-      "description": "architecture engineer blockchain"
+      "title": "Fullstack Engineer AgenticOps 100% Remote",
+      "link": "https://web3.career/fullstack-engineer-agenticops-100-remote-tetheroperationslimited/155499",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer full stack"
     },
     {
-      "title": "Senior Software Engineer Developer Experience",
-      "link": "https://web3.career/senior-software-engineer-developer-experience-alchemy/155127",
-      "company_name": "Alchemy",
-      "description": "dev engineer senior"
+      "title": "Software Engineer Trade",
+      "link": "https://web3.career/software-engineer-trade-bitgo/140687",
+      "company_name": "Bitgo",
+      "description": "engineer dev bitcoin"
     },
     {
-      "title": "Solutions Architect US",
-      "link": "https://web3.career/solutions-architect-us-blockdaemon/155102",
-      "company_name": "Blockdaemon",
-      "description": "architecture aws bitcoin"
+      "title": "Frontend Desktop Engineer",
+      "link": "https://web3.career/frontend-desktop-engineer-tetheroperationslimited/155430",
+      "company_name": "Tether Operations Limited",
+      "description": "engineer front end bitcoin"
     },
     {
-      "title": "Senior Blockchain Engineer Banking Integrations",
-      "link": "https://web3.career/senior-blockchain-engineer-banking-integrations-globalsettlementnetwork/155058",
-      "company_name": "Global Settlement Network",
-      "description": "integration finance non tech"
-    },
-    {
-      "title": "Blockchain Engineer",
-      "link": "https://web3.career/blockchain-engineer-globalsettlementnetwork/155057",
-      "company_name": "Global Settlement Network",
-      "description": "engineer blockchain aws"
-    },
-    {
-      "title": "Director Blockchain Platm Architect – Technology Incubation – R D",
-      "link": "https://web3.career/director-blockchain-platform-architect-technology-incubation-r-d-charlesschwab/155056",
-      "company_name": "Charles Schwab",
-      "description": "architecture executive blockchain"
-    },
-    {
-      "title": "Enterprise Blockchain Architect Digital Assets Tokenization",
-      "link": "https://web3.career/enterprise-blockchain-architect-digital-assets-tokenization-maximaconsulting/155026",
-      "company_name": "Maxima Consulting",
-      "description": "tokenization architecture finance"
+      "title": "AI Native Developer",
+      "link": "https://web3.career/ai-native-developer-impossible/155424",
+      "company_name": "IMPOSSIBLE",
+      "description": "ai dev remote"
     },
     {
       "title": "Site Reliability Engineer",
@@ -59,40 +41,58 @@
       "description": "engineer reliability blockchain"
     },
     {
-      "title": "Security Engineer AppSec",
-      "link": "https://web3.career/security-engineer-appsec-rain/154961",
-      "company_name": "Rain",
-      "description": "engineer security blockchain"
+      "title": "Site Reliability Engineer Connectivity",
+      "link": "https://web3.career/site-reliability-engineer-connectivity-chainlinklabs/155394",
+      "company_name": "Chainlink Labs",
+      "description": "engineer reliability blockchain"
     },
     {
-      "title": "Senior Software Engineer Go",
-      "link": "https://web3.career/senior-software-engineer-go-quicknode/154764",
-      "company_name": "QuickNode",
-      "description": "engineer golang senior"
+      "title": "Staff Software Engineer Mission Control",
+      "link": "https://web3.career/staff-software-engineer-mission-control-polymarket/155384",
+      "company_name": "Polymarket",
+      "description": "engineer dev blockchain"
     },
     {
-      "title": "Senior Software Engineer Go Rust Blockchain Infrastructure",
-      "link": "https://web3.career/senior-software-engineer-go-rust-blockchain-infrastructure-quicknode/154763",
-      "company_name": "QuickNode",
-      "description": "infrastructure engineer golang"
+      "title": "Senior Software Engineer Mobile Backend",
+      "link": "https://web3.career/senior-software-engineer-mobile-backend-bitgo/110782",
+      "company_name": "Bitgo",
+      "description": "backend engineer mobile"
     },
     {
-      "title": "Blockchain Architect Full Stack – Digital Assets Tokenization",
-      "link": "https://web3.career/blockchain-architect-full-stack-digital-assets-tokenization-maximaconsulting/154756",
-      "company_name": "Maxima Consulting",
-      "description": "tokenization architecture finance"
+      "title": "Senior Data Engineer",
+      "link": "https://web3.career/senior-data-engineer-bitgo/155363",
+      "company_name": "Bitgo",
+      "description": "data science engineer senior"
     },
     {
-      "title": "Platm Engineer II Foundation",
-      "link": "https://web3.career/platform-engineer-ii-foundation-chainalysis/154712",
-      "company_name": "Chainalysis",
-      "description": "engineer aws blockchain"
+      "title": "Backend Engineer E3 India",
+      "link": "https://web3.career/backend-engineer-e3-india-bitgo/155359",
+      "company_name": "Bitgo",
+      "description": "india backend engineer"
     },
     {
-      "title": "Crypto Blockchain Architect",
-      "link": "https://web3.career/crypto-blockchain-architect-irissoftwareinc/154660",
-      "company_name": "Iris Software Inc.",
-      "description": "architecture blockchain aws"
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/155358",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain"
+    },
+    {
+      "title": "Sr Software Engineer Blockchain",
+      "link": "https://web3.career/sr-software-engineer-blockchain-charlesschwab/155353",
+      "company_name": "Charles Schwab",
+      "description": "engineer dev blockchain"
+    },
+    {
+      "title": "Frontend Desktop Engineer Internal",
+      "link": "https://web3.career/frontend-desktop-engineer-internal-tetheroperationslimited/155323",
+      "company_name": "Tether Operations Limited",
+      "description": "engineer front end bitcoin"
+    },
+    {
+      "title": "Frontend Desktop Engineer 100% remote Worldwide",
+      "link": "https://web3.career/frontend-desktop-engineer-100-remote-worldwide-tetheroperationslimited/155321",
+      "company_name": "Tether Operations Limited",
+      "description": "remote engineer front end"
     }
   ]
 }

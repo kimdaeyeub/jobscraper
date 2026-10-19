@@ -2,8 +2,14 @@
   "skill": "ruby",
   "label": "Ruby",
   "count": 15,
-  "updated_at": "2026-10-12T14:53:27.148927+00:00",
+  "updated_at": "2026-10-19T12:38:11.712204+00:00",
   "jobs": [
+    {
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/155358",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain"
+    },
     {
       "title": "Technical Support Engineer",
       "link": "https://web3.career/technical-support-engineer-quicknode/154762",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/full-stack-engineer-spain-crossmint/147253",
       "company_name": "Crossmint",
       "description": "spain engineer full stack"
-    },
-    {
-      "title": "Software Engineer II",
-      "link": "https://web3.career/software-engineer-ii-tastylive/141144",
-      "company_name": "Tastylive",
-      "description": "engineer dev java"
     }
   ]
 }
