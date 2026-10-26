@@ -2,55 +2,43 @@
   "skill": "aws",
   "label": "AWS",
   "count": 15,
-  "updated_at": "2026-10-19T12:39:13.792390+00:00",
+  "updated_at": "2026-10-26T12:33:45.500595+00:00",
   "jobs": [
     {
-      "title": "Engineering Lead Wallets NYC",
-      "link": "https://web3.career/engineering-lead-wallets-nyc-crossmint/155528",
-      "company_name": "Crossmint",
-      "description": "lead aws blockchain"
+      "title": "Senior Protocol Engineer Move VM",
+      "link": "https://web3.career/senior-protocol-engineer-move-vm-globalsettlementnetwork/155675",
+      "company_name": "Global Settlement Network",
+      "description": "move protocol engineer"
     },
     {
-      "title": "Escalation Engineer DLP",
-      "link": "https://web3.career/escalation-engineer-dlp-zscaler/148637",
-      "company_name": "Zscaler",
-      "description": "engineer aws remote"
+      "title": "Senior Security Engineer Product Security",
+      "link": "https://web3.career/senior-security-engineer-product-security-immutable/155661",
+      "company_name": "Immutable",
+      "description": "engineer security senior"
     },
     {
-      "title": "Staff Software Engineer SRE",
-      "link": "https://web3.career/staff-software-engineer-sre-phantom/155493",
-      "company_name": "Phantom",
-      "description": "engineer dev senior"
+      "title": "AWS Data Engineer Data Platm",
+      "link": "https://web3.career/aws-data-engineer-data-platform-zinnia/153973",
+      "company_name": "Zinnia",
+      "description": "data science engineer aws"
     },
     {
-      "title": "Intern Data Engineer",
-      "link": "https://web3.career/intern-data-engineer-bitpanda/155471",
-      "company_name": "Bitpanda",
-      "description": "data science engineer intern"
+      "title": "Senior Security Engineer",
+      "link": "https://web3.career/senior-security-engineer-mystenlabs/155658",
+      "company_name": "Mysten Labs",
+      "description": "engineer security senior"
     },
     {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-localcoin/148996",
-      "company_name": "Localcoin",
-      "description": "devops engineer senior"
+      "title": "Data Engineer",
+      "link": "https://web3.career/data-engineer-tastylive/155634",
+      "company_name": "Tastylive",
+      "description": "data science engineer aws"
     },
     {
-      "title": "Software Engineer II Compliance Core",
-      "link": "https://web3.career/software-engineer-ii-compliance-core-chainalysis/155451",
-      "company_name": "Chainalysis",
-      "description": "compliance non tech engineer"
-    },
-    {
-      "title": "Senior Product Manager Platm Experience",
-      "link": "https://web3.career/senior-product-manager-platform-experience-ondofinance/155422",
-      "company_name": "Ondo Finance",
-      "description": "product manager non tech senior"
-    },
-    {
-      "title": "Developer Advocate Data Platm",
-      "link": "https://web3.career/developer-advocate-data-platform-helius/155420",
-      "company_name": "Helius",
-      "description": "developer advocate dev aws"
+      "title": "IT HFT System Network Specialist London",
+      "link": "https://web3.career/it-hft-system-network-specialist-london-b2c2/148311",
+      "company_name": "B2c2",
+      "description": "aws crypto defi"
     },
     {
       "title": "Professional Services Consultant",
@@ -71,16 +59,28 @@
       "description": "engineer dev aws"
     },
     {
+      "title": "Senior Security Engineer xStocks",
+      "link": "https://web3.career/senior-security-engineer-xstocks-kraken/155602",
+      "company_name": "Kraken",
+      "description": "engineer security senior"
+    },
+    {
       "title": "Backend Engineer",
       "link": "https://web3.career/backend-engineer-layerzerolabs/73714",
       "company_name": "Layerzerolabs",
       "description": "backend engineer aws"
     },
     {
-      "title": "Senior Site Reliability Engineer Data Infrastructure",
-      "link": "https://web3.career/senior-site-reliability-engineer-data-infrastructure-chainlinklabs/155393",
+      "title": "Security Assurance Engineer",
+      "link": "https://web3.career/security-assurance-engineer-chainlinklabs/155599",
       "company_name": "Chainlink Labs",
-      "description": "infrastructure engineer reliability"
+      "description": "engineer security aws"
+    },
+    {
+      "title": "Senior Trading Systems DevOps Engineer",
+      "link": "https://web3.career/senior-trading-systems-devops-engineer-falconx/155589",
+      "company_name": "Falconx",
+      "description": "devops engineer senior"
     },
     {
       "title": "Senior SOC Analyst Security Operations",
@@ -89,10 +89,10 @@
       "description": "analyst operations security"
     },
     {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-woo/95674",
-      "company_name": "Woo",
-      "description": "devops engineer senior"
+      "title": "Intern Data Engineer",
+      "link": "https://web3.career/intern-data-engineer-bitpanda/155471",
+      "company_name": "Bitpanda",
+      "description": "data science engineer intern"
     }
   ]
 }

@@ -1,15 +1,9 @@
 {
   "skill": "postgres",
   "label": "PostgreSQL",
-  "count": 4,
-  "updated_at": "2026-10-19T12:39:03.028850+00:00",
+  "count": 3,
+  "updated_at": "2026-10-26T12:33:33.166574+00:00",
   "jobs": [
-    {
-      "title": "Founding Senior Payments Engineer – Backend Blockchain",
-      "link": "https://web3.career/founding-senior-payments-engineer-backend-blockchain-ihsan/154633",
-      "company_name": "Ihsan",
-      "description": "founding member backend engineer"
-    },
     {
       "title": "Senior PostgreSQL Database Administrator Database Engineer",
       "link": "https://web3.career/senior-postgresql-database-administrator-database-engineer-tastylive/153522",

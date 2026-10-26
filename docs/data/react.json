@@ -2,7 +2,7 @@
   "skill": "react",
   "label": "React",
   "count": 17,
-  "updated_at": "2026-10-19T12:38:33.033879+00:00",
+  "updated_at": "2026-10-26T12:33:17.037892+00:00",
   "jobs": [
     {
       "title": "(Senior) Full-Stack Engineer (AI-Assisted 3D / CAD / BIM Development)",
@@ -17,82 +17,16 @@
       "company_name": "EMS Press"
     },
     {
-      "title": "Engineering Lead Wallets NYC",
-      "link": "https://web3.career/engineering-lead-wallets-nyc-crossmint/155528",
-      "company_name": "Crossmint",
-      "description": "lead aws blockchain"
-    },
-    {
-      "title": "Marketing Growth Lead",
-      "link": "https://web3.career/marketing-growth-lead-hylo/155526",
-      "company_name": "Hylo",
-      "description": "growth lead marketing"
-    },
-    {
-      "title": "Founding Senior Payments Engineer – Backend Blockchain",
-      "link": "https://web3.career/founding-senior-payments-engineer-backend-blockchain-ihsan/154633",
+      "title": "Founding Solana Token Engineer — Ihsan Gold Dinar",
+      "link": "https://web3.career/founding-solana-token-engineer-ihsan-gold-dinar-ihsan/155626",
       "company_name": "Ihsan",
-      "description": "founding member backend engineer"
+      "description": "founding member engineer golang"
     },
     {
-      "title": "Staff Fullstack Engineer",
-      "link": "https://web3.career/staff-fullstack-engineer-alpaca/155469",
-      "company_name": "Alpaca",
-      "description": "engineer full stack crypto"
-    },
-    {
-      "title": "Frontend Desktop Engineer",
-      "link": "https://web3.career/frontend-desktop-engineer-tetheroperationslimited/155430",
-      "company_name": "Tether Operations Limited",
-      "description": "engineer front end bitcoin"
-    },
-    {
-      "title": "Mobile Engineer React Native 100% Remote Worldwide",
-      "link": "https://web3.career/mobile-engineer-react-native-100-remote-worldwide-tetheroperationslimited/155429",
-      "company_name": "Tether Operations Limited",
-      "description": "remote engineer mobile"
-    },
-    {
-      "title": "Mobile Engineer React Native 100% Remote",
-      "link": "https://web3.career/mobile-engineer-react-native-100-remote-tetheroperationslimited/155428",
-      "company_name": "Tether Operations Limited",
-      "description": "remote engineer mobile"
-    },
-    {
-      "title": "Automation QA Engineer QVAC 100% remote",
-      "link": "https://web3.career/automation-qa-engineer-qvac-100-remote-tetheroperationslimited/155427",
-      "company_name": "Tether Operations Limited",
-      "description": "remote engineer quality assurance"
-    },
-    {
-      "title": "AI Native Developer",
-      "link": "https://web3.career/ai-native-developer-impossible/155424",
-      "company_name": "IMPOSSIBLE",
-      "description": "ai dev remote"
-    },
-    {
-      "title": "Software Engineer Growth Foundations",
-      "link": "https://web3.career/software-engineer-growth-foundations-kraken/155401",
-      "company_name": "Kraken",
-      "description": "growth engineer dev"
-    },
-    {
-      "title": "Senior Software Engineer React Native Consumer Asian Markets",
-      "link": "https://web3.career/senior-software-engineer-react-native-consumer-asian-markets-kraken/155398",
-      "company_name": "Kraken",
-      "description": "engineer react native mobile"
-    },
-    {
-      "title": "Senior Software Engineer React Native Consumer Asian Markets",
-      "link": "https://web3.career/senior-software-engineer-react-native-consumer-asian-markets-kraken/155397",
-      "company_name": "Kraken",
-      "description": "engineer react native mobile"
-    },
-    {
-      "title": "Sr. Web Designer Growth Foundations",
-      "link": "https://web3.career/sr-web-designer-growth-foundations-kraken/155396",
-      "company_name": "Kraken",
-      "description": "growth web designer design"
+      "title": "Blockchain Engineer",
+      "link": "https://web3.career/blockchain-engineer-eclerx/155615",
+      "company_name": "eClerx",
+      "description": "engineer blockchain angular"
     },
     {
       "title": "Engineering Director Mobile Web3",
@@ -105,6 +39,72 @@
       "link": "https://web3.career/engineering-director-frontend-business-lead-okx/147552",
       "company_name": "Okx",
       "description": "executive front end lead"
+    },
+    {
+      "title": "Engineering Director Frontend",
+      "link": "https://web3.career/engineering-director-frontend-okx/147551",
+      "company_name": "Okx",
+      "description": "executive front end blockchain"
+    },
+    {
+      "title": "Senior Full Stack Engineer Growth Experimentation – Krak",
+      "link": "https://web3.career/senior-full-stack-engineer-growth-experimentation-krak-kraken/155604",
+      "company_name": "Kraken",
+      "description": "growth engineer full stack"
+    },
+    {
+      "title": "Senior Software Engineer New Markets",
+      "link": "https://web3.career/senior-software-engineer-new-markets-alpaca/152338",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Senior Fullstack Engineer Operational Automations",
+      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
+      "company_name": "Alpaca",
+      "description": "engineer full stack operations"
+    },
+    {
+      "title": "Senior Fullstack Engineer Auth Team",
+      "link": "https://web3.career/senior-fullstack-engineer-auth-team-alpaca/155582",
+      "company_name": "Alpaca",
+      "description": "engineer full stack senior"
+    },
+    {
+      "title": "FrontEnd Engineer Institutional",
+      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
+      "company_name": "Blockchain",
+      "description": "engineer front end blockchain"
+    },
+    {
+      "title": "Senior Software Engineer Mobile Backend",
+      "link": "https://web3.career/senior-software-engineer-mobile-backend-bitgo/110782",
+      "company_name": "Bitgo",
+      "description": "backend engineer mobile"
+    },
+    {
+      "title": "Founding Fullstack Engineer TypeScript Web3",
+      "link": "https://web3.career/founding-full-stack-engineer-typescript-web3-saifuro/155570",
+      "company_name": "Saifuro",
+      "description": "founding member typescript engineer"
+    },
+    {
+      "title": "Senior Software Engineer Developer Platm",
+      "link": "https://web3.career/senior-software-engineer-developer-platform-moonpay/155564",
+      "company_name": "MoonPay",
+      "description": "dev engineer senior"
+    },
+    {
+      "title": "Engineering Lead Wallets NYC",
+      "link": "https://web3.career/engineering-lead-wallets-nyc-crossmint/155528",
+      "company_name": "Crossmint",
+      "description": "lead aws blockchain"
+    },
+    {
+      "title": "Marketing Growth Lead",
+      "link": "https://web3.career/marketing-growth-lead-hylo/155526",
+      "company_name": "Hylo",
+      "description": "growth lead marketing"
     }
   ]
 }

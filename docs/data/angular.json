@@ -2,8 +2,20 @@
   "skill": "angular",
   "label": "Angular",
   "count": 15,
-  "updated_at": "2026-10-19T12:38:42.123648+00:00",
+  "updated_at": "2026-10-26T12:33:18.123945+00:00",
   "jobs": [
+    {
+      "title": "Java Backend Developer with Blockchain exp",
+      "link": "https://web3.career/java-backend-developer-with-blockchain-exp-photon/155662",
+      "company_name": "Photon",
+      "description": "backend dev java"
+    },
+    {
+      "title": "Blockchain Engineer",
+      "link": "https://web3.career/blockchain-engineer-eclerx/155615",
+      "company_name": "eClerx",
+      "description": "engineer blockchain angular"
+    },
     {
       "title": "Risk Developer",
       "link": "https://web3.career/risk-developer-dvtrading/154971",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
       "company_name": "Bcbgroup",
       "description": "engineer full stack senior"
-    },
-    {
-      "title": "Java Backend Developer",
-      "link": "https://web3.career/java-backend-developer-localcoin/78924",
-      "company_name": "Localcoin",
-      "description": "backend dev java"
-    },
-    {
-      "title": "Senior Software Engineer Angular B2C Web Platm",
-      "link": "https://web3.career/senior-software-engineer-angular-b2c-web-platform-bitpanda/148610",
-      "company_name": "Bitpanda",
-      "description": "c c plus plus javascript"
     }
   ]
 }

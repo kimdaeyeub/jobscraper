@@ -2,14 +2,8 @@
   "skill": "vue",
   "label": "Vue",
   "count": 15,
-  "updated_at": "2026-10-19T12:38:41.654507+00:00",
+  "updated_at": "2026-10-26T12:33:17.549682+00:00",
   "jobs": [
-    {
-      "title": "Sr. Software Development Engineer",
-      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
-      "company_name": "Zscaler",
-      "description": "engineer dev senior"
-    },
     {
       "title": "Engineering Director Frontend Business Lead",
       "link": "https://web3.career/engineering-director-frontend-business-lead-okx/147552",
@@ -21,6 +15,12 @@
       "link": "https://web3.career/engineering-director-frontend-okx/147551",
       "company_name": "Okx",
       "description": "executive front end blockchain"
+    },
+    {
+      "title": "Sr. Software Development Engineer",
+      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
+      "company_name": "Zscaler",
+      "description": "engineer dev senior"
     },
     {
       "title": "Risk Developer",

@@ -2,49 +2,73 @@
   "skill": "rust",
   "label": "Rust",
   "count": 15,
-  "updated_at": "2026-10-19T12:38:09.884010+00:00",
+  "updated_at": "2026-10-26T12:33:03.627236+00:00",
   "jobs": [
     {
-      "title": "Associate Site Reliability Engineer",
-      "link": "https://web3.career/associate-site-reliability-engineer-asymmetricresearch/155535",
-      "company_name": "Asymmetric Research",
-      "description": "engineer reliability bitcoin"
+      "title": "Senior Protocol Engineer Move VM",
+      "link": "https://web3.career/senior-protocol-engineer-move-vm-globalsettlementnetwork/155675",
+      "company_name": "Global Settlement Network",
+      "description": "move protocol engineer"
     },
     {
-      "title": "Junior Site Reliability Engineer",
-      "link": "https://web3.career/junior-site-reliability-engineer-asymmetricresearch/155534",
-      "company_name": "Asymmetric Research",
-      "description": "engineer junior entry level"
+      "title": "Web3 Engineer Digital Assets Tokenization",
+      "link": "https://web3.career/web3-engineer-digital-assets-tokenization-arohanatechsolutionsprivatelimited/155664",
+      "company_name": "Arohana Tech Solutions Private Limited",
+      "description": "tokenization finance non tech"
     },
     {
-      "title": "Software Engineer II Rust Pro",
-      "link": "https://web3.career/software-engineer-ii-rust-pro-kraken/155486",
+      "title": "Senior Security Engineer",
+      "link": "https://web3.career/senior-security-engineer-mystenlabs/155658",
+      "company_name": "Mysten Labs",
+      "description": "engineer security senior"
+    },
+    {
+      "title": "Security Engineer",
+      "link": "https://web3.career/security-engineer-mystenlabs/155657",
+      "company_name": "Mysten Labs",
+      "description": "engineer security blockchain"
+    },
+    {
+      "title": "Head of Financial Systems Engineering",
+      "link": "https://web3.career/head-of-financial-systems-engineering-kraken/155652",
       "company_name": "Kraken",
-      "description": "engineer rust dev"
+      "description": "executive finance non tech"
     },
     {
-      "title": "Staff Fullstack Engineer",
-      "link": "https://web3.career/staff-fullstack-engineer-alpaca/155469",
-      "company_name": "Alpaca",
-      "description": "engineer full stack crypto"
+      "title": "Founding Solana Token Engineer — Ihsan Gold Dinar",
+      "link": "https://web3.career/founding-solana-token-engineer-ihsan-gold-dinar-ihsan/155626",
+      "company_name": "Ihsan",
+      "description": "founding member engineer golang"
     },
     {
-      "title": "Senior Blockchain Engineer Moonshot",
-      "link": "https://web3.career/senior-blockchain-engineer-moonshot-alchemy/155454",
-      "company_name": "Alchemy",
-      "description": "engineer senior blockchain"
+      "title": "Senior Consultant Blockchain and Digital Assets – Technology Consulting",
+      "link": "https://web3.career/senior-consultant-blockchain-and-digital-assets-technology-consulting-fticonsulting/155614",
+      "company_name": "FTI Consulting",
+      "description": "consulting finance non tech"
     },
     {
-      "title": "Blockchain Platms Engineer",
-      "link": "https://web3.career/blockchain-platforms-engineer-coreaiconsultinginc/155418",
-      "company_name": "Core AI Consulting Inc",
-      "description": "engineer blockchain java"
+      "title": "Senior Full Stack Engineer Growth Experimentation – Krak",
+      "link": "https://web3.career/senior-full-stack-engineer-growth-experimentation-krak-kraken/155604",
+      "company_name": "Kraken",
+      "description": "growth engineer full stack"
+    },
+    {
+      "title": "Staff Software Engineer Market Data",
+      "link": "https://web3.career/staff-software-engineer-market-data-dune/155600",
+      "company_name": "Dune",
+      "description": "engineer dev blockchain"
     },
     {
       "title": "Crypto Production Engineer",
       "link": "https://web3.career/crypto-production-engineer-jumpcrypto/89562",
       "company_name": "Jumpcrypto",
       "description": "engineer blockchain crypto"
+    },
+    {
+      "title": "Software Engineer Data",
+      "link": "https://web3.career/software-engineer-data-chainlinklabs/155597",
+      "company_name": "Chainlink Labs",
+      "description": "engineer dev blockchain"
     },
     {
       "title": "Quant Developer",
@@ -59,40 +83,16 @@
       "description": "engineer senior crypto"
     },
     {
+      "title": "Senior Trading Systems DevOps Engineer",
+      "link": "https://web3.career/senior-trading-systems-devops-engineer-falconx/155589",
+      "company_name": "Falconx",
+      "description": "devops engineer senior"
+    },
+    {
       "title": "Senior Software Engineer Market Data",
       "link": "https://web3.career/senior-software-engineer-market-data-alpaca/99655",
       "company_name": "Alpaca",
       "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior BackEnd Engineer Trading Platm",
-      "link": "https://web3.career/senior-back-end-engineer-trading-platform-blockchain/98044",
-      "company_name": "Blockchain",
-      "description": "backend engineer senior"
-    },
-    {
-      "title": "Sr Software Engineer Blockchain",
-      "link": "https://web3.career/sr-software-engineer-blockchain-charlesschwab/155353",
-      "company_name": "Charles Schwab",
-      "description": "engineer dev blockchain"
-    },
-    {
-      "title": "Blockchain Engineer Architect Crypto Specialist",
-      "link": "https://web3.career/blockchain-engineer-architect-crypto-specialist-cafemomentumpittsburgh/155188",
-      "company_name": "Café Momentum Pittsburgh",
-      "description": "architecture engineer blockchain"
-    },
-    {
-      "title": "Founding Software Engineer",
-      "link": "https://web3.career/founding-software-engineer-equanetwork/155132",
-      "company_name": "Equa Network",
-      "description": "founding member engineer dev"
-    },
-    {
-      "title": "Digital Assets Blockchain Engineer",
-      "link": "https://web3.career/digital-assets-blockchain-engineer-thedepositorytrust-amp-clearingcorporation-dtcc/155122",
-      "company_name": "The Depository Trust &amp; Clearing Corporation (DTCC)",
-      "description": "finance non tech engineer"
     }
   ]
 }

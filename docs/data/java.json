@@ -2,8 +2,74 @@
   "skill": "java",
   "label": "Java",
   "count": 15,
-  "updated_at": "2026-10-19T12:38:08.947625+00:00",
+  "updated_at": "2026-10-26T12:32:57.713375+00:00",
   "jobs": [
+    {
+      "title": "Web3 Engineer Digital Assets Tokenization",
+      "link": "https://web3.career/web3-engineer-digital-assets-tokenization-arohanatechsolutionsprivatelimited/155664",
+      "company_name": "Arohana Tech Solutions Private Limited",
+      "description": "tokenization finance non tech"
+    },
+    {
+      "title": "Java Backend Developer with Blockchain exp",
+      "link": "https://web3.career/java-backend-developer-with-blockchain-exp-photon/155662",
+      "company_name": "Photon",
+      "description": "backend dev java"
+    },
+    {
+      "title": "Blockchain Engineer",
+      "link": "https://web3.career/blockchain-engineer-eclerx/155615",
+      "company_name": "eClerx",
+      "description": "engineer blockchain angular"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "link": "https://web3.career/staff-software-engineer-zinnia/144788",
+      "company_name": "Zinnia",
+      "description": "engineer dev aws"
+    },
+    {
+      "title": "Senior Java Backend Engineer — Asset Earn",
+      "link": "https://web3.career/senior-java-backend-engineer-asset-earn-okx/151703",
+      "company_name": "Okx",
+      "description": "backend engineer java"
+    },
+    {
+      "title": "Principal Staff Engineer Compliance",
+      "link": "https://web3.career/principal-staff-engineer-compliance-okx/149565",
+      "company_name": "Okx",
+      "description": "compliance non tech engineer"
+    },
+    {
+      "title": "Software Engineer Java CF Benchmark",
+      "link": "https://web3.career/software-engineer-java-cf-benchmark-kraken/155603",
+      "company_name": "Kraken",
+      "description": "engineer java dev"
+    },
+    {
+      "title": "Senior Trading Systems DevOps Engineer",
+      "link": "https://web3.career/senior-trading-systems-devops-engineer-falconx/155589",
+      "company_name": "Falconx",
+      "description": "devops engineer senior"
+    },
+    {
+      "title": "Intern Java",
+      "link": "https://web3.career/intern-java-bitpanda/155374",
+      "company_name": "Bitpanda",
+      "description": "intern entry level java"
+    },
+    {
+      "title": "Senior Fullstack Engineer Auth Team",
+      "link": "https://web3.career/senior-fullstack-engineer-auth-team-alpaca/155582",
+      "company_name": "Alpaca",
+      "description": "engineer full stack senior"
+    },
+    {
+      "title": "Quantitative Software Engineer DV Commodities",
+      "link": "https://web3.career/quantitative-software-engineer-dv-commodities-dvtrading/155577",
+      "company_name": "Dvtrading",
+      "description": "quantitative engineer dev"
+    },
     {
       "title": "Staff Fullstack Engineer",
       "link": "https://web3.career/staff-fullstack-engineer-alpaca/155469",
@@ -27,72 +93,6 @@
       "link": "https://web3.career/blockchain-platforms-engineer-coreaiconsultinginc/155418",
       "company_name": "Core AI Consulting Inc",
       "description": "engineer blockchain java"
-    },
-    {
-      "title": "Staff Software Engineer",
-      "link": "https://web3.career/staff-software-engineer-zinnia/144788",
-      "company_name": "Zinnia",
-      "description": "engineer dev aws"
-    },
-    {
-      "title": "Senior Java Backend Engineer — Asset Earn",
-      "link": "https://web3.career/senior-java-backend-engineer-asset-earn-okx/151703",
-      "company_name": "Okx",
-      "description": "backend engineer java"
-    },
-    {
-      "title": "Principal Staff Engineer Compliance",
-      "link": "https://web3.career/principal-staff-engineer-compliance-okx/149565",
-      "company_name": "Okx",
-      "description": "compliance non tech engineer"
-    },
-    {
-      "title": "Senior Site Reliability Engineer Data Infrastructure",
-      "link": "https://web3.career/senior-site-reliability-engineer-data-infrastructure-chainlinklabs/155393",
-      "company_name": "Chainlink Labs",
-      "description": "infrastructure engineer reliability"
-    },
-    {
-      "title": "Intern Java",
-      "link": "https://web3.career/intern-java-bitpanda/155374",
-      "company_name": "Bitpanda",
-      "description": "intern entry level java"
-    },
-    {
-      "title": "Mobile Engineer E2 React Native",
-      "link": "https://web3.career/mobile-engineer-e2-react-native-bitgo/155362",
-      "company_name": "Bitgo",
-      "description": "engineer mobile react native"
-    },
-    {
-      "title": "Sr Software Engineer Blockchain",
-      "link": "https://web3.career/sr-software-engineer-blockchain-charlesschwab/155353",
-      "company_name": "Charles Schwab",
-      "description": "engineer dev blockchain"
-    },
-    {
-      "title": "Binance Accelerator Program System Permance Engineer AI",
-      "link": "https://web3.career/binance-accelerator-program-system-performance-engineer-ai-binance/155064",
-      "company_name": "Binance",
-      "description": "ai engineer blockchain"
-    },
-    {
-      "title": "Senior Blockchain Engineer Banking Integrations",
-      "link": "https://web3.career/senior-blockchain-engineer-banking-integrations-globalsettlementnetwork/155058",
-      "company_name": "Global Settlement Network",
-      "description": "integration finance non tech"
-    },
-    {
-      "title": "Blockchain Engineer",
-      "link": "https://web3.career/blockchain-engineer-globalsettlementnetwork/155057",
-      "company_name": "Global Settlement Network",
-      "description": "engineer blockchain aws"
-    },
-    {
-      "title": "Staff Machine Learning Engineer",
-      "link": "https://web3.career/staff-machine-learning-engineer-zscaler/103862",
-      "company_name": "Zscaler",
-      "description": "engineer machine learning ai"
     }
   ]
 }

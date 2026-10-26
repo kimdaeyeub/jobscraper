@@ -2,7 +2,7 @@
   "skill": "javascript",
   "label": "JavaScript",
   "count": 17,
-  "updated_at": "2026-10-19T12:38:02.889435+00:00",
+  "updated_at": "2026-10-26T12:32:51.464447+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -15,6 +15,48 @@
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
       "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
       "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Blockchain Engineer",
+      "link": "https://web3.career/blockchain-engineer-eclerx/155615",
+      "company_name": "eClerx",
+      "description": "engineer blockchain angular"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "link": "https://web3.career/staff-software-engineer-zinnia/144788",
+      "company_name": "Zinnia",
+      "description": "engineer dev aws"
+    },
+    {
+      "title": "Senior Full Stack Engineer Growth Experimentation – Krak",
+      "link": "https://web3.career/senior-full-stack-engineer-growth-experimentation-krak-kraken/155604",
+      "company_name": "Kraken",
+      "description": "growth engineer full stack"
+    },
+    {
+      "title": "Senior Business IT Engineer Atlassian Cloud",
+      "link": "https://web3.career/senior-business-it-engineer-atlassian-cloud-bitpanda/152342",
+      "company_name": "Bitpanda",
+      "description": "cloud engineer engineer senior"
+    },
+    {
+      "title": "FrontEnd Engineer Institutional",
+      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
+      "company_name": "Blockchain",
+      "description": "engineer front end blockchain"
+    },
+    {
+      "title": "Solutions Engineer",
+      "link": "https://web3.career/solutions-engineer-bitgo/149986",
+      "company_name": "Bitgo",
+      "description": "engineer bitcoin blockchain"
+    },
+    {
+      "title": "Senior Software Engineer Developer Platm",
+      "link": "https://web3.career/senior-software-engineer-developer-platform-moonpay/155564",
+      "company_name": "MoonPay",
+      "description": "dev engineer senior"
     },
     {
       "title": "Developer Productivity Engineer 100% Remote",
@@ -59,52 +101,10 @@
       "description": "ai dev remote"
     },
     {
-      "title": "Staff Software Engineer",
-      "link": "https://web3.career/staff-software-engineer-zinnia/144788",
-      "company_name": "Zinnia",
-      "description": "engineer dev aws"
-    },
-    {
       "title": "Software Engineer Growth Foundations",
       "link": "https://web3.career/software-engineer-growth-foundations-kraken/155401",
       "company_name": "Kraken",
       "description": "growth engineer dev"
-    },
-    {
-      "title": "Senior Software Engineer React Native Consumer Asian Markets",
-      "link": "https://web3.career/senior-software-engineer-react-native-consumer-asian-markets-kraken/155398",
-      "company_name": "Kraken",
-      "description": "engineer react native mobile"
-    },
-    {
-      "title": "Senior Software Engineer React Native Consumer Asian Markets",
-      "link": "https://web3.career/senior-software-engineer-react-native-consumer-asian-markets-kraken/155397",
-      "company_name": "Kraken",
-      "description": "engineer react native mobile"
-    },
-    {
-      "title": "Sr. Web Designer Growth Foundations",
-      "link": "https://web3.career/sr-web-designer-growth-foundations-kraken/155396",
-      "company_name": "Kraken",
-      "description": "growth web designer design"
-    },
-    {
-      "title": "Staff Software Engineer Mission Control",
-      "link": "https://web3.career/staff-software-engineer-mission-control-polymarket/155384",
-      "company_name": "Polymarket",
-      "description": "engineer dev blockchain"
-    },
-    {
-      "title": "Senior Business IT Engineer Atlassian Cloud",
-      "link": "https://web3.career/senior-business-it-engineer-atlassian-cloud-bitpanda/152342",
-      "company_name": "Bitpanda",
-      "description": "cloud engineer engineer senior"
-    },
-    {
-      "title": "FrontEnd Engineer Institutional",
-      "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
-      "company_name": "Blockchain",
-      "description": "engineer front end blockchain"
     }
   ]
 }

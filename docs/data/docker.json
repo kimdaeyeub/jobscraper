@@ -2,7 +2,7 @@
   "skill": "docker",
   "label": "Docker",
   "count": 19,
-  "updated_at": "2026-10-19T12:39:17.214920+00:00",
+  "updated_at": "2026-10-26T12:33:45.985190+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -29,6 +29,54 @@
       "company_name": "DATATRONiQ"
     },
     {
+      "title": "Senior Protocol Engineer Move VM",
+      "link": "https://web3.career/senior-protocol-engineer-move-vm-globalsettlementnetwork/155675",
+      "company_name": "Global Settlement Network",
+      "description": "move protocol engineer"
+    },
+    {
+      "title": "AWS Data Engineer Data Platm",
+      "link": "https://web3.career/aws-data-engineer-data-platform-zinnia/153973",
+      "company_name": "Zinnia",
+      "description": "data science engineer aws"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "link": "https://web3.career/staff-software-engineer-zinnia/144788",
+      "company_name": "Zinnia",
+      "description": "engineer dev aws"
+    },
+    {
+      "title": "Senior Trading Systems DevOps Engineer",
+      "link": "https://web3.career/senior-trading-systems-devops-engineer-falconx/155589",
+      "company_name": "Falconx",
+      "description": "devops engineer senior"
+    },
+    {
+      "title": "Senior Fullstack Engineer Operational Automations",
+      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
+      "company_name": "Alpaca",
+      "description": "engineer full stack operations"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-alpaca/99650",
+      "company_name": "Alpaca",
+      "description": "devops engineer senior"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-woo/95674",
+      "company_name": "Woo",
+      "description": "devops engineer senior"
+    },
+    {
+      "title": "Quantitative Software Engineer DV Commodities",
+      "link": "https://web3.career/quantitative-software-engineer-dv-commodities-dvtrading/155577",
+      "company_name": "Dvtrading",
+      "description": "quantitative engineer dev"
+    },
+    {
       "title": "Staff Software Engineer SRE",
       "link": "https://web3.career/staff-software-engineer-sre-phantom/155493",
       "company_name": "Phantom",
@@ -53,28 +101,10 @@
       "description": "engineer dev senior"
     },
     {
-      "title": "Staff Software Engineer",
-      "link": "https://web3.career/staff-software-engineer-zinnia/144788",
-      "company_name": "Zinnia",
-      "description": "engineer dev aws"
-    },
-    {
       "title": "Associate AI Engineer",
       "link": "https://web3.career/associate-ai-engineer-figure/155382",
       "company_name": "Figure",
       "description": "ai engineer blockchain"
-    },
-    {
-      "title": "Senior Fullstack Engineer Operational Automations",
-      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
-      "company_name": "Alpaca",
-      "description": "engineer full stack operations"
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-woo/95674",
-      "company_name": "Woo",
-      "description": "devops engineer senior"
     },
     {
       "title": "Risk Developer",
@@ -87,36 +117,6 @@
       "link": "https://web3.career/blockchain-engineer-globalsettlementnetwork/155057",
       "company_name": "Global Settlement Network",
       "description": "engineer blockchain aws"
-    },
-    {
-      "title": "Staff Machine Learning Engineer",
-      "link": "https://web3.career/staff-machine-learning-engineer-zscaler/103862",
-      "company_name": "Zscaler",
-      "description": "engineer machine learning ai"
-    },
-    {
-      "title": "Senior Backend Engineer",
-      "link": "https://web3.career/senior-backend-engineer-sentient/155007",
-      "company_name": "Sentient",
-      "description": "backend engineer senior"
-    },
-    {
-      "title": "SDE III Devops",
-      "link": "https://web3.career/sde-iii-devops-inmobi/100181",
-      "company_name": "Inmobi",
-      "description": "devops aws docker"
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-alpaca/99650",
-      "company_name": "Alpaca",
-      "description": "devops engineer senior"
-    },
-    {
-      "title": "Senior Data Platm Engineer",
-      "link": "https://web3.career/senior-data-platform-engineer-alpaca/107788",
-      "company_name": "Alpaca",
-      "description": "engineer senior crypto"
     }
   ]
 }

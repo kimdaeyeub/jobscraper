@@ -2,55 +2,55 @@
   "skill": "node",
   "label": "Node.js",
   "count": 15,
-  "updated_at": "2026-10-19T12:38:42.617645+00:00",
+  "updated_at": "2026-10-26T12:33:18.624902+00:00",
   "jobs": [
     {
-      "title": "Developer Productivity Engineer 100% Remote",
-      "link": "https://web3.career/developer-productivity-engineer-100-remote-tetheroperationslimited/155501",
-      "company_name": "Tether Operations Limited",
-      "description": "remote dev engineer"
+      "title": "Founding CTO Democratize Mining Financial Service",
+      "link": "https://web3.career/founding-cto-democratize-mining-financial-service-scalatorventuresinc/155674",
+      "company_name": "Scalator Ventures Inc.",
+      "description": "cto founding member executive"
     },
     {
-      "title": "Fullstack Engineer AgenticOps 100% Remote",
-      "link": "https://web3.career/fullstack-engineer-agenticops-100-remote-tetheroperationslimited/155499",
-      "company_name": "Tether Operations Limited",
-      "description": "remote engineer full stack"
+      "title": "Web3 Engineer Digital Assets Tokenization",
+      "link": "https://web3.career/web3-engineer-digital-assets-tokenization-arohanatechsolutionsprivatelimited/155664",
+      "company_name": "Arohana Tech Solutions Private Limited",
+      "description": "tokenization finance non tech"
     },
     {
-      "title": "Software Engineer Trade",
-      "link": "https://web3.career/software-engineer-trade-bitgo/140687",
-      "company_name": "Bitgo",
-      "description": "engineer dev bitcoin"
+      "title": "Head of Financial Systems Engineering",
+      "link": "https://web3.career/head-of-financial-systems-engineering-kraken/155652",
+      "company_name": "Kraken",
+      "description": "executive finance non tech"
     },
     {
-      "title": "Frontend Desktop Engineer",
-      "link": "https://web3.career/frontend-desktop-engineer-tetheroperationslimited/155430",
-      "company_name": "Tether Operations Limited",
-      "description": "engineer front end bitcoin"
+      "title": "Lead Technical Product Manager Protocol Vision Chain",
+      "link": "https://web3.career/lead-technical-product-manager-protocol-vision-chain-bitpanda/155642",
+      "company_name": "Bitpanda",
+      "description": "protocol engineer lead"
     },
     {
-      "title": "AI Native Developer",
-      "link": "https://web3.career/ai-native-developer-impossible/155424",
-      "company_name": "IMPOSSIBLE",
-      "description": "ai dev remote"
+      "title": "Founding Solana Token Engineer — Ihsan Gold Dinar",
+      "link": "https://web3.career/founding-solana-token-engineer-ihsan-gold-dinar-ihsan/155626",
+      "company_name": "Ihsan",
+      "description": "founding member engineer golang"
+    },
+    {
+      "title": "Blockchain Engineer",
+      "link": "https://web3.career/blockchain-engineer-eclerx/155615",
+      "company_name": "eClerx",
+      "description": "engineer blockchain angular"
+    },
+    {
+      "title": "Senior Security Engineer xStocks",
+      "link": "https://web3.career/senior-security-engineer-xstocks-kraken/155602",
+      "company_name": "Kraken",
+      "description": "engineer security senior"
     },
     {
       "title": "Site Reliability Engineer",
       "link": "https://web3.career/site-reliability-engineer-layerzerolabs/102994",
       "company_name": "Layerzerolabs",
       "description": "engineer reliability blockchain"
-    },
-    {
-      "title": "Site Reliability Engineer Connectivity",
-      "link": "https://web3.career/site-reliability-engineer-connectivity-chainlinklabs/155394",
-      "company_name": "Chainlink Labs",
-      "description": "engineer reliability blockchain"
-    },
-    {
-      "title": "Staff Software Engineer Mission Control",
-      "link": "https://web3.career/staff-software-engineer-mission-control-polymarket/155384",
-      "company_name": "Polymarket",
-      "description": "engineer dev blockchain"
     },
     {
       "title": "Senior Software Engineer Mobile Backend",
@@ -65,34 +65,34 @@
       "description": "data science engineer senior"
     },
     {
-      "title": "Backend Engineer E3 India",
-      "link": "https://web3.career/backend-engineer-e3-india-bitgo/155359",
-      "company_name": "Bitgo",
-      "description": "india backend engineer"
+      "title": "Founding Fullstack Engineer TypeScript Web3",
+      "link": "https://web3.career/founding-full-stack-engineer-typescript-web3-saifuro/155570",
+      "company_name": "Saifuro",
+      "description": "founding member typescript engineer"
     },
     {
-      "title": "Senior Blockchain Developer",
-      "link": "https://web3.career/senior-blockchain-developer-lemon-io/155358",
-      "company_name": "Lemon.io",
-      "description": "dev senior blockchain"
+      "title": "Staff Software Engineer Identity Platm",
+      "link": "https://web3.career/staff-software-engineer-identity-platform-moonpay/155565",
+      "company_name": "MoonPay",
+      "description": "engineer dev crypto"
     },
     {
-      "title": "Sr Software Engineer Blockchain",
-      "link": "https://web3.career/sr-software-engineer-blockchain-charlesschwab/155353",
-      "company_name": "Charles Schwab",
-      "description": "engineer dev blockchain"
+      "title": "Senior Software Engineer Developer Platm",
+      "link": "https://web3.career/senior-software-engineer-developer-platform-moonpay/155564",
+      "company_name": "MoonPay",
+      "description": "dev engineer senior"
     },
     {
-      "title": "Frontend Desktop Engineer Internal",
-      "link": "https://web3.career/frontend-desktop-engineer-internal-tetheroperationslimited/155323",
+      "title": "Developer Productivity Engineer 100% Remote",
+      "link": "https://web3.career/developer-productivity-engineer-100-remote-tetheroperationslimited/155501",
       "company_name": "Tether Operations Limited",
-      "description": "engineer front end bitcoin"
+      "description": "remote dev engineer"
     },
     {
-      "title": "Frontend Desktop Engineer 100% remote Worldwide",
-      "link": "https://web3.career/frontend-desktop-engineer-100-remote-worldwide-tetheroperationslimited/155321",
+      "title": "Fullstack Engineer AgenticOps 100% Remote",
+      "link": "https://web3.career/fullstack-engineer-agenticops-100-remote-tetheroperationslimited/155499",
       "company_name": "Tether Operations Limited",
-      "description": "remote engineer front end"
+      "description": "remote engineer full stack"
     }
   ]
 }

@@ -1,20 +1,26 @@
 {
   "skill": "ios",
   "label": "iOS",
-  "count": 15,
-  "updated_at": "2026-10-19T12:39:31.628057+00:00",
+  "count": 16,
+  "updated_at": "2026-10-26T12:33:49.584001+00:00",
   "jobs": [
     {
-      "title": "Senior iOS Engineer Crypto Perpetuals",
-      "link": "https://web3.career/senior-ios-engineer-crypto-perpetuals-robinhood/155532",
-      "company_name": "Robinhood",
-      "description": "engineer ios mobile"
+      "title": "Founding iOS Engineer (m/f/d)",
+      "description": "About us Most labs still count cells under a microscope by hand. It’s slow, repetitive, and error-prone. We’re replacing that manual work with software. By combining a standard microscope with a smartphone, we run computer vision models that locate, track, and measure cells automatically in real time. We’re starting with semen analysis and expanding to...",
+      "link": "https://berlinstartupjobs.com/engineering/founding-ios-engineer-m-f-d-ferto-ai/",
+      "company_name": "Ferto AI"
     },
     {
       "title": "Engineering Director Mobile iOS Android",
       "link": "https://web3.career/engineering-director-mobile-ios-android-okx/150697",
       "company_name": "Okx",
       "description": "android mobile executive"
+    },
+    {
+      "title": "Senior iOS Engineer Crypto Perpetuals",
+      "link": "https://web3.career/senior-ios-engineer-crypto-perpetuals-robinhood/155532",
+      "company_name": "Robinhood",
+      "description": "engineer ios mobile"
     },
     {
       "title": "Senior Software Engineer Mobile React Native iOS Android",

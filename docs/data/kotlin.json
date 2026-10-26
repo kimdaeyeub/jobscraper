@@ -2,8 +2,14 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-10-19T12:38:32.327788+00:00",
+  "updated_at": "2026-10-26T12:33:16.562142+00:00",
   "jobs": [
+    {
+      "title": "Web3 Engineer Digital Assets Tokenization",
+      "link": "https://web3.career/web3-engineer-digital-assets-tokenization-arohanatechsolutionsprivatelimited/155664",
+      "company_name": "Arohana Tech Solutions Private Limited",
+      "description": "tokenization finance non tech"
+    },
     {
       "title": "Engineering Lead Wallets NYC",
       "link": "https://web3.career/engineering-lead-wallets-nyc-crossmint/155528",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/senior-software-engineer-new-markets-japan-jlpt-n1-fluent-alpaca/154257",
       "company_name": "Alpaca",
       "description": "japan engineer senior"
-    },
-    {
-      "title": "Staff Software Engineer Curated Data",
-      "link": "https://web3.career/staff-software-engineer-curated-data-dune/154169",
-      "company_name": "Dune",
-      "description": "engineer dev blockchain"
     }
   ]
 }
