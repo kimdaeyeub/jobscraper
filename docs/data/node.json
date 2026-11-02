@@ -2,25 +2,13 @@
   "skill": "node",
   "label": "Node.js",
   "count": 15,
-  "updated_at": "2026-10-26T12:33:18.624902+00:00",
+  "updated_at": "2026-11-02T15:11:39.711185+00:00",
   "jobs": [
     {
-      "title": "Founding CTO Democratize Mining Financial Service",
-      "link": "https://web3.career/founding-cto-democratize-mining-financial-service-scalatorventuresinc/155674",
-      "company_name": "Scalator Ventures Inc.",
-      "description": "cto founding member executive"
-    },
-    {
-      "title": "Web3 Engineer Digital Assets Tokenization",
-      "link": "https://web3.career/web3-engineer-digital-assets-tokenization-arohanatechsolutionsprivatelimited/155664",
-      "company_name": "Arohana Tech Solutions Private Limited",
-      "description": "tokenization finance non tech"
-    },
-    {
-      "title": "Head of Financial Systems Engineering",
-      "link": "https://web3.career/head-of-financial-systems-engineering-kraken/155652",
-      "company_name": "Kraken",
-      "description": "executive finance non tech"
+      "title": "Technical Account Manager Crypto",
+      "link": "https://web3.career/technical-account-manager-crypto-stripe/155892",
+      "company_name": "Stripe",
+      "description": "account manager sales non tech"
     },
     {
       "title": "Lead Technical Product Manager Protocol Vision Chain",
@@ -29,22 +17,10 @@
       "description": "protocol engineer lead"
     },
     {
-      "title": "Founding Solana Token Engineer — Ihsan Gold Dinar",
-      "link": "https://web3.career/founding-solana-token-engineer-ihsan-gold-dinar-ihsan/155626",
-      "company_name": "Ihsan",
-      "description": "founding member engineer golang"
-    },
-    {
-      "title": "Blockchain Engineer",
-      "link": "https://web3.career/blockchain-engineer-eclerx/155615",
-      "company_name": "eClerx",
-      "description": "engineer blockchain angular"
-    },
-    {
-      "title": "Senior Security Engineer xStocks",
-      "link": "https://web3.career/senior-security-engineer-xstocks-kraken/155602",
-      "company_name": "Kraken",
-      "description": "engineer security senior"
+      "title": "Blockchain Developer Web3",
+      "link": "https://web3.career/blockchain-developer-web3-divittechnologies-inc/155816",
+      "company_name": "Divit Technologies, Inc.",
+      "description": "dev blockchain ethereum"
     },
     {
       "title": "Site Reliability Engineer",
@@ -65,6 +41,42 @@
       "description": "data science engineer senior"
     },
     {
+      "title": "Founding CTO Democratize Mining Financial Service",
+      "link": "https://web3.career/founding-cto-democratize-mining-financial-service-scalatorventuresinc/155674",
+      "company_name": "Scalator Ventures Inc.",
+      "description": "cto founding member executive"
+    },
+    {
+      "title": "Web3 Engineer Digital Assets Tokenization",
+      "link": "https://web3.career/web3-engineer-digital-assets-tokenization-arohanatechsolutionsprivatelimited/155664",
+      "company_name": "Arohana Tech Solutions Private Limited",
+      "description": "tokenization finance non tech"
+    },
+    {
+      "title": "Head of Financial Systems Engineering",
+      "link": "https://web3.career/head-of-financial-systems-engineering-kraken/155652",
+      "company_name": "Kraken",
+      "description": "executive finance non tech"
+    },
+    {
+      "title": "Founding Solana Token Engineer — Ihsan Gold Dinar",
+      "link": "https://web3.career/founding-solana-token-engineer-ihsan-gold-dinar-ihsan/155626",
+      "company_name": "Ihsan",
+      "description": "founding member engineer golang"
+    },
+    {
+      "title": "Blockchain Engineer",
+      "link": "https://web3.career/blockchain-engineer-eclerx/155615",
+      "company_name": "eClerx",
+      "description": "engineer blockchain angular"
+    },
+    {
+      "title": "Senior Security Engineer xStocks",
+      "link": "https://web3.career/senior-security-engineer-xstocks-kraken/155602",
+      "company_name": "Kraken",
+      "description": "engineer security senior"
+    },
+    {
       "title": "Founding Fullstack Engineer TypeScript Web3",
       "link": "https://web3.career/founding-full-stack-engineer-typescript-web3-saifuro/155570",
       "company_name": "Saifuro",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/senior-software-engineer-developer-platform-moonpay/155564",
       "company_name": "MoonPay",
       "description": "dev engineer senior"
-    },
-    {
-      "title": "Developer Productivity Engineer 100% Remote",
-      "link": "https://web3.career/developer-productivity-engineer-100-remote-tetheroperationslimited/155501",
-      "company_name": "Tether Operations Limited",
-      "description": "remote dev engineer"
-    },
-    {
-      "title": "Fullstack Engineer AgenticOps 100% Remote",
-      "link": "https://web3.career/fullstack-engineer-agenticops-100-remote-tetheroperationslimited/155499",
-      "company_name": "Tether Operations Limited",
-      "description": "remote engineer full stack"
     }
   ]
 }

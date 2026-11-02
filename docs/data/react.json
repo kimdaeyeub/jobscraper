@@ -2,7 +2,7 @@
   "skill": "react",
   "label": "React",
   "count": 17,
-  "updated_at": "2026-10-26T12:33:17.037892+00:00",
+  "updated_at": "2026-11-02T15:11:31.418535+00:00",
   "jobs": [
     {
       "title": "(Senior) Full-Stack Engineer (AI-Assisted 3D / CAD / BIM Development)",
@@ -17,16 +17,10 @@
       "company_name": "EMS Press"
     },
     {
-      "title": "Founding Solana Token Engineer — Ihsan Gold Dinar",
-      "link": "https://web3.career/founding-solana-token-engineer-ihsan-gold-dinar-ihsan/155626",
-      "company_name": "Ihsan",
-      "description": "founding member engineer golang"
-    },
-    {
-      "title": "Blockchain Engineer",
-      "link": "https://web3.career/blockchain-engineer-eclerx/155615",
-      "company_name": "eClerx",
-      "description": "engineer blockchain angular"
+      "title": "Senior Frontend Engineer Acquisition",
+      "link": "https://web3.career/senior-frontend-engineer-acquisition-alpaca/155845",
+      "company_name": "Alpaca",
+      "description": "engineer front end senior"
     },
     {
       "title": "Engineering Director Mobile Web3",
@@ -47,12 +41,6 @@
       "description": "executive front end blockchain"
     },
     {
-      "title": "Senior Full Stack Engineer Growth Experimentation – Krak",
-      "link": "https://web3.career/senior-full-stack-engineer-growth-experimentation-krak-kraken/155604",
-      "company_name": "Kraken",
-      "description": "growth engineer full stack"
-    },
-    {
       "title": "Senior Software Engineer New Markets",
       "link": "https://web3.career/senior-software-engineer-new-markets-alpaca/152338",
       "company_name": "Alpaca",
@@ -65,8 +53,8 @@
       "description": "engineer full stack operations"
     },
     {
-      "title": "Senior Fullstack Engineer Auth Team",
-      "link": "https://web3.career/senior-fullstack-engineer-auth-team-alpaca/155582",
+      "title": "Senior FullStack Engineer Internal Tools",
+      "link": "https://web3.career/senior-full-stack-engineer-internal-tools-alpaca/106289",
       "company_name": "Alpaca",
       "description": "engineer full stack senior"
     },
@@ -83,28 +71,40 @@
       "description": "backend engineer mobile"
     },
     {
-      "title": "Founding Fullstack Engineer TypeScript Web3",
-      "link": "https://web3.career/founding-full-stack-engineer-typescript-web3-saifuro/155570",
-      "company_name": "Saifuro",
-      "description": "founding member typescript engineer"
+      "title": "Software Engineer Prediction Markets Platm",
+      "link": "https://web3.career/software-engineer-prediction-markets-platform-crypto-com/155777",
+      "company_name": "Crypto.com",
+      "description": "engineer dev aws"
     },
     {
-      "title": "Senior Software Engineer Developer Platm",
-      "link": "https://web3.career/senior-software-engineer-developer-platform-moonpay/155564",
-      "company_name": "MoonPay",
-      "description": "dev engineer senior"
+      "title": "Senior Software Engineer Prediction Markets Platm",
+      "link": "https://web3.career/senior-software-engineer-prediction-markets-platform-crypto-com/155776",
+      "company_name": "Crypto.com",
+      "description": "engineer senior dev"
     },
     {
-      "title": "Engineering Lead Wallets NYC",
-      "link": "https://web3.career/engineering-lead-wallets-nyc-crossmint/155528",
-      "company_name": "Crossmint",
-      "description": "lead aws blockchain"
+      "title": "Founding Solana Token Engineer — Ihsan Gold Dinar",
+      "link": "https://web3.career/founding-solana-token-engineer-ihsan-gold-dinar-ihsan/155626",
+      "company_name": "Ihsan",
+      "description": "founding member engineer golang"
     },
     {
-      "title": "Marketing Growth Lead",
-      "link": "https://web3.career/marketing-growth-lead-hylo/155526",
-      "company_name": "Hylo",
-      "description": "growth lead marketing"
+      "title": "Blockchain Engineer",
+      "link": "https://web3.career/blockchain-engineer-eclerx/155615",
+      "company_name": "eClerx",
+      "description": "engineer blockchain angular"
+    },
+    {
+      "title": "Senior Full Stack Engineer Growth Experimentation – Krak",
+      "link": "https://web3.career/senior-full-stack-engineer-growth-experimentation-krak-kraken/155604",
+      "company_name": "Kraken",
+      "description": "growth engineer full stack"
+    },
+    {
+      "title": "Senior Fullstack Engineer Auth Team",
+      "link": "https://web3.career/senior-fullstack-engineer-auth-team-alpaca/155582",
+      "company_name": "Alpaca",
+      "description": "engineer full stack senior"
     }
   ]
 }

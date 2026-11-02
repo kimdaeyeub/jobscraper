@@ -2,19 +2,13 @@
   "skill": "devops",
   "label": "DevOps",
   "count": 16,
-  "updated_at": "2026-10-26T12:33:47.503868+00:00",
+  "updated_at": "2026-11-02T15:12:24.886569+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
       "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
       "company_name": "DATATRONiQ"
-    },
-    {
-      "title": "Senior Trading Systems DevOps Engineer",
-      "link": "https://web3.career/senior-trading-systems-devops-engineer-falconx/155589",
-      "company_name": "Falconx",
-      "description": "devops engineer senior"
     },
     {
       "title": "Senior DevOps Engineer",
@@ -29,6 +23,24 @@
       "description": "devops engineer senior"
     },
     {
+      "title": "DevOps Engineer DST",
+      "link": "https://web3.career/devops-engineer-dst-logos/155781",
+      "company_name": "Logos",
+      "description": "devops engineer blockchain"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-localcoin/148996",
+      "company_name": "Localcoin",
+      "description": "devops engineer senior"
+    },
+    {
+      "title": "Senior Trading Systems DevOps Engineer",
+      "link": "https://web3.career/senior-trading-systems-devops-engineer-falconx/155589",
+      "company_name": "Falconx",
+      "description": "devops engineer senior"
+    },
+    {
       "title": "DevOps Engineer Vac DST",
       "link": "https://web3.career/devops-engineer-vac-dst-iftother/155576",
       "company_name": "Iftother",
@@ -39,12 +51,6 @@
       "link": "https://web3.career/devops-engineer-vac-dst-logos/109529",
       "company_name": "Logos",
       "description": "devops engineer blockchain"
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-localcoin/148996",
-      "company_name": "Localcoin",
-      "description": "devops engineer senior"
     },
     {
       "title": "SDE III Devops",
@@ -93,12 +99,6 @@
       "link": "https://web3.career/cloud-devops-platform-engineering-talent-community-launchpadtechnologiesinc/153652",
       "company_name": "Launchpadtechnologiesinc",
       "description": "cloud engineer engineer community manager"
-    },
-    {
-      "title": "DevOps Engineer 100% remote",
-      "link": "https://web3.career/devops-engineer-100-remote-tetheroperationslimited/153592",
-      "company_name": "Tether Operations Limited",
-      "description": "remote devops engineer"
     }
   ]
 }

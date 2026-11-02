@@ -2,8 +2,14 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-10-26T12:33:16.562142+00:00",
+  "updated_at": "2026-11-02T15:11:30.506879+00:00",
   "jobs": [
+    {
+      "title": "Blockchain Developer Web3",
+      "link": "https://web3.career/blockchain-developer-web3-divittechnologies-inc/155816",
+      "company_name": "Divit Technologies, Inc.",
+      "description": "dev blockchain ethereum"
+    },
     {
       "title": "Web3 Engineer Digital Assets Tokenization",
       "link": "https://web3.career/web3-engineer-digital-assets-tokenization-arohanatechsolutionsprivatelimited/155664",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/android-engineer-binance/154293",
       "company_name": "Binance",
       "description": "android mobile engineer"
-    },
-    {
-      "title": "Senior Software Engineer New Markets Japan JLPT N1 Fluent",
-      "link": "https://web3.career/senior-software-engineer-new-markets-japan-jlpt-n1-fluent-alpaca/154257",
-      "company_name": "Alpaca",
-      "description": "japan engineer senior"
     }
   ]
 }

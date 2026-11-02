@@ -2,7 +2,7 @@
   "skill": "data-science",
   "label": "Data Science",
   "count": 19,
-  "updated_at": "2026-10-26T12:33:48.539491+00:00",
+  "updated_at": "2026-11-02T15:12:26.587111+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -29,34 +29,22 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Product Data Analyst",
-      "link": "https://web3.career/senior-product-data-analyst-kamino/155690",
-      "company_name": "Kamino",
-      "description": "analyst data science senior"
-    },
-    {
       "title": "AWS Data Engineer Data Platm",
       "link": "https://web3.career/aws-data-engineer-data-platform-zinnia/153973",
       "company_name": "Zinnia",
       "description": "data science engineer aws"
     },
     {
-      "title": "Data Engineer",
-      "link": "https://web3.career/data-engineer-tastylive/155634",
-      "company_name": "Tastylive",
-      "description": "data science engineer aws"
-    },
-    {
-      "title": "Staff Pricing Data Scientist",
-      "link": "https://web3.career/staff-pricing-data-scientist-moonpay/155630",
-      "company_name": "MoonPay",
-      "description": "scientist data science crypto"
-    },
-    {
       "title": "Senior Data Engineer",
       "link": "https://web3.career/senior-data-engineer-okx/147863",
       "company_name": "Okx",
       "description": "data science engineer senior"
+    },
+    {
+      "title": "Sr. Data Analyst Compliance",
+      "link": "https://web3.career/sr-data-analyst-compliance-kraken/155801",
+      "company_name": "Kraken",
+      "description": "compliance non tech analyst"
     },
     {
       "title": "SUMMER Data Scientist Intern PhD",
@@ -101,6 +89,24 @@
       "description": "data science engineer senior"
     },
     {
+      "title": "Senior Product Data Analyst",
+      "link": "https://web3.career/senior-product-data-analyst-kamino/155690",
+      "company_name": "Kamino",
+      "description": "analyst data science senior"
+    },
+    {
+      "title": "Data Engineer",
+      "link": "https://web3.career/data-engineer-tastylive/155634",
+      "company_name": "Tastylive",
+      "description": "data science engineer aws"
+    },
+    {
+      "title": "Staff Pricing Data Scientist",
+      "link": "https://web3.career/staff-pricing-data-scientist-moonpay/155630",
+      "company_name": "MoonPay",
+      "description": "scientist data science crypto"
+    },
+    {
       "title": "Senior Data Engineer",
       "link": "https://web3.career/senior-data-engineer-alchemy/155465",
       "company_name": "Alchemy",
@@ -111,12 +117,6 @@
       "link": "https://web3.career/senior-data-analyst-figure/155383",
       "company_name": "Figure",
       "description": "analyst data science senior"
-    },
-    {
-      "title": "Senior Data Engineer",
-      "link": "https://web3.career/senior-data-engineer-woo/155372",
-      "company_name": "Woo",
-      "description": "data science engineer senior"
     }
   ]
 }

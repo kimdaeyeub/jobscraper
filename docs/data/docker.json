@@ -2,7 +2,7 @@
   "skill": "docker",
   "label": "Docker",
   "count": 19,
-  "updated_at": "2026-10-26T12:33:45.985190+00:00",
+  "updated_at": "2026-11-02T15:12:19.409173+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -29,10 +29,10 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior Protocol Engineer Move VM",
-      "link": "https://web3.career/senior-protocol-engineer-move-vm-globalsettlementnetwork/155675",
-      "company_name": "Global Settlement Network",
-      "description": "move protocol engineer"
+      "title": "Sr. Software Development Engineer",
+      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
+      "company_name": "Zscaler",
+      "description": "engineer dev senior"
     },
     {
       "title": "AWS Data Engineer Data Platm",
@@ -47,16 +47,28 @@
       "description": "engineer dev aws"
     },
     {
-      "title": "Senior Trading Systems DevOps Engineer",
-      "link": "https://web3.career/senior-trading-systems-devops-engineer-falconx/155589",
-      "company_name": "Falconx",
-      "description": "devops engineer senior"
+      "title": "Principal Infrastructure Engineer Contract – LATAM",
+      "link": "https://web3.career/principal-infrastructure-engineer-contract-latam-nexus/155802",
+      "company_name": "Nexus",
+      "description": "infrastructure engineer executive"
+    },
+    {
+      "title": "Senior Software Engineer Trading",
+      "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev"
     },
     {
       "title": "Senior Fullstack Engineer Operational Automations",
       "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
       "company_name": "Alpaca",
       "description": "engineer full stack operations"
+    },
+    {
+      "title": "Senior FullStack Engineer Internal Tools",
+      "link": "https://web3.career/senior-full-stack-engineer-internal-tools-alpaca/106289",
+      "company_name": "Alpaca",
+      "description": "engineer full stack senior"
     },
     {
       "title": "Senior DevOps Engineer",
@@ -77,46 +89,34 @@
       "description": "quantitative engineer dev"
     },
     {
+      "title": "Software Engineer Prediction Markets Platm",
+      "link": "https://web3.career/software-engineer-prediction-markets-platform-crypto-com/155777",
+      "company_name": "Crypto.com",
+      "description": "engineer dev aws"
+    },
+    {
+      "title": "Senior Software Engineer Prediction Markets Platm",
+      "link": "https://web3.career/senior-software-engineer-prediction-markets-platform-crypto-com/155776",
+      "company_name": "Crypto.com",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Senior Protocol Engineer Move VM",
+      "link": "https://web3.career/senior-protocol-engineer-move-vm-globalsettlementnetwork/155675",
+      "company_name": "Global Settlement Network",
+      "description": "move protocol engineer"
+    },
+    {
+      "title": "Senior Trading Systems DevOps Engineer",
+      "link": "https://web3.career/senior-trading-systems-devops-engineer-falconx/155589",
+      "company_name": "Falconx",
+      "description": "devops engineer senior"
+    },
+    {
       "title": "Staff Software Engineer SRE",
       "link": "https://web3.career/staff-software-engineer-sre-phantom/155493",
       "company_name": "Phantom",
       "description": "engineer dev senior"
-    },
-    {
-      "title": "Software Engineer Securities Finance",
-      "link": "https://web3.career/software-engineer-securities-finance-alpaca/155468",
-      "company_name": "Alpaca",
-      "description": "engineer finance non tech"
-    },
-    {
-      "title": "Software Engineer II Compliance Core",
-      "link": "https://web3.career/software-engineer-ii-compliance-core-chainalysis/155451",
-      "company_name": "Chainalysis",
-      "description": "compliance non tech engineer"
-    },
-    {
-      "title": "Sr. Software Development Engineer",
-      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
-      "company_name": "Zscaler",
-      "description": "engineer dev senior"
-    },
-    {
-      "title": "Associate AI Engineer",
-      "link": "https://web3.career/associate-ai-engineer-figure/155382",
-      "company_name": "Figure",
-      "description": "ai engineer blockchain"
-    },
-    {
-      "title": "Risk Developer",
-      "link": "https://web3.career/risk-developer-dvtrading/154971",
-      "company_name": "Dvtrading",
-      "description": "dev angular docker"
-    },
-    {
-      "title": "Blockchain Engineer",
-      "link": "https://web3.career/blockchain-engineer-globalsettlementnetwork/155057",
-      "company_name": "Global Settlement Network",
-      "description": "engineer blockchain aws"
     }
   ]
 }

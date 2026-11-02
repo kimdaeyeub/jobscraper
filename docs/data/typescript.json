@@ -2,8 +2,14 @@
   "skill": "typescript",
   "label": "TypeScript",
   "count": 20,
-  "updated_at": "2026-10-26T12:32:51.953330+00:00",
+  "updated_at": "2026-11-02T15:11:24.535599+00:00",
   "jobs": [
+    {
+      "title": "Senior React Native Developer (f/m/d)",
+      "description": "Senior React Native Developer (f/m/d) Mobile apps · iOS & Android · SuperNext · Berlin Build high-quality mobile applications for iOS and Android. About SuperNext SuperNext builds a media operating system for publishers, creators and brands. Our platform connects video, verticals, podcasts and livestreams, from publishing to delivery. We are looking for a developer who...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-react-native-developer-f-m-d-supernext-gmbh/",
+      "company_name": "SuperNext GmbH"
+    },
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf...",
@@ -23,46 +29,46 @@
       "company_name": "EMS Press"
     },
     {
-      "title": "Full Stack Developer",
-      "description": "Located in the vibrant heart of Berlin, Pandata provides advanced data solutions to empower companies with data and technological innovation. Our corporate clients trust us with strategy, solution design and implementation. We follow a holistic approach, covering the entire data stream from sourcing to processing and insight generation, using cutting-edge tools as well as custom...",
-      "link": "https://berlinstartupjobs.com/engineering/full-stack-developer-pandata-gmbh/",
-      "company_name": "Pandata"
-    },
-    {
       "title": "Senior Fullstack Engineer",
       "description": "About Climatiq If you’re looking for a role that has an impact on the world, and not just a balance sheet, Climatiq is the place for you. We’re a fast-growing startup embedding carbon intelligence into business decisions worldwide. Our platform—combining the world’s leading emissions database with sophisticated AI and calculation tools—helps thousands of sustainability teams...",
       "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-engineer-climatiq/",
       "company_name": "Climatiq"
     },
     {
-      "title": "Web3 Engineer Digital Assets Tokenization",
-      "link": "https://web3.career/web3-engineer-digital-assets-tokenization-arohanatechsolutionsprivatelimited/155664",
-      "company_name": "Arohana Tech Solutions Private Limited",
-      "description": "tokenization finance non tech"
+      "title": "Customer Engineering Lead",
+      "link": "https://web3.career/customer-engineering-lead-veda/155891",
+      "company_name": "Veda",
+      "description": "lead blockchain crypto"
     },
     {
-      "title": "Security Engineer",
-      "link": "https://web3.career/security-engineer-mystenlabs/155657",
-      "company_name": "Mysten Labs",
-      "description": "engineer security blockchain"
-    },
-    {
-      "title": "Head of Financial Systems Engineering",
-      "link": "https://web3.career/head-of-financial-systems-engineering-kraken/155652",
+      "title": "Senior Software Engineer Dev Platm",
+      "link": "https://web3.career/senior-software-engineer-dev-platform-kraken/155867",
       "company_name": "Kraken",
-      "description": "executive finance non tech"
+      "description": "dev engineer senior"
     },
     {
-      "title": "Founding Solana Token Engineer — Ihsan Gold Dinar",
-      "link": "https://web3.career/founding-solana-token-engineer-ihsan-gold-dinar-ihsan/155626",
-      "company_name": "Ihsan",
-      "description": "founding member engineer golang"
+      "title": "Senior Software Engineer – Agent Experiences",
+      "link": "https://web3.career/senior-software-engineer-agent-experiences-alpaca/155847",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev"
     },
     {
-      "title": "Blockchain Engineer",
-      "link": "https://web3.career/blockchain-engineer-eclerx/155615",
-      "company_name": "eClerx",
-      "description": "engineer blockchain angular"
+      "title": "Senior Software Engineer – Agent Developer Platm",
+      "link": "https://web3.career/senior-software-engineer-agent-developer-platform-alpaca/155846",
+      "company_name": "Alpaca",
+      "description": "dev engineer senior"
+    },
+    {
+      "title": "Senior Frontend Engineer Acquisition",
+      "link": "https://web3.career/senior-frontend-engineer-acquisition-alpaca/155845",
+      "company_name": "Alpaca",
+      "description": "engineer front end senior"
+    },
+    {
+      "title": "Blockchain Developer Web3",
+      "link": "https://web3.career/blockchain-developer-web3-divittechnologies-inc/155816",
+      "company_name": "Divit Technologies, Inc.",
+      "description": "dev blockchain ethereum"
     },
     {
       "title": "Staff Software Engineer",
@@ -71,28 +77,10 @@
       "description": "engineer dev aws"
     },
     {
-      "title": "Senior Full Stack Engineer Growth Experimentation – Krak",
-      "link": "https://web3.career/senior-full-stack-engineer-growth-experimentation-krak-kraken/155604",
-      "company_name": "Kraken",
-      "description": "growth engineer full stack"
-    },
-    {
-      "title": "Senior Security Engineer xStocks",
-      "link": "https://web3.career/senior-security-engineer-xstocks-kraken/155602",
-      "company_name": "Kraken",
-      "description": "engineer security senior"
-    },
-    {
       "title": "Backend Engineer",
       "link": "https://web3.career/backend-engineer-layerzerolabs/73714",
       "company_name": "Layerzerolabs",
       "description": "backend engineer aws"
-    },
-    {
-      "title": "Software Engineer Data",
-      "link": "https://web3.career/software-engineer-data-chainlinklabs/155597",
-      "company_name": "Chainlink Labs",
-      "description": "engineer dev blockchain"
     },
     {
       "title": "Senior Fullstack Engineer Operational Automations",
@@ -101,8 +89,8 @@
       "description": "engineer full stack operations"
     },
     {
-      "title": "Senior Fullstack Engineer Auth Team",
-      "link": "https://web3.career/senior-fullstack-engineer-auth-team-alpaca/155582",
+      "title": "Senior FullStack Engineer Internal Tools",
+      "link": "https://web3.career/senior-full-stack-engineer-internal-tools-alpaca/106289",
       "company_name": "Alpaca",
       "description": "engineer full stack senior"
     },
@@ -123,6 +111,18 @@
       "link": "https://web3.career/senior-software-engineer-mobile-backend-bitgo/110782",
       "company_name": "Bitgo",
       "description": "backend engineer mobile"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "link": "https://web3.career/senior-data-engineer-bitgo/155363",
+      "company_name": "Bitgo",
+      "description": "data science engineer senior"
+    },
+    {
+      "title": "Software Engineer Prediction Markets Platm",
+      "link": "https://web3.career/software-engineer-prediction-markets-platform-crypto-com/155777",
+      "company_name": "Crypto.com",
+      "description": "engineer dev aws"
     }
   ]
 }

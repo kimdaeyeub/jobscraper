@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T12:32:50.091771+00:00",
+  "updated_at": "2026-11-02T15:11:21.110716+00:00",
   "skills": [
     {
       "id": "python",
@@ -164,7 +164,7 @@
     {
       "id": "ios",
       "label": "iOS",
-      "count": 16
+      "count": 17
     },
     {
       "id": "flutter",

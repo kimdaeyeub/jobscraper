@@ -2,25 +2,13 @@
   "skill": "java",
   "label": "Java",
   "count": 15,
-  "updated_at": "2026-10-26T12:32:57.713375+00:00",
+  "updated_at": "2026-11-02T15:11:25.392073+00:00",
   "jobs": [
     {
-      "title": "Web3 Engineer Digital Assets Tokenization",
-      "link": "https://web3.career/web3-engineer-digital-assets-tokenization-arohanatechsolutionsprivatelimited/155664",
-      "company_name": "Arohana Tech Solutions Private Limited",
-      "description": "tokenization finance non tech"
-    },
-    {
-      "title": "Java Backend Developer with Blockchain exp",
-      "link": "https://web3.career/java-backend-developer-with-blockchain-exp-photon/155662",
-      "company_name": "Photon",
-      "description": "backend dev java"
-    },
-    {
-      "title": "Blockchain Engineer",
-      "link": "https://web3.career/blockchain-engineer-eclerx/155615",
-      "company_name": "eClerx",
-      "description": "engineer blockchain angular"
+      "title": "Blockchain Developer Web3",
+      "link": "https://web3.career/blockchain-developer-web3-divittechnologies-inc/155816",
+      "company_name": "Divit Technologies, Inc.",
+      "description": "dev blockchain ethereum"
     },
     {
       "title": "Staff Software Engineer",
@@ -41,6 +29,42 @@
       "description": "compliance non tech engineer"
     },
     {
+      "title": "Intern Java",
+      "link": "https://web3.career/intern-java-bitpanda/155374",
+      "company_name": "Bitpanda",
+      "description": "intern entry level java"
+    },
+    {
+      "title": "Senior Software Engineer Trading",
+      "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Quantitative Software Engineer DV Commodities",
+      "link": "https://web3.career/quantitative-software-engineer-dv-commodities-dvtrading/155577",
+      "company_name": "Dvtrading",
+      "description": "quantitative engineer dev"
+    },
+    {
+      "title": "Web3 Engineer Digital Assets Tokenization",
+      "link": "https://web3.career/web3-engineer-digital-assets-tokenization-arohanatechsolutionsprivatelimited/155664",
+      "company_name": "Arohana Tech Solutions Private Limited",
+      "description": "tokenization finance non tech"
+    },
+    {
+      "title": "Java Backend Developer with Blockchain exp",
+      "link": "https://web3.career/java-backend-developer-with-blockchain-exp-photon/155662",
+      "company_name": "Photon",
+      "description": "backend dev java"
+    },
+    {
+      "title": "Blockchain Engineer",
+      "link": "https://web3.career/blockchain-engineer-eclerx/155615",
+      "company_name": "eClerx",
+      "description": "engineer blockchain angular"
+    },
+    {
       "title": "Software Engineer Java CF Benchmark",
       "link": "https://web3.career/software-engineer-java-cf-benchmark-kraken/155603",
       "company_name": "Kraken",
@@ -53,22 +77,10 @@
       "description": "devops engineer senior"
     },
     {
-      "title": "Intern Java",
-      "link": "https://web3.career/intern-java-bitpanda/155374",
-      "company_name": "Bitpanda",
-      "description": "intern entry level java"
-    },
-    {
       "title": "Senior Fullstack Engineer Auth Team",
       "link": "https://web3.career/senior-fullstack-engineer-auth-team-alpaca/155582",
       "company_name": "Alpaca",
       "description": "engineer full stack senior"
-    },
-    {
-      "title": "Quantitative Software Engineer DV Commodities",
-      "link": "https://web3.career/quantitative-software-engineer-dv-commodities-dvtrading/155577",
-      "company_name": "Dvtrading",
-      "description": "quantitative engineer dev"
     },
     {
       "title": "Staff Fullstack Engineer",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/software-engineer-trade-bitgo/140687",
       "company_name": "Bitgo",
       "description": "engineer dev bitcoin"
-    },
-    {
-      "title": "Software Engineer II Compliance Core",
-      "link": "https://web3.career/software-engineer-ii-compliance-core-chainalysis/155451",
-      "company_name": "Chainalysis",
-      "description": "compliance non tech engineer"
-    },
-    {
-      "title": "Blockchain Platms Engineer",
-      "link": "https://web3.career/blockchain-platforms-engineer-coreaiconsultinginc/155418",
-      "company_name": "Core AI Consulting Inc",
-      "description": "engineer blockchain java"
     }
   ]
 }

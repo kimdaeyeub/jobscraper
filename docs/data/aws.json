@@ -2,36 +2,36 @@
   "skill": "aws",
   "label": "AWS",
   "count": 15,
-  "updated_at": "2026-10-26T12:33:45.500595+00:00",
+  "updated_at": "2026-11-02T15:12:18.619839+00:00",
   "jobs": [
     {
-      "title": "Senior Protocol Engineer Move VM",
-      "link": "https://web3.career/senior-protocol-engineer-move-vm-globalsettlementnetwork/155675",
-      "company_name": "Global Settlement Network",
-      "description": "move protocol engineer"
+      "title": "Account Executive KAST Business",
+      "link": "https://web3.career/account-executive-kast-business-kast/155902",
+      "company_name": "Kast",
+      "description": "account manager sales non tech"
     },
     {
-      "title": "Senior Security Engineer Product Security",
-      "link": "https://web3.career/senior-security-engineer-product-security-immutable/155661",
-      "company_name": "Immutable",
-      "description": "engineer security senior"
+      "title": "Senior UX Researcher Quantitative",
+      "link": "https://web3.career/senior-ux-researcher-quantitative-ondofinance/155880",
+      "company_name": "Ondo Finance",
+      "description": "quantitative research ux researcher"
+    },
+    {
+      "title": "IT Security Officer",
+      "link": "https://web3.career/it-security-officer-kast/155879",
+      "company_name": "Kast",
+      "description": "security aws crypto"
+    },
+    {
+      "title": "Director Professional Services Consulting",
+      "link": "https://web3.career/director-professional-services-consulting-zscaler/154283",
+      "company_name": "Zscaler",
+      "description": "consulting executive aws"
     },
     {
       "title": "AWS Data Engineer Data Platm",
       "link": "https://web3.career/aws-data-engineer-data-platform-zinnia/153973",
       "company_name": "Zinnia",
-      "description": "data science engineer aws"
-    },
-    {
-      "title": "Senior Security Engineer",
-      "link": "https://web3.career/senior-security-engineer-mystenlabs/155658",
-      "company_name": "Mysten Labs",
-      "description": "engineer security senior"
-    },
-    {
-      "title": "Data Engineer",
-      "link": "https://web3.career/data-engineer-tastylive/155634",
-      "company_name": "Tastylive",
       "description": "data science engineer aws"
     },
     {
@@ -41,10 +41,34 @@
       "description": "aws crypto defi"
     },
     {
-      "title": "Professional Services Consultant",
-      "link": "https://web3.career/professional-services-consultant-zscaler/154284",
+      "title": "KAST Fellow",
+      "link": "https://web3.career/kast-fellow-kast/155838",
+      "company_name": "Kast",
+      "description": "aws crypto solana"
+    },
+    {
+      "title": "Director of Business Development LATAM",
+      "link": "https://web3.career/director-of-business-development-latam-ondofinance/155836",
+      "company_name": "Ondo Finance",
+      "description": "business development sales non tech"
+    },
+    {
+      "title": "Senior Event Manager ContracttoFullTime",
+      "link": "https://web3.career/senior-event-manager-contract-to-full-time-ondofinance/155829",
+      "company_name": "Ondo Finance",
+      "description": "events manager non tech full time"
+    },
+    {
+      "title": "Escalation Engineer DLP",
+      "link": "https://web3.career/escalation-engineer-dlp-zscaler/148637",
       "company_name": "Zscaler",
-      "description": "consulting aws remote"
+      "description": "engineer aws remote"
+    },
+    {
+      "title": "Escalation Engineer Cloud",
+      "link": "https://web3.career/escalation-engineer-cloud-zscaler/152078",
+      "company_name": "Zscaler",
+      "description": "cloud engineer engineer aws"
     },
     {
       "title": "Senior Technical Success Manager",
@@ -59,40 +83,16 @@
       "description": "engineer dev aws"
     },
     {
-      "title": "Senior Security Engineer xStocks",
-      "link": "https://web3.career/senior-security-engineer-xstocks-kraken/155602",
-      "company_name": "Kraken",
-      "description": "engineer security senior"
+      "title": "Principal Infrastructure Engineer Contract – LATAM",
+      "link": "https://web3.career/principal-infrastructure-engineer-contract-latam-nexus/155802",
+      "company_name": "Nexus",
+      "description": "infrastructure engineer executive"
     },
     {
       "title": "Backend Engineer",
       "link": "https://web3.career/backend-engineer-layerzerolabs/73714",
       "company_name": "Layerzerolabs",
       "description": "backend engineer aws"
-    },
-    {
-      "title": "Security Assurance Engineer",
-      "link": "https://web3.career/security-assurance-engineer-chainlinklabs/155599",
-      "company_name": "Chainlink Labs",
-      "description": "engineer security aws"
-    },
-    {
-      "title": "Senior Trading Systems DevOps Engineer",
-      "link": "https://web3.career/senior-trading-systems-devops-engineer-falconx/155589",
-      "company_name": "Falconx",
-      "description": "devops engineer senior"
-    },
-    {
-      "title": "Senior SOC Analyst Security Operations",
-      "link": "https://web3.career/senior-soc-analyst-security-operations-bitpanda/153640",
-      "company_name": "Bitpanda",
-      "description": "analyst operations security"
-    },
-    {
-      "title": "Intern Data Engineer",
-      "link": "https://web3.career/intern-data-engineer-bitpanda/155471",
-      "company_name": "Bitpanda",
-      "description": "data science engineer intern"
     }
   ]
 }

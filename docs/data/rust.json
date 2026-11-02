@@ -2,73 +2,73 @@
   "skill": "rust",
   "label": "Rust",
   "count": 15,
-  "updated_at": "2026-10-26T12:33:03.627236+00:00",
+  "updated_at": "2026-11-02T15:11:27.038279+00:00",
   "jobs": [
     {
-      "title": "Senior Protocol Engineer Move VM",
-      "link": "https://web3.career/senior-protocol-engineer-move-vm-globalsettlementnetwork/155675",
-      "company_name": "Global Settlement Network",
-      "description": "move protocol engineer"
-    },
-    {
-      "title": "Web3 Engineer Digital Assets Tokenization",
-      "link": "https://web3.career/web3-engineer-digital-assets-tokenization-arohanatechsolutionsprivatelimited/155664",
-      "company_name": "Arohana Tech Solutions Private Limited",
-      "description": "tokenization finance non tech"
-    },
-    {
-      "title": "Senior Security Engineer",
-      "link": "https://web3.career/senior-security-engineer-mystenlabs/155658",
-      "company_name": "Mysten Labs",
-      "description": "engineer security senior"
-    },
-    {
-      "title": "Security Engineer",
-      "link": "https://web3.career/security-engineer-mystenlabs/155657",
-      "company_name": "Mysten Labs",
-      "description": "engineer security blockchain"
-    },
-    {
-      "title": "Head of Financial Systems Engineering",
-      "link": "https://web3.career/head-of-financial-systems-engineering-kraken/155652",
+      "title": "Staff Site Reliability Engineer Dev Platm",
+      "link": "https://web3.career/staff-site-reliability-engineer-dev-platform-kraken/155868",
       "company_name": "Kraken",
-      "description": "executive finance non tech"
+      "description": "dev engineer reliability"
     },
     {
-      "title": "Founding Solana Token Engineer — Ihsan Gold Dinar",
-      "link": "https://web3.career/founding-solana-token-engineer-ihsan-gold-dinar-ihsan/155626",
-      "company_name": "Ihsan",
-      "description": "founding member engineer golang"
-    },
-    {
-      "title": "Senior Consultant Blockchain and Digital Assets – Technology Consulting",
-      "link": "https://web3.career/senior-consultant-blockchain-and-digital-assets-technology-consulting-fticonsulting/155614",
-      "company_name": "FTI Consulting",
-      "description": "consulting finance non tech"
-    },
-    {
-      "title": "Senior Full Stack Engineer Growth Experimentation – Krak",
-      "link": "https://web3.career/senior-full-stack-engineer-growth-experimentation-krak-kraken/155604",
+      "title": "Senior Software Engineer Dev Platm",
+      "link": "https://web3.career/senior-software-engineer-dev-platform-kraken/155867",
       "company_name": "Kraken",
-      "description": "growth engineer full stack"
+      "description": "dev engineer senior"
     },
     {
-      "title": "Staff Software Engineer Market Data",
-      "link": "https://web3.career/staff-software-engineer-market-data-dune/155600",
-      "company_name": "Dune",
-      "description": "engineer dev blockchain"
+      "title": "Quantitative Analyst Intern Digital Assets Market Making HFT",
+      "link": "https://web3.career/quantitative-analyst-intern-digital-assets-market-making-hft-keyrock/155863",
+      "company_name": "Keyrock",
+      "description": "quantitative quantitative analyst analyst"
     },
     {
-      "title": "Crypto Production Engineer",
-      "link": "https://web3.career/crypto-production-engineer-jumpcrypto/89562",
-      "company_name": "Jumpcrypto",
-      "description": "engineer blockchain crypto"
+      "title": "Innovation Quant Developer: Intern DeFi Corporate Development",
+      "link": "https://web3.career/innovation-quant-developer-intern-defi-corporate-development-keyrock/155862",
+      "company_name": "Keyrock",
+      "description": "dev intern entry level"
     },
     {
-      "title": "Software Engineer Data",
-      "link": "https://web3.career/software-engineer-data-chainlinklabs/155597",
-      "company_name": "Chainlink Labs",
-      "description": "engineer dev blockchain"
+      "title": "DeFi Quant Trader Intern Credit",
+      "link": "https://web3.career/defi-quant-trader-intern-credit-keyrock/155861",
+      "company_name": "Keyrock",
+      "description": "intern entry level trader"
+    },
+    {
+      "title": "DeFi Quant Research Intern Digital Assets Market Making",
+      "link": "https://web3.career/defi-quant-research-intern-digital-assets-market-making-keyrock/155860",
+      "company_name": "Keyrock",
+      "description": "research finance non tech"
+    },
+    {
+      "title": "Senior Frontend Engineer Acquisition",
+      "link": "https://web3.career/senior-frontend-engineer-acquisition-alpaca/155845",
+      "company_name": "Alpaca",
+      "description": "engineer front end senior"
+    },
+    {
+      "title": "Blockchain Developer Web3",
+      "link": "https://web3.career/blockchain-developer-web3-divittechnologies-inc/155816",
+      "company_name": "Divit Technologies, Inc.",
+      "description": "dev blockchain ethereum"
+    },
+    {
+      "title": "Senior Smart Contract Engineer",
+      "link": "https://web3.career/senior-smart-contract-engineer-coinlist/155815",
+      "company_name": "CoinList",
+      "description": "engineer senior ethereum"
+    },
+    {
+      "title": "Tech Lead",
+      "link": "https://web3.career/tech-lead-parity/155803",
+      "company_name": "Parity",
+      "description": "lead tech lead blockchain"
+    },
+    {
+      "title": "Principal Infrastructure Engineer Contract – LATAM",
+      "link": "https://web3.career/principal-infrastructure-engineer-contract-latam-nexus/155802",
+      "company_name": "Nexus",
+      "description": "infrastructure engineer executive"
     },
     {
       "title": "Quant Developer",
@@ -83,10 +83,10 @@
       "description": "engineer senior crypto"
     },
     {
-      "title": "Senior Trading Systems DevOps Engineer",
-      "link": "https://web3.career/senior-trading-systems-devops-engineer-falconx/155589",
-      "company_name": "Falconx",
-      "description": "devops engineer senior"
+      "title": "Senior Software Engineer Trading",
+      "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev"
     },
     {
       "title": "Senior Software Engineer Market Data",

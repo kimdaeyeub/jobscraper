@@ -1,9 +1,15 @@
 {
   "skill": "ios",
   "label": "iOS",
-  "count": 16,
-  "updated_at": "2026-10-26T12:33:49.584001+00:00",
+  "count": 17,
+  "updated_at": "2026-11-02T15:12:31.131726+00:00",
   "jobs": [
+    {
+      "title": "Senior React Native Developer (f/m/d)",
+      "description": "Senior React Native Developer (f/m/d) Mobile apps · iOS & Android · SuperNext · Berlin Build high-quality mobile applications for iOS and Android. About SuperNext SuperNext builds a media operating system for publishers, creators and brands. Our platform connects video, verticals, podcasts and livestreams, from publishing to delivery. We are looking for a developer who...",
+      "link": "https://berlinstartupjobs.com/engineering/senior-react-native-developer-f-m-d-supernext-gmbh/",
+      "company_name": "SuperNext GmbH"
+    },
     {
       "title": "Founding iOS Engineer (m/f/d)",
       "description": "About us Most labs still count cells under a microscope by hand. It’s slow, repetitive, and error-prone. We’re replacing that manual work with software. By combining a standard microscope with a smartphone, we run computer vision models that locate, track, and measure cells automatically in real time. We’re starting with semen analysis and expanding to...",
