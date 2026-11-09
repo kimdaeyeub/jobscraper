@@ -2,7 +2,7 @@
   "skill": "ios",
   "label": "iOS",
   "count": 17,
-  "updated_at": "2026-11-02T15:12:31.131726+00:00",
+  "updated_at": "2026-11-09T15:42:44.005662+00:00",
   "jobs": [
     {
       "title": "Senior React Native Developer (f/m/d)",
@@ -17,6 +17,12 @@
       "company_name": "Ferto AI"
     },
     {
+      "title": "Senior Software Engineer Mobile React Native iOS Android",
+      "link": "https://web3.career/senior-software-engineer-mobile-react-native-ios-android-bitgo/155364",
+      "company_name": "Bitgo",
+      "description": "android mobile engineer"
+    },
+    {
       "title": "Engineering Director Mobile iOS Android",
       "link": "https://web3.career/engineering-director-mobile-ios-android-okx/150697",
       "company_name": "Okx",
@@ -27,12 +33,6 @@
       "link": "https://web3.career/senior-ios-engineer-crypto-perpetuals-robinhood/155532",
       "company_name": "Robinhood",
       "description": "engineer ios mobile"
-    },
-    {
-      "title": "Senior Software Engineer Mobile React Native iOS Android",
-      "link": "https://web3.career/senior-software-engineer-mobile-react-native-ios-android-bitgo/155364",
-      "company_name": "Bitgo",
-      "description": "android mobile engineer"
     },
     {
       "title": "Senior iOS Engineer",

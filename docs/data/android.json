@@ -2,7 +2,7 @@
   "skill": "android",
   "label": "Android",
   "count": 16,
-  "updated_at": "2026-11-02T15:12:30.371659+00:00",
+  "updated_at": "2026-11-09T15:42:43.380910+00:00",
   "jobs": [
     {
       "title": "Senior React Native Developer (f/m/d)",
@@ -11,16 +11,16 @@
       "company_name": "SuperNext GmbH"
     },
     {
-      "title": "Engineering Director Mobile iOS Android",
-      "link": "https://web3.career/engineering-director-mobile-ios-android-okx/150697",
-      "company_name": "Okx",
-      "description": "android mobile executive"
-    },
-    {
       "title": "Senior Software Engineer Mobile React Native iOS Android",
       "link": "https://web3.career/senior-software-engineer-mobile-react-native-ios-android-bitgo/155364",
       "company_name": "Bitgo",
       "description": "android mobile engineer"
+    },
+    {
+      "title": "Engineering Director Mobile iOS Android",
+      "link": "https://web3.career/engineering-director-mobile-ios-android-okx/150697",
+      "company_name": "Okx",
+      "description": "android mobile executive"
     },
     {
       "title": "Android Engineer C++",

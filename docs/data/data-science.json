@@ -2,7 +2,7 @@
   "skill": "data-science",
   "label": "Data Science",
   "count": 19,
-  "updated_at": "2026-11-02T15:12:26.587111+00:00",
+  "updated_at": "2026-11-09T15:42:42.644036+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -29,22 +29,10 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "AWS Data Engineer Data Platm",
-      "link": "https://web3.career/aws-data-engineer-data-platform-zinnia/153973",
-      "company_name": "Zinnia",
-      "description": "data science engineer aws"
-    },
-    {
       "title": "Senior Data Engineer",
       "link": "https://web3.career/senior-data-engineer-okx/147863",
       "company_name": "Okx",
       "description": "data science engineer senior"
-    },
-    {
-      "title": "Sr. Data Analyst Compliance",
-      "link": "https://web3.career/sr-data-analyst-compliance-kraken/155801",
-      "company_name": "Kraken",
-      "description": "compliance non tech analyst"
     },
     {
       "title": "SUMMER Data Scientist Intern PhD",
@@ -78,14 +66,26 @@
     },
     {
       "title": "Senior Data Engineer",
-      "link": "https://web3.career/senior-data-engineer-nansen/103438",
-      "company_name": "Nansen",
+      "link": "https://web3.career/senior-data-engineer-bitgo/155363",
+      "company_name": "Bitgo",
       "description": "data science engineer senior"
     },
     {
+      "title": "AWS Data Engineer Data Platm",
+      "link": "https://web3.career/aws-data-engineer-data-platform-zinnia/153973",
+      "company_name": "Zinnia",
+      "description": "data science engineer aws"
+    },
+    {
+      "title": "Sr. Data Analyst Compliance",
+      "link": "https://web3.career/sr-data-analyst-compliance-kraken/155801",
+      "company_name": "Kraken",
+      "description": "compliance non tech analyst"
+    },
+    {
       "title": "Senior Data Engineer",
-      "link": "https://web3.career/senior-data-engineer-bitgo/155363",
-      "company_name": "Bitgo",
+      "link": "https://web3.career/senior-data-engineer-nansen/103438",
+      "company_name": "Nansen",
       "description": "data science engineer senior"
     },
     {

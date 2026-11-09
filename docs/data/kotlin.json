@@ -2,8 +2,20 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-11-02T15:11:30.506879+00:00",
+  "updated_at": "2026-11-09T15:41:34.914161+00:00",
   "jobs": [
+    {
+      "title": "Senior Product Designer Design Systems",
+      "link": "https://web3.career/senior-product-designer-design-systems-ondofinance/156009",
+      "company_name": "Ondo Finance",
+      "description": "product designer design non tech"
+    },
+    {
+      "title": "Senior Software Engineer Mobile React Native iOS Android",
+      "link": "https://web3.career/senior-software-engineer-mobile-react-native-ios-android-bitgo/155364",
+      "company_name": "Bitgo",
+      "description": "android mobile engineer"
+    },
     {
       "title": "Blockchain Developer Web3",
       "link": "https://web3.career/blockchain-developer-web3-divittechnologies-inc/155816",
@@ -53,12 +65,6 @@
       "description": "engineer react native mobile"
     },
     {
-      "title": "Senior Software Engineer Mobile React Native iOS Android",
-      "link": "https://web3.career/senior-software-engineer-mobile-react-native-ios-android-bitgo/155364",
-      "company_name": "Bitgo",
-      "description": "android mobile engineer"
-    },
-    {
       "title": "Mobile Engineer E2 React Native",
       "link": "https://web3.career/mobile-engineer-e2-react-native-bitgo/155362",
       "company_name": "Bitgo",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/senior-engineer-solana-r3/154536",
       "company_name": "R3",
       "description": "engineer senior crypto"
-    },
-    {
-      "title": "Android Engineer",
-      "link": "https://web3.career/android-engineer-binance/154293",
-      "company_name": "Binance",
-      "description": "android mobile engineer"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "skill": "docker",
   "label": "Docker",
   "count": 19,
-  "updated_at": "2026-11-02T15:12:19.409173+00:00",
+  "updated_at": "2026-11-09T15:42:35.598841+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -29,16 +29,28 @@
       "company_name": "DATATRONiQ"
     },
     {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-lista-dao/156035",
+      "company_name": "Lista DAO",
+      "description": "devops engineer senior"
+    },
+    {
+      "title": "Senior Backend Engineer Go Blockchain – Fintech",
+      "link": "https://web3.career/senior-backend-engineer-go-blockchain-fintech-augmented/156017",
+      "company_name": "Augmented",
+      "description": "backend engineer fintech"
+    },
+    {
       "title": "Sr. Software Development Engineer",
       "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
       "company_name": "Zscaler",
       "description": "engineer dev senior"
     },
     {
-      "title": "AWS Data Engineer Data Platm",
-      "link": "https://web3.career/aws-data-engineer-data-platform-zinnia/153973",
-      "company_name": "Zinnia",
-      "description": "data science engineer aws"
+      "title": "Techical Support",
+      "link": "https://web3.career/techical-support-binance/155976",
+      "company_name": "Binance",
+      "description": "customer support aws blockchain"
     },
     {
       "title": "Staff Software Engineer",
@@ -47,22 +59,16 @@
       "description": "engineer dev aws"
     },
     {
-      "title": "Principal Infrastructure Engineer Contract – LATAM",
-      "link": "https://web3.career/principal-infrastructure-engineer-contract-latam-nexus/155802",
-      "company_name": "Nexus",
-      "description": "infrastructure engineer executive"
+      "title": "Senior Software Engineer I",
+      "link": "https://web3.career/senior-software-engineer-i-zinnia/142782",
+      "company_name": "Zinnia",
+      "description": "engineer senior dev"
     },
     {
       "title": "Senior Software Engineer Trading",
       "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
       "company_name": "Alpaca",
       "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior Fullstack Engineer Operational Automations",
-      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
-      "company_name": "Alpaca",
-      "description": "engineer full stack operations"
     },
     {
       "title": "Senior FullStack Engineer Internal Tools",
@@ -83,40 +89,34 @@
       "description": "devops engineer senior"
     },
     {
+      "title": "Back Office Developer",
+      "link": "https://web3.career/back-office-developer-dvtrading/155922",
+      "company_name": "Dvtrading",
+      "description": "office dev docker"
+    },
+    {
       "title": "Quantitative Software Engineer DV Commodities",
       "link": "https://web3.career/quantitative-software-engineer-dv-commodities-dvtrading/155577",
       "company_name": "Dvtrading",
       "description": "quantitative engineer dev"
     },
     {
-      "title": "Software Engineer Prediction Markets Platm",
-      "link": "https://web3.career/software-engineer-prediction-markets-platform-crypto-com/155777",
-      "company_name": "Crypto.com",
-      "description": "engineer dev aws"
+      "title": "Senior Java Developer",
+      "link": "https://web3.career/senior-java-developer-localcoin/155919",
+      "company_name": "Localcoin",
+      "description": "dev java senior"
     },
     {
-      "title": "Senior Software Engineer Prediction Markets Platm",
-      "link": "https://web3.career/senior-software-engineer-prediction-markets-platform-crypto-com/155776",
-      "company_name": "Crypto.com",
-      "description": "engineer senior dev"
+      "title": "AWS Data Engineer Data Platm",
+      "link": "https://web3.career/aws-data-engineer-data-platform-zinnia/153973",
+      "company_name": "Zinnia",
+      "description": "data science engineer aws"
     },
     {
-      "title": "Senior Protocol Engineer Move VM",
-      "link": "https://web3.career/senior-protocol-engineer-move-vm-globalsettlementnetwork/155675",
-      "company_name": "Global Settlement Network",
-      "description": "move protocol engineer"
-    },
-    {
-      "title": "Senior Trading Systems DevOps Engineer",
-      "link": "https://web3.career/senior-trading-systems-devops-engineer-falconx/155589",
-      "company_name": "Falconx",
-      "description": "devops engineer senior"
-    },
-    {
-      "title": "Staff Software Engineer SRE",
-      "link": "https://web3.career/staff-software-engineer-sre-phantom/155493",
-      "company_name": "Phantom",
-      "description": "engineer dev senior"
+      "title": "Principal Infrastructure Engineer Contract – LATAM",
+      "link": "https://web3.career/principal-infrastructure-engineer-contract-latam-nexus/155802",
+      "company_name": "Nexus",
+      "description": "infrastructure engineer executive"
     }
   ]
 }

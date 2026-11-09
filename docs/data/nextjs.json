@@ -2,8 +2,14 @@
   "skill": "nextjs",
   "label": "Next.js",
   "count": 15,
-  "updated_at": "2026-11-02T15:11:43.376154+00:00",
+  "updated_at": "2026-11-09T15:41:55.005912+00:00",
   "jobs": [
+    {
+      "title": "Senior Software Engineer I",
+      "link": "https://web3.career/senior-software-engineer-i-zinnia/142782",
+      "company_name": "Zinnia",
+      "description": "engineer senior dev"
+    },
     {
       "title": "AI Native Developer",
       "link": "https://web3.career/ai-native-developer-impossible/155424",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/intermediate-software-engineer-fullstack-kast/152695",
       "company_name": "Kast",
       "description": "engineer full stack dev"
-    },
-    {
-      "title": "Senior Web Engineer Perps",
-      "link": "https://web3.career/senior-web-engineer-perps-polymarket/152648",
-      "company_name": "Polymarket",
-      "description": "engineer senior crypto"
     }
   ]
 }

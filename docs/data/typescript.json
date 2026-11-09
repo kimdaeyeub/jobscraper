@@ -2,7 +2,7 @@
   "skill": "typescript",
   "label": "TypeScript",
   "count": 20,
-  "updated_at": "2026-11-02T15:11:24.535599+00:00",
+  "updated_at": "2026-11-09T15:41:16.428334+00:00",
   "jobs": [
     {
       "title": "Senior React Native Developer (f/m/d)",
@@ -35,40 +35,22 @@
       "company_name": "Climatiq"
     },
     {
-      "title": "Customer Engineering Lead",
-      "link": "https://web3.career/customer-engineering-lead-veda/155891",
-      "company_name": "Veda",
-      "description": "lead blockchain crypto"
+      "title": "Senior Software Engineer Mobile React Native iOS Android",
+      "link": "https://web3.career/senior-software-engineer-mobile-react-native-ios-android-bitgo/155364",
+      "company_name": "Bitgo",
+      "description": "android mobile engineer"
     },
     {
-      "title": "Senior Software Engineer Dev Platm",
-      "link": "https://web3.career/senior-software-engineer-dev-platform-kraken/155867",
-      "company_name": "Kraken",
-      "description": "dev engineer senior"
+      "title": "Senior Security Engineer",
+      "link": "https://web3.career/senior-security-engineer-rain/155980",
+      "company_name": "Rain",
+      "description": "engineer security senior"
     },
     {
-      "title": "Senior Software Engineer – Agent Experiences",
-      "link": "https://web3.career/senior-software-engineer-agent-experiences-alpaca/155847",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior Software Engineer – Agent Developer Platm",
-      "link": "https://web3.career/senior-software-engineer-agent-developer-platform-alpaca/155846",
-      "company_name": "Alpaca",
-      "description": "dev engineer senior"
-    },
-    {
-      "title": "Senior Frontend Engineer Acquisition",
-      "link": "https://web3.career/senior-frontend-engineer-acquisition-alpaca/155845",
-      "company_name": "Alpaca",
-      "description": "engineer front end senior"
-    },
-    {
-      "title": "Blockchain Developer Web3",
-      "link": "https://web3.career/blockchain-developer-web3-divittechnologies-inc/155816",
-      "company_name": "Divit Technologies, Inc.",
-      "description": "dev blockchain ethereum"
+      "title": "Techical Support",
+      "link": "https://web3.career/techical-support-binance/155976",
+      "company_name": "Binance",
+      "description": "customer support aws blockchain"
     },
     {
       "title": "Staff Software Engineer",
@@ -77,16 +59,22 @@
       "description": "engineer dev aws"
     },
     {
+      "title": "Senior Software Engineer I",
+      "link": "https://web3.career/senior-software-engineer-i-zinnia/142782",
+      "company_name": "Zinnia",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Platm Engineer",
+      "link": "https://web3.career/platform-engineer-polygonlabs/155947",
+      "company_name": "Polygon Labs",
+      "description": "engineer blockchain discord"
+    },
+    {
       "title": "Backend Engineer",
       "link": "https://web3.career/backend-engineer-layerzerolabs/73714",
       "company_name": "Layerzerolabs",
       "description": "backend engineer aws"
-    },
-    {
-      "title": "Senior Fullstack Engineer Operational Automations",
-      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
-      "company_name": "Alpaca",
-      "description": "engineer full stack operations"
     },
     {
       "title": "Senior FullStack Engineer Internal Tools",
@@ -119,10 +107,22 @@
       "description": "data science engineer senior"
     },
     {
-      "title": "Software Engineer Prediction Markets Platm",
-      "link": "https://web3.career/software-engineer-prediction-markets-platform-crypto-com/155777",
-      "company_name": "Crypto.com",
-      "description": "engineer dev aws"
+      "title": "Customer Engineering Lead",
+      "link": "https://web3.career/customer-engineering-lead-veda/155891",
+      "company_name": "Veda",
+      "description": "lead blockchain crypto"
+    },
+    {
+      "title": "Senior Software Engineer Dev Platm",
+      "link": "https://web3.career/senior-software-engineer-dev-platform-kraken/155867",
+      "company_name": "Kraken",
+      "description": "dev engineer senior"
+    },
+    {
+      "title": "Senior Software Engineer – Agent Experiences",
+      "link": "https://web3.career/senior-software-engineer-agent-experiences-alpaca/155847",
+      "company_name": "Alpaca",
+      "description": "engineer senior dev"
     }
   ]
 }

@@ -2,13 +2,13 @@
   "skill": "node",
   "label": "Node.js",
   "count": 15,
-  "updated_at": "2026-11-02T15:11:39.711185+00:00",
+  "updated_at": "2026-11-09T15:41:51.054324+00:00",
   "jobs": [
     {
-      "title": "Technical Account Manager Crypto",
-      "link": "https://web3.career/technical-account-manager-crypto-stripe/155892",
-      "company_name": "Stripe",
-      "description": "account manager sales non tech"
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-lista-dao/156035",
+      "company_name": "Lista DAO",
+      "description": "devops engineer senior"
     },
     {
       "title": "Lead Technical Product Manager Protocol Vision Chain",
@@ -17,10 +17,10 @@
       "description": "protocol engineer lead"
     },
     {
-      "title": "Blockchain Developer Web3",
-      "link": "https://web3.career/blockchain-developer-web3-divittechnologies-inc/155816",
-      "company_name": "Divit Technologies, Inc.",
-      "description": "dev blockchain ethereum"
+      "title": "Techical Support",
+      "link": "https://web3.career/techical-support-binance/155976",
+      "company_name": "Binance",
+      "description": "customer support aws blockchain"
     },
     {
       "title": "Site Reliability Engineer",
@@ -39,6 +39,18 @@
       "link": "https://web3.career/senior-data-engineer-bitgo/155363",
       "company_name": "Bitgo",
       "description": "data science engineer senior"
+    },
+    {
+      "title": "Technical Account Manager Crypto",
+      "link": "https://web3.career/technical-account-manager-crypto-stripe/155892",
+      "company_name": "Stripe",
+      "description": "account manager sales non tech"
+    },
+    {
+      "title": "Blockchain Developer Web3",
+      "link": "https://web3.career/blockchain-developer-web3-divittechnologies-inc/155816",
+      "company_name": "Divit Technologies, Inc.",
+      "description": "dev blockchain ethereum"
     },
     {
       "title": "Founding CTO Democratize Mining Financial Service",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/founding-full-stack-engineer-typescript-web3-saifuro/155570",
       "company_name": "Saifuro",
       "description": "founding member typescript engineer"
-    },
-    {
-      "title": "Staff Software Engineer Identity Platm",
-      "link": "https://web3.career/staff-software-engineer-identity-platform-moonpay/155565",
-      "company_name": "MoonPay",
-      "description": "engineer dev crypto"
-    },
-    {
-      "title": "Senior Software Engineer Developer Platm",
-      "link": "https://web3.career/senior-software-engineer-developer-platform-moonpay/155564",
-      "company_name": "MoonPay",
-      "description": "dev engineer senior"
     }
   ]
 }

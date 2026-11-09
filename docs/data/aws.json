@@ -2,25 +2,43 @@
   "skill": "aws",
   "label": "AWS",
   "count": 15,
-  "updated_at": "2026-11-02T15:12:18.619839+00:00",
+  "updated_at": "2026-11-09T15:42:34.868553+00:00",
   "jobs": [
     {
-      "title": "Account Executive KAST Business",
-      "link": "https://web3.career/account-executive-kast-business-kast/155902",
-      "company_name": "Kast",
-      "description": "account manager sales non tech"
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-lista-dao/156035",
+      "company_name": "Lista DAO",
+      "description": "devops engineer senior"
     },
     {
-      "title": "Senior UX Researcher Quantitative",
-      "link": "https://web3.career/senior-ux-researcher-quantitative-ondofinance/155880",
+      "title": "Senior Event Manager APAC",
+      "link": "https://web3.career/senior-event-manager-apac-ondofinance/156026",
       "company_name": "Ondo Finance",
-      "description": "quantitative research ux researcher"
+      "description": "events manager non tech senior"
     },
     {
-      "title": "IT Security Officer",
-      "link": "https://web3.career/it-security-officer-kast/155879",
-      "company_name": "Kast",
-      "description": "security aws crypto"
+      "title": "Security Operations Engineer",
+      "link": "https://web3.career/security-operations-engineer-alchemy/156019",
+      "company_name": "Alchemy",
+      "description": "engineer operations security"
+    },
+    {
+      "title": "Senior Backend Engineer Go Blockchain – Fintech",
+      "link": "https://web3.career/senior-backend-engineer-go-blockchain-fintech-augmented/156017",
+      "company_name": "Augmented",
+      "description": "backend engineer fintech"
+    },
+    {
+      "title": "Senior Product Designer Design Systems",
+      "link": "https://web3.career/senior-product-designer-design-systems-ondofinance/156009",
+      "company_name": "Ondo Finance",
+      "description": "product designer design non tech"
+    },
+    {
+      "title": "Senior Professional Services Consultant AMS",
+      "link": "https://web3.career/senior-professional-services-consultant-ams-zscaler/156002",
+      "company_name": "Zscaler",
+      "description": "consulting senior aws"
     },
     {
       "title": "Director Professional Services Consulting",
@@ -29,46 +47,28 @@
       "description": "consulting executive aws"
     },
     {
-      "title": "AWS Data Engineer Data Platm",
-      "link": "https://web3.career/aws-data-engineer-data-platform-zinnia/153973",
-      "company_name": "Zinnia",
-      "description": "data science engineer aws"
-    },
-    {
       "title": "IT HFT System Network Specialist London",
       "link": "https://web3.career/it-hft-system-network-specialist-london-b2c2/148311",
       "company_name": "B2c2",
       "description": "aws crypto defi"
     },
     {
-      "title": "KAST Fellow",
-      "link": "https://web3.career/kast-fellow-kast/155838",
-      "company_name": "Kast",
-      "description": "aws crypto solana"
-    },
-    {
-      "title": "Director of Business Development LATAM",
-      "link": "https://web3.career/director-of-business-development-latam-ondofinance/155836",
-      "company_name": "Ondo Finance",
-      "description": "business development sales non tech"
-    },
-    {
-      "title": "Senior Event Manager ContracttoFullTime",
-      "link": "https://web3.career/senior-event-manager-contract-to-full-time-ondofinance/155829",
-      "company_name": "Ondo Finance",
-      "description": "events manager non tech full time"
-    },
-    {
-      "title": "Escalation Engineer DLP",
-      "link": "https://web3.career/escalation-engineer-dlp-zscaler/148637",
-      "company_name": "Zscaler",
-      "description": "engineer aws remote"
+      "title": "Techical Support",
+      "link": "https://web3.career/techical-support-binance/155976",
+      "company_name": "Binance",
+      "description": "customer support aws blockchain"
     },
     {
       "title": "Escalation Engineer Cloud",
       "link": "https://web3.career/escalation-engineer-cloud-zscaler/152078",
       "company_name": "Zscaler",
       "description": "cloud engineer engineer aws"
+    },
+    {
+      "title": "Senior Professional Services Consultant APAC",
+      "link": "https://web3.career/senior-professional-services-consultant-apac-zscaler/155951",
+      "company_name": "Zscaler",
+      "description": "consulting senior aws"
     },
     {
       "title": "Senior Technical Success Manager",
@@ -83,16 +83,16 @@
       "description": "engineer dev aws"
     },
     {
-      "title": "Principal Infrastructure Engineer Contract – LATAM",
-      "link": "https://web3.career/principal-infrastructure-engineer-contract-latam-nexus/155802",
-      "company_name": "Nexus",
-      "description": "infrastructure engineer executive"
+      "title": "Senior Software Engineer I",
+      "link": "https://web3.career/senior-software-engineer-i-zinnia/142782",
+      "company_name": "Zinnia",
+      "description": "engineer senior dev"
     },
     {
-      "title": "Backend Engineer",
-      "link": "https://web3.career/backend-engineer-layerzerolabs/73714",
-      "company_name": "Layerzerolabs",
-      "description": "backend engineer aws"
+      "title": "Senior Security Engineer Infrastructure",
+      "link": "https://web3.career/senior-security-engineer-infrastructure-chainalysis/155937",
+      "company_name": "Chainalysis",
+      "description": "infrastructure engineer security"
     }
   ]
 }

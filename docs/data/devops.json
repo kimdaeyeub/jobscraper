@@ -2,13 +2,19 @@
   "skill": "devops",
   "label": "DevOps",
   "count": 16,
-  "updated_at": "2026-11-02T15:12:24.886569+00:00",
+  "updated_at": "2026-11-09T15:42:41.001134+00:00",
   "jobs": [
     {
       "title": "Cloud & DevOps Engineer – Kubernetes, Edge & Cloud",
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Cloud & DevOps Engineer verantwortest Du unsere Kubernetes-Landschaft – vom Edge-Cluster beim Kunden bis zur Cloud. Du sorgst dafür, dass unsere Go-Services, Dashboards und ML-Pipelines zuverlässig laufen. Dein Können entscheidet, wie verlässlich wir deployen und wie reibungslos unsere Plattform läuft. Wenn Du...",
       "link": "https://berlinstartupjobs.com/engineering/cloud-and-devops-engineer-kubernetes-datatroniq/",
       "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-lista-dao/156035",
+      "company_name": "Lista DAO",
+      "description": "devops engineer senior"
     },
     {
       "title": "Senior DevOps Engineer",
@@ -23,16 +29,16 @@
       "description": "devops engineer senior"
     },
     {
-      "title": "DevOps Engineer DST",
-      "link": "https://web3.career/devops-engineer-dst-logos/155781",
-      "company_name": "Logos",
-      "description": "devops engineer blockchain"
-    },
-    {
       "title": "Senior DevOps Engineer",
       "link": "https://web3.career/senior-devops-engineer-localcoin/148996",
       "company_name": "Localcoin",
       "description": "devops engineer senior"
+    },
+    {
+      "title": "DevOps Engineer DST",
+      "link": "https://web3.career/devops-engineer-dst-logos/155781",
+      "company_name": "Logos",
+      "description": "devops engineer blockchain"
     },
     {
       "title": "Senior Trading Systems DevOps Engineer",
@@ -93,12 +99,6 @@
       "link": "https://web3.career/devops-engineer-intern-summer-2027-dvtrading/153947",
       "company_name": "Dvtrading",
       "description": "devops engineer intern"
-    },
-    {
-      "title": "Cloud DevOps Platm Engineering Talent Community",
-      "link": "https://web3.career/cloud-devops-platform-engineering-talent-community-launchpadtechnologiesinc/153652",
-      "company_name": "Launchpadtechnologiesinc",
-      "description": "cloud engineer engineer community manager"
     }
   ]
 }

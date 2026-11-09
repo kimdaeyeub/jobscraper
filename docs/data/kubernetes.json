@@ -2,7 +2,7 @@
   "skill": "kubernetes",
   "label": "Kubernetes",
   "count": 19,
-  "updated_at": "2026-11-02T15:12:20.216139+00:00",
+  "updated_at": "2026-11-09T15:42:36.360695+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -29,28 +29,28 @@
       "company_name": "DATATRONiQ"
     },
     {
+      "title": "Security Operations Engineer",
+      "link": "https://web3.career/security-operations-engineer-alchemy/156019",
+      "company_name": "Alchemy",
+      "description": "engineer operations security"
+    },
+    {
+      "title": "Senior Backend Engineer Go Blockchain – Fintech",
+      "link": "https://web3.career/senior-backend-engineer-go-blockchain-fintech-augmented/156017",
+      "company_name": "Augmented",
+      "description": "backend engineer fintech"
+    },
+    {
       "title": "Sr. Software Development Engineer",
       "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
       "company_name": "Zscaler",
       "description": "engineer dev senior"
     },
     {
-      "title": "AWS Data Engineer Data Platm",
-      "link": "https://web3.career/aws-data-engineer-data-platform-zinnia/153973",
-      "company_name": "Zinnia",
-      "description": "data science engineer aws"
-    },
-    {
-      "title": "Staff Site Reliability Engineer Dev Platm",
-      "link": "https://web3.career/staff-site-reliability-engineer-dev-platform-kraken/155868",
-      "company_name": "Kraken",
-      "description": "dev engineer reliability"
-    },
-    {
-      "title": "Senior Software Engineer Dev Platm",
-      "link": "https://web3.career/senior-software-engineer-dev-platform-kraken/155867",
-      "company_name": "Kraken",
-      "description": "dev engineer senior"
+      "title": "Techical Support",
+      "link": "https://web3.career/techical-support-binance/155976",
+      "company_name": "Binance",
+      "description": "customer support aws blockchain"
     },
     {
       "title": "Staff Software Development Engineer",
@@ -59,16 +59,28 @@
       "description": "engineer dev kubernetes"
     },
     {
+      "title": "Platm Engineer",
+      "link": "https://web3.career/platform-engineer-polygonlabs/155947",
+      "company_name": "Polygon Labs",
+      "description": "engineer blockchain discord"
+    },
+    {
       "title": "Senior Java Backend Engineer — Asset Earn",
       "link": "https://web3.career/senior-java-backend-engineer-asset-earn-okx/151703",
       "company_name": "Okx",
       "description": "backend engineer java"
     },
     {
-      "title": "Principal Infrastructure Engineer Contract – LATAM",
-      "link": "https://web3.career/principal-infrastructure-engineer-contract-latam-nexus/155802",
-      "company_name": "Nexus",
-      "description": "infrastructure engineer executive"
+      "title": "Infrastructure Architect",
+      "link": "https://web3.career/infrastructure-architect-okx/155941",
+      "company_name": "Okx",
+      "description": "infrastructure architecture blockchain"
+    },
+    {
+      "title": "Senior Security Engineer Infrastructure",
+      "link": "https://web3.career/senior-security-engineer-infrastructure-chainalysis/155937",
+      "company_name": "Chainalysis",
+      "description": "infrastructure engineer security"
     },
     {
       "title": "Site Reliability Engineer",
@@ -77,26 +89,14 @@
       "description": "engineer reliability blockchain"
     },
     {
-      "title": "Sr. Data Analyst Compliance",
-      "link": "https://web3.career/sr-data-analyst-compliance-kraken/155801",
-      "company_name": "Kraken",
-      "description": "compliance non tech analyst"
+      "title": "AI Security Engineer",
+      "link": "https://web3.career/ai-security-engineer-alpaca/155926",
+      "company_name": "Alpaca",
+      "description": "ai engineer security"
     },
     {
       "title": "Senior Software Engineer Trading",
       "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior Software Engineer Payments Treasury",
-      "link": "https://web3.career/senior-software-engineer-payments-treasury-alpaca/99657",
-      "company_name": "Alpaca",
-      "description": "treasury finance engineer"
-    },
-    {
-      "title": "Senior Software Engineer Payments",
-      "link": "https://web3.career/senior-software-engineer-payments-alpaca/155784",
       "company_name": "Alpaca",
       "description": "engineer senior dev"
     },

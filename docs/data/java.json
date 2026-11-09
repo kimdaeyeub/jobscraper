@@ -2,19 +2,25 @@
   "skill": "java",
   "label": "Java",
   "count": 15,
-  "updated_at": "2026-11-02T15:11:25.392073+00:00",
+  "updated_at": "2026-11-09T15:41:17.319787+00:00",
   "jobs": [
     {
-      "title": "Blockchain Developer Web3",
-      "link": "https://web3.career/blockchain-developer-web3-divittechnologies-inc/155816",
-      "company_name": "Divit Technologies, Inc.",
-      "description": "dev blockchain ethereum"
+      "title": "Techical Support",
+      "link": "https://web3.career/techical-support-binance/155976",
+      "company_name": "Binance",
+      "description": "customer support aws blockchain"
     },
     {
       "title": "Staff Software Engineer",
       "link": "https://web3.career/staff-software-engineer-zinnia/144788",
       "company_name": "Zinnia",
       "description": "engineer dev aws"
+    },
+    {
+      "title": "Senior Software Engineer I",
+      "link": "https://web3.career/senior-software-engineer-i-zinnia/142782",
+      "company_name": "Zinnia",
+      "description": "engineer senior dev"
     },
     {
       "title": "Senior Java Backend Engineer — Asset Earn",
@@ -27,6 +33,18 @@
       "link": "https://web3.career/principal-staff-engineer-compliance-okx/149565",
       "company_name": "Okx",
       "description": "compliance non tech engineer"
+    },
+    {
+      "title": "Infrastructure Architect",
+      "link": "https://web3.career/infrastructure-architect-okx/155941",
+      "company_name": "Okx",
+      "description": "infrastructure architecture blockchain"
+    },
+    {
+      "title": "Senior Security Engineer Infrastructure",
+      "link": "https://web3.career/senior-security-engineer-infrastructure-chainalysis/155937",
+      "company_name": "Chainalysis",
+      "description": "infrastructure engineer security"
     },
     {
       "title": "Intern Java",
@@ -47,6 +65,18 @@
       "description": "quantitative engineer dev"
     },
     {
+      "title": "Senior Java Developer",
+      "link": "https://web3.career/senior-java-developer-localcoin/155919",
+      "company_name": "Localcoin",
+      "description": "dev java senior"
+    },
+    {
+      "title": "Blockchain Developer Web3",
+      "link": "https://web3.career/blockchain-developer-web3-divittechnologies-inc/155816",
+      "company_name": "Divit Technologies, Inc.",
+      "description": "dev blockchain ethereum"
+    },
+    {
       "title": "Web3 Engineer Digital Assets Tokenization",
       "link": "https://web3.career/web3-engineer-digital-assets-tokenization-arohanatechsolutionsprivatelimited/155664",
       "company_name": "Arohana Tech Solutions Private Limited",
@@ -63,36 +93,6 @@
       "link": "https://web3.career/blockchain-engineer-eclerx/155615",
       "company_name": "eClerx",
       "description": "engineer blockchain angular"
-    },
-    {
-      "title": "Software Engineer Java CF Benchmark",
-      "link": "https://web3.career/software-engineer-java-cf-benchmark-kraken/155603",
-      "company_name": "Kraken",
-      "description": "engineer java dev"
-    },
-    {
-      "title": "Senior Trading Systems DevOps Engineer",
-      "link": "https://web3.career/senior-trading-systems-devops-engineer-falconx/155589",
-      "company_name": "Falconx",
-      "description": "devops engineer senior"
-    },
-    {
-      "title": "Senior Fullstack Engineer Auth Team",
-      "link": "https://web3.career/senior-fullstack-engineer-auth-team-alpaca/155582",
-      "company_name": "Alpaca",
-      "description": "engineer full stack senior"
-    },
-    {
-      "title": "Staff Fullstack Engineer",
-      "link": "https://web3.career/staff-fullstack-engineer-alpaca/155469",
-      "company_name": "Alpaca",
-      "description": "engineer full stack crypto"
-    },
-    {
-      "title": "Software Engineer Trade",
-      "link": "https://web3.career/software-engineer-trade-bitgo/140687",
-      "company_name": "Bitgo",
-      "description": "engineer dev bitcoin"
     }
   ]
 }

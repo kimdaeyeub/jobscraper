@@ -2,7 +2,7 @@
   "skill": "python",
   "label": "Python",
   "count": 19,
-  "updated_at": "2026-11-02T15:11:22.630217+00:00",
+  "updated_at": "2026-11-09T15:41:14.408513+00:00",
   "jobs": [
     {
       "title": "Founding Principal Engineer (m/f/d)",
@@ -27,6 +27,12 @@
       "description": "DATATRONiQ ist ein Deep-Tech-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Frontend Developer entwickelst Du das Dashboard, mit dem Kunden weltweit ihre Produktion überwachen – vom mittelständischen Fertiger bis zum DAX-Konzern. Du verantwortest unseren React- und TypeScript-Stack und machst mit Deinem Code Anomalien sichtbar und Device-Management bedienbar. Erkenntnisse aus unserer Edge-AI bringst...",
       "link": "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/",
       "company_name": "DATATRONiQ"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-lista-dao/156035",
+      "company_name": "Lista DAO",
+      "description": "devops engineer senior"
     },
     {
       "title": "Robotics Lead",
@@ -111,12 +117,6 @@
       "link": "https://web3.career/lead-python-developer-defi-infrastructure-connecthum/145672",
       "company_name": "ConnectHum",
       "description": "infrastructure dev lead"
-    },
-    {
-      "title": "Security Engineer Python",
-      "link": "https://web3.career/security-engineer-python-binance/144925",
-      "company_name": "Binance",
-      "description": "engineer python security"
     }
   ]
 }

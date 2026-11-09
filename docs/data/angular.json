@@ -2,8 +2,20 @@
   "skill": "angular",
   "label": "Angular",
   "count": 15,
-  "updated_at": "2026-11-02T15:11:38.813264+00:00",
+  "updated_at": "2026-11-09T15:41:46.905316+00:00",
   "jobs": [
+    {
+      "title": "Senior Software Engineer I",
+      "link": "https://web3.career/senior-software-engineer-i-zinnia/142782",
+      "company_name": "Zinnia",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Senior Java Developer",
+      "link": "https://web3.career/senior-java-developer-localcoin/155919",
+      "company_name": "Localcoin",
+      "description": "dev java senior"
+    },
     {
       "title": "Java Backend Developer with Blockchain exp",
       "link": "https://web3.career/java-backend-developer-with-blockchain-exp-photon/155662",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/junior-software-engineer-binance/153011",
       "company_name": "Binance",
       "description": "engineer junior entry level"
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/152288",
-      "company_name": "Bcbgroup",
-      "description": "engineer full stack senior"
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "link": "https://web3.career/senior-full-stack-engineer-bcbgroup/107831",
-      "company_name": "Bcbgroup",
-      "description": "engineer full stack senior"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "skill": "javascript",
   "label": "JavaScript",
   "count": 17,
-  "updated_at": "2026-11-02T15:11:23.627247+00:00",
+  "updated_at": "2026-11-09T15:41:15.694534+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -17,10 +17,34 @@
       "company_name": "DATATRONiQ"
     },
     {
+      "title": "Senior Software Engineer Mobile React Native iOS Android",
+      "link": "https://web3.career/senior-software-engineer-mobile-react-native-ios-android-bitgo/155364",
+      "company_name": "Bitgo",
+      "description": "android mobile engineer"
+    },
+    {
+      "title": "Techical Support",
+      "link": "https://web3.career/techical-support-binance/155976",
+      "company_name": "Binance",
+      "description": "customer support aws blockchain"
+    },
+    {
       "title": "Staff Software Engineer",
       "link": "https://web3.career/staff-software-engineer-zinnia/144788",
       "company_name": "Zinnia",
       "description": "engineer dev aws"
+    },
+    {
+      "title": "Senior Software Engineer I",
+      "link": "https://web3.career/senior-software-engineer-i-zinnia/142782",
+      "company_name": "Zinnia",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Senior Security Engineer Infrastructure",
+      "link": "https://web3.career/senior-security-engineer-infrastructure-chainalysis/155937",
+      "company_name": "Chainalysis",
+      "description": "infrastructure engineer security"
     },
     {
       "title": "Senior Business IT Engineer Atlassian Cloud",
@@ -39,6 +63,12 @@
       "link": "https://web3.career/solutions-engineer-bitgo/149986",
       "company_name": "Bitgo",
       "description": "engineer bitcoin blockchain"
+    },
+    {
+      "title": "Product Designer India",
+      "link": "https://web3.career/product-designer-india-bitgo/155916",
+      "company_name": "Bitgo",
+      "description": "india product designer design"
     },
     {
       "title": "Blockchain Engineer",
@@ -75,36 +105,6 @@
       "link": "https://web3.career/frontend-desktop-engineer-tetheroperationslimited/155430",
       "company_name": "Tether Operations Limited",
       "description": "engineer front end bitcoin"
-    },
-    {
-      "title": "Mobile Engineer React Native 100% Remote Worldwide",
-      "link": "https://web3.career/mobile-engineer-react-native-100-remote-worldwide-tetheroperationslimited/155429",
-      "company_name": "Tether Operations Limited",
-      "description": "remote engineer mobile"
-    },
-    {
-      "title": "Mobile Engineer React Native 100% Remote",
-      "link": "https://web3.career/mobile-engineer-react-native-100-remote-tetheroperationslimited/155428",
-      "company_name": "Tether Operations Limited",
-      "description": "remote engineer mobile"
-    },
-    {
-      "title": "Automation QA Engineer QVAC 100% remote",
-      "link": "https://web3.career/automation-qa-engineer-qvac-100-remote-tetheroperationslimited/155427",
-      "company_name": "Tether Operations Limited",
-      "description": "remote engineer quality assurance"
-    },
-    {
-      "title": "AI Native Developer",
-      "link": "https://web3.career/ai-native-developer-impossible/155424",
-      "company_name": "IMPOSSIBLE",
-      "description": "ai dev remote"
-    },
-    {
-      "title": "Software Engineer Growth Foundations",
-      "link": "https://web3.career/software-engineer-growth-foundations-kraken/155401",
-      "company_name": "Kraken",
-      "description": "growth engineer dev"
     }
   ]
 }
