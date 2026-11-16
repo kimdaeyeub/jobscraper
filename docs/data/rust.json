@@ -2,37 +2,73 @@
   "skill": "rust",
   "label": "Rust",
   "count": 15,
-  "updated_at": "2026-11-09T15:41:22.507865+00:00",
+  "updated_at": "2026-11-16T15:16:41.185647+00:00",
   "jobs": [
     {
-      "title": "Senior Software Engineer Zig Rust",
-      "link": "https://web3.career/senior-software-engineer-zig-rust-syndica/156031",
-      "company_name": "Syndica",
-      "description": "engineer rust senior"
+      "title": "Staff Protocol Engineer",
+      "link": "https://web3.career/staff-protocol-engineer-fomo/156222",
+      "company_name": "Fomo",
+      "description": "protocol engineer defi"
     },
     {
-      "title": "Software Engineer Storage",
-      "link": "https://web3.career/software-engineer-storage-anza/156022",
-      "company_name": "Anza",
-      "description": "engineer dev bitcoin"
-    },
-    {
-      "title": "Senior Backend Engineer Go Blockchain – Fintech",
-      "link": "https://web3.career/senior-backend-engineer-go-blockchain-fintech-augmented/156017",
-      "company_name": "Augmented",
-      "description": "backend engineer fintech"
-    },
-    {
-      "title": "Senior Security Engineer",
-      "link": "https://web3.career/senior-security-engineer-rain/155980",
+      "title": "Data Engineer",
+      "link": "https://web3.career/data-engineer-rain/156218",
       "company_name": "Rain",
-      "description": "engineer security senior"
+      "description": "data science engineer blockchain"
     },
     {
-      "title": "Techical Support",
-      "link": "https://web3.career/techical-support-binance/155976",
-      "company_name": "Binance",
-      "description": "customer support aws blockchain"
+      "title": "Protocol Engineer NYC",
+      "link": "https://web3.career/protocol-engineer-nyc-fun/156192",
+      "company_name": "Fun",
+      "description": "protocol engineer blockchain"
+    },
+    {
+      "title": "Protocol Engineer San Francisco",
+      "link": "https://web3.career/protocol-engineer-san-francisco-fun/156191",
+      "company_name": "Fun",
+      "description": "protocol engineer blockchain"
+    },
+    {
+      "title": "Senior Software Engineer Production",
+      "link": "https://web3.career/senior-software-engineer-production-matterlabs/156182",
+      "company_name": "Matter Labs",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Software Engineer DevOps Bitnomial",
+      "link": "https://web3.career/software-engineer-devops-bitnomial-kraken/156177",
+      "company_name": "Kraken",
+      "description": "devops engineer dev"
+    },
+    {
+      "title": "Engineering Manager – Growth Product",
+      "link": "https://web3.career/engineering-manager-growth-product-kraken/156176",
+      "company_name": "Kraken",
+      "description": "engineering manager engineer growth"
+    },
+    {
+      "title": "Software Engineer Database Bitnomial",
+      "link": "https://web3.career/software-engineer-database-bitnomial-kraken/156174",
+      "company_name": "Kraken",
+      "description": "engineer dev aws"
+    },
+    {
+      "title": "Senior Smart Contract Engineer — Ihsan Gold Token",
+      "link": "https://web3.career/senior-smart-contract-engineer-ihsan-gold-token-ihsan/155626",
+      "company_name": "Ihsan",
+      "description": "engineer senior ethereum"
+    },
+    {
+      "title": "Principal Database Engineer",
+      "link": "https://web3.career/principal-database-engineer-kraken/156090",
+      "company_name": "Kraken",
+      "description": "engineer executive crypto"
+    },
+    {
+      "title": "Full Stack Engineer Growth Experimentation – Krak",
+      "link": "https://web3.career/full-stack-engineer-growth-experimentation-krak-kraken/156089",
+      "company_name": "Kraken",
+      "description": "growth engineer full stack"
     },
     {
       "title": "Infrastructure Architect",
@@ -57,42 +93,6 @@
       "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
       "company_name": "Alpaca",
       "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior Software Engineer Market Data",
-      "link": "https://web3.career/senior-software-engineer-market-data-alpaca/99655",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior BackEnd Engineer Trading Platm",
-      "link": "https://web3.career/senior-back-end-engineer-trading-platform-blockchain/98044",
-      "company_name": "Blockchain",
-      "description": "backend engineer senior"
-    },
-    {
-      "title": "Staff Site Reliability Engineer Dev Platm",
-      "link": "https://web3.career/staff-site-reliability-engineer-dev-platform-kraken/155868",
-      "company_name": "Kraken",
-      "description": "dev engineer reliability"
-    },
-    {
-      "title": "Senior Software Engineer Dev Platm",
-      "link": "https://web3.career/senior-software-engineer-dev-platform-kraken/155867",
-      "company_name": "Kraken",
-      "description": "dev engineer senior"
-    },
-    {
-      "title": "Quantitative Analyst Intern Digital Assets Market Making HFT",
-      "link": "https://web3.career/quantitative-analyst-intern-digital-assets-market-making-hft-keyrock/155863",
-      "company_name": "Keyrock",
-      "description": "quantitative quantitative analyst analyst"
-    },
-    {
-      "title": "Innovation Quant Developer: Intern DeFi Corporate Development",
-      "link": "https://web3.career/innovation-quant-developer-intern-defi-corporate-development-keyrock/155862",
-      "company_name": "Keyrock",
-      "description": "dev intern entry level"
     }
   ]
 }

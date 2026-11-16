@@ -2,7 +2,7 @@
   "skill": "react",
   "label": "React",
   "count": 17,
-  "updated_at": "2026-11-09T15:41:35.591331+00:00",
+  "updated_at": "2026-11-16T15:16:55.678112+00:00",
   "jobs": [
     {
       "title": "(Senior) Full-Stack Engineer (AI-Assisted 3D / CAD / BIM Development)",
@@ -17,22 +17,52 @@
       "company_name": "EMS Press"
     },
     {
-      "title": "Senior Product Designer Design Systems",
-      "link": "https://web3.career/senior-product-designer-design-systems-ondofinance/156009",
-      "company_name": "Ondo Finance",
-      "description": "product designer design non tech"
+      "title": "Blockchain Technical Lead",
+      "link": "https://web3.career/blockchain-technical-lead-pipercompanies/156223",
+      "company_name": "Piper Companies",
+      "description": "lead tech lead blockchain"
     },
     {
-      "title": "Senior Software Engineer Mobile React Native iOS Android",
-      "link": "https://web3.career/senior-software-engineer-mobile-react-native-ios-android-bitgo/155364",
-      "company_name": "Bitgo",
-      "description": "android mobile engineer"
+      "title": "Software Engineer III",
+      "link": "https://web3.career/software-engineer-iii-zinnia/156184",
+      "company_name": "Zinnia",
+      "description": "engineer dev angular"
+    },
+    {
+      "title": "Engineering Manager – Growth Product",
+      "link": "https://web3.career/engineering-manager-growth-product-kraken/156176",
+      "company_name": "Kraken",
+      "description": "engineering manager engineer growth"
+    },
+    {
+      "title": "Software Engineer II Frontend Developer Platm",
+      "link": "https://web3.career/software-engineer-ii-frontend-developer-platform-kraken/156175",
+      "company_name": "Kraken",
+      "description": "dev engineer front end"
+    },
+    {
+      "title": "Social Media Manager Dicey",
+      "link": "https://web3.career/social-media-manager-dicey-magiceden/156152",
+      "company_name": "Magic Eden",
+      "description": "social media non tech blockchain"
+    },
+    {
+      "title": "Senior Smart Contract Engineer — Ihsan Gold Token",
+      "link": "https://web3.career/senior-smart-contract-engineer-ihsan-gold-token-ihsan/155626",
+      "company_name": "Ihsan",
+      "description": "engineer senior ethereum"
     },
     {
       "title": "Senior Software Engineer I",
       "link": "https://web3.career/senior-software-engineer-i-zinnia/142782",
       "company_name": "Zinnia",
       "description": "engineer senior dev"
+    },
+    {
+      "title": "Full Stack Engineer Growth Experimentation – Krak",
+      "link": "https://web3.career/full-stack-engineer-growth-experimentation-krak-kraken/156089",
+      "company_name": "Kraken",
+      "description": "growth engineer full stack"
     },
     {
       "title": "Engineering Director Mobile Web3",
@@ -53,12 +83,6 @@
       "description": "executive front end blockchain"
     },
     {
-      "title": "Senior Software Engineer New Markets",
-      "link": "https://web3.career/senior-software-engineer-new-markets-alpaca/152338",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
-    },
-    {
       "title": "Senior FullStack Engineer Internal Tools",
       "link": "https://web3.career/senior-full-stack-engineer-internal-tools-alpaca/106289",
       "company_name": "Alpaca",
@@ -71,40 +95,16 @@
       "description": "engineer front end blockchain"
     },
     {
-      "title": "Senior Java Developer",
-      "link": "https://web3.career/senior-java-developer-localcoin/155919",
-      "company_name": "Localcoin",
-      "description": "dev java senior"
-    },
-    {
-      "title": "Product Designer India",
-      "link": "https://web3.career/product-designer-india-bitgo/155916",
+      "title": "Senior Software Engineer Mobile React Native iOS Android",
+      "link": "https://web3.career/senior-software-engineer-mobile-react-native-ios-android-bitgo/155364",
       "company_name": "Bitgo",
-      "description": "india product designer design"
+      "description": "android mobile engineer"
     },
     {
       "title": "Senior Software Engineer Mobile Backend",
       "link": "https://web3.career/senior-software-engineer-mobile-backend-bitgo/110782",
       "company_name": "Bitgo",
       "description": "backend engineer mobile"
-    },
-    {
-      "title": "Senior Frontend Engineer Acquisition",
-      "link": "https://web3.career/senior-frontend-engineer-acquisition-alpaca/155845",
-      "company_name": "Alpaca",
-      "description": "engineer front end senior"
-    },
-    {
-      "title": "Senior Fullstack Engineer Operational Automations",
-      "link": "https://web3.career/senior-fullstack-engineer-operational-automations-alpaca/151416",
-      "company_name": "Alpaca",
-      "description": "engineer full stack operations"
-    },
-    {
-      "title": "Software Engineer Prediction Markets Platm",
-      "link": "https://web3.career/software-engineer-prediction-markets-platform-crypto-com/155777",
-      "company_name": "Crypto.com",
-      "description": "engineer dev aws"
     }
   ]
 }

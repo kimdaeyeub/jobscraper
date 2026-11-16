@@ -2,19 +2,19 @@
   "skill": "kotlin",
   "label": "Kotlin",
   "count": 15,
-  "updated_at": "2026-11-09T15:41:34.914161+00:00",
+  "updated_at": "2026-11-16T15:16:55.021012+00:00",
   "jobs": [
-    {
-      "title": "Senior Product Designer Design Systems",
-      "link": "https://web3.career/senior-product-designer-design-systems-ondofinance/156009",
-      "company_name": "Ondo Finance",
-      "description": "product designer design non tech"
-    },
     {
       "title": "Senior Software Engineer Mobile React Native iOS Android",
       "link": "https://web3.career/senior-software-engineer-mobile-react-native-ios-android-bitgo/155364",
       "company_name": "Bitgo",
       "description": "android mobile engineer"
+    },
+    {
+      "title": "Senior Product Designer Design Systems",
+      "link": "https://web3.career/senior-product-designer-design-systems-ondofinance/156009",
+      "company_name": "Ondo Finance",
+      "description": "product designer design non tech"
     },
     {
       "title": "Blockchain Developer Web3",

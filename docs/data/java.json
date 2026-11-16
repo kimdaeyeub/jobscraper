@@ -2,13 +2,37 @@
   "skill": "java",
   "label": "Java",
   "count": 15,
-  "updated_at": "2026-11-09T15:41:17.319787+00:00",
+  "updated_at": "2026-11-16T15:16:39.559578+00:00",
   "jobs": [
     {
-      "title": "Techical Support",
-      "link": "https://web3.career/techical-support-binance/155976",
-      "company_name": "Binance",
-      "description": "customer support aws blockchain"
+      "title": "Blockchain Technical Lead",
+      "link": "https://web3.career/blockchain-technical-lead-pipercompanies/156223",
+      "company_name": "Piper Companies",
+      "description": "lead tech lead blockchain"
+    },
+    {
+      "title": "Senior Software Engineer Production",
+      "link": "https://web3.career/senior-software-engineer-production-matterlabs/156182",
+      "company_name": "Matter Labs",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "SDE III Engineering",
+      "link": "https://web3.career/sde-iii-engineering-inmobi/156167",
+      "company_name": "Inmobi",
+      "description": "docker java kubernetes"
+    },
+    {
+      "title": "SDE II Data Engineer",
+      "link": "https://web3.career/sde-ii-data-engineer-inmobi/156166",
+      "company_name": "Inmobi",
+      "description": "data science engineer aws"
+    },
+    {
+      "title": "Manager Software Engineering Data Platm",
+      "link": "https://web3.career/manager-software-engineering-data-platform-circle/156145",
+      "company_name": "Circle",
+      "description": "dev blockchain crypto"
     },
     {
       "title": "Staff Software Engineer",
@@ -41,10 +65,10 @@
       "description": "infrastructure architecture blockchain"
     },
     {
-      "title": "Senior Security Engineer Infrastructure",
-      "link": "https://web3.career/senior-security-engineer-infrastructure-chainalysis/155937",
-      "company_name": "Chainalysis",
-      "description": "infrastructure engineer security"
+      "title": "Machine Learning Engineer II Backend",
+      "link": "https://web3.career/machine-learning-engineer-ii-backend-inmobi/141988",
+      "company_name": "Inmobi",
+      "description": "backend engineer machine learning"
     },
     {
       "title": "Intern Java",
@@ -65,34 +89,10 @@
       "description": "quantitative engineer dev"
     },
     {
-      "title": "Senior Java Developer",
-      "link": "https://web3.career/senior-java-developer-localcoin/155919",
-      "company_name": "Localcoin",
-      "description": "dev java senior"
-    },
-    {
-      "title": "Blockchain Developer Web3",
-      "link": "https://web3.career/blockchain-developer-web3-divittechnologies-inc/155816",
-      "company_name": "Divit Technologies, Inc.",
-      "description": "dev blockchain ethereum"
-    },
-    {
-      "title": "Web3 Engineer Digital Assets Tokenization",
-      "link": "https://web3.career/web3-engineer-digital-assets-tokenization-arohanatechsolutionsprivatelimited/155664",
-      "company_name": "Arohana Tech Solutions Private Limited",
-      "description": "tokenization finance non tech"
-    },
-    {
-      "title": "Java Backend Developer with Blockchain exp",
-      "link": "https://web3.career/java-backend-developer-with-blockchain-exp-photon/155662",
-      "company_name": "Photon",
-      "description": "backend dev java"
-    },
-    {
-      "title": "Blockchain Engineer",
-      "link": "https://web3.career/blockchain-engineer-eclerx/155615",
-      "company_name": "eClerx",
-      "description": "engineer blockchain angular"
+      "title": "Techical Support",
+      "link": "https://web3.career/techical-support-binance/155976",
+      "company_name": "Binance",
+      "description": "customer support aws blockchain"
     }
   ]
 }

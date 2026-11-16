@@ -2,7 +2,7 @@
   "skill": "docker",
   "label": "Docker",
   "count": 19,
-  "updated_at": "2026-11-09T15:42:35.598841+00:00",
+  "updated_at": "2026-11-16T15:18:05.245418+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -29,16 +29,10 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-lista-dao/156035",
-      "company_name": "Lista DAO",
-      "description": "devops engineer senior"
-    },
-    {
-      "title": "Senior Backend Engineer Go Blockchain – Fintech",
-      "link": "https://web3.career/senior-backend-engineer-go-blockchain-fintech-augmented/156017",
-      "company_name": "Augmented",
-      "description": "backend engineer fintech"
+      "title": "Blockchain Technical Lead",
+      "link": "https://web3.career/blockchain-technical-lead-pipercompanies/156223",
+      "company_name": "Piper Companies",
+      "description": "lead tech lead blockchain"
     },
     {
       "title": "Sr. Software Development Engineer",
@@ -47,10 +41,28 @@
       "description": "engineer dev senior"
     },
     {
-      "title": "Techical Support",
-      "link": "https://web3.career/techical-support-binance/155976",
-      "company_name": "Binance",
-      "description": "customer support aws blockchain"
+      "title": "Software Engineer DevOps Bitnomial",
+      "link": "https://web3.career/software-engineer-devops-bitnomial-kraken/156177",
+      "company_name": "Kraken",
+      "description": "devops engineer dev"
+    },
+    {
+      "title": "SDE III Engineering",
+      "link": "https://web3.career/sde-iii-engineering-inmobi/156167",
+      "company_name": "Inmobi",
+      "description": "docker java kubernetes"
+    },
+    {
+      "title": "SDE III Devops",
+      "link": "https://web3.career/sde-iii-devops-inmobi/100181",
+      "company_name": "Inmobi",
+      "description": "devops aws docker"
+    },
+    {
+      "title": "SDE II Data Engineer",
+      "link": "https://web3.career/sde-ii-data-engineer-inmobi/156166",
+      "company_name": "Inmobi",
+      "description": "data science engineer aws"
     },
     {
       "title": "Staff Software Engineer",
@@ -63,6 +75,12 @@
       "link": "https://web3.career/senior-software-engineer-i-zinnia/142782",
       "company_name": "Zinnia",
       "description": "engineer senior dev"
+    },
+    {
+      "title": "Technical Support Engineer APAC",
+      "link": "https://web3.career/technical-support-engineer-apac-hyperbolic/156087",
+      "company_name": "Hyperbolic",
+      "description": "engineer customer support docker"
     },
     {
       "title": "Senior Software Engineer Trading",
@@ -89,34 +107,16 @@
       "description": "devops engineer senior"
     },
     {
-      "title": "Back Office Developer",
-      "link": "https://web3.career/back-office-developer-dvtrading/155922",
-      "company_name": "Dvtrading",
-      "description": "office dev docker"
-    },
-    {
       "title": "Quantitative Software Engineer DV Commodities",
       "link": "https://web3.career/quantitative-software-engineer-dv-commodities-dvtrading/155577",
       "company_name": "Dvtrading",
       "description": "quantitative engineer dev"
     },
     {
-      "title": "Senior Java Developer",
-      "link": "https://web3.career/senior-java-developer-localcoin/155919",
-      "company_name": "Localcoin",
-      "description": "dev java senior"
-    },
-    {
-      "title": "AWS Data Engineer Data Platm",
-      "link": "https://web3.career/aws-data-engineer-data-platform-zinnia/153973",
-      "company_name": "Zinnia",
-      "description": "data science engineer aws"
-    },
-    {
-      "title": "Principal Infrastructure Engineer Contract – LATAM",
-      "link": "https://web3.career/principal-infrastructure-engineer-contract-latam-nexus/155802",
-      "company_name": "Nexus",
-      "description": "infrastructure engineer executive"
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-lista-dao/156035",
+      "company_name": "Lista DAO",
+      "description": "devops engineer senior"
     }
   ]
 }

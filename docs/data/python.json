@@ -2,7 +2,7 @@
   "skill": "python",
   "label": "Python",
   "count": 19,
-  "updated_at": "2026-11-09T15:41:14.408513+00:00",
+  "updated_at": "2026-11-16T15:16:33.159981+00:00",
   "jobs": [
     {
       "title": "Founding Principal Engineer (m/f/d)",
@@ -33,12 +33,6 @@
       "link": "https://web3.career/senior-devops-engineer-lista-dao/156035",
       "company_name": "Lista DAO",
       "description": "devops engineer senior"
-    },
-    {
-      "title": "Robotics Lead",
-      "link": "https://web3.career/robotics-lead-telegraph/155257",
-      "company_name": "Telegraph",
-      "description": "robotics lead ai"
     },
     {
       "title": "Staff Software Engineer AI Security Go Rust Python",
@@ -117,6 +111,12 @@
       "link": "https://web3.career/lead-python-developer-defi-infrastructure-connecthum/145672",
       "company_name": "ConnectHum",
       "description": "infrastructure dev lead"
+    },
+    {
+      "title": "Security Engineer Python",
+      "link": "https://web3.career/security-engineer-python-binance/144925",
+      "company_name": "Binance",
+      "description": "engineer python security"
     }
   ]
 }
