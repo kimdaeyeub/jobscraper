@@ -2,8 +2,20 @@
   "skill": "angular",
   "label": "Angular",
   "count": 15,
-  "updated_at": "2026-11-16T15:17:03.227003+00:00",
+  "updated_at": "2026-11-23T17:43:30.891173+00:00",
   "jobs": [
+    {
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/156323",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain"
+    },
+    {
+      "title": "Senior Software Engineer I",
+      "link": "https://web3.career/senior-software-engineer-i-zinnia/142782",
+      "company_name": "Zinnia",
+      "description": "engineer senior dev"
+    },
     {
       "title": "Blockchain Technical Lead",
       "link": "https://web3.career/blockchain-technical-lead-pipercompanies/156223",
@@ -15,12 +27,6 @@
       "link": "https://web3.career/software-engineer-iii-zinnia/156184",
       "company_name": "Zinnia",
       "description": "engineer dev angular"
-    },
-    {
-      "title": "Senior Software Engineer I",
-      "link": "https://web3.career/senior-software-engineer-i-zinnia/142782",
-      "company_name": "Zinnia",
-      "description": "engineer senior dev"
     },
     {
       "title": "Senior Java Developer",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/senior-software-engineer-graphs-chainalysis/153334",
       "company_name": "Chainalysis",
       "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior Java Developer",
-      "link": "https://web3.career/senior-java-developer-localcoin/153218",
-      "company_name": "Localcoin",
-      "description": "dev java senior"
     }
   ]
 }

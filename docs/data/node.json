@@ -2,8 +2,38 @@
   "skill": "node",
   "label": "Node.js",
   "count": 15,
-  "updated_at": "2026-11-16T15:17:08.682133+00:00",
+  "updated_at": "2026-11-23T17:43:34.137638+00:00",
   "jobs": [
+    {
+      "title": "Staff Software Engineer AI Platm",
+      "link": "https://web3.career/staff-software-engineer-ai-platform-ripple/156370",
+      "company_name": "Ripple",
+      "description": "ai engineer dev"
+    },
+    {
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/156323",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain"
+    },
+    {
+      "title": "Lead Technical Product Manager Protocol Vision Chain",
+      "link": "https://web3.career/lead-technical-product-manager-protocol-vision-chain-bitpanda/155642",
+      "company_name": "Bitpanda",
+      "description": "protocol engineer lead"
+    },
+    {
+      "title": "Senior Software Engineer Mobile Backend",
+      "link": "https://web3.career/senior-software-engineer-mobile-backend-bitgo/110782",
+      "company_name": "Bitgo",
+      "description": "backend engineer mobile"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "link": "https://web3.career/senior-data-engineer-bitgo/155363",
+      "company_name": "Bitgo",
+      "description": "data science engineer senior"
+    },
     {
       "title": "Head of Product crypto market infrastructure REMOTE",
       "link": "https://web3.career/head-of-product-crypto-market-infrastructure-remote-node-amp-vector/156227",
@@ -29,28 +59,10 @@
       "description": "dev engineer front end"
     },
     {
-      "title": "Lead Technical Product Manager Protocol Vision Chain",
-      "link": "https://web3.career/lead-technical-product-manager-protocol-vision-chain-bitpanda/155642",
-      "company_name": "Bitpanda",
-      "description": "protocol engineer lead"
-    },
-    {
       "title": "Senior Smart Contract Engineer — Ihsan Gold Token",
       "link": "https://web3.career/senior-smart-contract-engineer-ihsan-gold-token-ihsan/155626",
       "company_name": "Ihsan",
       "description": "engineer senior ethereum"
-    },
-    {
-      "title": "Senior Software Engineer Mobile Backend",
-      "link": "https://web3.career/senior-software-engineer-mobile-backend-bitgo/110782",
-      "company_name": "Bitgo",
-      "description": "backend engineer mobile"
-    },
-    {
-      "title": "Senior Data Engineer",
-      "link": "https://web3.career/senior-data-engineer-bitgo/155363",
-      "company_name": "Bitgo",
-      "description": "data science engineer senior"
     },
     {
       "title": "Senior DevOps Engineer",
@@ -81,18 +93,6 @@
       "link": "https://web3.career/blockchain-developer-web3-divittechnologies-inc/155816",
       "company_name": "Divit Technologies, Inc.",
       "description": "dev blockchain ethereum"
-    },
-    {
-      "title": "Founding CTO Democratize Mining Financial Service",
-      "link": "https://web3.career/founding-cto-democratize-mining-financial-service-scalatorventuresinc/155674",
-      "company_name": "Scalator Ventures Inc.",
-      "description": "cto founding member executive"
-    },
-    {
-      "title": "Web3 Engineer Digital Assets Tokenization",
-      "link": "https://web3.career/web3-engineer-digital-assets-tokenization-arohanatechsolutionsprivatelimited/155664",
-      "company_name": "Arohana Tech Solutions Private Limited",
-      "description": "tokenization finance non tech"
     }
   ]
 }

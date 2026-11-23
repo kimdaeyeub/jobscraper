@@ -2,97 +2,97 @@
   "skill": "aws",
   "label": "AWS",
   "count": 15,
-  "updated_at": "2026-11-16T15:18:04.240468+00:00",
+  "updated_at": "2026-11-23T17:44:02.053945+00:00",
   "jobs": [
     {
-      "title": "Cybersecurity Intern",
-      "link": "https://web3.career/cybersecurity-intern-swissborg/156246",
-      "company_name": "SwissBorg",
-      "description": "intern entry level aws"
+      "title": "Software Engineer II Blockchain",
+      "link": "https://web3.career/software-engineer-ii-blockchain-circle/156450",
+      "company_name": "Circle",
+      "description": "engineer dev blockchain"
     },
     {
-      "title": "VP of Customer Experience and Lifecycle",
-      "link": "https://web3.career/vp-of-customer-experience-and-lifecycle-kast/156244",
-      "company_name": "Kast",
-      "description": "customer support executive aws"
+      "title": "Solutions Engineer Americas",
+      "link": "https://web3.career/solutions-engineer-americas-ondofinance/156419",
+      "company_name": "Ondo Finance",
+      "description": "engineer aws blockchain"
     },
     {
-      "title": "Marketing Lead KAST Business",
-      "link": "https://web3.career/marketing-lead-kast-business-kast/156224",
-      "company_name": "Kast",
-      "description": "lead marketing lead marketing"
+      "title": "DevOps Tech Lead",
+      "link": "https://web3.career/devops-tech-lead-r3/156418",
+      "company_name": "R3",
+      "description": "devops lead tech lead"
     },
     {
-      "title": "Director Professional Services Consulting",
-      "link": "https://web3.career/director-professional-services-consulting-zscaler/154283",
-      "company_name": "Zscaler",
-      "description": "consulting executive aws"
+      "title": "Staff GRC Program Manager",
+      "link": "https://web3.career/staff-grc-program-manager-ripple/156369",
+      "company_name": "Ripple",
+      "description": "executive aws crypto"
     },
     {
-      "title": "Software Engineer III",
-      "link": "https://web3.career/software-engineer-iii-zinnia/156184",
-      "company_name": "Zinnia",
-      "description": "engineer dev angular"
+      "title": "Senior Staff Security Engineer Product Security",
+      "link": "https://web3.career/senior-staff-security-engineer-product-security-ripple/156367",
+      "company_name": "Ripple",
+      "description": "engineer security senior"
     },
     {
-      "title": "Software Engineer DevOps Bitnomial",
-      "link": "https://web3.career/software-engineer-devops-bitnomial-kraken/156177",
-      "company_name": "Kraken",
-      "description": "devops engineer dev"
+      "title": "Senior Staff Security Engineer AI Security",
+      "link": "https://web3.career/senior-staff-security-engineer-ai-security-ripple/156366",
+      "company_name": "Ripple",
+      "description": "ai engineer security"
     },
     {
-      "title": "Software Engineer Database Bitnomial",
-      "link": "https://web3.career/software-engineer-database-bitnomial-kraken/156174",
-      "company_name": "Kraken",
-      "description": "engineer dev aws"
+      "title": "Senior Staff Security Engineer AI Security",
+      "link": "https://web3.career/senior-staff-security-engineer-ai-security-ripple/156365",
+      "company_name": "Ripple",
+      "description": "ai engineer security"
     },
     {
-      "title": "SDE III Devops",
-      "link": "https://web3.career/sde-iii-devops-inmobi/100181",
-      "company_name": "Inmobi",
-      "description": "devops aws docker"
-    },
-    {
-      "title": "SDE II Data Engineer",
-      "link": "https://web3.career/sde-ii-data-engineer-inmobi/156166",
-      "company_name": "Inmobi",
-      "description": "data science engineer aws"
-    },
-    {
-      "title": "Senior Applied Scientist Property Analytics",
-      "link": "https://web3.career/senior-applied-scientist-property-analytics-figure/156163",
-      "company_name": "Figure",
-      "description": "scientist stats senior"
-    },
-    {
-      "title": "Escalation Engineer Cloud",
-      "link": "https://web3.career/escalation-engineer-cloud-zscaler/152078",
-      "company_name": "Zscaler",
-      "description": "cloud engineer engineer aws"
-    },
-    {
-      "title": "Senior Professional Services Consultant DSPM",
-      "link": "https://web3.career/senior-professional-services-consultant-dspm-zscaler/156099",
-      "company_name": "Zscaler",
-      "description": "consulting senior aws"
-    },
-    {
-      "title": "Senior Technical Success Manager",
-      "link": "https://web3.career/senior-technical-success-manager-zscaler/145190",
-      "company_name": "Zscaler",
-      "description": "sales non tech senior"
-    },
-    {
-      "title": "Staff Software Engineer",
-      "link": "https://web3.career/staff-software-engineer-zinnia/144788",
-      "company_name": "Zinnia",
-      "description": "engineer dev aws"
-    },
-    {
-      "title": "Senior Software Engineer I",
-      "link": "https://web3.career/senior-software-engineer-i-zinnia/142782",
-      "company_name": "Zinnia",
+      "title": "Senior Software Engineer RippleX Platm",
+      "link": "https://web3.career/senior-software-engineer-ripplex-platform-ripple/156363",
+      "company_name": "Ripple",
       "description": "engineer senior dev"
+    },
+    {
+      "title": "Senior Software Engineer FullStack",
+      "link": "https://web3.career/senior-software-engineer-full-stack-ripple/156361",
+      "company_name": "Ripple",
+      "description": "engineer full stack senior"
+    },
+    {
+      "title": "Staff Cloud Architect",
+      "link": "https://web3.career/staff-cloud-architect-ripple/156359",
+      "company_name": "Ripple",
+      "description": "cloud engineer engineer architecture"
+    },
+    {
+      "title": "Senior Cloud Architect",
+      "link": "https://web3.career/senior-cloud-architect-ripple/156358",
+      "company_name": "Ripple",
+      "description": "cloud engineer engineer architecture"
+    },
+    {
+      "title": "Tech Lead Engineering Manager AI Detection and Response",
+      "link": "https://web3.career/tech-lead-engineering-manager-ai-detection-and-response-zscaler/156349",
+      "company_name": "Zscaler",
+      "description": "engineering manager engineer ai"
+    },
+    {
+      "title": "Senior Fullstack Engineer AI Security",
+      "link": "https://web3.career/senior-fullstack-engineer-ai-security-zscaler/156347",
+      "company_name": "Zscaler",
+      "description": "ai engineer full stack"
+    },
+    {
+      "title": "Senior Staff Software Development Engineer",
+      "link": "https://web3.career/senior-staff-software-development-engineer-zscaler/106338",
+      "company_name": "Zscaler",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Data Engineer III",
+      "link": "https://web3.career/data-engineer-iii-zinnia/156346",
+      "company_name": "Zinnia",
+      "description": "data science engineer aws"
     }
   ]
 }

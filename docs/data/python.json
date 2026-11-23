@@ -2,7 +2,7 @@
   "skill": "python",
   "label": "Python",
   "count": 19,
-  "updated_at": "2026-11-16T15:16:33.159981+00:00",
+  "updated_at": "2026-11-23T17:43:09.241468+00:00",
   "jobs": [
     {
       "title": "Founding Principal Engineer (m/f/d)",
@@ -29,14 +29,8 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Senior DevOps Engineer",
-      "link": "https://web3.career/senior-devops-engineer-lista-dao/156035",
-      "company_name": "Lista DAO",
-      "description": "devops engineer senior"
-    },
-    {
-      "title": "Staff Software Engineer AI Security Go Rust Python",
-      "link": "https://web3.career/staff-software-engineer-ai-security-go-rust-python-zscaler/153659",
+      "title": "Staff Software Development Engineer AI Security Go Rust Python",
+      "link": "https://web3.career/staff-software-development-engineer-ai-security-go-rust-python-zscaler/156295",
       "company_name": "Zscaler",
       "description": "ai engineer golang"
     },
@@ -51,6 +45,18 @@
       "link": "https://web3.career/python-engineer-asset-pricing-hedging-bitpanda/103283",
       "company_name": "Bitpanda",
       "description": "engineer python aws"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-lista-dao/156035",
+      "company_name": "Lista DAO",
+      "description": "devops engineer senior"
+    },
+    {
+      "title": "Staff Software Engineer AI Security Go Rust Python",
+      "link": "https://web3.career/staff-software-engineer-ai-security-go-rust-python-zscaler/153659",
+      "company_name": "Zscaler",
+      "description": "ai engineer golang"
     },
     {
       "title": "Software Engineer Python Asset Pricing Hedging",
@@ -111,12 +117,6 @@
       "link": "https://web3.career/lead-python-developer-defi-infrastructure-connecthum/145672",
       "company_name": "ConnectHum",
       "description": "infrastructure dev lead"
-    },
-    {
-      "title": "Security Engineer Python",
-      "link": "https://web3.career/security-engineer-python-binance/144925",
-      "company_name": "Binance",
-      "description": "engineer python security"
     }
   ]
 }

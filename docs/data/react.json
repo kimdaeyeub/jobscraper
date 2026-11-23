@@ -2,7 +2,7 @@
   "skill": "react",
   "label": "React",
   "count": 17,
-  "updated_at": "2026-11-16T15:16:55.678112+00:00",
+  "updated_at": "2026-11-23T17:43:26.699759+00:00",
   "jobs": [
     {
       "title": "(Senior) Full-Stack Engineer (AI-Assisted 3D / CAD / BIM Development)",
@@ -17,52 +17,40 @@
       "company_name": "EMS Press"
     },
     {
-      "title": "Blockchain Technical Lead",
-      "link": "https://web3.career/blockchain-technical-lead-pipercompanies/156223",
-      "company_name": "Piper Companies",
-      "description": "lead tech lead blockchain"
+      "title": "Senior Software Engineer .NET C#",
+      "link": "https://web3.career/senior-software-engineer-net-c-ripple/156362",
+      "company_name": "Ripple",
+      "description": "c c sharp c plus plus"
     },
     {
-      "title": "Software Engineer III",
-      "link": "https://web3.career/software-engineer-iii-zinnia/156184",
-      "company_name": "Zinnia",
-      "description": "engineer dev angular"
+      "title": "Senior Software Engineer FullStack",
+      "link": "https://web3.career/senior-software-engineer-full-stack-ripple/156361",
+      "company_name": "Ripple",
+      "description": "engineer full stack senior"
     },
     {
-      "title": "Engineering Manager – Growth Product",
-      "link": "https://web3.career/engineering-manager-growth-product-kraken/156176",
-      "company_name": "Kraken",
-      "description": "engineering manager engineer growth"
+      "title": "Senior Fullstack Engineer AI Security",
+      "link": "https://web3.career/senior-fullstack-engineer-ai-security-zscaler/156347",
+      "company_name": "Zscaler",
+      "description": "ai engineer full stack"
     },
     {
-      "title": "Software Engineer II Frontend Developer Platm",
-      "link": "https://web3.career/software-engineer-ii-frontend-developer-platform-kraken/156175",
-      "company_name": "Kraken",
-      "description": "dev engineer front end"
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/156323",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain"
     },
     {
-      "title": "Social Media Manager Dicey",
-      "link": "https://web3.career/social-media-manager-dicey-magiceden/156152",
-      "company_name": "Magic Eden",
-      "description": "social media non tech blockchain"
-    },
-    {
-      "title": "Senior Smart Contract Engineer — Ihsan Gold Token",
-      "link": "https://web3.career/senior-smart-contract-engineer-ihsan-gold-token-ihsan/155626",
-      "company_name": "Ihsan",
-      "description": "engineer senior ethereum"
+      "title": "BackEnd Developer Miami FL",
+      "link": "https://web3.career/backend-developer-miami-fl-coinroutes/156309",
+      "company_name": "CoinRoutes",
+      "description": "backend dev aws"
     },
     {
       "title": "Senior Software Engineer I",
       "link": "https://web3.career/senior-software-engineer-i-zinnia/142782",
       "company_name": "Zinnia",
       "description": "engineer senior dev"
-    },
-    {
-      "title": "Full Stack Engineer Growth Experimentation – Krak",
-      "link": "https://web3.career/full-stack-engineer-growth-experimentation-krak-kraken/156089",
-      "company_name": "Kraken",
-      "description": "growth engineer full stack"
     },
     {
       "title": "Engineering Director Mobile Web3",
@@ -81,6 +69,18 @@
       "link": "https://web3.career/engineering-director-frontend-okx/147551",
       "company_name": "Okx",
       "description": "executive front end blockchain"
+    },
+    {
+      "title": "Software Engineer II React Native Consumer Growth",
+      "link": "https://web3.career/software-engineer-ii-react-native-consumer-growth-kraken/156290",
+      "company_name": "Kraken",
+      "description": "growth engineer react native"
+    },
+    {
+      "title": "Senior Software Engineer – Developer Platm",
+      "link": "https://web3.career/senior-software-engineer-developer-platform-alpaca/156263",
+      "company_name": "Alpaca",
+      "description": "dev engineer senior"
     },
     {
       "title": "Senior FullStack Engineer Internal Tools",

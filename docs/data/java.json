@@ -2,37 +2,31 @@
   "skill": "java",
   "label": "Java",
   "count": 15,
-  "updated_at": "2026-11-16T15:16:39.559578+00:00",
+  "updated_at": "2026-11-23T17:43:13.373499+00:00",
   "jobs": [
     {
-      "title": "Blockchain Technical Lead",
-      "link": "https://web3.career/blockchain-technical-lead-pipercompanies/156223",
-      "company_name": "Piper Companies",
-      "description": "lead tech lead blockchain"
-    },
-    {
-      "title": "Senior Software Engineer Production",
-      "link": "https://web3.career/senior-software-engineer-production-matterlabs/156182",
-      "company_name": "Matter Labs",
+      "title": "Senior Software Engineer RippleX Platm",
+      "link": "https://web3.career/senior-software-engineer-ripplex-platform-ripple/156363",
+      "company_name": "Ripple",
       "description": "engineer senior dev"
     },
     {
-      "title": "SDE III Engineering",
-      "link": "https://web3.career/sde-iii-engineering-inmobi/156167",
-      "company_name": "Inmobi",
-      "description": "docker java kubernetes"
+      "title": "Senior Software Engineer FullStack",
+      "link": "https://web3.career/senior-software-engineer-full-stack-ripple/156361",
+      "company_name": "Ripple",
+      "description": "engineer full stack senior"
     },
     {
-      "title": "SDE II Data Engineer",
-      "link": "https://web3.career/sde-ii-data-engineer-inmobi/156166",
-      "company_name": "Inmobi",
-      "description": "data science engineer aws"
+      "title": "Senior Staff Software Development Engineer",
+      "link": "https://web3.career/senior-staff-software-development-engineer-zscaler/106338",
+      "company_name": "Zscaler",
+      "description": "engineer senior dev"
     },
     {
-      "title": "Manager Software Engineering Data Platm",
-      "link": "https://web3.career/manager-software-engineering-data-platform-circle/156145",
-      "company_name": "Circle",
-      "description": "dev blockchain crypto"
+      "title": "Software Engineer RUST London based",
+      "link": "https://web3.career/software-engineer-rust-london-based-elwoodtechnologies/156330",
+      "company_name": "Elwoodtechnologies",
+      "description": "engineer rust dev"
     },
     {
       "title": "Staff Software Engineer",
@@ -71,6 +65,18 @@
       "description": "backend engineer machine learning"
     },
     {
+      "title": "Software Engineer Java Prime Services",
+      "link": "https://web3.career/software-engineer-java-prime-services-bitpanda/156266",
+      "company_name": "Bitpanda",
+      "description": "accounting engineer java"
+    },
+    {
+      "title": "Senior Software Engineer Java",
+      "link": "https://web3.career/senior-software-engineer-java-bitpanda/156265",
+      "company_name": "Bitpanda",
+      "description": "engineer java senior"
+    },
+    {
       "title": "Intern Java",
       "link": "https://web3.career/intern-java-bitpanda/155374",
       "company_name": "Bitpanda",
@@ -83,16 +89,10 @@
       "description": "engineer senior dev"
     },
     {
-      "title": "Quantitative Software Engineer DV Commodities",
-      "link": "https://web3.career/quantitative-software-engineer-dv-commodities-dvtrading/155577",
-      "company_name": "Dvtrading",
-      "description": "quantitative engineer dev"
-    },
-    {
-      "title": "Techical Support",
-      "link": "https://web3.career/techical-support-binance/155976",
-      "company_name": "Binance",
-      "description": "customer support aws blockchain"
+      "title": "Senior Software Engineer – Developer Platm",
+      "link": "https://web3.career/senior-software-engineer-developer-platform-alpaca/156263",
+      "company_name": "Alpaca",
+      "description": "dev engineer senior"
     }
   ]
 }

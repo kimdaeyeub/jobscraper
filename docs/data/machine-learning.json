@@ -2,7 +2,7 @@
   "skill": "machine-learning",
   "label": "Machine Learning",
   "count": 16,
-  "updated_at": "2026-11-16T15:18:13.653212+00:00",
+  "updated_at": "2026-11-23T17:44:13.282795+00:00",
   "jobs": [
     {
       "title": "Senior Data Scientist – Python, ML & Signal-Processing",
@@ -11,16 +11,16 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Machine Learning Engineer — Risk AI",
-      "link": "https://web3.career/machine-learning-engineer-risk-ai-okx/156173",
-      "company_name": "Okx",
-      "description": "ai engineer machine learning"
-    },
-    {
       "title": "Machine Learning Engineer II Backend",
       "link": "https://web3.career/machine-learning-engineer-ii-backend-inmobi/141988",
       "company_name": "Inmobi",
       "description": "backend engineer machine learning"
+    },
+    {
+      "title": "Machine Learning Engineer — Risk AI",
+      "link": "https://web3.career/machine-learning-engineer-risk-ai-okx/156173",
+      "company_name": "Okx",
+      "description": "ai engineer machine learning"
     },
     {
       "title": "Machine Learning Engineer $400k $600k salary",

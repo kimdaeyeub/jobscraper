@@ -2,7 +2,7 @@
   "skill": "kubernetes",
   "label": "Kubernetes",
   "count": 19,
-  "updated_at": "2026-11-16T15:18:06.010794+00:00",
+  "updated_at": "2026-11-23T17:44:07.671152+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -29,52 +29,82 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Cybersecurity Intern",
-      "link": "https://web3.career/cybersecurity-intern-swissborg/156246",
-      "company_name": "SwissBorg",
-      "description": "intern entry level aws"
+      "title": "Software Engineer II Blockchain",
+      "link": "https://web3.career/software-engineer-ii-blockchain-circle/156450",
+      "company_name": "Circle",
+      "description": "engineer dev blockchain"
     },
     {
-      "title": "Blockchain Technical Lead",
-      "link": "https://web3.career/blockchain-technical-lead-pipercompanies/156223",
-      "company_name": "Piper Companies",
-      "description": "lead tech lead blockchain"
+      "title": "DevOps Tech Lead",
+      "link": "https://web3.career/devops-tech-lead-r3/156418",
+      "company_name": "R3",
+      "description": "devops lead tech lead"
     },
     {
-      "title": "Sr. Software Development Engineer",
-      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
+      "title": "Staff Software Engineer AI Platm",
+      "link": "https://web3.career/staff-software-engineer-ai-platform-ripple/156370",
+      "company_name": "Ripple",
+      "description": "ai engineer dev"
+    },
+    {
+      "title": "Senior Staff Security Engineer Product Security",
+      "link": "https://web3.career/senior-staff-security-engineer-product-security-ripple/156367",
+      "company_name": "Ripple",
+      "description": "engineer security senior"
+    },
+    {
+      "title": "Senior Staff Security Engineer AI Security",
+      "link": "https://web3.career/senior-staff-security-engineer-ai-security-ripple/156366",
+      "company_name": "Ripple",
+      "description": "ai engineer security"
+    },
+    {
+      "title": "Senior Staff Security Engineer AI Security",
+      "link": "https://web3.career/senior-staff-security-engineer-ai-security-ripple/156365",
+      "company_name": "Ripple",
+      "description": "ai engineer security"
+    },
+    {
+      "title": "Senior Software Engineer RippleX Platm",
+      "link": "https://web3.career/senior-software-engineer-ripplex-platform-ripple/156363",
+      "company_name": "Ripple",
+      "description": "engineer senior dev"
+    },
+    {
+      "title": "Staff Cloud Architect",
+      "link": "https://web3.career/staff-cloud-architect-ripple/156359",
+      "company_name": "Ripple",
+      "description": "cloud engineer engineer architecture"
+    },
+    {
+      "title": "Senior Cloud Architect",
+      "link": "https://web3.career/senior-cloud-architect-ripple/156358",
+      "company_name": "Ripple",
+      "description": "cloud engineer engineer architecture"
+    },
+    {
+      "title": "Senior Fullstack Engineer AI Security",
+      "link": "https://web3.career/senior-fullstack-engineer-ai-security-zscaler/156347",
       "company_name": "Zscaler",
-      "description": "engineer dev senior"
+      "description": "ai engineer full stack"
     },
     {
-      "title": "SDE III Engineering",
-      "link": "https://web3.career/sde-iii-engineering-inmobi/156167",
-      "company_name": "Inmobi",
-      "description": "docker java kubernetes"
+      "title": "Senior Staff Software Development Engineer",
+      "link": "https://web3.career/senior-staff-software-development-engineer-zscaler/106338",
+      "company_name": "Zscaler",
+      "description": "engineer senior dev"
     },
     {
-      "title": "SDE III Devops",
-      "link": "https://web3.career/sde-iii-devops-inmobi/100181",
-      "company_name": "Inmobi",
-      "description": "devops aws docker"
-    },
-    {
-      "title": "SDE II Data Engineer",
-      "link": "https://web3.career/sde-ii-data-engineer-inmobi/156166",
-      "company_name": "Inmobi",
-      "description": "data science engineer aws"
+      "title": "Senior DevOps Engineer",
+      "link": "https://web3.career/senior-devops-engineer-dvtrading/150456",
+      "company_name": "Dvtrading",
+      "description": "devops engineer senior"
     },
     {
       "title": "Staff Software Development Engineer",
       "link": "https://web3.career/staff-software-development-engineer-zscaler/104108",
       "company_name": "Zscaler",
       "description": "engineer dev kubernetes"
-    },
-    {
-      "title": "Principal Database Engineer",
-      "link": "https://web3.career/principal-database-engineer-kraken/156090",
-      "company_name": "Kraken",
-      "description": "engineer executive crypto"
     },
     {
       "title": "Senior Java Backend Engineer — Asset Earn",
@@ -87,36 +117,6 @@
       "link": "https://web3.career/infrastructure-architect-okx/155941",
       "company_name": "Okx",
       "description": "infrastructure architecture blockchain"
-    },
-    {
-      "title": "Technical Support Engineer APAC",
-      "link": "https://web3.career/technical-support-engineer-apac-hyperbolic/156087",
-      "company_name": "Hyperbolic",
-      "description": "engineer customer support docker"
-    },
-    {
-      "title": "Forward Deployed Infrastructure Engineer APAC",
-      "link": "https://web3.career/forward-deployed-infrastructure-engineer-apac-hyperbolic/156086",
-      "company_name": "Hyperbolic",
-      "description": "infrastructure engineer kubernetes"
-    },
-    {
-      "title": "Staff Software Engineer New Markets Singapore SEA",
-      "link": "https://web3.career/staff-software-engineer-new-markets-singapore-sea-alpaca/156067",
-      "company_name": "Alpaca",
-      "description": "engineer dev aws"
-    },
-    {
-      "title": "Senior Software Engineer Trading",
-      "link": "https://web3.career/senior-software-engineer-trading-alpaca/99659",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
-    },
-    {
-      "title": "Senior Software Engineer Market Data",
-      "link": "https://web3.career/senior-software-engineer-market-data-alpaca/99655",
-      "company_name": "Alpaca",
-      "description": "engineer senior dev"
     }
   ]
 }

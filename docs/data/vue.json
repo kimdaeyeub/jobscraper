@@ -2,13 +2,13 @@
   "skill": "vue",
   "label": "Vue",
   "count": 15,
-  "updated_at": "2026-11-16T15:17:02.414552+00:00",
+  "updated_at": "2026-11-23T17:43:30.239857+00:00",
   "jobs": [
     {
-      "title": "Sr. Software Development Engineer",
-      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
-      "company_name": "Zscaler",
-      "description": "engineer dev senior"
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/156323",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain"
     },
     {
       "title": "Engineering Director Frontend Business Lead",
@@ -21,6 +21,12 @@
       "link": "https://web3.career/engineering-director-frontend-okx/147551",
       "company_name": "Okx",
       "description": "executive front end blockchain"
+    },
+    {
+      "title": "Sr. Software Development Engineer",
+      "link": "https://web3.career/sr-software-development-engineer-zscaler/138552",
+      "company_name": "Zscaler",
+      "description": "engineer dev senior"
     },
     {
       "title": "Risk Developer",
@@ -87,12 +93,6 @@
       "link": "https://web3.career/senior-software-engineer-full-stack-ripple/150915",
       "company_name": "Ripple",
       "description": "engineer full stack senior"
-    },
-    {
-      "title": "Staff Design Engineer",
-      "link": "https://web3.career/staff-design-engineer-shakepay/150847",
-      "company_name": "Shakepay",
-      "description": "design non tech engineer"
     }
   ]
 }

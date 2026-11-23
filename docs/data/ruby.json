@@ -2,8 +2,26 @@
   "skill": "ruby",
   "label": "Ruby",
   "count": 15,
-  "updated_at": "2026-11-16T15:16:48.093894+00:00",
+  "updated_at": "2026-11-23T17:43:21.721451+00:00",
   "jobs": [
+    {
+      "title": "Blockchain Security Engineer Bridge",
+      "link": "https://web3.career/blockchain-security-engineer-bridge-bridge/156449",
+      "company_name": "Bridge",
+      "description": "engineer security blockchain"
+    },
+    {
+      "title": "Senior Software Engineer FullStack",
+      "link": "https://web3.career/senior-software-engineer-full-stack-ripple/156361",
+      "company_name": "Ripple",
+      "description": "engineer full stack senior"
+    },
+    {
+      "title": "Senior Blockchain Developer",
+      "link": "https://web3.career/senior-blockchain-developer-lemon-io/156323",
+      "company_name": "Lemon.io",
+      "description": "dev senior blockchain"
+    },
     {
       "title": "Technical Support Engineer",
       "link": "https://web3.career/technical-support-engineer-quicknode/154762",
@@ -75,24 +93,6 @@
       "link": "https://web3.career/senior-threat-researcher-threatlabz-zscaler/148438",
       "company_name": "Zscaler",
       "description": "research senior ruby"
-    },
-    {
-      "title": "Software Engineer Web L1",
-      "link": "https://web3.career/software-engineer-web-l1-coingecko/147914",
-      "company_name": "CoinGecko",
-      "description": "engineer dev blockchain"
-    },
-    {
-      "title": "Fullstack Engineer Spain",
-      "link": "https://web3.career/full-stack-engineer-spain-crossmint/147253",
-      "company_name": "Crossmint",
-      "description": "spain engineer full stack"
-    },
-    {
-      "title": "Software Engineer II",
-      "link": "https://web3.career/software-engineer-ii-tastylive/141144",
-      "company_name": "Tastylive",
-      "description": "engineer dev java"
     }
   ]
 }

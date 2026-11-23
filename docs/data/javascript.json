@@ -2,7 +2,7 @@
   "skill": "javascript",
   "label": "JavaScript",
   "count": 17,
-  "updated_at": "2026-11-16T15:16:33.812529+00:00",
+  "updated_at": "2026-11-23T17:43:10.477135+00:00",
   "jobs": [
     {
       "title": "Senior Backend Developer – Go & Kubernetes",
@@ -17,22 +17,22 @@
       "company_name": "DATATRONiQ"
     },
     {
-      "title": "Blockchain Technical Lead",
-      "link": "https://web3.career/blockchain-technical-lead-pipercompanies/156223",
-      "company_name": "Piper Companies",
-      "description": "lead tech lead blockchain"
+      "title": "Senior Offensive Security Pentester Crypto and Digital Assets Senior Vice President",
+      "link": "https://web3.career/senior-offensive-security-pentester-crypto-and-digital-assets-senior-vice-president-citi/156402",
+      "company_name": "Citi",
+      "description": "finance non tech security"
     },
     {
-      "title": "Software Engineer II Frontend Developer Platm",
-      "link": "https://web3.career/software-engineer-ii-frontend-developer-platform-kraken/156175",
-      "company_name": "Kraken",
-      "description": "dev engineer front end"
+      "title": "Senior Software Development Engineer",
+      "link": "https://web3.career/senior-software-development-engineer-zscaler/106335",
+      "company_name": "Zscaler",
+      "description": "engineer senior dev"
     },
     {
-      "title": "Web3 Core Engineer",
-      "link": "https://web3.career/web3-core-engineer-brave/99368",
-      "company_name": "Brave",
-      "description": "engineer bitcoin blockchain"
+      "title": "Solutions Associate",
+      "link": "https://web3.career/solutions-associate-allium/156332",
+      "company_name": "Allium",
+      "description": "blockchain ethereum javascript"
     },
     {
       "title": "Staff Software Engineer",
@@ -47,16 +47,46 @@
       "description": "engineer senior dev"
     },
     {
-      "title": "Full Stack Engineer Growth Experimentation – Krak",
-      "link": "https://web3.career/full-stack-engineer-growth-experimentation-krak-kraken/156089",
+      "title": "Software Engineer II React Native Consumer Growth",
+      "link": "https://web3.career/software-engineer-ii-react-native-consumer-growth-kraken/156290",
       "company_name": "Kraken",
-      "description": "growth engineer full stack"
+      "description": "growth engineer react native"
     },
     {
       "title": "FrontEnd Engineer Institutional",
       "link": "https://web3.career/front-end-engineer-institutional-blockchain/98051",
       "company_name": "Blockchain",
       "description": "engineer front end blockchain"
+    },
+    {
+      "title": "Web3 Core Engineer",
+      "link": "https://web3.career/web3-core-engineer-brave/99368",
+      "company_name": "Brave",
+      "description": "engineer bitcoin blockchain"
+    },
+    {
+      "title": "Senior Software Engineer Mobile React Native iOS Android",
+      "link": "https://web3.career/senior-software-engineer-mobile-react-native-ios-android-bitgo/155364",
+      "company_name": "Bitgo",
+      "description": "android mobile engineer"
+    },
+    {
+      "title": "Blockchain Technical Lead",
+      "link": "https://web3.career/blockchain-technical-lead-pipercompanies/156223",
+      "company_name": "Piper Companies",
+      "description": "lead tech lead blockchain"
+    },
+    {
+      "title": "Software Engineer II Frontend Developer Platm",
+      "link": "https://web3.career/software-engineer-ii-frontend-developer-platform-kraken/156175",
+      "company_name": "Kraken",
+      "description": "dev engineer front end"
+    },
+    {
+      "title": "Full Stack Engineer Growth Experimentation – Krak",
+      "link": "https://web3.career/full-stack-engineer-growth-experimentation-krak-kraken/156089",
+      "company_name": "Kraken",
+      "description": "growth engineer full stack"
     },
     {
       "title": "Software Engineering Intern Waterloo University Winter Session",
@@ -71,40 +101,10 @@
       "description": "engineer bitcoin blockchain"
     },
     {
-      "title": "Senior Software Engineer Mobile React Native iOS Android",
-      "link": "https://web3.career/senior-software-engineer-mobile-react-native-ios-android-bitgo/155364",
-      "company_name": "Bitgo",
-      "description": "android mobile engineer"
-    },
-    {
       "title": "Techical Support",
       "link": "https://web3.career/techical-support-binance/155976",
       "company_name": "Binance",
       "description": "customer support aws blockchain"
-    },
-    {
-      "title": "Senior Security Engineer Infrastructure",
-      "link": "https://web3.career/senior-security-engineer-infrastructure-chainalysis/155937",
-      "company_name": "Chainalysis",
-      "description": "infrastructure engineer security"
-    },
-    {
-      "title": "Senior Business IT Engineer Atlassian Cloud",
-      "link": "https://web3.career/senior-business-it-engineer-atlassian-cloud-bitpanda/152342",
-      "company_name": "Bitpanda",
-      "description": "cloud engineer engineer senior"
-    },
-    {
-      "title": "Product Designer India",
-      "link": "https://web3.career/product-designer-india-bitgo/155916",
-      "company_name": "Bitgo",
-      "description": "india product designer design"
-    },
-    {
-      "title": "Blockchain Engineer",
-      "link": "https://web3.career/blockchain-engineer-eclerx/155615",
-      "company_name": "eClerx",
-      "description": "engineer blockchain angular"
     }
   ]
 }
